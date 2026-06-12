@@ -1,0 +1,5142 @@
+{
+  "meta": {
+    "lastRefresh": "2026-06-12 20:53",
+    "maxPoints": 729,
+    "participants": 12
+  },
+  "players": [
+    "Lucas Johnson",
+    "0",
+    "Calle Milebratt",
+    "Gustaf de la Motte",
+    "Jakob Hägglund",
+    "Eddie Williamson",
+    "Jonathan Segelman",
+    "Love Hardeberg",
+    "Markus Ransved Nilsson",
+    "Oscar Holmbergh",
+    "Andreas Panagos",
+    "Wilmer",
+    "Axel Dillner"
+  ],
+  "groups": [
+    {
+      "group": "A",
+      "complete": false,
+      "actualWinner": null,
+      "winnerPicks": [
+        {
+          "team": "Mexico",
+          "count": 11,
+          "pct": 85,
+          "players": [
+            "Lucas Johnson",
+            "0",
+            "Calle Milebratt",
+            "Gustaf de la Motte",
+            "Jakob Hägglund",
+            "Eddie Williamson",
+            "Jonathan Segelman",
+            "Love Hardeberg",
+            "Oscar Holmbergh",
+            "Wilmer",
+            "Axel Dillner"
+          ],
+          "correct": null
+        },
+        {
+          "team": "Czechia",
+          "count": 1,
+          "pct": 8,
+          "players": [
+            "Markus Ransved Nilsson"
+          ],
+          "correct": null
+        },
+        {
+          "team": "Korea Republic",
+          "count": 1,
+          "pct": 8,
+          "players": [
+            "Andreas Panagos"
+          ],
+          "correct": null
+        }
+      ],
+      "games": [
+        {
+          "kickoff": "2026-06-11 21:00",
+          "home": "Mexico",
+          "away": "South Africa",
+          "played": true,
+          "actual": {
+            "hg": 2,
+            "ag": 0
+          },
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 10,
+              "pct": 77,
+              "pts": 3,
+              "players": [
+                "Lucas Johnson",
+                "0",
+                "Calle Milebratt",
+                "Gustaf de la Motte",
+                "Jakob Hägglund",
+                "Eddie Williamson",
+                "Jonathan Segelman",
+                "Love Hardeberg",
+                "Markus Ransved Nilsson",
+                "Oscar Holmbergh"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 3,
+              "pct": 23,
+              "pts": 1,
+              "players": [
+                "Andreas Panagos",
+                "Wilmer",
+                "Axel Dillner"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-12 04:00",
+          "home": "Korea Republic",
+          "away": "Czechia",
+          "played": true,
+          "actual": {
+            "hg": 2,
+            "ag": 1
+          },
+          "scorelines": [
+            {
+              "score": "1–1",
+              "count": 7,
+              "pct": 54,
+              "pts": 0,
+              "players": [
+                "Lucas Johnson",
+                "Jakob Hägglund",
+                "Eddie Williamson",
+                "Jonathan Segelman",
+                "Love Hardeberg",
+                "Wilmer",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 2,
+              "pct": 15,
+              "pts": 3,
+              "players": [
+                "0",
+                "Calle Milebratt"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 1,
+              "pct": 8,
+              "pts": 0,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 8,
+              "pts": 1,
+              "players": [
+                "Gustaf de la Motte"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 1,
+              "pct": 8,
+              "pts": 0,
+              "players": [
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 8,
+              "pts": 1,
+              "players": [
+                "Andreas Panagos"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-17 18:00",
+          "home": "Czechia",
+          "away": "South Africa",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Eddie Williamson",
+                "Markus Ransved Nilsson",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "0",
+                "Love Hardeberg",
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Jakob Hägglund",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "0–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Jonathan Segelman"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-19 03:00",
+          "home": "Mexico",
+          "away": "Korea Republic",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–1",
+              "count": 6,
+              "pct": 46,
+              "pts": null,
+              "players": [
+                "0",
+                "Calle Milebratt",
+                "Gustaf de la Motte",
+                "Jakob Hägglund",
+                "Jonathan Segelman",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "Love Hardeberg",
+                "Markus Ransved Nilsson",
+                "Oscar Holmbergh",
+                "Andreas Panagos",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Lucas Johnson"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Eddie Williamson"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-25 03:00",
+          "home": "Czechia",
+          "away": "Mexico",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–1",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "0",
+                "Jakob Hägglund",
+                "Eddie Williamson",
+                "Markus Ransved Nilsson",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Jonathan Segelman",
+                "Andreas Panagos",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Gustaf de la Motte"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Love Hardeberg"
+              ]
+            },
+            {
+              "score": "2–3",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-25 03:00",
+          "home": "South Africa",
+          "away": "Korea Republic",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–1",
+              "count": 6,
+              "pct": 46,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "0",
+                "Calle Milebratt",
+                "Jakob Hägglund",
+                "Eddie Williamson",
+                "Oscar Holmbergh"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte",
+                "Jonathan Segelman",
+                "Love Hardeberg",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Wilmer",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "0–3",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Andreas Panagos"
+              ]
+            }
+          ],
+          "noPick": 0
+        }
+      ]
+    },
+    {
+      "group": "B",
+      "complete": false,
+      "actualWinner": null,
+      "winnerPicks": [
+        {
+          "team": "Switzerland",
+          "count": 12,
+          "pct": 92,
+          "players": [
+            "Lucas Johnson",
+            "0",
+            "Calle Milebratt",
+            "Gustaf de la Motte",
+            "Jakob Hägglund",
+            "Eddie Williamson",
+            "Jonathan Segelman",
+            "Love Hardeberg",
+            "Markus Ransved Nilsson",
+            "Oscar Holmbergh",
+            "Andreas Panagos",
+            "Wilmer"
+          ],
+          "correct": null
+        },
+        {
+          "team": "Canada",
+          "count": 1,
+          "pct": 8,
+          "players": [
+            "Axel Dillner"
+          ],
+          "correct": null
+        }
+      ],
+      "games": [
+        {
+          "kickoff": "2026-06-12 21:00",
+          "home": "Canada",
+          "away": "Bosnia & Herzegovina",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–0",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Gustaf de la Motte",
+                "Eddie Williamson"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "0",
+                "Calle Milebratt",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Andreas Panagos",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Jakob Hägglund",
+                "Love Hardeberg"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            },
+            {
+              "score": "1–3",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Jonathan Segelman"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-13 21:00",
+          "home": "Qatar",
+          "away": "Switzerland",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–2",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Gustaf de la Motte",
+                "Jonathan Segelman",
+                "Love Hardeberg",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "0–3",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "0",
+                "Jakob Hägglund",
+                "Eddie Williamson",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Andreas Panagos",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "0–4",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-18 21:00",
+          "home": "Switzerland",
+          "away": "Bosnia & Herzegovina",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "0",
+                "Calle Milebratt",
+                "Eddie Williamson",
+                "Jonathan Segelman",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte",
+                "Jakob Hägglund",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Love Hardeberg",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            },
+            {
+              "score": "3–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Andreas Panagos"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-19 00:00",
+          "home": "Canada",
+          "away": "Qatar",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "0",
+                "Calle Milebratt",
+                "Gustaf de la Motte",
+                "Jakob Hägglund"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Love Hardeberg",
+                "Markus Ransved Nilsson",
+                "Oscar Holmbergh"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Jonathan Segelman",
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Eddie Williamson"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Wilmer"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-24 21:00",
+          "home": "Switzerland",
+          "away": "Canada",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–1",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "Jonathan Segelman",
+                "Love Hardeberg",
+                "Oscar Holmbergh",
+                "Wilmer",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Gustaf de la Motte",
+                "Jakob Hägglund",
+                "Eddie Williamson",
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "0"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Markus Ransved Nilsson"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-24 21:00",
+          "home": "Bosnia & Herzegovina",
+          "away": "Qatar",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "0",
+                "Jakob Hägglund",
+                "Eddie Williamson",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Calle Milebratt",
+                "Oscar Holmbergh",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte",
+                "Love Hardeberg",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Jonathan Segelman"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Andreas Panagos"
+              ]
+            }
+          ],
+          "noPick": 0
+        }
+      ]
+    },
+    {
+      "group": "C",
+      "complete": false,
+      "actualWinner": null,
+      "winnerPicks": [
+        {
+          "team": "Brazil",
+          "count": 13,
+          "pct": 100,
+          "players": [
+            "Lucas Johnson",
+            "0",
+            "Calle Milebratt",
+            "Gustaf de la Motte",
+            "Jakob Hägglund",
+            "Eddie Williamson",
+            "Jonathan Segelman",
+            "Love Hardeberg",
+            "Markus Ransved Nilsson",
+            "Oscar Holmbergh",
+            "Andreas Panagos",
+            "Wilmer",
+            "Axel Dillner"
+          ],
+          "correct": null
+        }
+      ],
+      "games": [
+        {
+          "kickoff": "2026-06-14 00:00",
+          "home": "Brazil",
+          "away": "Morocco",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–1",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "0",
+                "Jakob Hägglund",
+                "Markus Ransved Nilsson",
+                "Oscar Holmbergh"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Eddie Williamson",
+                "Wilmer",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte",
+                "Jonathan Segelman"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Love Hardeberg"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Calle Milebratt"
+              ]
+            },
+            {
+              "score": "4–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Andreas Panagos"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-14 03:00",
+          "home": "Haiti",
+          "away": "Scotland",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–2",
+              "count": 6,
+              "pct": 46,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "0",
+                "Gustaf de la Motte",
+                "Jakob Hägglund",
+                "Eddie Williamson",
+                "Love Hardeberg"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Andreas Panagos",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "0–4",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "0–3",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Jonathan Segelman"
+              ]
+            },
+            {
+              "score": "2–3",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Wilmer"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-19 21:00",
+          "home": "Scotland",
+          "away": "Morocco",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–2",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "0",
+                "Gustaf de la Motte",
+                "Jakob Hägglund",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh",
+                "Wilmer",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Calle Milebratt"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Eddie Williamson",
+                "Jonathan Segelman"
+              ]
+            },
+            {
+              "score": "0–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Love Hardeberg"
+              ]
+            },
+            {
+              "score": "1–3",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Andreas Panagos"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-20 03:00",
+          "home": "Brazil",
+          "away": "Haiti",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "3–0",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Eddie Williamson",
+                "Jonathan Segelman",
+                "Love Hardeberg"
+              ]
+            },
+            {
+              "score": "4–0",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "0",
+                "Calle Milebratt",
+                "Jakob Hägglund",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "5–0",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte",
+                "Markus Ransved Nilsson",
+                "Oscar Holmbergh",
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "5–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Wilmer"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-25 00:00",
+          "home": "Scotland",
+          "away": "Brazil",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–2",
+              "count": 7,
+              "pct": 54,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Calle Milebratt",
+                "Jakob Hägglund",
+                "Jonathan Segelman",
+                "Love Hardeberg",
+                "Oscar Holmbergh",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte",
+                "Eddie Williamson",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "1–3",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "0",
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "0–3",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Axel Dillner"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-25 00:00",
+          "home": "Morocco",
+          "away": "Haiti",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 7,
+              "pct": 54,
+              "pts": null,
+              "players": [
+                "0",
+                "Calle Milebratt",
+                "Gustaf de la Motte",
+                "Jakob Hägglund",
+                "Eddie Williamson",
+                "Jonathan Segelman",
+                "Love Hardeberg"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Markus Ransved Nilsson",
+                "Andreas Panagos",
+                "Wilmer",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "4–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            }
+          ],
+          "noPick": 0
+        }
+      ]
+    },
+    {
+      "group": "D",
+      "complete": false,
+      "actualWinner": null,
+      "winnerPicks": [
+        {
+          "team": "USA",
+          "count": 7,
+          "pct": 54,
+          "players": [
+            "Lucas Johnson",
+            "0",
+            "Calle Milebratt",
+            "Gustaf de la Motte",
+            "Jonathan Segelman",
+            "Wilmer",
+            "Axel Dillner"
+          ],
+          "correct": null
+        },
+        {
+          "team": "Turkey",
+          "count": 5,
+          "pct": 38,
+          "players": [
+            "Jakob Hägglund",
+            "Eddie Williamson",
+            "Love Hardeberg",
+            "Markus Ransved Nilsson",
+            "Andreas Panagos"
+          ],
+          "correct": null
+        },
+        {
+          "team": "Paraguay",
+          "count": 1,
+          "pct": 8,
+          "players": [
+            "Oscar Holmbergh"
+          ],
+          "correct": null
+        }
+      ],
+      "games": [
+        {
+          "kickoff": "2026-06-13 03:00",
+          "home": "USA",
+          "away": "Paraguay",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "0",
+                "Calle Milebratt",
+                "Gustaf de la Motte",
+                "Eddie Williamson",
+                "Love Hardeberg"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Jakob Hägglund",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Jonathan Segelman",
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Wilmer",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "2–3",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-13 06:00",
+          "home": "Australia",
+          "away": "Turkey",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–2",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "0",
+                "Eddie Williamson",
+                "Oscar Holmbergh",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte",
+                "Jakob Hägglund",
+                "Love Hardeberg"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Calle Milebratt"
+              ]
+            },
+            {
+              "score": "0–4",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Jonathan Segelman"
+              ]
+            },
+            {
+              "score": "1–3",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Wilmer"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-19 21:00",
+          "home": "USA",
+          "away": "Australia",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–1",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "0",
+                "Calle Milebratt",
+                "Gustaf de la Motte",
+                "Jonathan Segelman"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Jakob Hägglund",
+                "Eddie Williamson"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Markus Ransved Nilsson",
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Love Hardeberg"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Axel Dillner"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-19 06:00",
+          "home": "Turkey",
+          "away": "Paraguay",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–1",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "0",
+                "Jakob Hägglund",
+                "Jonathan Segelman",
+                "Love Hardeberg"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Gustaf de la Motte",
+                "Eddie Williamson"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Lucas Johnson"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Andreas Panagos"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-26 04:00",
+          "home": "Turkey",
+          "away": "USA",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–1",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "0",
+                "Jakob Hägglund",
+                "Love Hardeberg",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Jonathan Segelman",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Gustaf de la Motte"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Eddie Williamson",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-26 04:00",
+          "home": "Paraguay",
+          "away": "Australia",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–0",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "0",
+                "Gustaf de la Motte",
+                "Jakob Hägglund"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Markus Ransved Nilsson",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Andreas Panagos",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "0–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Eddie Williamson"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Jonathan Segelman"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Love Hardeberg"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Calle Milebratt"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            }
+          ],
+          "noPick": 0
+        }
+      ]
+    },
+    {
+      "group": "E",
+      "complete": false,
+      "actualWinner": null,
+      "winnerPicks": [
+        {
+          "team": "Germany",
+          "count": 13,
+          "pct": 100,
+          "players": [
+            "Lucas Johnson",
+            "0",
+            "Calle Milebratt",
+            "Gustaf de la Motte",
+            "Jakob Hägglund",
+            "Eddie Williamson",
+            "Jonathan Segelman",
+            "Love Hardeberg",
+            "Markus Ransved Nilsson",
+            "Oscar Holmbergh",
+            "Andreas Panagos",
+            "Wilmer",
+            "Axel Dillner"
+          ],
+          "correct": null
+        }
+      ],
+      "games": [
+        {
+          "kickoff": "2026-06-14 19:00",
+          "home": "Germany",
+          "away": "Curaçao",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "4–0",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "0",
+                "Jonathan Segelman",
+                "Andreas Panagos",
+                "Wilmer",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Calle Milebratt",
+                "Gustaf de la Motte"
+              ]
+            },
+            {
+              "score": "5–0",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Jakob Hägglund",
+                "Eddie Williamson",
+                "Love Hardeberg"
+              ]
+            },
+            {
+              "score": "6–0",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Markus Ransved Nilsson",
+                "Oscar Holmbergh"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-15 01:00",
+          "home": "Côte d'Ivoire",
+          "away": "Ecuador",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–1",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "Jakob Hägglund",
+                "Eddie Williamson",
+                "Jonathan Segelman",
+                "Oscar Holmbergh",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Calle Milebratt",
+                "Gustaf de la Motte",
+                "Love Hardeberg"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "0"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "2–3",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Andreas Panagos"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-20 22:00",
+          "home": "Germany",
+          "away": "Côte d'Ivoire",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Eddie Williamson",
+                "Jonathan Segelman",
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Jakob Hägglund",
+                "Oscar Holmbergh"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "0",
+                "Love Hardeberg",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Wilmer",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-21 01:59",
+          "home": "Ecuador",
+          "away": "Curaçao",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 7,
+              "pct": 54,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Gustaf de la Motte",
+                "Eddie Williamson",
+                "Love Hardeberg",
+                "Markus Ransved Nilsson",
+                "Wilmer",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 6,
+              "pct": 46,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "0",
+                "Jakob Hägglund",
+                "Jonathan Segelman",
+                "Oscar Holmbergh",
+                "Andreas Panagos"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-25 22:00",
+          "home": "Curaçao",
+          "away": "Côte d'Ivoire",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–2",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "0",
+                "Calle Milebratt",
+                "Jakob Hägglund",
+                "Jonathan Segelman",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Eddie Williamson",
+                "Oscar Holmbergh"
+              ]
+            },
+            {
+              "score": "0–3",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Love Hardeberg",
+                "Andreas Panagos"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-25 22:00",
+          "home": "Ecuador",
+          "away": "Germany",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–2",
+              "count": 6,
+              "pct": 46,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "0",
+                "Calle Milebratt",
+                "Gustaf de la Motte",
+                "Jakob Hägglund",
+                "Love Hardeberg"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Markus Ransved Nilsson",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Eddie Williamson",
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "0–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Jonathan Segelman"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            }
+          ],
+          "noPick": 0
+        }
+      ]
+    },
+    {
+      "group": "F",
+      "complete": false,
+      "actualWinner": null,
+      "winnerPicks": [
+        {
+          "team": "Netherlands",
+          "count": 12,
+          "pct": 92,
+          "players": [
+            "Lucas Johnson",
+            "0",
+            "Calle Milebratt",
+            "Gustaf de la Motte",
+            "Jakob Hägglund",
+            "Eddie Williamson",
+            "Jonathan Segelman",
+            "Love Hardeberg",
+            "Markus Ransved Nilsson",
+            "Oscar Holmbergh",
+            "Wilmer",
+            "Axel Dillner"
+          ],
+          "correct": null
+        },
+        {
+          "team": "Japan",
+          "count": 1,
+          "pct": 8,
+          "players": [
+            "Andreas Panagos"
+          ],
+          "correct": null
+        }
+      ],
+      "games": [
+        {
+          "kickoff": "2026-06-14 22:00",
+          "home": "Netherlands",
+          "away": "Japan",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–1",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "0",
+                "Calle Milebratt",
+                "Gustaf de la Motte",
+                "Eddie Williamson"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Love Hardeberg",
+                "Wilmer",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Jakob Hägglund",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Lucas Johnson"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Jonathan Segelman"
+              ]
+            },
+            {
+              "score": "4–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-15 04:00",
+          "home": "Sweden",
+          "away": "Tunisia",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–1",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte",
+                "Jakob Hägglund",
+                "Eddie Williamson",
+                "Love Hardeberg"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Oscar Holmbergh",
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Jonathan Segelman",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "0",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Wilmer"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-20 19:00",
+          "home": "Netherlands",
+          "away": "Sweden",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–1",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "0",
+                "Jonathan Segelman",
+                "Love Hardeberg",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Wilmer",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh",
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Jakob Hägglund"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Eddie Williamson"
+              ]
+            },
+            {
+              "score": "3–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-20 06:00",
+          "home": "Tunisia",
+          "away": "Japan",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–1",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte",
+                "Jakob Hägglund",
+                "Love Hardeberg",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "0",
+                "Eddie Williamson"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "0–3",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Jonathan Segelman"
+              ]
+            },
+            {
+              "score": "1–3",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-26 01:00",
+          "home": "Japan",
+          "away": "Sweden",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–2",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "0",
+                "Jonathan Segelman",
+                "Love Hardeberg",
+                "Markus Ransved Nilsson",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Gustaf de la Motte",
+                "Eddie Williamson",
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Jakob Hägglund",
+                "Oscar Holmbergh",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Lucas Johnson"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-26 01:00",
+          "home": "Tunisia",
+          "away": "Netherlands",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–3",
+              "count": 8,
+              "pct": 62,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte",
+                "Jakob Hägglund",
+                "Love Hardeberg",
+                "Markus Ransved Nilsson",
+                "Oscar Holmbergh",
+                "Andreas Panagos",
+                "Wilmer",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "0",
+                "Calle Milebratt",
+                "Jonathan Segelman"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Eddie Williamson"
+              ]
+            }
+          ],
+          "noPick": 0
+        }
+      ]
+    },
+    {
+      "group": "G",
+      "complete": false,
+      "actualWinner": null,
+      "winnerPicks": [
+        {
+          "team": "Belgium",
+          "count": 13,
+          "pct": 100,
+          "players": [
+            "Lucas Johnson",
+            "0",
+            "Calle Milebratt",
+            "Gustaf de la Motte",
+            "Jakob Hägglund",
+            "Eddie Williamson",
+            "Jonathan Segelman",
+            "Love Hardeberg",
+            "Markus Ransved Nilsson",
+            "Oscar Holmbergh",
+            "Andreas Panagos",
+            "Wilmer",
+            "Axel Dillner"
+          ],
+          "correct": null
+        }
+      ],
+      "games": [
+        {
+          "kickoff": "2026-06-15 21:00",
+          "home": "Belgium",
+          "away": "Egypt",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "3–1",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "0",
+                "Eddie Williamson",
+                "Love Hardeberg",
+                "Oscar Holmbergh",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte",
+                "Jakob Hägglund",
+                "Jonathan Segelman",
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Calle Milebratt",
+                "Markus Ransved Nilsson",
+                "Axel Dillner"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-16 03:00",
+          "home": "Iran",
+          "away": "New Zealand",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–0",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte",
+                "Jakob Hägglund",
+                "Jonathan Segelman",
+                "Love Hardeberg",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Markus Ransved Nilsson",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Oscar Holmbergh"
+              ]
+            },
+            {
+              "score": "0–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Eddie Williamson"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "0"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-21 21:00",
+          "home": "Belgium",
+          "away": "Iran",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–1",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Calle Milebratt",
+                "Gustaf de la Motte",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "0",
+                "Love Hardeberg",
+                "Andreas Panagos",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Jakob Hägglund",
+                "Eddie Williamson",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Jonathan Segelman"
+              ]
+            },
+            {
+              "score": "3–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-22 03:00",
+          "home": "New Zealand",
+          "away": "Egypt",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–1",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "0",
+                "Jakob Hägglund",
+                "Markus Ransved Nilsson",
+                "Andreas Panagos",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte",
+                "Eddie Williamson",
+                "Love Hardeberg"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Jonathan Segelman",
+                "Oscar Holmbergh"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Calle Milebratt"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Wilmer"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-27 04:59",
+          "home": "Egypt",
+          "away": "Iran",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–1",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "0",
+                "Eddie Williamson",
+                "Jonathan Segelman",
+                "Wilmer",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Gustaf de la Motte",
+                "Love Hardeberg",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Jakob Hägglund",
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Calle Milebratt"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-27 04:59",
+          "home": "New Zealand",
+          "away": "Belgium",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–3",
+              "count": 7,
+              "pct": 54,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "0",
+                "Gustaf de la Motte",
+                "Jakob Hägglund",
+                "Jonathan Segelman",
+                "Love Hardeberg",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "0–4",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Andreas Panagos",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "0–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Eddie Williamson"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Calle Milebratt"
+              ]
+            },
+            {
+              "score": "1–3",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "2–3",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            }
+          ],
+          "noPick": 0
+        }
+      ]
+    },
+    {
+      "group": "H",
+      "complete": false,
+      "actualWinner": null,
+      "winnerPicks": [
+        {
+          "team": "Spain",
+          "count": 13,
+          "pct": 100,
+          "players": [
+            "Lucas Johnson",
+            "0",
+            "Calle Milebratt",
+            "Gustaf de la Motte",
+            "Jakob Hägglund",
+            "Eddie Williamson",
+            "Jonathan Segelman",
+            "Love Hardeberg",
+            "Markus Ransved Nilsson",
+            "Oscar Holmbergh",
+            "Andreas Panagos",
+            "Wilmer",
+            "Axel Dillner"
+          ],
+          "correct": null
+        }
+      ],
+      "games": [
+        {
+          "kickoff": "2026-06-15 18:00",
+          "home": "Spain",
+          "away": "Cabo Verde",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "3–0",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Calle Milebratt",
+                "Jakob Hägglund",
+                "Jonathan Segelman",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "4–0",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "0",
+                "Eddie Williamson",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "5–0",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte",
+                "Love Hardeberg",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "4–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "7–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-16 00:00",
+          "home": "Saudi Arabia",
+          "away": "Uruguay",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–2",
+              "count": 6,
+              "pct": 46,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "0",
+                "Calle Milebratt",
+                "Gustaf de la Motte",
+                "Markus Ransved Nilsson",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Eddie Williamson",
+                "Oscar Holmbergh",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Jakob Hägglund"
+              ]
+            },
+            {
+              "score": "0–3",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Love Hardeberg"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Jonathan Segelman"
+              ]
+            },
+            {
+              "score": "1–3",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Andreas Panagos"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-21 18:00",
+          "home": "Spain",
+          "away": "Saudi Arabia",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 6,
+              "pct": 46,
+              "pts": null,
+              "players": [
+                "0",
+                "Calle Milebratt",
+                "Jakob Hägglund",
+                "Eddie Williamson",
+                "Jonathan Segelman",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Love Hardeberg",
+                "Markus Ransved Nilsson",
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "4–0",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-22 00:00",
+          "home": "Uruguay",
+          "away": "Cabo Verde",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Calle Milebratt",
+                "Jakob Hägglund",
+                "Markus Ransved Nilsson",
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "0",
+                "Love Hardeberg",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Eddie Williamson",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte",
+                "Jonathan Segelman"
+              ]
+            },
+            {
+              "score": "5–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-27 01:59",
+          "home": "Cabo Verde",
+          "away": "Saudi Arabia",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–1",
+              "count": 6,
+              "pct": 46,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "0",
+                "Calle Milebratt",
+                "Jakob Hägglund",
+                "Eddie Williamson",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte",
+                "Love Hardeberg"
+              ]
+            },
+            {
+              "score": "0–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "0–3",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Jonathan Segelman"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-27 01:59",
+          "home": "Uruguay",
+          "away": "Spain",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–2",
+              "count": 6,
+              "pct": 46,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Calle Milebratt",
+                "Jakob Hägglund",
+                "Love Hardeberg",
+                "Wilmer",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "1–3",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "0",
+                "Gustaf de la Motte",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "0–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Jonathan Segelman"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Eddie Williamson"
+              ]
+            },
+            {
+              "score": "2–4",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Andreas Panagos"
+              ]
+            }
+          ],
+          "noPick": 0
+        }
+      ]
+    },
+    {
+      "group": "I",
+      "complete": false,
+      "actualWinner": null,
+      "winnerPicks": [
+        {
+          "team": "France",
+          "count": 11,
+          "pct": 85,
+          "players": [
+            "Lucas Johnson",
+            "0",
+            "Calle Milebratt",
+            "Gustaf de la Motte",
+            "Jakob Hägglund",
+            "Eddie Williamson",
+            "Jonathan Segelman",
+            "Love Hardeberg",
+            "Markus Ransved Nilsson",
+            "Oscar Holmbergh",
+            "Axel Dillner"
+          ],
+          "correct": null
+        },
+        {
+          "team": "Norway",
+          "count": 2,
+          "pct": 15,
+          "players": [
+            "Andreas Panagos",
+            "Wilmer"
+          ],
+          "correct": null
+        }
+      ],
+      "games": [
+        {
+          "kickoff": "2026-06-16 21:00",
+          "home": "France",
+          "away": "Senegal",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–1",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Jakob Hägglund",
+                "Eddie Williamson",
+                "Markus Ransved Nilsson",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Jonathan Segelman",
+                "Love Hardeberg"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "0",
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-17 00:00",
+          "home": "Iraq",
+          "away": "Norway",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–3",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "0",
+                "Gustaf de la Motte",
+                "Love Hardeberg",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Jakob Hägglund",
+                "Eddie Williamson"
+              ]
+            },
+            {
+              "score": "0–4",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Markus Ransved Nilsson",
+                "Andreas Panagos",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Jonathan Segelman"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-22 22:59",
+          "home": "France",
+          "away": "Iraq",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "3–0",
+              "count": 6,
+              "pct": 46,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Calle Milebratt",
+                "Jakob Hägglund",
+                "Jonathan Segelman",
+                "Love Hardeberg",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Eddie Williamson",
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "4–0",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            },
+            {
+              "score": "5–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "0"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-23 01:59",
+          "home": "Norway",
+          "away": "Senegal",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–0",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Jonathan Segelman"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Jakob Hägglund",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Oscar Holmbergh"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Eddie Williamson",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Love Hardeberg",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "0"
+              ]
+            },
+            {
+              "score": "3–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte"
+              ]
+            },
+            {
+              "score": "4–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Andreas Panagos"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-26 21:00",
+          "home": "Norway",
+          "away": "France",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–2",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte",
+                "Eddie Williamson",
+                "Love Hardeberg",
+                "Markus Ransved Nilsson",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Jakob Hägglund"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Jonathan Segelman"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Andreas Panagos",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "0–3",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            },
+            {
+              "score": "1–3",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "0"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-26 21:00",
+          "home": "Senegal",
+          "away": "Iraq",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 6,
+              "pct": 46,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Calle Milebratt",
+                "Gustaf de la Motte",
+                "Jakob Hägglund",
+                "Love Hardeberg",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "0",
+                "Eddie Williamson",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Jonathan Segelman",
+                "Oscar Holmbergh"
+              ]
+            },
+            {
+              "score": "0–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Andreas Panagos"
+              ]
+            }
+          ],
+          "noPick": 0
+        }
+      ]
+    },
+    {
+      "group": "J",
+      "complete": false,
+      "actualWinner": null,
+      "winnerPicks": [
+        {
+          "team": "Argentina",
+          "count": 13,
+          "pct": 100,
+          "players": [
+            "Lucas Johnson",
+            "0",
+            "Calle Milebratt",
+            "Gustaf de la Motte",
+            "Jakob Hägglund",
+            "Eddie Williamson",
+            "Jonathan Segelman",
+            "Love Hardeberg",
+            "Markus Ransved Nilsson",
+            "Oscar Holmbergh",
+            "Andreas Panagos",
+            "Wilmer",
+            "Axel Dillner"
+          ],
+          "correct": null
+        }
+      ],
+      "games": [
+        {
+          "kickoff": "2026-06-17 03:00",
+          "home": "Argentina",
+          "away": "Algeria",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 9,
+              "pct": 69,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "0",
+                "Calle Milebratt",
+                "Gustaf de la Motte",
+                "Jakob Hägglund",
+                "Jonathan Segelman",
+                "Love Hardeberg",
+                "Wilmer",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Markus Ransved Nilsson",
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Eddie Williamson"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-16 06:00",
+          "home": "Austria",
+          "away": "Jordan",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 6,
+              "pct": 46,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "0",
+                "Calle Milebratt",
+                "Jakob Hägglund",
+                "Markus Ransved Nilsson",
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte",
+                "Eddie Williamson",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Jonathan Segelman"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Love Hardeberg"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-22 19:00",
+          "home": "Argentina",
+          "away": "Austria",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–1",
+              "count": 9,
+              "pct": 69,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "0",
+                "Calle Milebratt",
+                "Jakob Hägglund",
+                "Eddie Williamson",
+                "Love Hardeberg",
+                "Markus Ransved Nilsson",
+                "Andreas Panagos",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Jonathan Segelman"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-23 04:59",
+          "home": "Jordan",
+          "away": "Algeria",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–1",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "0",
+                "Calle Milebratt",
+                "Jakob Hägglund",
+                "Markus Ransved Nilsson",
+                "Oscar Holmbergh"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte",
+                "Love Hardeberg",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Jonathan Segelman",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Lucas Johnson"
+              ]
+            },
+            {
+              "score": "0–3",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Eddie Williamson"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-28 04:00",
+          "home": "Algeria",
+          "away": "Austria",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–2",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Gustaf de la Motte",
+                "Jakob Hägglund",
+                "Love Hardeberg",
+                "Oscar Holmbergh"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Markus Ransved Nilsson",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "0",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "0–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Jonathan Segelman"
+              ]
+            },
+            {
+              "score": "2–3",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Eddie Williamson"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-28 04:00",
+          "home": "Jordan",
+          "away": "Argentina",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–3",
+              "count": 6,
+              "pct": 46,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "0",
+                "Gustaf de la Motte",
+                "Eddie Williamson",
+                "Love Hardeberg",
+                "Oscar Holmbergh"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Jonathan Segelman",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "0–4",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Jakob Hägglund",
+                "Andreas Panagos",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "2–4",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Wilmer"
+              ]
+            }
+          ],
+          "noPick": 0
+        }
+      ]
+    },
+    {
+      "group": "K",
+      "complete": false,
+      "actualWinner": null,
+      "winnerPicks": [
+        {
+          "team": "Portugal",
+          "count": 12,
+          "pct": 92,
+          "players": [
+            "Lucas Johnson",
+            "0",
+            "Calle Milebratt",
+            "Gustaf de la Motte",
+            "Jakob Hägglund",
+            "Eddie Williamson",
+            "Jonathan Segelman",
+            "Love Hardeberg",
+            "Markus Ransved Nilsson",
+            "Oscar Holmbergh",
+            "Andreas Panagos",
+            "Axel Dillner"
+          ],
+          "correct": null
+        },
+        {
+          "team": "Colombia",
+          "count": 1,
+          "pct": 8,
+          "players": [
+            "Wilmer"
+          ],
+          "correct": null
+        }
+      ],
+      "games": [
+        {
+          "kickoff": "2026-06-17 19:00",
+          "home": "Portugal",
+          "away": "Congo DR",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "3–0",
+              "count": 8,
+              "pct": 62,
+              "pts": null,
+              "players": [
+                "0",
+                "Calle Milebratt",
+                "Gustaf de la Motte",
+                "Jonathan Segelman",
+                "Love Hardeberg",
+                "Markus Ransved Nilsson",
+                "Wilmer",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Jakob Hägglund",
+                "Eddie Williamson",
+                "Oscar Holmbergh"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Andreas Panagos"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-18 04:00",
+          "home": "Uzbekistan",
+          "away": "Colombia",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–2",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Calle Milebratt",
+                "Jakob Hägglund",
+                "Jonathan Segelman",
+                "Love Hardeberg"
+              ]
+            },
+            {
+              "score": "0–3",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Eddie Williamson",
+                "Oscar Holmbergh",
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "0"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "1–3",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Wilmer"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-23 19:00",
+          "home": "Portugal",
+          "away": "Uzbekistan",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 6,
+              "pct": 46,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Gustaf de la Motte",
+                "Jonathan Segelman",
+                "Love Hardeberg",
+                "Markus Ransved Nilsson",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "0",
+                "Jakob Hägglund"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Eddie Williamson",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "4–0",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh",
+                "Andreas Panagos"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-24 04:00",
+          "home": "Colombia",
+          "away": "Congo DR",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–1",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Jonathan Segelman",
+                "Markus Ransved Nilsson",
+                "Oscar Holmbergh",
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "0",
+                "Calle Milebratt",
+                "Love Hardeberg"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Eddie Williamson",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Jakob Hägglund"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte"
+              ]
+            },
+            {
+              "score": "4–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Wilmer"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-28 01:30",
+          "home": "Colombia",
+          "away": "Portugal",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–2",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Gustaf de la Motte",
+                "Jakob Hägglund",
+                "Love Hardeberg",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Jonathan Segelman"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Andreas Panagos",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "1–3",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "0"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            },
+            {
+              "score": "2–3",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Eddie Williamson"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-28 01:30",
+          "home": "Congo DR",
+          "away": "Uzbekistan",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–0",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Jakob Hägglund",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte",
+                "Love Hardeberg",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "0–0",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "0",
+                "Jonathan Segelman"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Eddie Williamson",
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            }
+          ],
+          "noPick": 0
+        }
+      ]
+    },
+    {
+      "group": "L",
+      "complete": false,
+      "actualWinner": null,
+      "winnerPicks": [
+        {
+          "team": "England",
+          "count": 12,
+          "pct": 92,
+          "players": [
+            "Lucas Johnson",
+            "Calle Milebratt",
+            "Gustaf de la Motte",
+            "Jakob Hägglund",
+            "Eddie Williamson",
+            "Jonathan Segelman",
+            "Love Hardeberg",
+            "Markus Ransved Nilsson",
+            "Oscar Holmbergh",
+            "Andreas Panagos",
+            "Wilmer",
+            "Axel Dillner"
+          ],
+          "correct": null
+        },
+        {
+          "team": "Croatia",
+          "count": 1,
+          "pct": 8,
+          "players": [
+            "0"
+          ],
+          "correct": null
+        }
+      ],
+      "games": [
+        {
+          "kickoff": "2026-06-17 22:00",
+          "home": "England",
+          "away": "Croatia",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–1",
+              "count": 7,
+              "pct": 54,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Calle Milebratt",
+                "Gustaf de la Motte",
+                "Eddie Williamson",
+                "Love Hardeberg",
+                "Markus Ransved Nilsson",
+                "Oscar Holmbergh"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "Jakob Hägglund",
+                "Jonathan Segelman",
+                "Andreas Panagos",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "0"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Axel Dillner"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-18 01:00",
+          "home": "Ghana",
+          "away": "Panama",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "Jakob Hägglund",
+                "Markus Ransved Nilsson",
+                "Andreas Panagos",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Calle Milebratt",
+                "Gustaf de la Motte",
+                "Oscar Holmbergh"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "0",
+                "Eddie Williamson"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Jonathan Segelman",
+                "Love Hardeberg"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Wilmer"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-23 22:00",
+          "home": "England",
+          "away": "Ghana",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "1–0",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Jakob Hägglund",
+                "Eddie Williamson",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "3–0",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte",
+                "Jonathan Segelman",
+                "Love Hardeberg"
+              ]
+            },
+            {
+              "score": "2–0",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "0"
+              ]
+            },
+            {
+              "score": "3–1",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "3–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            },
+            {
+              "score": "4–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Andreas Panagos"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-24 01:00",
+          "home": "Panama",
+          "away": "Croatia",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–2",
+              "count": 6,
+              "pct": 46,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "0",
+                "Jakob Hägglund",
+                "Jonathan Segelman",
+                "Markus Ransved Nilsson",
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Eddie Williamson",
+                "Oscar Holmbergh",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "0–3",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte",
+                "Love Hardeberg"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-27 22:59",
+          "home": "Panama",
+          "away": "England",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "0–3",
+              "count": 5,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "0",
+                "Jakob Hägglund",
+                "Love Hardeberg",
+                "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Gustaf de la Motte",
+                "Eddie Williamson",
+                "Jonathan Segelman"
+              ]
+            },
+            {
+              "score": "0–4",
+              "count": 2,
+              "pct": 15,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Oscar Holmbergh"
+              ]
+            },
+            {
+              "score": "0–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "1–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "1–6",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Axel Dillner"
+              ]
+            }
+          ],
+          "noPick": 0
+        },
+        {
+          "kickoff": "2026-06-27 22:59",
+          "home": "Croatia",
+          "away": "Ghana",
+          "played": false,
+          "actual": null,
+          "scorelines": [
+            {
+              "score": "2–0",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Gustaf de la Motte",
+                "Jonathan Segelman",
+                "Andreas Panagos"
+              ]
+            },
+            {
+              "score": "2–1",
+              "count": 4,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "0",
+                "Love Hardeberg",
+                "Markus Ransved Nilsson",
+                "Wilmer"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 3,
+              "pct": 23,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Jakob Hägglund",
+                "Eddie Williamson"
+              ]
+            },
+            {
+              "score": "1–1",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Axel Dillner"
+              ]
+            },
+            {
+              "score": "2–2",
+              "count": 1,
+              "pct": 8,
+              "pts": null,
+              "players": [
+                "Oscar Holmbergh"
+              ]
+            }
+          ],
+          "noPick": 0
+        }
+      ]
+    }
+  ]
+}

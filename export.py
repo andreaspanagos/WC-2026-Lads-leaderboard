@@ -1,0 +1,747 @@
+"""Export website data from the WC 2026 main model.
+
+Reads ONLY the main model workbook (not the individual submission files):
+  - `_Setup_PowerQuery` A7-table  -> leaderboard.json   (official standings)
+  - `_Setup_PowerQuery` row-100 flat table (one row per player, all picks)
+  - `Backend` sheet               -> fixtures, results, per-team progression
+  - `Scoring` sheet               -> bonus question texts + point values
+  - `Results` sheet BO/BP cols    -> bonus answer key + status (hand-maintained)
+
+Outputs:
+  leaderboard.json  summary standings (+ rank movement vs previous publish)
+  games.json        per-game predicted-scoreline distributions + points
+  stats.json        per-team predicted progression + bonus question status
+
+Scoring (validated against the model's own totals):
+  group game: exact score = 3, correct 1X2 = 1, wrong = 0
+  group winner = 3; KO "team reaches round": R32=3 R16=6 QF=9 SF=12 Final=15,
+  champion = 30, 3rd place = 15.
+All readers are defensive about missing results: at tournament start the
+Results sheet is empty -> games show as upcoming, no winners, bonus mostly TBD.
+"""
+
+import datetime
+import json
+import os
+import openpyxl
+
+WORKBOOK = "WC 2026 Main model_vLads.xlsx"
+SHEET = "_Setup_PowerQuery"
+OUTPUT = "leaderboard.json"
+BASELINE_FILE = "daily_baseline.json"
+GAMES_OUTPUT = "games.json"
+STATS_OUTPUT = "stats.json"
+PLAYERS_OUTPUT = "players.json"
+HISTORY_OUTPUT = "history.json"
+
+FLAT_HEADER_ROW = 100          # header row of the per-player flat picks table
+STAGES = ["Group stage", "R32", "R16", "QF", "SF", "Final", "Champion"]
+
+
+def sign(a, b):
+    d = a - b
+    return 0 if d == 0 else (1 if d > 0 else -1)
+
+
+def game_points(phg, pag, hg, ag):
+    if phg == hg and pag == ag:
+        return 3
+    if sign(phg, pag) == sign(hg, ag):
+        return 1
+    return 0
+
+
+def as_int(v):
+    if isinstance(v, bool):
+        return None
+    if isinstance(v, int):
+        return v
+    if isinstance(v, float) and v.is_integer():
+        return int(v)
+    if isinstance(v, str) and v.strip().lstrip("-").isdigit():
+        return int(v.strip())
+    return None
+
+
+# Read from a temp copy so this works even while the model is open in Excel
+# (a direct open would hit a PermissionError on the locked file). The copy
+# reflects the last SAVED state, which is exactly what we want to export.
+import shutil
+import tempfile
+_tmp_model = shutil.copy(WORKBOOK, tempfile.mktemp(suffix=".xlsx"))
+wb = openpyxl.load_workbook(_tmp_model, data_only=True)
+ws = wb[SHEET]
+bk = wb["Backend"]
+
+# ───────────────────────── leaderboard.json ─────────────────────────
+
+# Previous export (most recent prior state) — used to seed a new day's baseline.
+prev_state = {}                # name -> {"rank":, "total":}
+if os.path.exists(OUTPUT):
+    try:
+        with open(OUTPUT, encoding="utf-8") as f:
+            for r in json.load(f).get("rows", []):
+                if r.get("player") is not None:
+                    prev_state[r["player"]] = {"rank": r.get("rank"), "total": r.get("total")}
+    except (json.JSONDecodeError, OSError):
+        prev_state = {}
+
+meta = {
+    "lastRefresh": str(ws["B3"].value) if ws["B3"].value else "",
+    "maxPoints": ws["B4"].value,
+    "participants": ws["B5"].value,
+}
+
+rows = []
+row_num = 8
+while True:
+    player = ws.cell(row=row_num, column=2).value
+    if player is None or str(player).strip() == "":
+        break
+    name = str(player).strip()
+    rows.append({
+        "rank":     ws.cell(row=row_num, column=1).value,
+        "player":   name,
+        "group":    ws.cell(row=row_num, column=3).value,
+        "ko":       ws.cell(row=row_num, column=4).value,
+        "bonus":    ws.cell(row=row_num, column=5).value,
+        "total":    ws.cell(row=row_num, column=6).value,
+        # "pctMax" is added later, once we know how many points are winnable so far.
+    })
+    row_num += 1
+
+# Daily baseline = standings at the start of today. Movement arrows and points
+# gained are measured against it, so they reflect the calendar day rather than
+# each 30-min auto-sync. The baseline rolls over on the first export of a new day,
+# seeded from the previous day's final standings (prev_state).
+today = datetime.date.today().isoformat()
+baseline = None
+if os.path.exists(BASELINE_FILE):
+    try:
+        with open(BASELINE_FILE, encoding="utf-8") as f:
+            baseline = json.load(f)
+    except (json.JSONDecodeError, OSError):
+        baseline = None
+
+if not baseline or baseline.get("date") != today:
+    seed = prev_state or {r["player"]: {"rank": r["rank"], "total": r["total"]} for r in rows}
+    baseline = {"date": today, "players": seed}
+    with open(BASELINE_FILE, "w", encoding="utf-8") as f:
+        json.dump(baseline, f, ensure_ascii=False, indent=2)
+
+base = baseline.get("players") or {}
+for r in rows:
+    b = base.get(r["player"])
+    r["prevRank"] = b["rank"] if b else None
+    r["pointsToday"] = (r["total"] - b["total"]) \
+        if (b and b.get("total") is not None and r["total"] is not None) else 0
+
+# leaderboard.json is written further down (see "finalise leaderboard.json"),
+# once fixtures and the bonus answer key are known — we need them to compute how
+# many points have actually been winnable so far for the % Max column.
+
+# ───────────────── flat per-player picks table (row 100+) ─────────────────
+
+hdr = {}
+for c in range(1, ws.max_column + 1):
+    h = ws.cell(row=FLAT_HEADER_ROW, column=c).value
+    if h is not None:
+        hdr[str(h)] = c
+
+flat = {}                      # player name -> {header: value}
+r = FLAT_HEADER_ROW + 1
+while True:
+    name = ws.cell(row=r, column=hdr["Name"]).value
+    if name is None or str(name).strip() == "":
+        break
+    flat[str(name).strip()] = {h: ws.cell(row=r, column=c).value for h, c in hdr.items()}
+    r += 1
+
+# Players ordered by leaderboard rank; fall back to flat-table order.
+players = [x["player"] for x in sorted(rows, key=lambda x: (x["rank"] is None, x["rank"]))
+           if x["player"] in flat]
+players += [n for n in flat if n not in players]
+
+# ───────────────── Backend: fixtures, results, progression ─────────────────
+
+# Authoritative scores + played-status come from the Results sheet input cells.
+# (Backend coerces a blank result to 0, which would look like a played 0-0 draw;
+# the Results F/H cells stay genuinely blank until a game is actually played.)
+_rs = wb["Results"]
+_GROUP_HDR = {3: "A", 12: "B", 21: "C", 30: "D", 39: "E", 48: "F",
+              57: "G", 66: "H", 75: "I", 84: "J", 93: "K", 102: "L"}
+results_scores = {}            # (group, frozenset({home, away})) -> (results_home, hg, ag)
+for _hdr, _g in _GROUP_HDR.items():
+    for _r in range(_hdr + 2, _hdr + 8):
+        _h = _rs.cell(row=_r, column=3).value   # C
+        _a = _rs.cell(row=_r, column=5).value   # E
+        if _h and _a:
+            key = (_g, frozenset({str(_h).strip(), str(_a).strip()}))
+            results_scores[key] = (str(_h).strip(),
+                                   as_int(_rs.cell(row=_r, column=6).value),   # F
+                                   as_int(_rs.cell(row=_r, column=8).value))   # H
+
+# Group fixtures in GS01..GS72 order (Backend rows 3-74, cols B-F) — order matters
+# because it aligns positionally with the player picks GS01..GS72.
+fixtures = []                  # [{group, home, away, hg, ag, played}]
+for row in bk.iter_rows(min_row=3, max_row=74, min_col=2, max_col=6, values_only=True):
+    grp, home, away, hg, ag = row
+    if grp and home and away and len(str(grp)) == 1:
+        rsc = results_scores.get((str(grp), frozenset({str(home).strip(), str(away).strip()})))
+        if rsc is not None:
+            rhome, rf, rh = rsc
+            hg, ag = (rf, rh) if str(home).strip() == rhome else (rh, rf)
+        else:
+            hg, ag = as_int(hg), as_int(ag)
+        fixtures.append({"group": str(grp), "home": home, "away": away,
+                         "hg": hg, "ag": ag, "played": hg is not None and ag is not None})
+
+# Kickoff datetimes from the Template sheet (same fixture order per group).
+kickoffs = {}
+tpl = wb["Template"] if "Template" in wb.sheetnames else None
+if tpl is not None:
+    import datetime as _dt
+    for row in tpl.iter_rows(min_row=1, max_col=8, values_only=True):
+        b, home, away = row[1], row[2], row[4]
+        if isinstance(b, _dt.datetime) and home and away:
+            kickoffs.setdefault((home, away), b.strftime("%Y-%m-%d %H:%M"))
+
+# Per-group completeness flags (Backend AO/AP, rows 2-13).
+group_complete = {}
+for row in bk.iter_rows(min_row=2, max_row=13, min_col=41, max_col=42, values_only=True):
+    g, done = row
+    if g and len(str(g)) == 1:
+        group_complete[str(g)] = str(done) == "True"
+
+# Team table (Backend cols P-Z from row 3): slot, team, group + outcome flags.
+teams = {}                     # team -> {"group": g, "flags": {...}}
+actual_winner = {}             # group -> winning team (only if group complete)
+for row in bk.iter_rows(min_row=3, max_row=50, min_col=16, max_col=26, values_only=True):
+    slot, team, grp = row[0], row[1], row[2]
+    if not team:
+        continue
+    flags = dict(zip(["R32", "R16", "QF", "SF", "Final", "Third", "RunnerUp", "Winner"],
+                     [str(v) == "True" for v in row[3:11]]))
+    teams[team] = {"group": str(grp) if grp else None, "flags": flags}
+    if slot and str(slot).startswith("1") and len(str(slot)) == 2 and group_complete.get(str(slot)[1]):
+        actual_winner[str(slot)[1]] = team
+
+# KO rounds by match participation (Backend cols I-N from row 3).
+# NOTE: the team table's "Quarter" flag column is broken in the model, so
+# round membership is derived from the KO match list instead (validated).
+ko_round = {"R32": set(), "R16": set(), "QF": set(), "SF": set(), "Final": set()}
+round_map = {"R32": "R32", "R16": "R16", "QF": "QF", "SF": "SF", "Final": "Final"}
+for row in bk.iter_rows(min_row=3, max_row=40, min_col=9, max_col=14, values_only=True):
+    m, rnd, home, away, hg, ag = row
+    key = round_map.get(str(rnd)) if rnd else None
+    if key:
+        for t in (home, away):
+            if t in teams:
+                ko_round[key].add(t)
+
+champion = {t for t, d in teams.items() if d["flags"]["Winner"]}
+third_team = {t for t, d in teams.items() if d["flags"]["Third"]}
+
+def actual_stage(team):
+    """Deepest stage the team has reached so far, or None before the R32 draw."""
+    if team in champion:
+        return "Champion"
+    for key in ["Final", "SF", "QF", "R16", "R32"]:
+        if team in ko_round[key]:
+            return key
+    if ko_round["R32"] and group_complete.get(teams[team]["group"]):
+        return "Group stage"   # group done, R32 drawn, team not in it -> eliminated
+    return None
+
+# ───────────────── per-player derived picks ─────────────────
+
+def player_round_sets(p):
+    d = flat[p]
+    rq  = {d.get(f"RQ_{i:02d}") for i in range(1, 33)}
+    r16 = {d.get(f"R16_{i:02d}") for i in range(1, 17)}
+    qf  = {d.get(f"QF_{i:02d}") for i in range(1, 9)}
+    sf  = {d.get(f"SF_{i:02d}") for i in range(1, 5)}
+    fin = {d.get("FIN_1"), d.get("FIN_2")}
+    return {"R32": rq, "R16": r16, "QF": qf, "SF": sf, "Final": fin,
+            "Winner": d.get("Winner"), "Third": d.get("Third")}
+
+rounds_by_player = {p: player_round_sets(p) for p in players}
+
+def predicted_stage(p, team):
+    rs = rounds_by_player[p]
+    if rs["Winner"] == team:
+        return "Champion"
+    for key in ["Final", "SF", "QF", "R16", "R32"]:
+        if team in rs[key]:
+            return key
+    return "Group stage"
+
+# ───────────────── games.json: scoreline distributions ─────────────────
+
+n_players = len(players)
+groups_out = {}
+for gi, fx in enumerate(fixtures):
+    gs = f"GS{gi + 1:02d}"
+    by_score = {}
+    no_pick = []
+    for p in players:
+        ph, pa = as_int(flat[p].get(gs + "_H")), as_int(flat[p].get(gs + "_A"))
+        if ph is None or pa is None:
+            no_pick.append(p)
+            continue
+        by_score.setdefault((ph, pa), []).append(p)
+    scorelines = []
+    for (ph, pa), ppl in by_score.items():
+        scorelines.append({
+            "score": f"{ph}–{pa}",
+            "count": len(ppl),
+            "pct": round(100 * len(ppl) / n_players) if n_players else 0,
+            "pts": game_points(ph, pa, fx["hg"], fx["ag"]) if fx["played"] else None,
+            "players": ppl,
+        })
+    scorelines.sort(key=lambda s: (-s["count"], s["score"]))
+    groups_out.setdefault(fx["group"], []).append({
+        "kickoff": kickoffs.get((fx["home"], fx["away"]), ""),
+        "home": fx["home"], "away": fx["away"],
+        "played": fx["played"],
+        "actual": {"hg": fx["hg"], "ag": fx["ag"]} if fx["played"] else None,
+        "scorelines": scorelines,
+        "noPick": len(no_pick),
+    })
+
+groups_json = []
+for g in sorted(groups_out):
+    winner_counts = {}
+    for p in players:
+        t = flat[p].get(f"GW_{g}")
+        if t:
+            winner_counts.setdefault(t, []).append(p)
+    picks = [{
+        "team": t,
+        "count": len(ppl),
+        "pct": round(100 * len(ppl) / n_players) if n_players else 0,
+        "players": ppl,
+        "correct": actual_winner.get(g) == t if g in actual_winner else None,
+    } for t, ppl in winner_counts.items()]
+    picks.sort(key=lambda x: (-x["count"], x["team"]))
+    groups_json.append({
+        "group": g,
+        "complete": group_complete.get(g, False),
+        "actualWinner": actual_winner.get(g),
+        "winnerPicks": picks,
+        "games": groups_out[g],
+    })
+
+with open(GAMES_OUTPUT, "w", encoding="utf-8") as f:
+    json.dump({"meta": meta, "players": players, "groups": groups_json},
+              f, ensure_ascii=False, indent=2)
+ngames = sum(len(g["games"]) for g in groups_json)
+print(f"Exported {ngames} games x {n_players} players -> {GAMES_OUTPUT}")
+
+# ───────────────── stats.json: team progression + bonus ─────────────────
+
+teams_json = []
+for team in sorted(teams, key=lambda t: (teams[t]["group"] or "?", t)):
+    dist = {s: 0 for s in STAGES}
+    champions_by = []
+    for p in players:
+        st = predicted_stage(p, team)
+        dist[st] += 1
+        if st == "Champion":
+            champions_by.append(p)
+    teams_json.append({
+        "team": team,
+        "group": teams[team]["group"],
+        "actual": actual_stage(team),
+        "dist": dist,
+        "pct": {s: (round(100 * c / n_players) if n_players else 0) for s, c in dist.items()},
+        "championPct": round(100 * dist["Champion"] / n_players) if n_players else 0,
+        "championBy": champions_by,
+    })
+
+# Bonus questions: texts/points from Scoring rows 19-33.
+sc = wb["Scoring"]
+bonus_defs = []
+for row in sc.iter_rows(min_row=19, max_row=33, min_col=2, max_col=4, values_only=True):
+    bid, q, pts = row
+    if bid and q:
+        bonus_defs.append({"id": str(bid), "q": str(q), "pts": pts})
+
+# Answer key maintained by hand in the Results sheet: BONUS POINTS block,
+# col BO = current correct answer, col BP = status. Ties are entered in BO as
+# a comma-separated list ("Mexico, Canada") — every listed answer counts as
+# correct. Status: "Decided" -> final (check marks shown); any other status
+# with an answer present -> provisional ("so far"); empty answer -> TBD.
+res = wb["Results"]
+KEY_COL_ANSWER, KEY_COL_STATUS = 67, 68          # BO, BP
+KEY_ROW_TO_ID = {3: "B01", 4: "B02", 5: "B03", 6: "B04", 7: "B05", 8: "B06",
+                 9: "B07", 10: "B08", 11: "B09", 12: "B10", 13: "B11",
+                 14: "B12", 15: "B13", 16: "B16", 17: "B15"}
+STAGE_NORM = {
+    "group stage": "group stage", "group": "group stage",
+    "round of 32": "r32", "r32": "r32",
+    "round of 16": "r16", "r16": "r16",
+    "quarter-final": "qf", "quarter final": "qf", "quarter-finals": "qf", "qf": "qf",
+    "semi-final": "sf", "semi final": "sf", "semi-finals": "sf", "sf": "sf",
+    "final": "final",
+    "winner": "champion", "champion": "champion",
+}
+
+def norm_answer(v):
+    """Comparable form: stage labels unified, numbers canonical, lowercased."""
+    s = str(v).strip().lower()
+    if s in STAGE_NORM:
+        return STAGE_NORM[s]
+    try:
+        return str(int(float(s.replace(",", "."))))
+    except ValueError:
+        return s
+
+# Numeric questions scored with a tolerance (per the READ ME rules):
+# B03 total tournament goals counts as correct within +/- 5.
+NUMERIC_TOLERANCE = {"B03": 5}
+
+def answer_hit(bid, ans, key):
+    """True if a player's answer matches the key (membership for ties,
+    +/- tolerance for the numeric questions that allow a margin)."""
+    na = norm_answer(ans)
+    tol = NUMERIC_TOLERANCE.get(bid, 0)
+    if tol:
+        try:
+            av = int(na)
+            return any(abs(av - int(k)) <= tol for k in key["normSet"]
+                       if k.lstrip("-").isdigit())
+        except ValueError:
+            pass
+    return na in key["normSet"]
+
+# Questions whose answers are bucketed into ranges for display (id -> bucket size),
+# e.g. B03 total goals shown as 230-239, 240-249, … instead of every unique value.
+NUMERIC_BUCKET = {"B03": 10}
+
+def bucket_hit(lo, size, key, bid):
+    """Decided-state: True if the range [lo, lo+size-1] overlaps the correct
+    answer ± tolerance — i.e. a player in this bucket could be scored correct."""
+    tol = NUMERIC_TOLERANCE.get(bid, 0)
+    hi = lo + size - 1
+    for k in key["normSet"]:
+        if k.lstrip("-").isdigit() and (lo - tol) <= int(k) <= (hi + tol):
+            return True
+    return False
+
+answer_key = {}
+for krow, bid in KEY_ROW_TO_ID.items():
+    ans = res.cell(row=krow, column=KEY_COL_ANSWER).value
+    st = res.cell(row=krow, column=KEY_COL_STATUS).value
+    ans_str = "" if ans is None else str(ans).strip()
+    st_str = "" if st is None else str(st).strip().lower()
+    if not ans_str:
+        status = "tbd"
+    elif st_str.startswith(("decided", "final", "klar")):
+        status = "decided"
+    else:
+        status = "provisional"
+    answer_key[bid] = {
+        "current": ans_str or None,
+        "status": status,
+        "normSet": {norm_answer(a) for a in ans_str.replace(";", ",").split(",") if a.strip()},
+    }
+
+# ───────────── finalise leaderboard.json (now that scoring is known) ─────────────
+# Bonus points don't count until the knockout stage begins. The model credits a
+# filled bonus answer immediately (see the bonus scoring quirk), which would leak
+# bonus points into the group-stage standings, so until the R32 draw exists we
+# strip every player's bonus from their total, re-rank on the bonus-free totals,
+# and exclude the bonus pool from "available". ko_round["R32"] is populated only
+# once the knockout bracket has been set.
+ko_started = any(ko_round[k] for k in ko_round)
+if not ko_started:
+    for r in rows:
+        b = r.get("bonus") or 0
+        if b and r.get("total") is not None:
+            r["total"] = r["total"] - b
+        r["bonus"] = 0
+    # Re-rank (standard competition ranking — ties share a rank) and re-sort so
+    # the array order matches the bonus-free standings.
+    rows.sort(key=lambda x: (x["total"] is None, -(x["total"] or 0), str(x["player"])))
+    last_total, last_rank = object(), 0
+    for i, r in enumerate(rows, start=1):
+        if r["total"] != last_total:
+            last_rank, last_total = i, r["total"]
+        r["rank"] = last_rank
+    # Re-measure the day's movement against the (bonus-free) daily baseline.
+    for r in rows:
+        bse = base.get(r["player"])
+        r["pointsToday"] = (r["total"] - bse["total"]) \
+            if (bse and bse.get("total") is not None and r["total"] is not None) else 0
+
+# "Available" points = the max anyone could have earned from results decided so
+# far, so % Max reflects share of what was actually up for grabs (not the full
+# 729-point tournament). Group games are worth 3 each once played; a bonus
+# question's max counts once its answer is filled (the model credits filled
+# answers immediately, decided or not) — but only from the knockout stage on.
+# Knockouts are added in Phase 2.
+games_played = sum(1 for fx in fixtures if fx["played"])
+bonus_open = 0 if not ko_started else sum(
+    (bd["pts"] or 0) for bd in bonus_defs
+    if answer_key.get(bd["id"], {}).get("status", "tbd") != "tbd")
+available = 3 * games_played + bonus_open
+if isinstance(available, float) and available.is_integer():
+    available = int(available)
+meta["maxAvailable"] = available
+for r in rows:
+    t = r.get("total")
+    r["pctMax"] = round(t / available, 4) if (available and t is not None) else 0.0
+
+with open(OUTPUT, "w", encoding="utf-8") as f:
+    json.dump({"meta": meta, "rows": rows}, f, ensure_ascii=False, indent=2)
+print(f"Exported {len(rows)} players -> {OUTPUT} (available so far: {available})")
+
+# ───────────────── history.json: daily standings (rank-over-time) ─────────────────
+# One snapshot per calendar day, upserted on every export — so the latest run of
+# a day overwrites that day's entry and, once the day is over, it holds that day's
+# FINAL standings. Feeds the rank-trajectory sparklines and the "biggest movers
+# this week" summary on the site. rank/total here are the same finalised values
+# baked into leaderboard.json above (bonus-free re-rank applied pre-knockouts).
+history = {"days": []}
+if os.path.exists(HISTORY_OUTPUT):
+    try:
+        with open(HISTORY_OUTPUT, encoding="utf-8") as f:
+            loaded = json.load(f)
+        if isinstance(loaded, dict) and isinstance(loaded.get("days"), list):
+            history = loaded
+    except (json.JSONDecodeError, OSError):
+        history = {"days": []}
+
+snapshot = {
+    "date": today,
+    "standings": {
+        r["player"]: {"rank": r["rank"], "total": r["total"]}
+        for r in rows if r.get("player") is not None
+    },
+}
+days = [d for d in history["days"] if d.get("date") != today]
+days.append(snapshot)
+days.sort(key=lambda d: d.get("date") or "")
+history["days"] = days[-60:]          # ~2 months; the tournament runs ~6 weeks
+
+with open(HISTORY_OUTPUT, "w", encoding="utf-8") as f:
+    json.dump(history, f, ensure_ascii=False, indent=2)
+print(f"Exported {len(history['days'])} day(s) of standings -> {HISTORY_OUTPUT}")
+
+
+# Per-player answers per question.
+def bonus_answer(p, bid):
+    if bid == "B15":
+        return predicted_stage(p, "Sweden")
+    if bid == "B16":
+        return flat[p].get("B16_TopScorer")
+    return flat[p].get(bid)
+
+bonus_json = []
+for bd in bonus_defs:
+    key = answer_key.get(bd["id"], {"current": None, "status": "tbd", "normSet": set()})
+    counts = {}
+    for p in players:
+        a = bonus_answer(p, bd["id"])
+        a = "—" if a is None or str(a).strip() == "" else str(a).strip()
+        counts.setdefault(a, []).append(p)
+    size = NUMERIC_BUCKET.get(bd["id"])
+    if size:
+        # Group answers into numeric ranges (e.g. 230-239) for readability.
+        groups = {}                # label -> {"lo": int|None, "players": [...]}
+        for a, ppl in counts.items():
+            try:
+                v = int(float(str(a).replace(",", ".")))
+                lo = (v // size) * size
+                lbl = f"{lo}–{lo + size - 1}"
+            except (ValueError, TypeError):
+                lo, lbl = None, str(a)        # e.g. "—" (no pick) kept as-is
+            g = groups.setdefault(lbl, {"lo": lo, "players": []})
+            g["players"].extend(ppl)
+        tmp = []
+        for lbl, g in groups.items():
+            ppl = g["players"]
+            tmp.append((g["lo"], {
+                "answer": lbl,
+                "count": len(ppl),
+                "pct": round(100 * len(ppl) / n_players) if n_players else 0,
+                "players": ppl,
+                "hit": (bucket_hit(g["lo"], size, key, bd["id"])
+                        if g["lo"] is not None and key["status"] == "decided"
+                        and key["normSet"] else None),
+            }))
+        tmp.sort(key=lambda t: (t[0] is None, t[0] if t[0] is not None else 0))
+        answers = [d for _, d in tmp]
+    else:
+        answers = [{
+            "answer": a,
+            "count": len(ppl),
+            "pct": round(100 * len(ppl) / n_players) if n_players else 0,
+            "players": ppl,
+            "hit": answer_hit(bd["id"], a, key)
+                   if (key["status"] == "decided" and key["normSet"]) else None,
+        } for a, ppl in counts.items()]
+        answers.sort(key=lambda x: (-x["count"], x["answer"]))
+    bonus_json.append({**bd, "current": key["current"], "status": key["status"],
+                       "answers": answers})
+
+with open(STATS_OUTPUT, "w", encoding="utf-8") as f:
+    json.dump({"meta": meta, "players": players, "stages": STAGES,
+               "teams": teams_json, "bonus": bonus_json},
+              f, ensure_ascii=False, indent=2)
+print(f"Exported {len(teams_json)} teams, {len(bonus_json)} bonus questions -> {STATS_OUTPUT}")
+
+# ───────────────── players.json: per-player detail view ─────────────────
+# One record per player: their leaderboard standing plus every individual pick
+# (group scorelines with points earned, group-winner picks, the knockout bracket,
+# and bonus answers). Feeds the clickable player-detail panel on the site.
+
+ko_pts_map = {"R32": 3, "R16": 6, "QF": 9, "SF": 12, "Final": 15}
+lb_by_player = {r["player"]: r for r in rows}
+groups_present = sorted(groups_out)
+
+def bracket_picks(rs, key, actual_set, ptsval):
+    """A player's picks for one KO round: team, whether it actually reached the
+    round, and the points that pick is worth (0 until the team gets there)."""
+    out = []
+    for t in rs[key]:
+        if not t:
+            continue
+        hit = t in actual_set
+        out.append({"team": t, "hit": hit, "pts": ptsval if hit else 0})
+    return sorted(out, key=lambda x: x["team"])
+
+players_detail = {}
+for p in players:
+    d = flat[p]
+    lb = lb_by_player.get(p, {})
+
+    games = []
+    for gi, fx in enumerate(fixtures):
+        gs = f"GS{gi + 1:02d}"
+        ph, pa = as_int(d.get(gs + "_H")), as_int(d.get(gs + "_A"))
+        pts = (game_points(ph, pa, fx["hg"], fx["ag"])
+               if fx["played"] and ph is not None and pa is not None else None)
+        games.append({
+            "group": fx["group"], "home": fx["home"], "away": fx["away"],
+            "ph": ph, "pa": pa,
+            "played": fx["played"],
+            "hg": fx["hg"] if fx["played"] else None,
+            "ag": fx["ag"] if fx["played"] else None,
+            "pts": pts,
+        })
+
+    gw = []
+    for g in groups_present:
+        t = d.get(f"GW_{g}")
+        if t:
+            gw.append({"group": g, "team": t,
+                       "correct": (actual_winner.get(g) == t) if g in actual_winner else None})
+
+    rs = rounds_by_player[p]
+    bracket = {
+        "R32":   bracket_picks(rs, "R32", ko_round["R32"], 3),
+        "R16":   bracket_picks(rs, "R16", ko_round["R16"], 6),
+        "QF":    bracket_picks(rs, "QF", ko_round["QF"], 9),
+        "SF":    bracket_picks(rs, "SF", ko_round["SF"], 12),
+        "Final": bracket_picks(rs, "Final", ko_round["Final"], 15),
+    }
+    win, third = rs["Winner"], rs["Third"]
+    bracket["winner"] = ({"team": win, "hit": win in champion,
+                          "pts": 30 if win in champion else 0} if win else None)
+    bracket["third"] = ({"team": third, "hit": third in third_team,
+                         "pts": 15 if third in third_team else 0} if third else None)
+
+    bonus_ans = []
+    for bd in bonus_defs:
+        key = answer_key.get(bd["id"], {"status": "tbd", "normSet": set()})
+        a = bonus_answer(p, bd["id"])
+        a = None if a is None or str(a).strip() == "" else str(a).strip()
+        hit = (answer_hit(bd["id"], a, key)
+               if (a and key["status"] == "decided" and key["normSet"]) else None)
+        bonus_ans.append({"id": bd["id"], "q": bd["q"], "answer": a,
+                          "hit": hit, "pts": bd["pts"]})
+
+    players_detail[p] = {
+        "rank": lb.get("rank"), "total": lb.get("total"),
+        "group": lb.get("group"), "ko": lb.get("ko"), "bonus": lb.get("bonus"),
+        "pctMax": lb.get("pctMax"), "pointsToday": lb.get("pointsToday"),
+        "games": games, "gw": gw, "bracket": bracket, "bonusAns": bonus_ans,
+    }
+
+with open(PLAYERS_OUTPUT, "w", encoding="utf-8") as f:
+    json.dump({"meta": meta, "players": players, "detail": players_detail},
+              f, ensure_ascii=False, indent=2)
+print(f"Exported detail for {len(players_detail)} players -> {PLAYERS_OUTPUT}")
+
+# ───────────────── self-check vs official leaderboard ─────────────────
+
+for lbrow in rows:
+    p = lbrow["player"]
+    if p not in flat:
+        continue
+    gpts = 0
+    for gi, fx in enumerate(fixtures):
+        if not fx["played"]:
+            continue
+        ph = as_int(flat[p].get(f"GS{gi + 1:02d}_H"))
+        pa = as_int(flat[p].get(f"GS{gi + 1:02d}_A"))
+        if ph is not None and pa is not None:
+            gpts += game_points(ph, pa, fx["hg"], fx["ag"])
+    for g, w in actual_winner.items():
+        if flat[p].get(f"GW_{g}") == w:
+            gpts += 3
+    rs = rounds_by_player[p]
+    kpts = sum(len(rs[k] & ko_round[k]) * v for k, v in ko_pts_map.items())
+    kpts += 30 if rs["Winner"] in champion else 0
+    kpts += 15 if rs["Third"] in third_team else 0
+    if lbrow["group"] is not None and gpts != lbrow["group"]:
+        print(f"WARNING: {p} computed group pts {gpts} != leaderboard {lbrow['group']}")
+    if lbrow["ko"] is not None and kpts != lbrow["ko"]:
+        print(f"WARNING: {p} computed KO pts {kpts} != leaderboard {lbrow['ko']}")
+
+# ── OG social-preview image (og-image.png) ───────────────────────────────────
+OG_OUTPUT = "og-image.png"
+try:
+    from PIL import Image, ImageDraw, ImageFont as _IF
+    _W, _H = 1200, 630
+    img = Image.new("RGB", (_W, _H))
+    draw = ImageDraw.Draw(img)
+    # Navy-blue gradient background
+    for _y in range(_H):
+        _t = _y / _H
+        draw.rectangle([0, _y, _W, _y + 1], fill=(
+            int(26  + _t * (20  - 26)),
+            int(37  + _t * (42  - 37)),
+            int(96  + _t * (108 - 96)),
+        ))
+    # Gold accent bar at top
+    draw.rectangle([0, 0, _W, 10], fill=(255, 215, 0))
+    try:
+        _fp = "C:/Windows/Fonts/"
+        _big   = _IF.truetype(_fp + "arialbd.ttf", 72)
+        _med   = _IF.truetype(_fp + "arialbd.ttf", 44)
+        _reg   = _IF.truetype(_fp + "arial.ttf",   30)
+        _small = _IF.truetype(_fp + "arial.ttf",   22)
+    except OSError:
+        _big = _med = _reg = _small = _IF.load_default()
+    draw.text((80,  38), "FIFA World Cup 2026",   font=_reg,  fill=(180, 200, 255))
+    draw.text((80,  78), "OPX Live Leaderboard",  font=_big,  fill=(255, 215, 0))
+    draw.rectangle([80, 178, _W - 80, 181],        fill=(55, 72, 130))
+    draw.text((80, 192), f"Updated: {today}",      font=_small, fill=(140, 165, 220))
+    for _i, _r in enumerate(rows[:3]):
+        _col = [(255, 215, 0), (200, 200, 200), (200, 135, 65)][_i]
+        _y2  = 258 + _i * 108
+        draw.text((80,  _y2), f"#{_i + 1}", font=_med, fill=_col)
+        draw.text((168, _y2), str(_r.get("player", ""))[:22], font=_med, fill=(255, 255, 255))
+        draw.text((168, _y2 + 50), f"{_r.get('total', 0)} pts", font=_reg, fill=(155, 185, 235))
+    draw.rectangle([0, 600, _W, 630], fill=(12, 18, 55))
+    draw.text((80, 607), "andreaspanagos.github.io/WC-2026-OPX-leaderboard",
+              font=_small, fill=(110, 145, 200))
+    img.save(OG_OUTPUT, "PNG")
+    print(f"Generated {OG_OUTPUT}")
+except ImportError:
+    print(f"Pillow not found — skipping {OG_OUTPUT}  (pip install Pillow to enable)")
+except Exception as _og_err:
+    print(f"OG image skipped: {_og_err}")
