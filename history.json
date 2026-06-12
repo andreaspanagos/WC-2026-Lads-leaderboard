@@ -3,56 +3,56 @@
     {
       "date": "2026-06-12",
       "standings": {
-        "Calle Milebratt": {
+        "Hjalmar Sörensen": {
           "rank": 1,
+          "total": 9
+        },
+        "Erik Rystedt": {
+          "rank": 2,
+          "total": 7
+        },
+        "Calle Milebratt": {
+          "rank": 3,
           "total": 6
         },
         "Harald Johansson": {
-          "rank": 1,
+          "rank": 3,
           "total": 6
         },
-        "Hjalmar Sörensen": {
-          "rank": 1,
+        "Jakob Hägglund": {
+          "rank": 3,
           "total": 6
         },
-        "Erik Rystedt": {
-          "rank": 4,
-          "total": 4
+        "Love Hardeberg": {
+          "rank": 3,
+          "total": 6
         },
         "Gustaf de la Motte": {
-          "rank": 4,
+          "rank": 7,
           "total": 4
         },
         "Eddie Williamson": {
-          "rank": 6,
+          "rank": 8,
           "total": 3
         },
         "Fabian Boberg": {
-          "rank": 6,
-          "total": 3
-        },
-        "Jakob Hägglund": {
-          "rank": 6,
+          "rank": 8,
           "total": 3
         },
         "Jonathan Segelman": {
-          "rank": 6,
-          "total": 3
-        },
-        "Love Hardeberg": {
-          "rank": 6,
+          "rank": 8,
           "total": 3
         },
         "Lucas Johnson": {
-          "rank": 6,
+          "rank": 8,
           "total": 3
         },
         "Markus Ransved Nilsson": {
-          "rank": 6,
+          "rank": 8,
           "total": 3
         },
         "Oscar Holmbergh": {
-          "rank": 6,
+          "rank": 8,
           "total": 3
         },
         "Andreas Panagos": {

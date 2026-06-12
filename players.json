@@ -1,22 +1,22 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-12 22:36",
+    "lastRefresh": "2026-06-12 23:23",
     "maxPoints": 729,
     "participants": 16,
-    "maxAvailable": 6
+    "maxAvailable": 9
   },
   "players": [
     "Hjalmar Sörensen",
     "Lucas Johnson",
-    "Harald Johansson",
-    "Calle Milebratt",
     "Erik Rystedt",
-    "Gustaf de la Motte",
+    "Harald Johansson",
     "Jakob Hägglund",
+    "Calle Milebratt",
+    "Love Hardeberg",
+    "Gustaf de la Motte",
     "Eddie Williamson",
     "Fabian Boberg",
     "Jonathan Segelman",
-    "Love Hardeberg",
     "Markus Ransved Nilsson",
     "Oscar Holmbergh",
     "Andreas Panagos",
@@ -26,8 +26,8 @@
   "detail": {
     "Hjalmar Sörensen": {
       "rank": 1,
-      "total": 6,
-      "group": 6,
+      "total": 9,
+      "group": 9,
       "ko": 0,
       "bonus": 0,
       "pctMax": 1.0,
@@ -105,10 +105,10 @@
           "away": "Bosnia & Herzegovina",
           "ph": 1,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 3
         },
         {
           "group": "B",
@@ -1329,12 +1329,12 @@
       ]
     },
     "Lucas Johnson": {
-      "rank": 6,
+      "rank": 8,
       "total": 3,
       "group": 3,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.5,
+      "pctMax": 0.3333,
       "pointsToday": -5,
       "games": [
         {
@@ -1409,10 +1409,10 @@
           "away": "Bosnia & Herzegovina",
           "ph": 1,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "B",
@@ -2632,2621 +2632,13 @@
         }
       ]
     },
-    "Harald Johansson": {
-      "rank": 1,
-      "total": 6,
-      "group": 6,
-      "ko": 0,
-      "bonus": 0,
-      "pctMax": 1.0,
-      "pointsToday": 0,
-      "games": [
-        {
-          "group": "A",
-          "home": "Mexico",
-          "away": "South Africa",
-          "ph": 2,
-          "pa": 0,
-          "played": true,
-          "hg": 2,
-          "ag": 0,
-          "pts": 3
-        },
-        {
-          "group": "A",
-          "home": "Korea Republic",
-          "away": "Czechia",
-          "ph": 2,
-          "pa": 1,
-          "played": true,
-          "hg": 2,
-          "ag": 1,
-          "pts": 3
-        },
-        {
-          "group": "A",
-          "home": "Czechia",
-          "away": "South Africa",
-          "ph": 1,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "A",
-          "home": "Mexico",
-          "away": "Korea Republic",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "A",
-          "home": "Czechia",
-          "away": "Mexico",
-          "ph": 1,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "A",
-          "home": "South Africa",
-          "away": "Korea Republic",
-          "ph": 0,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "B",
-          "home": "Canada",
-          "away": "Bosnia & Herzegovina",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "B",
-          "home": "Qatar",
-          "away": "Switzerland",
-          "ph": 0,
-          "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "B",
-          "home": "Switzerland",
-          "away": "Bosnia & Herzegovina",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "B",
-          "home": "Canada",
-          "away": "Qatar",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "B",
-          "home": "Switzerland",
-          "away": "Canada",
-          "ph": 1,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "B",
-          "home": "Bosnia & Herzegovina",
-          "away": "Qatar",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "C",
-          "home": "Brazil",
-          "away": "Morocco",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "C",
-          "home": "Haiti",
-          "away": "Scotland",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "C",
-          "home": "Scotland",
-          "away": "Morocco",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "C",
-          "home": "Brazil",
-          "away": "Haiti",
-          "ph": 4,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "C",
-          "home": "Scotland",
-          "away": "Brazil",
-          "ph": 1,
-          "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "C",
-          "home": "Morocco",
-          "away": "Haiti",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "D",
-          "home": "USA",
-          "away": "Paraguay",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "D",
-          "home": "Australia",
-          "away": "Turkey",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "D",
-          "home": "USA",
-          "away": "Australia",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "D",
-          "home": "Turkey",
-          "away": "Paraguay",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "D",
-          "home": "Turkey",
-          "away": "USA",
-          "ph": 1,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "D",
-          "home": "Paraguay",
-          "away": "Australia",
-          "ph": 1,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "E",
-          "home": "Germany",
-          "away": "Curaçao",
-          "ph": 4,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "E",
-          "home": "Côte d'Ivoire",
-          "away": "Ecuador",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "E",
-          "home": "Germany",
-          "away": "Côte d'Ivoire",
-          "ph": 3,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "E",
-          "home": "Ecuador",
-          "away": "Curaçao",
-          "ph": 3,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "E",
-          "home": "Curaçao",
-          "away": "Côte d'Ivoire",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "E",
-          "home": "Ecuador",
-          "away": "Germany",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "F",
-          "home": "Netherlands",
-          "away": "Japan",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "F",
-          "home": "Sweden",
-          "away": "Tunisia",
-          "ph": 3,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "F",
-          "home": "Netherlands",
-          "away": "Sweden",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "F",
-          "home": "Tunisia",
-          "away": "Japan",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "F",
-          "home": "Japan",
-          "away": "Sweden",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "F",
-          "home": "Tunisia",
-          "away": "Netherlands",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "G",
-          "home": "Belgium",
-          "away": "Egypt",
-          "ph": 3,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "G",
-          "home": "Iran",
-          "away": "New Zealand",
-          "ph": 1,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "G",
-          "home": "Belgium",
-          "away": "Iran",
-          "ph": 3,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "G",
-          "home": "New Zealand",
-          "away": "Egypt",
-          "ph": 0,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "G",
-          "home": "Egypt",
-          "away": "Iran",
-          "ph": 1,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "G",
-          "home": "New Zealand",
-          "away": "Belgium",
-          "ph": 0,
-          "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "H",
-          "home": "Spain",
-          "away": "Cabo Verde",
-          "ph": 4,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "H",
-          "home": "Saudi Arabia",
-          "away": "Uruguay",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "H",
-          "home": "Spain",
-          "away": "Saudi Arabia",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "H",
-          "home": "Uruguay",
-          "away": "Cabo Verde",
-          "ph": 3,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "H",
-          "home": "Cabo Verde",
-          "away": "Saudi Arabia",
-          "ph": 0,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "H",
-          "home": "Uruguay",
-          "away": "Spain",
-          "ph": 1,
-          "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "I",
-          "home": "France",
-          "away": "Senegal",
-          "ph": 3,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "I",
-          "home": "Iraq",
-          "away": "Norway",
-          "ph": 0,
-          "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "I",
-          "home": "France",
-          "away": "Iraq",
-          "ph": 5,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "I",
-          "home": "Norway",
-          "away": "Senegal",
-          "ph": 3,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "I",
-          "home": "Norway",
-          "away": "France",
-          "ph": 1,
-          "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "I",
-          "home": "Senegal",
-          "away": "Iraq",
-          "ph": 1,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "J",
-          "home": "Argentina",
-          "away": "Algeria",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "J",
-          "home": "Austria",
-          "away": "Jordan",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "J",
-          "home": "Argentina",
-          "away": "Austria",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "J",
-          "home": "Jordan",
-          "away": "Algeria",
-          "ph": 0,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "J",
-          "home": "Algeria",
-          "away": "Austria",
-          "ph": 1,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "J",
-          "home": "Jordan",
-          "away": "Argentina",
-          "ph": 0,
-          "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "K",
-          "home": "Portugal",
-          "away": "Congo DR",
-          "ph": 3,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "K",
-          "home": "Uzbekistan",
-          "away": "Colombia",
-          "ph": 0,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "K",
-          "home": "Portugal",
-          "away": "Uzbekistan",
-          "ph": 3,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "K",
-          "home": "Colombia",
-          "away": "Congo DR",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "K",
-          "home": "Colombia",
-          "away": "Portugal",
-          "ph": 1,
-          "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "K",
-          "home": "Congo DR",
-          "away": "Uzbekistan",
-          "ph": 0,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "L",
-          "home": "England",
-          "away": "Croatia",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "L",
-          "home": "Ghana",
-          "away": "Panama",
-          "ph": 1,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "L",
-          "home": "England",
-          "away": "Ghana",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "L",
-          "home": "Panama",
-          "away": "Croatia",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "L",
-          "home": "Panama",
-          "away": "England",
-          "ph": 0,
-          "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "L",
-          "home": "Croatia",
-          "away": "Ghana",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        }
-      ],
-      "gw": [
-        {
-          "group": "A",
-          "team": "Mexico",
-          "correct": null
-        },
-        {
-          "group": "B",
-          "team": "Switzerland",
-          "correct": null
-        },
-        {
-          "group": "C",
-          "team": "Brazil",
-          "correct": null
-        },
-        {
-          "group": "D",
-          "team": "USA",
-          "correct": null
-        },
-        {
-          "group": "E",
-          "team": "Germany",
-          "correct": null
-        },
-        {
-          "group": "F",
-          "team": "Netherlands",
-          "correct": null
-        },
-        {
-          "group": "G",
-          "team": "Belgium",
-          "correct": null
-        },
-        {
-          "group": "H",
-          "team": "Spain",
-          "correct": null
-        },
-        {
-          "group": "I",
-          "team": "France",
-          "correct": null
-        },
-        {
-          "group": "J",
-          "team": "Argentina",
-          "correct": null
-        },
-        {
-          "group": "K",
-          "team": "Portugal",
-          "correct": null
-        },
-        {
-          "group": "L",
-          "team": "Croatia",
-          "correct": null
-        }
-      ],
-      "bracket": {
-        "R32": [
-          {
-            "team": "Algeria",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Argentina",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Austria",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Belgium",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Bosnia & Herzegovina",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Brazil",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Canada",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Colombia",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Croatia",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Czechia",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Côte d'Ivoire",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Ecuador",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Egypt",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "England",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "France",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Germany",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Ghana",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Japan",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Korea Republic",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Mexico",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Morocco",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Netherlands",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Norway",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Paraguay",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Portugal",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Scotland",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Spain",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Sweden",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Switzerland",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Turkey",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "USA",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Uruguay",
-            "hit": false,
-            "pts": 0
-          }
-        ],
-        "R16": [
-          {
-            "team": "Argentina",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Belgium",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Brazil",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Croatia",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "England",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "France",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Germany",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Korea Republic",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Netherlands",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Norway",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Portugal",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Scotland",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Spain",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Switzerland",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Turkey",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "USA",
-            "hit": false,
-            "pts": 0
-          }
-        ],
-        "QF": [
-          {
-            "team": "Argentina",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Belgium",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Brazil",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Croatia",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "France",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Netherlands",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Portugal",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Spain",
-            "hit": false,
-            "pts": 0
-          }
-        ],
-        "SF": [
-          {
-            "team": "Argentina",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Croatia",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "France",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Spain",
-            "hit": false,
-            "pts": 0
-          }
-        ],
-        "Final": [
-          {
-            "team": "Argentina",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Spain",
-            "hit": false,
-            "pts": 0
-          }
-        ],
-        "winner": {
-          "team": "Spain",
-          "hit": false,
-          "pts": 0
-        },
-        "third": {
-          "team": "France",
-          "hit": false,
-          "pts": 0
-        }
-      },
-      "bonusAns": [
-        {
-          "id": "B01",
-          "q": "Most goals scored, team (group stage only)",
-          "answer": "France",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B02",
-          "q": "Most goals conceded, team (group stage only)",
-          "answer": "Curaçao",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B03",
-          "q": "Total number of goals (all tournament)",
-          "answer": "273",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B04",
-          "q": "Golden Ball (Player of the tournament)",
-          "answer": "Lamine Yamal",
-          "hit": null,
-          "pts": 10
-        },
-        {
-          "id": "B05",
-          "q": "Golden Boot (Most goals, player)",
-          "answer": "Kylian Mbappé",
-          "hit": null,
-          "pts": 10
-        },
-        {
-          "id": "B06",
-          "q": "Most yellow cards, team",
-          "answer": "Argentina",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B07",
-          "q": "Fastest goal, minute",
-          "answer": "2",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B08",
-          "q": "Highest scoring single match (goals)",
-          "answer": "5",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B09",
-          "q": "Number of extra-time or penalty shoot-outs in knockout stage",
-          "answer": "6",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B10",
-          "q": "Final goes to extra time? (Yes/No)",
-          "answer": "Yes",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B11",
-          "q": "Host nation reaches R16? (Yes/No)",
-          "answer": "Yes",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B12",
-          "q": "First-timer reaches R32? (Yes/No)",
-          "answer": "No",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B13",
-          "q": "Most yellow cards, single match",
-          "answer": "6",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B15",
-          "q": "How far does Sweden go? (auto from bracket picks)",
-          "answer": "R32",
-          "hit": null,
-          "pts": 10
-        },
-        {
-          "id": "B16",
-          "q": "Sweden's top scorer (manual)",
-          "answer": "Viktor Gyökeres",
-          "hit": null,
-          "pts": 5
-        }
-      ]
-    },
-    "Calle Milebratt": {
-      "rank": 1,
-      "total": 6,
-      "group": 6,
-      "ko": 0,
-      "bonus": 0,
-      "pctMax": 1.0,
-      "pointsToday": 0,
-      "games": [
-        {
-          "group": "A",
-          "home": "Mexico",
-          "away": "South Africa",
-          "ph": 2,
-          "pa": 0,
-          "played": true,
-          "hg": 2,
-          "ag": 0,
-          "pts": 3
-        },
-        {
-          "group": "A",
-          "home": "Korea Republic",
-          "away": "Czechia",
-          "ph": 2,
-          "pa": 1,
-          "played": true,
-          "hg": 2,
-          "ag": 1,
-          "pts": 3
-        },
-        {
-          "group": "A",
-          "home": "Czechia",
-          "away": "South Africa",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "A",
-          "home": "Mexico",
-          "away": "Korea Republic",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "A",
-          "home": "Czechia",
-          "away": "Mexico",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "A",
-          "home": "South Africa",
-          "away": "Korea Republic",
-          "ph": 0,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "B",
-          "home": "Canada",
-          "away": "Bosnia & Herzegovina",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "B",
-          "home": "Qatar",
-          "away": "Switzerland",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "B",
-          "home": "Switzerland",
-          "away": "Bosnia & Herzegovina",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "B",
-          "home": "Canada",
-          "away": "Qatar",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "B",
-          "home": "Switzerland",
-          "away": "Canada",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "B",
-          "home": "Bosnia & Herzegovina",
-          "away": "Qatar",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "C",
-          "home": "Brazil",
-          "away": "Morocco",
-          "ph": 3,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "C",
-          "home": "Haiti",
-          "away": "Scotland",
-          "ph": 0,
-          "pa": 4,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "C",
-          "home": "Scotland",
-          "away": "Morocco",
-          "ph": 0,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "C",
-          "home": "Brazil",
-          "away": "Haiti",
-          "ph": 4,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "C",
-          "home": "Scotland",
-          "away": "Brazil",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "C",
-          "home": "Morocco",
-          "away": "Haiti",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "D",
-          "home": "USA",
-          "away": "Paraguay",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "D",
-          "home": "Australia",
-          "away": "Turkey",
-          "ph": 0,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "D",
-          "home": "USA",
-          "away": "Australia",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "D",
-          "home": "Turkey",
-          "away": "Paraguay",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "D",
-          "home": "Turkey",
-          "away": "USA",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "D",
-          "home": "Paraguay",
-          "away": "Australia",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "E",
-          "home": "Germany",
-          "away": "Curaçao",
-          "ph": 3,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "E",
-          "home": "Côte d'Ivoire",
-          "away": "Ecuador",
-          "ph": 0,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "E",
-          "home": "Germany",
-          "away": "Côte d'Ivoire",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "E",
-          "home": "Ecuador",
-          "away": "Curaçao",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "E",
-          "home": "Curaçao",
-          "away": "Côte d'Ivoire",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "E",
-          "home": "Ecuador",
-          "away": "Germany",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "F",
-          "home": "Netherlands",
-          "away": "Japan",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "F",
-          "home": "Sweden",
-          "away": "Tunisia",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "F",
-          "home": "Netherlands",
-          "away": "Sweden",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "F",
-          "home": "Tunisia",
-          "away": "Japan",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "F",
-          "home": "Japan",
-          "away": "Sweden",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "F",
-          "home": "Tunisia",
-          "away": "Netherlands",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "G",
-          "home": "Belgium",
-          "away": "Egypt",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "G",
-          "home": "Iran",
-          "away": "New Zealand",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "G",
-          "home": "Belgium",
-          "away": "Iran",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "G",
-          "home": "New Zealand",
-          "away": "Egypt",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "G",
-          "home": "Egypt",
-          "away": "Iran",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "G",
-          "home": "New Zealand",
-          "away": "Belgium",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "H",
-          "home": "Spain",
-          "away": "Cabo Verde",
-          "ph": 3,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "H",
-          "home": "Saudi Arabia",
-          "away": "Uruguay",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "H",
-          "home": "Spain",
-          "away": "Saudi Arabia",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "H",
-          "home": "Uruguay",
-          "away": "Cabo Verde",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "H",
-          "home": "Cabo Verde",
-          "away": "Saudi Arabia",
-          "ph": 0,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "H",
-          "home": "Uruguay",
-          "away": "Spain",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "I",
-          "home": "France",
-          "away": "Senegal",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "I",
-          "home": "Iraq",
-          "away": "Norway",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "I",
-          "home": "France",
-          "away": "Iraq",
-          "ph": 3,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "I",
-          "home": "Norway",
-          "away": "Senegal",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "I",
-          "home": "Norway",
-          "away": "France",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "I",
-          "home": "Senegal",
-          "away": "Iraq",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "J",
-          "home": "Argentina",
-          "away": "Algeria",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "J",
-          "home": "Austria",
-          "away": "Jordan",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "J",
-          "home": "Argentina",
-          "away": "Austria",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "J",
-          "home": "Jordan",
-          "away": "Algeria",
-          "ph": 0,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "J",
-          "home": "Algeria",
-          "away": "Austria",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "J",
-          "home": "Jordan",
-          "away": "Argentina",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "K",
-          "home": "Portugal",
-          "away": "Congo DR",
-          "ph": 3,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "K",
-          "home": "Uzbekistan",
-          "away": "Colombia",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "K",
-          "home": "Portugal",
-          "away": "Uzbekistan",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "K",
-          "home": "Colombia",
-          "away": "Congo DR",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "K",
-          "home": "Colombia",
-          "away": "Portugal",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "K",
-          "home": "Congo DR",
-          "away": "Uzbekistan",
-          "ph": 0,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "L",
-          "home": "England",
-          "away": "Croatia",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "L",
-          "home": "Ghana",
-          "away": "Panama",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "L",
-          "home": "England",
-          "away": "Ghana",
-          "ph": 3,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "L",
-          "home": "Panama",
-          "away": "Croatia",
-          "ph": 0,
-          "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "L",
-          "home": "Panama",
-          "away": "England",
-          "ph": 0,
-          "pa": 4,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "L",
-          "home": "Croatia",
-          "away": "Ghana",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        }
-      ],
-      "gw": [
-        {
-          "group": "A",
-          "team": "Mexico",
-          "correct": null
-        },
-        {
-          "group": "B",
-          "team": "Switzerland",
-          "correct": null
-        },
-        {
-          "group": "C",
-          "team": "Brazil",
-          "correct": null
-        },
-        {
-          "group": "D",
-          "team": "USA",
-          "correct": null
-        },
-        {
-          "group": "E",
-          "team": "Germany",
-          "correct": null
-        },
-        {
-          "group": "F",
-          "team": "Netherlands",
-          "correct": null
-        },
-        {
-          "group": "G",
-          "team": "Belgium",
-          "correct": null
-        },
-        {
-          "group": "H",
-          "team": "Spain",
-          "correct": null
-        },
-        {
-          "group": "I",
-          "team": "France",
-          "correct": null
-        },
-        {
-          "group": "J",
-          "team": "Argentina",
-          "correct": null
-        },
-        {
-          "group": "K",
-          "team": "Portugal",
-          "correct": null
-        },
-        {
-          "group": "L",
-          "team": "England",
-          "correct": null
-        }
-      ],
-      "bracket": {
-        "R32": [
-          {
-            "team": "Argentina",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Australia",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Austria",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Belgium",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Bosnia & Herzegovina",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Brazil",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Canada",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Colombia",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Croatia",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Czechia",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Côte d'Ivoire",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Ecuador",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Egypt",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "England",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "France",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Germany",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Iran",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Japan",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Korea Republic",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Mexico",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Morocco",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Netherlands",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Norway",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Portugal",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Scotland",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Senegal",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Spain",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Sweden",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Switzerland",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Turkey",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "USA",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Uruguay",
-            "hit": false,
-            "pts": 0
-          }
-        ],
-        "R16": [
-          {
-            "team": "Argentina",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Belgium",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Brazil",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Colombia",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "England",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "France",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Germany",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Korea Republic",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Mexico",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Netherlands",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Portugal",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Senegal",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Spain",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Switzerland",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Turkey",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "USA",
-            "hit": false,
-            "pts": 0
-          }
-        ],
-        "QF": [
-          {
-            "team": "Argentina",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Belgium",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Brazil",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "England",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "France",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Netherlands",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Portugal",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Spain",
-            "hit": false,
-            "pts": 0
-          }
-        ],
-        "SF": [
-          {
-            "team": "Argentina",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Brazil",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "France",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Spain",
-            "hit": false,
-            "pts": 0
-          }
-        ],
-        "Final": [
-          {
-            "team": "Argentina",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Spain",
-            "hit": false,
-            "pts": 0
-          }
-        ],
-        "winner": {
-          "team": "Spain",
-          "hit": false,
-          "pts": 0
-        },
-        "third": {
-          "team": "France",
-          "hit": false,
-          "pts": 0
-        }
-      },
-      "bonusAns": [
-        {
-          "id": "B01",
-          "q": "Most goals scored, team (group stage only)",
-          "answer": "Brazil",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B02",
-          "q": "Most goals conceded, team (group stage only)",
-          "answer": "Haiti",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B03",
-          "q": "Total number of goals (all tournament)",
-          "answer": "261",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B04",
-          "q": "Golden Ball (Player of the tournament)",
-          "answer": "Lamine Yamal",
-          "hit": null,
-          "pts": 10
-        },
-        {
-          "id": "B05",
-          "q": "Golden Boot (Most goals, player)",
-          "answer": "Kylian Mbappé",
-          "hit": null,
-          "pts": 10
-        },
-        {
-          "id": "B06",
-          "q": "Most yellow cards, team",
-          "answer": "Argentina",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B07",
-          "q": "Fastest goal, minute",
-          "answer": "3",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B08",
-          "q": "Highest scoring single match (goals)",
-          "answer": "4",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B09",
-          "q": "Number of extra-time or penalty shoot-outs in knockout stage",
-          "answer": "2",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B10",
-          "q": "Final goes to extra time? (Yes/No)",
-          "answer": "No",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B11",
-          "q": "Host nation reaches R16? (Yes/No)",
-          "answer": "Yes",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B12",
-          "q": "First-timer reaches R32? (Yes/No)",
-          "answer": "No",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B13",
-          "q": "Most yellow cards, single match",
-          "answer": "8",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B15",
-          "q": "How far does Sweden go? (auto from bracket picks)",
-          "answer": "R32",
-          "hit": null,
-          "pts": 10
-        },
-        {
-          "id": "B16",
-          "q": "Sweden's top scorer (manual)",
-          "answer": "Victor Gyöekeres",
-          "hit": null,
-          "pts": 5
-        }
-      ]
-    },
     "Erik Rystedt": {
-      "rank": 4,
-      "total": 4,
-      "group": 4,
+      "rank": 2,
+      "total": 7,
+      "group": 7,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.6667,
+      "pctMax": 0.7778,
       "pointsToday": 0,
       "games": [
         {
@@ -5321,10 +2713,10 @@
           "away": "Bosnia & Herzegovina",
           "ph": 1,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 3
         },
         {
           "group": "B",
@@ -6544,10 +3936,10 @@
         }
       ]
     },
-    "Gustaf de la Motte": {
-      "rank": 4,
-      "total": 4,
-      "group": 4,
+    "Harald Johansson": {
+      "rank": 3,
+      "total": 6,
+      "group": 6,
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.6667,
@@ -6568,19 +3960,19 @@
           "group": "A",
           "home": "Korea Republic",
           "away": "Czechia",
-          "ph": 1,
-          "pa": 0,
+          "ph": 2,
+          "pa": 1,
           "played": true,
           "hg": 2,
           "ag": 1,
-          "pts": 1
+          "pts": 3
         },
         {
           "group": "A",
           "home": "Czechia",
           "away": "South Africa",
           "ph": 1,
-          "pa": 1,
+          "pa": 0,
           "played": false,
           "hg": null,
           "ag": null,
@@ -6601,7 +3993,7 @@
           "group": "A",
           "home": "Czechia",
           "away": "Mexico",
-          "ph": 0,
+          "ph": 1,
           "pa": 1,
           "played": false,
           "hg": null,
@@ -6613,7 +4005,7 @@
           "home": "South Africa",
           "away": "Korea Republic",
           "ph": 0,
-          "pa": 2,
+          "pa": 1,
           "played": false,
           "hg": null,
           "ag": null,
@@ -6623,19 +4015,19 @@
           "group": "B",
           "home": "Canada",
           "away": "Bosnia & Herzegovina",
-          "ph": 1,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "ph": 2,
+          "pa": 1,
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "B",
           "home": "Qatar",
           "away": "Switzerland",
           "ph": 0,
-          "pa": 2,
+          "pa": 3,
           "played": false,
           "hg": null,
           "ag": null,
@@ -6645,7 +4037,7 @@
           "group": "B",
           "home": "Switzerland",
           "away": "Bosnia & Herzegovina",
-          "ph": 1,
+          "ph": 2,
           "pa": 0,
           "played": false,
           "hg": null,
@@ -6667,8 +4059,8 @@
           "group": "B",
           "home": "Switzerland",
           "away": "Canada",
-          "ph": 2,
-          "pa": 1,
+          "ph": 1,
+          "pa": 0,
           "played": false,
           "hg": null,
           "ag": null,
@@ -6678,7 +4070,7 @@
           "group": "B",
           "home": "Bosnia & Herzegovina",
           "away": "Qatar",
-          "ph": 1,
+          "ph": 2,
           "pa": 0,
           "played": false,
           "hg": null,
@@ -6690,7 +4082,7 @@
           "home": "Brazil",
           "away": "Morocco",
           "ph": 2,
-          "pa": 0,
+          "pa": 1,
           "played": false,
           "hg": null,
           "ag": null,
@@ -6722,7 +4114,7 @@
           "group": "C",
           "home": "Brazil",
           "away": "Haiti",
-          "ph": 5,
+          "ph": 4,
           "pa": 0,
           "played": false,
           "hg": null,
@@ -6734,7 +4126,7 @@
           "home": "Scotland",
           "away": "Brazil",
           "ph": 1,
-          "pa": 2,
+          "pa": 3,
           "played": false,
           "hg": null,
           "ag": null,
@@ -6766,7 +4158,7 @@
           "group": "D",
           "home": "Australia",
           "away": "Turkey",
-          "ph": 0,
+          "ph": 1,
           "pa": 2,
           "played": false,
           "hg": null,
@@ -6789,7 +4181,7 @@
           "home": "Turkey",
           "away": "Paraguay",
           "ph": 2,
-          "pa": 0,
+          "pa": 1,
           "played": false,
           "hg": null,
           "ag": null,
@@ -6800,7 +4192,7 @@
           "home": "Turkey",
           "away": "USA",
           "ph": 1,
-          "pa": 2,
+          "pa": 1,
           "played": false,
           "hg": null,
           "ag": null,
@@ -6821,7 +4213,7 @@
           "group": "E",
           "home": "Germany",
           "away": "Curaçao",
-          "ph": 3,
+          "ph": 4,
           "pa": 0,
           "played": false,
           "hg": null,
@@ -6833,7 +4225,7 @@
           "home": "Côte d'Ivoire",
           "away": "Ecuador",
           "ph": 0,
-          "pa": 1,
+          "pa": 2,
           "played": false,
           "hg": null,
           "ag": null,
@@ -6844,7 +4236,7 @@
           "home": "Germany",
           "away": "Côte d'Ivoire",
           "ph": 3,
-          "pa": 0,
+          "pa": 1,
           "played": false,
           "hg": null,
           "ag": null,
@@ -6854,7 +4246,7 @@
           "group": "E",
           "home": "Ecuador",
           "away": "Curaçao",
-          "ph": 2,
+          "ph": 3,
           "pa": 0,
           "played": false,
           "hg": null,
@@ -6865,8 +4257,8 @@
           "group": "E",
           "home": "Curaçao",
           "away": "Côte d'Ivoire",
-          "ph": 1,
-          "pa": 1,
+          "ph": 0,
+          "pa": 2,
           "played": false,
           "hg": null,
           "ag": null,
@@ -6898,7 +4290,7 @@
           "group": "F",
           "home": "Sweden",
           "away": "Tunisia",
-          "ph": 2,
+          "ph": 3,
           "pa": 1,
           "played": false,
           "hg": null,
@@ -6909,8 +4301,8 @@
           "group": "F",
           "home": "Netherlands",
           "away": "Sweden",
-          "ph": 3,
-          "pa": 2,
+          "ph": 2,
+          "pa": 1,
           "played": false,
           "hg": null,
           "ag": null,
@@ -6920,8 +4312,8 @@
           "group": "F",
           "home": "Tunisia",
           "away": "Japan",
-          "ph": 0,
-          "pa": 1,
+          "ph": 1,
+          "pa": 2,
           "played": false,
           "hg": null,
           "ag": null,
@@ -6931,8 +4323,8 @@
           "group": "F",
           "home": "Japan",
           "away": "Sweden",
-          "ph": 2,
-          "pa": 1,
+          "ph": 1,
+          "pa": 2,
           "played": false,
           "hg": null,
           "ag": null,
@@ -6943,7 +4335,7 @@
           "home": "Tunisia",
           "away": "Netherlands",
           "ph": 0,
-          "pa": 3,
+          "pa": 2,
           "played": false,
           "hg": null,
           "ag": null,
@@ -6953,8 +4345,8 @@
           "group": "G",
           "home": "Belgium",
           "away": "Egypt",
-          "ph": 2,
-          "pa": 0,
+          "ph": 3,
+          "pa": 1,
           "played": false,
           "hg": null,
           "ag": null,
@@ -6965,7 +4357,7 @@
           "home": "Iran",
           "away": "New Zealand",
           "ph": 1,
-          "pa": 0,
+          "pa": 1,
           "played": false,
           "hg": null,
           "ag": null,
@@ -6975,8 +4367,8 @@
           "group": "G",
           "home": "Belgium",
           "away": "Iran",
-          "ph": 2,
-          "pa": 1,
+          "ph": 3,
+          "pa": 0,
           "played": false,
           "hg": null,
           "ag": null,
@@ -6986,7 +4378,7 @@
           "group": "G",
           "home": "New Zealand",
           "away": "Egypt",
-          "ph": 1,
+          "ph": 0,
           "pa": 1,
           "played": false,
           "hg": null,
@@ -6998,7 +4390,7 @@
           "home": "Egypt",
           "away": "Iran",
           "ph": 1,
-          "pa": 0,
+          "pa": 1,
           "played": false,
           "hg": null,
           "ag": null,
@@ -7019,7 +4411,7 @@
           "group": "H",
           "home": "Spain",
           "away": "Cabo Verde",
-          "ph": 5,
+          "ph": 4,
           "pa": 0,
           "played": false,
           "hg": null,
@@ -7041,7 +4433,7 @@
           "group": "H",
           "home": "Spain",
           "away": "Saudi Arabia",
-          "ph": 4,
+          "ph": 2,
           "pa": 0,
           "played": false,
           "hg": null,
@@ -7052,8 +4444,8 @@
           "group": "H",
           "home": "Uruguay",
           "away": "Cabo Verde",
-          "ph": 2,
-          "pa": 1,
+          "ph": 3,
+          "pa": 0,
           "played": false,
           "hg": null,
           "ag": null,
@@ -7063,7 +4455,7 @@
           "group": "H",
           "home": "Cabo Verde",
           "away": "Saudi Arabia",
-          "ph": 1,
+          "ph": 0,
           "pa": 1,
           "played": false,
           "hg": null,
@@ -7086,7 +4478,7 @@
           "home": "France",
           "away": "Senegal",
           "ph": 3,
-          "pa": 1,
+          "pa": 0,
           "played": false,
           "hg": null,
           "ag": null,
@@ -7107,7 +4499,7 @@
           "group": "I",
           "home": "France",
           "away": "Iraq",
-          "ph": 4,
+          "ph": 5,
           "pa": 0,
           "played": false,
           "hg": null,
@@ -7119,7 +4511,7 @@
           "home": "Norway",
           "away": "Senegal",
           "ph": 3,
-          "pa": 2,
+          "pa": 1,
           "played": false,
           "hg": null,
           "ag": null,
@@ -7130,7 +4522,7 @@
           "home": "Norway",
           "away": "France",
           "ph": 1,
-          "pa": 2,
+          "pa": 3,
           "played": false,
           "hg": null,
           "ag": null,
@@ -7140,7 +4532,7 @@
           "group": "I",
           "home": "Senegal",
           "away": "Iraq",
-          "ph": 2,
+          "ph": 1,
           "pa": 0,
           "played": false,
           "hg": null,
@@ -7162,7 +4554,7 @@
           "group": "J",
           "home": "Austria",
           "away": "Jordan",
-          "ph": 1,
+          "ph": 2,
           "pa": 0,
           "played": false,
           "hg": null,
@@ -7174,7 +4566,7 @@
           "home": "Argentina",
           "away": "Austria",
           "ph": 2,
-          "pa": 0,
+          "pa": 1,
           "played": false,
           "hg": null,
           "ag": null,
@@ -7184,8 +4576,8 @@
           "group": "J",
           "home": "Jordan",
           "away": "Algeria",
-          "ph": 1,
-          "pa": 2,
+          "ph": 0,
+          "pa": 1,
           "played": false,
           "hg": null,
           "ag": null,
@@ -7196,7 +4588,7 @@
           "home": "Algeria",
           "away": "Austria",
           "ph": 1,
-          "pa": 2,
+          "pa": 1,
           "played": false,
           "hg": null,
           "ag": null,
@@ -7228,8 +4620,8 @@
           "group": "K",
           "home": "Uzbekistan",
           "away": "Colombia",
-          "ph": 1,
-          "pa": 2,
+          "ph": 0,
+          "pa": 1,
           "played": false,
           "hg": null,
           "ag": null,
@@ -7239,7 +4631,7 @@
           "group": "K",
           "home": "Portugal",
           "away": "Uzbekistan",
-          "ph": 2,
+          "ph": 3,
           "pa": 0,
           "played": false,
           "hg": null,
@@ -7250,7 +4642,7 @@
           "group": "K",
           "home": "Colombia",
           "away": "Congo DR",
-          "ph": 3,
+          "ph": 2,
           "pa": 0,
           "played": false,
           "hg": null,
@@ -7262,7 +4654,7 @@
           "home": "Colombia",
           "away": "Portugal",
           "ph": 1,
-          "pa": 2,
+          "pa": 3,
           "played": false,
           "hg": null,
           "ag": null,
@@ -7272,8 +4664,8 @@
           "group": "K",
           "home": "Congo DR",
           "away": "Uzbekistan",
-          "ph": 1,
-          "pa": 1,
+          "ph": 0,
+          "pa": 0,
           "played": false,
           "hg": null,
           "ag": null,
@@ -7283,8 +4675,8 @@
           "group": "L",
           "home": "England",
           "away": "Croatia",
-          "ph": 2,
-          "pa": 1,
+          "ph": 1,
+          "pa": 2,
           "played": false,
           "hg": null,
           "ag": null,
@@ -7294,8 +4686,8 @@
           "group": "L",
           "home": "Ghana",
           "away": "Panama",
-          "ph": 2,
-          "pa": 1,
+          "ph": 1,
+          "pa": 0,
           "played": false,
           "hg": null,
           "ag": null,
@@ -7305,7 +4697,7 @@
           "group": "L",
           "home": "England",
           "away": "Ghana",
-          "ph": 3,
+          "ph": 2,
           "pa": 0,
           "played": false,
           "hg": null,
@@ -7316,7 +4708,7 @@
           "group": "L",
           "home": "Panama",
           "away": "Croatia",
-          "ph": 1,
+          "ph": 0,
           "pa": 2,
           "played": false,
           "hg": null,
@@ -7328,7 +4720,7 @@
           "home": "Panama",
           "away": "England",
           "ph": 0,
-          "pa": 2,
+          "pa": 3,
           "played": false,
           "hg": null,
           "ag": null,
@@ -7339,7 +4731,7 @@
           "home": "Croatia",
           "away": "Ghana",
           "ph": 2,
-          "pa": 0,
+          "pa": 1,
           "played": false,
           "hg": null,
           "ag": null,
@@ -7404,7 +4796,7 @@
         },
         {
           "group": "L",
-          "team": "England",
+          "team": "Croatia",
           "correct": null
         }
       ],
@@ -7456,6 +4848,16 @@
             "pts": 0
           },
           {
+            "team": "Czechia",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Côte d'Ivoire",
+            "hit": false,
+            "pts": 0
+          },
+          {
             "team": "Ecuador",
             "hit": false,
             "pts": 0
@@ -7482,11 +4884,6 @@
           },
           {
             "team": "Ghana",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Iran",
             "hit": false,
             "pts": 0
           },
@@ -7532,11 +4929,6 @@
           },
           {
             "team": "Scotland",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Senegal",
             "hit": false,
             "pts": 0
           },
@@ -7588,12 +4980,7 @@
             "pts": 0
           },
           {
-            "team": "Canada",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Colombia",
+            "team": "Croatia",
             "hit": false,
             "pts": 0
           },
@@ -7613,7 +5000,7 @@
             "pts": 0
           },
           {
-            "team": "Mexico",
+            "team": "Korea Republic",
             "hit": false,
             "pts": 0
           },
@@ -7629,6 +5016,11 @@
           },
           {
             "team": "Portugal",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Scotland",
             "hit": false,
             "pts": 0
           },
@@ -7670,7 +5062,7 @@
             "pts": 0
           },
           {
-            "team": "England",
+            "team": "Croatia",
             "hit": false,
             "pts": 0
           },
@@ -7702,7 +5094,7 @@
             "pts": 0
           },
           {
-            "team": "England",
+            "team": "Croatia",
             "hit": false,
             "pts": 0
           },
@@ -7719,7 +5111,7 @@
         ],
         "Final": [
           {
-            "team": "England",
+            "team": "Argentina",
             "hit": false,
             "pts": 0
           },
@@ -7744,28 +5136,28 @@
         {
           "id": "B01",
           "q": "Most goals scored, team (group stage only)",
-          "answer": "Spain",
+          "answer": "France",
           "hit": null,
           "pts": 5
         },
         {
           "id": "B02",
           "q": "Most goals conceded, team (group stage only)",
-          "answer": "Haiti",
+          "answer": "Curaçao",
           "hit": null,
           "pts": 5
         },
         {
           "id": "B03",
           "q": "Total number of goals (all tournament)",
-          "answer": "266",
+          "answer": "273",
           "hit": null,
           "pts": 5
         },
         {
           "id": "B04",
           "q": "Golden Ball (Player of the tournament)",
-          "answer": "Harry Kane",
+          "answer": "Lamine Yamal",
           "hit": null,
           "pts": 10
         },
@@ -7800,7 +5192,7 @@
         {
           "id": "B09",
           "q": "Number of extra-time or penalty shoot-outs in knockout stage",
-          "answer": "11",
+          "answer": "6",
           "hit": null,
           "pts": 5
         },
@@ -7828,7 +5220,7 @@
         {
           "id": "B13",
           "q": "Most yellow cards, single match",
-          "answer": "8",
+          "answer": "6",
           "hit": null,
           "pts": 5
         },
@@ -7849,13 +5241,13 @@
       ]
     },
     "Jakob Hägglund": {
-      "rank": 6,
-      "total": 3,
-      "group": 3,
+      "rank": 3,
+      "total": 6,
+      "group": 6,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.5,
-      "pointsToday": 0,
+      "pctMax": 0.6667,
+      "pointsToday": 3,
       "games": [
         {
           "group": "A",
@@ -7929,10 +5321,10 @@
           "away": "Bosnia & Herzegovina",
           "ph": 1,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 3
         },
         {
           "group": "B",
@@ -9152,13 +6544,3925 @@
         }
       ]
     },
+    "Calle Milebratt": {
+      "rank": 3,
+      "total": 6,
+      "group": 6,
+      "ko": 0,
+      "bonus": 0,
+      "pctMax": 0.6667,
+      "pointsToday": 0,
+      "games": [
+        {
+          "group": "A",
+          "home": "Mexico",
+          "away": "South Africa",
+          "ph": 2,
+          "pa": 0,
+          "played": true,
+          "hg": 2,
+          "ag": 0,
+          "pts": 3
+        },
+        {
+          "group": "A",
+          "home": "Korea Republic",
+          "away": "Czechia",
+          "ph": 2,
+          "pa": 1,
+          "played": true,
+          "hg": 2,
+          "ag": 1,
+          "pts": 3
+        },
+        {
+          "group": "A",
+          "home": "Czechia",
+          "away": "South Africa",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "A",
+          "home": "Mexico",
+          "away": "Korea Republic",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "A",
+          "home": "Czechia",
+          "away": "Mexico",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "A",
+          "home": "South Africa",
+          "away": "Korea Republic",
+          "ph": 0,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "B",
+          "home": "Canada",
+          "away": "Bosnia & Herzegovina",
+          "ph": 2,
+          "pa": 1,
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
+        },
+        {
+          "group": "B",
+          "home": "Qatar",
+          "away": "Switzerland",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "B",
+          "home": "Switzerland",
+          "away": "Bosnia & Herzegovina",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "B",
+          "home": "Canada",
+          "away": "Qatar",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "B",
+          "home": "Switzerland",
+          "away": "Canada",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "B",
+          "home": "Bosnia & Herzegovina",
+          "away": "Qatar",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "C",
+          "home": "Brazil",
+          "away": "Morocco",
+          "ph": 3,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "C",
+          "home": "Haiti",
+          "away": "Scotland",
+          "ph": 0,
+          "pa": 4,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "C",
+          "home": "Scotland",
+          "away": "Morocco",
+          "ph": 0,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "C",
+          "home": "Brazil",
+          "away": "Haiti",
+          "ph": 4,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "C",
+          "home": "Scotland",
+          "away": "Brazil",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "C",
+          "home": "Morocco",
+          "away": "Haiti",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "D",
+          "home": "USA",
+          "away": "Paraguay",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "D",
+          "home": "Australia",
+          "away": "Turkey",
+          "ph": 0,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "D",
+          "home": "USA",
+          "away": "Australia",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "D",
+          "home": "Turkey",
+          "away": "Paraguay",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "D",
+          "home": "Turkey",
+          "away": "USA",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "D",
+          "home": "Paraguay",
+          "away": "Australia",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "E",
+          "home": "Germany",
+          "away": "Curaçao",
+          "ph": 3,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "E",
+          "home": "Côte d'Ivoire",
+          "away": "Ecuador",
+          "ph": 0,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "E",
+          "home": "Germany",
+          "away": "Côte d'Ivoire",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "E",
+          "home": "Ecuador",
+          "away": "Curaçao",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "E",
+          "home": "Curaçao",
+          "away": "Côte d'Ivoire",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "E",
+          "home": "Ecuador",
+          "away": "Germany",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "F",
+          "home": "Netherlands",
+          "away": "Japan",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "F",
+          "home": "Sweden",
+          "away": "Tunisia",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "F",
+          "home": "Netherlands",
+          "away": "Sweden",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "F",
+          "home": "Tunisia",
+          "away": "Japan",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "F",
+          "home": "Japan",
+          "away": "Sweden",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "F",
+          "home": "Tunisia",
+          "away": "Netherlands",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "G",
+          "home": "Belgium",
+          "away": "Egypt",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "G",
+          "home": "Iran",
+          "away": "New Zealand",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "G",
+          "home": "Belgium",
+          "away": "Iran",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "G",
+          "home": "New Zealand",
+          "away": "Egypt",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "G",
+          "home": "Egypt",
+          "away": "Iran",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "G",
+          "home": "New Zealand",
+          "away": "Belgium",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "H",
+          "home": "Spain",
+          "away": "Cabo Verde",
+          "ph": 3,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "H",
+          "home": "Saudi Arabia",
+          "away": "Uruguay",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "H",
+          "home": "Spain",
+          "away": "Saudi Arabia",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "H",
+          "home": "Uruguay",
+          "away": "Cabo Verde",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "H",
+          "home": "Cabo Verde",
+          "away": "Saudi Arabia",
+          "ph": 0,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "H",
+          "home": "Uruguay",
+          "away": "Spain",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "I",
+          "home": "France",
+          "away": "Senegal",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "I",
+          "home": "Iraq",
+          "away": "Norway",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "I",
+          "home": "France",
+          "away": "Iraq",
+          "ph": 3,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "I",
+          "home": "Norway",
+          "away": "Senegal",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "I",
+          "home": "Norway",
+          "away": "France",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "I",
+          "home": "Senegal",
+          "away": "Iraq",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "J",
+          "home": "Argentina",
+          "away": "Algeria",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "J",
+          "home": "Austria",
+          "away": "Jordan",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "J",
+          "home": "Argentina",
+          "away": "Austria",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "J",
+          "home": "Jordan",
+          "away": "Algeria",
+          "ph": 0,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "J",
+          "home": "Algeria",
+          "away": "Austria",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "J",
+          "home": "Jordan",
+          "away": "Argentina",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "K",
+          "home": "Portugal",
+          "away": "Congo DR",
+          "ph": 3,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "K",
+          "home": "Uzbekistan",
+          "away": "Colombia",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "K",
+          "home": "Portugal",
+          "away": "Uzbekistan",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "K",
+          "home": "Colombia",
+          "away": "Congo DR",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "K",
+          "home": "Colombia",
+          "away": "Portugal",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "K",
+          "home": "Congo DR",
+          "away": "Uzbekistan",
+          "ph": 0,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "L",
+          "home": "England",
+          "away": "Croatia",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "L",
+          "home": "Ghana",
+          "away": "Panama",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "L",
+          "home": "England",
+          "away": "Ghana",
+          "ph": 3,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "L",
+          "home": "Panama",
+          "away": "Croatia",
+          "ph": 0,
+          "pa": 3,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "L",
+          "home": "Panama",
+          "away": "England",
+          "ph": 0,
+          "pa": 4,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "L",
+          "home": "Croatia",
+          "away": "Ghana",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        }
+      ],
+      "gw": [
+        {
+          "group": "A",
+          "team": "Mexico",
+          "correct": null
+        },
+        {
+          "group": "B",
+          "team": "Switzerland",
+          "correct": null
+        },
+        {
+          "group": "C",
+          "team": "Brazil",
+          "correct": null
+        },
+        {
+          "group": "D",
+          "team": "USA",
+          "correct": null
+        },
+        {
+          "group": "E",
+          "team": "Germany",
+          "correct": null
+        },
+        {
+          "group": "F",
+          "team": "Netherlands",
+          "correct": null
+        },
+        {
+          "group": "G",
+          "team": "Belgium",
+          "correct": null
+        },
+        {
+          "group": "H",
+          "team": "Spain",
+          "correct": null
+        },
+        {
+          "group": "I",
+          "team": "France",
+          "correct": null
+        },
+        {
+          "group": "J",
+          "team": "Argentina",
+          "correct": null
+        },
+        {
+          "group": "K",
+          "team": "Portugal",
+          "correct": null
+        },
+        {
+          "group": "L",
+          "team": "England",
+          "correct": null
+        }
+      ],
+      "bracket": {
+        "R32": [
+          {
+            "team": "Argentina",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Australia",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Austria",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Belgium",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Bosnia & Herzegovina",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Brazil",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Canada",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Colombia",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Croatia",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Czechia",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Côte d'Ivoire",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Ecuador",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Egypt",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "England",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "France",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Germany",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Iran",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Japan",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Korea Republic",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Mexico",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Morocco",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Netherlands",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Norway",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Portugal",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Scotland",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Senegal",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Spain",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Sweden",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Switzerland",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Turkey",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "USA",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Uruguay",
+            "hit": false,
+            "pts": 0
+          }
+        ],
+        "R16": [
+          {
+            "team": "Argentina",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Belgium",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Brazil",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Colombia",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "England",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "France",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Germany",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Korea Republic",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Mexico",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Netherlands",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Portugal",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Senegal",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Spain",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Switzerland",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Turkey",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "USA",
+            "hit": false,
+            "pts": 0
+          }
+        ],
+        "QF": [
+          {
+            "team": "Argentina",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Belgium",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Brazil",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "England",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "France",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Netherlands",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Portugal",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Spain",
+            "hit": false,
+            "pts": 0
+          }
+        ],
+        "SF": [
+          {
+            "team": "Argentina",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Brazil",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "France",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Spain",
+            "hit": false,
+            "pts": 0
+          }
+        ],
+        "Final": [
+          {
+            "team": "Argentina",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Spain",
+            "hit": false,
+            "pts": 0
+          }
+        ],
+        "winner": {
+          "team": "Spain",
+          "hit": false,
+          "pts": 0
+        },
+        "third": {
+          "team": "France",
+          "hit": false,
+          "pts": 0
+        }
+      },
+      "bonusAns": [
+        {
+          "id": "B01",
+          "q": "Most goals scored, team (group stage only)",
+          "answer": "Brazil",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B02",
+          "q": "Most goals conceded, team (group stage only)",
+          "answer": "Haiti",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B03",
+          "q": "Total number of goals (all tournament)",
+          "answer": "261",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B04",
+          "q": "Golden Ball (Player of the tournament)",
+          "answer": "Lamine Yamal",
+          "hit": null,
+          "pts": 10
+        },
+        {
+          "id": "B05",
+          "q": "Golden Boot (Most goals, player)",
+          "answer": "Kylian Mbappé",
+          "hit": null,
+          "pts": 10
+        },
+        {
+          "id": "B06",
+          "q": "Most yellow cards, team",
+          "answer": "Argentina",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B07",
+          "q": "Fastest goal, minute",
+          "answer": "3",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B08",
+          "q": "Highest scoring single match (goals)",
+          "answer": "4",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B09",
+          "q": "Number of extra-time or penalty shoot-outs in knockout stage",
+          "answer": "2",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B10",
+          "q": "Final goes to extra time? (Yes/No)",
+          "answer": "No",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B11",
+          "q": "Host nation reaches R16? (Yes/No)",
+          "answer": "Yes",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B12",
+          "q": "First-timer reaches R32? (Yes/No)",
+          "answer": "No",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B13",
+          "q": "Most yellow cards, single match",
+          "answer": "8",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B15",
+          "q": "How far does Sweden go? (auto from bracket picks)",
+          "answer": "R32",
+          "hit": null,
+          "pts": 10
+        },
+        {
+          "id": "B16",
+          "q": "Sweden's top scorer (manual)",
+          "answer": "Victor Gyöekeres",
+          "hit": null,
+          "pts": 5
+        }
+      ]
+    },
+    "Love Hardeberg": {
+      "rank": 3,
+      "total": 6,
+      "group": 6,
+      "ko": 0,
+      "bonus": 0,
+      "pctMax": 0.6667,
+      "pointsToday": 3,
+      "games": [
+        {
+          "group": "A",
+          "home": "Mexico",
+          "away": "South Africa",
+          "ph": 2,
+          "pa": 0,
+          "played": true,
+          "hg": 2,
+          "ag": 0,
+          "pts": 3
+        },
+        {
+          "group": "A",
+          "home": "Korea Republic",
+          "away": "Czechia",
+          "ph": 1,
+          "pa": 1,
+          "played": true,
+          "hg": 2,
+          "ag": 1,
+          "pts": 0
+        },
+        {
+          "group": "A",
+          "home": "Czechia",
+          "away": "South Africa",
+          "ph": 1,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "A",
+          "home": "Mexico",
+          "away": "Korea Republic",
+          "ph": 1,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "A",
+          "home": "Czechia",
+          "away": "Mexico",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "A",
+          "home": "South Africa",
+          "away": "Korea Republic",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "B",
+          "home": "Canada",
+          "away": "Bosnia & Herzegovina",
+          "ph": 1,
+          "pa": 1,
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 3
+        },
+        {
+          "group": "B",
+          "home": "Qatar",
+          "away": "Switzerland",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "B",
+          "home": "Switzerland",
+          "away": "Bosnia & Herzegovina",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "B",
+          "home": "Canada",
+          "away": "Qatar",
+          "ph": 1,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "B",
+          "home": "Switzerland",
+          "away": "Canada",
+          "ph": 1,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "B",
+          "home": "Bosnia & Herzegovina",
+          "away": "Qatar",
+          "ph": 1,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "C",
+          "home": "Brazil",
+          "away": "Morocco",
+          "ph": 1,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "C",
+          "home": "Haiti",
+          "away": "Scotland",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "C",
+          "home": "Scotland",
+          "away": "Morocco",
+          "ph": 0,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "C",
+          "home": "Brazil",
+          "away": "Haiti",
+          "ph": 3,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "C",
+          "home": "Scotland",
+          "away": "Brazil",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "C",
+          "home": "Morocco",
+          "away": "Haiti",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "D",
+          "home": "USA",
+          "away": "Paraguay",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "D",
+          "home": "Australia",
+          "away": "Turkey",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "D",
+          "home": "USA",
+          "away": "Australia",
+          "ph": 1,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "D",
+          "home": "Turkey",
+          "away": "Paraguay",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "D",
+          "home": "Turkey",
+          "away": "USA",
+          "ph": 1,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "D",
+          "home": "Paraguay",
+          "away": "Australia",
+          "ph": 1,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "E",
+          "home": "Germany",
+          "away": "Curaçao",
+          "ph": 5,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "E",
+          "home": "Côte d'Ivoire",
+          "away": "Ecuador",
+          "ph": 0,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "E",
+          "home": "Germany",
+          "away": "Côte d'Ivoire",
+          "ph": 3,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "E",
+          "home": "Ecuador",
+          "away": "Curaçao",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "E",
+          "home": "Curaçao",
+          "away": "Côte d'Ivoire",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "E",
+          "home": "Ecuador",
+          "away": "Germany",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "F",
+          "home": "Netherlands",
+          "away": "Japan",
+          "ph": 1,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "F",
+          "home": "Sweden",
+          "away": "Tunisia",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "F",
+          "home": "Netherlands",
+          "away": "Sweden",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "F",
+          "home": "Tunisia",
+          "away": "Japan",
+          "ph": 0,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "F",
+          "home": "Japan",
+          "away": "Sweden",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "F",
+          "home": "Tunisia",
+          "away": "Netherlands",
+          "ph": 0,
+          "pa": 3,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "G",
+          "home": "Belgium",
+          "away": "Egypt",
+          "ph": 3,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "G",
+          "home": "Iran",
+          "away": "New Zealand",
+          "ph": 1,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "G",
+          "home": "Belgium",
+          "away": "Iran",
+          "ph": 3,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "G",
+          "home": "New Zealand",
+          "away": "Egypt",
+          "ph": 1,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "G",
+          "home": "Egypt",
+          "away": "Iran",
+          "ph": 1,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "G",
+          "home": "New Zealand",
+          "away": "Belgium",
+          "ph": 0,
+          "pa": 3,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "H",
+          "home": "Spain",
+          "away": "Cabo Verde",
+          "ph": 5,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "H",
+          "home": "Saudi Arabia",
+          "away": "Uruguay",
+          "ph": 0,
+          "pa": 3,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "H",
+          "home": "Spain",
+          "away": "Saudi Arabia",
+          "ph": 3,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "H",
+          "home": "Uruguay",
+          "away": "Cabo Verde",
+          "ph": 3,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "H",
+          "home": "Cabo Verde",
+          "away": "Saudi Arabia",
+          "ph": 1,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "H",
+          "home": "Uruguay",
+          "away": "Spain",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "I",
+          "home": "France",
+          "away": "Senegal",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "I",
+          "home": "Iraq",
+          "away": "Norway",
+          "ph": 0,
+          "pa": 3,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "I",
+          "home": "France",
+          "away": "Iraq",
+          "ph": 3,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "I",
+          "home": "Norway",
+          "away": "Senegal",
+          "ph": 2,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "I",
+          "home": "Norway",
+          "away": "France",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "I",
+          "home": "Senegal",
+          "away": "Iraq",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "J",
+          "home": "Argentina",
+          "away": "Algeria",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "J",
+          "home": "Austria",
+          "away": "Jordan",
+          "ph": 3,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "J",
+          "home": "Argentina",
+          "away": "Austria",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "J",
+          "home": "Jordan",
+          "away": "Algeria",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "J",
+          "home": "Algeria",
+          "away": "Austria",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "J",
+          "home": "Jordan",
+          "away": "Argentina",
+          "ph": 0,
+          "pa": 3,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "K",
+          "home": "Portugal",
+          "away": "Congo DR",
+          "ph": 3,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "K",
+          "home": "Uzbekistan",
+          "away": "Colombia",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "K",
+          "home": "Portugal",
+          "away": "Uzbekistan",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "K",
+          "home": "Colombia",
+          "away": "Congo DR",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "K",
+          "home": "Colombia",
+          "away": "Portugal",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "K",
+          "home": "Congo DR",
+          "away": "Uzbekistan",
+          "ph": 1,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "L",
+          "home": "England",
+          "away": "Croatia",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "L",
+          "home": "Ghana",
+          "away": "Panama",
+          "ph": 1,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "L",
+          "home": "England",
+          "away": "Ghana",
+          "ph": 3,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "L",
+          "home": "Panama",
+          "away": "Croatia",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "L",
+          "home": "Panama",
+          "away": "England",
+          "ph": 0,
+          "pa": 3,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "L",
+          "home": "Croatia",
+          "away": "Ghana",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        }
+      ],
+      "gw": [
+        {
+          "group": "A",
+          "team": "Mexico",
+          "correct": null
+        },
+        {
+          "group": "B",
+          "team": "Switzerland",
+          "correct": null
+        },
+        {
+          "group": "C",
+          "team": "Brazil",
+          "correct": null
+        },
+        {
+          "group": "D",
+          "team": "Turkey",
+          "correct": null
+        },
+        {
+          "group": "E",
+          "team": "Germany",
+          "correct": null
+        },
+        {
+          "group": "F",
+          "team": "Netherlands",
+          "correct": null
+        },
+        {
+          "group": "G",
+          "team": "Belgium",
+          "correct": null
+        },
+        {
+          "group": "H",
+          "team": "Spain",
+          "correct": null
+        },
+        {
+          "group": "I",
+          "team": "France",
+          "correct": null
+        },
+        {
+          "group": "J",
+          "team": "Argentina",
+          "correct": null
+        },
+        {
+          "group": "K",
+          "team": "Portugal",
+          "correct": null
+        },
+        {
+          "group": "L",
+          "team": "England",
+          "correct": null
+        }
+      ],
+      "bracket": {
+        "R32": [
+          {
+            "team": "Algeria",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Argentina",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Austria",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Belgium",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Bosnia & Herzegovina",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Brazil",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Canada",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Colombia",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Croatia",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Czechia",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Côte d'Ivoire",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Ecuador",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Egypt",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "England",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "France",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Germany",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Iran",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Japan",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Korea Republic",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Mexico",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Morocco",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Netherlands",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Norway",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Portugal",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Scotland",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Senegal",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Spain",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Sweden",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Switzerland",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Turkey",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "USA",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Uruguay",
+            "hit": false,
+            "pts": 0
+          }
+        ],
+        "R16": [
+          {
+            "team": "Argentina",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Belgium",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Brazil",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Colombia",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "England",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "France",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Germany",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Korea Republic",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Mexico",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Netherlands",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Norway",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Portugal",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Spain",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Switzerland",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Turkey",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "USA",
+            "hit": false,
+            "pts": 0
+          }
+        ],
+        "QF": [
+          {
+            "team": "Argentina",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Belgium",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Brazil",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "England",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "France",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Netherlands",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Portugal",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Spain",
+            "hit": false,
+            "pts": 0
+          }
+        ],
+        "SF": [
+          {
+            "team": "Argentina",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Brazil",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "France",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Spain",
+            "hit": false,
+            "pts": 0
+          }
+        ],
+        "Final": [
+          {
+            "team": "Argentina",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Spain",
+            "hit": false,
+            "pts": 0
+          }
+        ],
+        "winner": {
+          "team": "Spain",
+          "hit": false,
+          "pts": 0
+        },
+        "third": {
+          "team": "France",
+          "hit": false,
+          "pts": 0
+        }
+      },
+      "bonusAns": [
+        {
+          "id": "B01",
+          "q": "Most goals scored, team (group stage only)",
+          "answer": "Germany",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B02",
+          "q": "Most goals conceded, team (group stage only)",
+          "answer": "Curaçao",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B03",
+          "q": "Total number of goals (all tournament)",
+          "answer": "262",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B04",
+          "q": "Golden Ball (Player of the tournament)",
+          "answer": "Pedri (Spain)",
+          "hit": null,
+          "pts": 10
+        },
+        {
+          "id": "B05",
+          "q": "Golden Boot (Most goals, player)",
+          "answer": "Kylian Mbappé (France)",
+          "hit": null,
+          "pts": 10
+        },
+        {
+          "id": "B06",
+          "q": "Most yellow cards, team",
+          "answer": "Argentina",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B07",
+          "q": "Fastest goal, minute",
+          "answer": "1",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B08",
+          "q": "Highest scoring single match (goals)",
+          "answer": "5",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B09",
+          "q": "Number of extra-time or penalty shoot-outs in knockout stage",
+          "answer": "7",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B10",
+          "q": "Final goes to extra time? (Yes/No)",
+          "answer": "Yes",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B11",
+          "q": "Host nation reaches R16? (Yes/No)",
+          "answer": "Yes",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B12",
+          "q": "First-timer reaches R32? (Yes/No)",
+          "answer": "No",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B13",
+          "q": "Most yellow cards, single match",
+          "answer": "10",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B15",
+          "q": "How far does Sweden go? (auto from bracket picks)",
+          "answer": "R32",
+          "hit": null,
+          "pts": 10
+        },
+        {
+          "id": "B16",
+          "q": "Sweden's top scorer (manual)",
+          "answer": "Viktor Gyökeres",
+          "hit": null,
+          "pts": 5
+        }
+      ]
+    },
+    "Gustaf de la Motte": {
+      "rank": 7,
+      "total": 4,
+      "group": 4,
+      "ko": 0,
+      "bonus": 0,
+      "pctMax": 0.4444,
+      "pointsToday": 0,
+      "games": [
+        {
+          "group": "A",
+          "home": "Mexico",
+          "away": "South Africa",
+          "ph": 2,
+          "pa": 0,
+          "played": true,
+          "hg": 2,
+          "ag": 0,
+          "pts": 3
+        },
+        {
+          "group": "A",
+          "home": "Korea Republic",
+          "away": "Czechia",
+          "ph": 1,
+          "pa": 0,
+          "played": true,
+          "hg": 2,
+          "ag": 1,
+          "pts": 1
+        },
+        {
+          "group": "A",
+          "home": "Czechia",
+          "away": "South Africa",
+          "ph": 1,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "A",
+          "home": "Mexico",
+          "away": "Korea Republic",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "A",
+          "home": "Czechia",
+          "away": "Mexico",
+          "ph": 0,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "A",
+          "home": "South Africa",
+          "away": "Korea Republic",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "B",
+          "home": "Canada",
+          "away": "Bosnia & Herzegovina",
+          "ph": 1,
+          "pa": 0,
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
+        },
+        {
+          "group": "B",
+          "home": "Qatar",
+          "away": "Switzerland",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "B",
+          "home": "Switzerland",
+          "away": "Bosnia & Herzegovina",
+          "ph": 1,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "B",
+          "home": "Canada",
+          "away": "Qatar",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "B",
+          "home": "Switzerland",
+          "away": "Canada",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "B",
+          "home": "Bosnia & Herzegovina",
+          "away": "Qatar",
+          "ph": 1,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "C",
+          "home": "Brazil",
+          "away": "Morocco",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "C",
+          "home": "Haiti",
+          "away": "Scotland",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "C",
+          "home": "Scotland",
+          "away": "Morocco",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "C",
+          "home": "Brazil",
+          "away": "Haiti",
+          "ph": 5,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "C",
+          "home": "Scotland",
+          "away": "Brazil",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "C",
+          "home": "Morocco",
+          "away": "Haiti",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "D",
+          "home": "USA",
+          "away": "Paraguay",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "D",
+          "home": "Australia",
+          "away": "Turkey",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "D",
+          "home": "USA",
+          "away": "Australia",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "D",
+          "home": "Turkey",
+          "away": "Paraguay",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "D",
+          "home": "Turkey",
+          "away": "USA",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "D",
+          "home": "Paraguay",
+          "away": "Australia",
+          "ph": 1,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "E",
+          "home": "Germany",
+          "away": "Curaçao",
+          "ph": 3,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "E",
+          "home": "Côte d'Ivoire",
+          "away": "Ecuador",
+          "ph": 0,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "E",
+          "home": "Germany",
+          "away": "Côte d'Ivoire",
+          "ph": 3,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "E",
+          "home": "Ecuador",
+          "away": "Curaçao",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "E",
+          "home": "Curaçao",
+          "away": "Côte d'Ivoire",
+          "ph": 1,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "E",
+          "home": "Ecuador",
+          "away": "Germany",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "F",
+          "home": "Netherlands",
+          "away": "Japan",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "F",
+          "home": "Sweden",
+          "away": "Tunisia",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "F",
+          "home": "Netherlands",
+          "away": "Sweden",
+          "ph": 3,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "F",
+          "home": "Tunisia",
+          "away": "Japan",
+          "ph": 0,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "F",
+          "home": "Japan",
+          "away": "Sweden",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "F",
+          "home": "Tunisia",
+          "away": "Netherlands",
+          "ph": 0,
+          "pa": 3,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "G",
+          "home": "Belgium",
+          "away": "Egypt",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "G",
+          "home": "Iran",
+          "away": "New Zealand",
+          "ph": 1,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "G",
+          "home": "Belgium",
+          "away": "Iran",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "G",
+          "home": "New Zealand",
+          "away": "Egypt",
+          "ph": 1,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "G",
+          "home": "Egypt",
+          "away": "Iran",
+          "ph": 1,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "G",
+          "home": "New Zealand",
+          "away": "Belgium",
+          "ph": 0,
+          "pa": 3,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "H",
+          "home": "Spain",
+          "away": "Cabo Verde",
+          "ph": 5,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "H",
+          "home": "Saudi Arabia",
+          "away": "Uruguay",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "H",
+          "home": "Spain",
+          "away": "Saudi Arabia",
+          "ph": 4,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "H",
+          "home": "Uruguay",
+          "away": "Cabo Verde",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "H",
+          "home": "Cabo Verde",
+          "away": "Saudi Arabia",
+          "ph": 1,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "H",
+          "home": "Uruguay",
+          "away": "Spain",
+          "ph": 1,
+          "pa": 3,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "I",
+          "home": "France",
+          "away": "Senegal",
+          "ph": 3,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "I",
+          "home": "Iraq",
+          "away": "Norway",
+          "ph": 0,
+          "pa": 3,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "I",
+          "home": "France",
+          "away": "Iraq",
+          "ph": 4,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "I",
+          "home": "Norway",
+          "away": "Senegal",
+          "ph": 3,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "I",
+          "home": "Norway",
+          "away": "France",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "I",
+          "home": "Senegal",
+          "away": "Iraq",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "J",
+          "home": "Argentina",
+          "away": "Algeria",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "J",
+          "home": "Austria",
+          "away": "Jordan",
+          "ph": 1,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "J",
+          "home": "Argentina",
+          "away": "Austria",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "J",
+          "home": "Jordan",
+          "away": "Algeria",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "J",
+          "home": "Algeria",
+          "away": "Austria",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "J",
+          "home": "Jordan",
+          "away": "Argentina",
+          "ph": 0,
+          "pa": 3,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "K",
+          "home": "Portugal",
+          "away": "Congo DR",
+          "ph": 3,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "K",
+          "home": "Uzbekistan",
+          "away": "Colombia",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "K",
+          "home": "Portugal",
+          "away": "Uzbekistan",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "K",
+          "home": "Colombia",
+          "away": "Congo DR",
+          "ph": 3,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "K",
+          "home": "Colombia",
+          "away": "Portugal",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "K",
+          "home": "Congo DR",
+          "away": "Uzbekistan",
+          "ph": 1,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "L",
+          "home": "England",
+          "away": "Croatia",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "L",
+          "home": "Ghana",
+          "away": "Panama",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "L",
+          "home": "England",
+          "away": "Ghana",
+          "ph": 3,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "L",
+          "home": "Panama",
+          "away": "Croatia",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "L",
+          "home": "Panama",
+          "away": "England",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        },
+        {
+          "group": "L",
+          "home": "Croatia",
+          "away": "Ghana",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null
+        }
+      ],
+      "gw": [
+        {
+          "group": "A",
+          "team": "Mexico",
+          "correct": null
+        },
+        {
+          "group": "B",
+          "team": "Switzerland",
+          "correct": null
+        },
+        {
+          "group": "C",
+          "team": "Brazil",
+          "correct": null
+        },
+        {
+          "group": "D",
+          "team": "USA",
+          "correct": null
+        },
+        {
+          "group": "E",
+          "team": "Germany",
+          "correct": null
+        },
+        {
+          "group": "F",
+          "team": "Netherlands",
+          "correct": null
+        },
+        {
+          "group": "G",
+          "team": "Belgium",
+          "correct": null
+        },
+        {
+          "group": "H",
+          "team": "Spain",
+          "correct": null
+        },
+        {
+          "group": "I",
+          "team": "France",
+          "correct": null
+        },
+        {
+          "group": "J",
+          "team": "Argentina",
+          "correct": null
+        },
+        {
+          "group": "K",
+          "team": "Portugal",
+          "correct": null
+        },
+        {
+          "group": "L",
+          "team": "England",
+          "correct": null
+        }
+      ],
+      "bracket": {
+        "R32": [
+          {
+            "team": "Algeria",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Argentina",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Austria",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Belgium",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Bosnia & Herzegovina",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Brazil",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Canada",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Colombia",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Croatia",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Ecuador",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Egypt",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "England",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "France",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Germany",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Ghana",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Iran",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Japan",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Korea Republic",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Mexico",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Morocco",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Netherlands",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Norway",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Paraguay",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Portugal",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Scotland",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Senegal",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Spain",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Sweden",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Switzerland",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Turkey",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "USA",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Uruguay",
+            "hit": false,
+            "pts": 0
+          }
+        ],
+        "R16": [
+          {
+            "team": "Argentina",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Belgium",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Brazil",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Canada",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Colombia",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "England",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "France",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Germany",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Mexico",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Netherlands",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Norway",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Portugal",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Spain",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Switzerland",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Turkey",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "USA",
+            "hit": false,
+            "pts": 0
+          }
+        ],
+        "QF": [
+          {
+            "team": "Argentina",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Belgium",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Brazil",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "England",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "France",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Netherlands",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Portugal",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Spain",
+            "hit": false,
+            "pts": 0
+          }
+        ],
+        "SF": [
+          {
+            "team": "Argentina",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "England",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "France",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Spain",
+            "hit": false,
+            "pts": 0
+          }
+        ],
+        "Final": [
+          {
+            "team": "England",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Spain",
+            "hit": false,
+            "pts": 0
+          }
+        ],
+        "winner": {
+          "team": "Spain",
+          "hit": false,
+          "pts": 0
+        },
+        "third": {
+          "team": "France",
+          "hit": false,
+          "pts": 0
+        }
+      },
+      "bonusAns": [
+        {
+          "id": "B01",
+          "q": "Most goals scored, team (group stage only)",
+          "answer": "Spain",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B02",
+          "q": "Most goals conceded, team (group stage only)",
+          "answer": "Haiti",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B03",
+          "q": "Total number of goals (all tournament)",
+          "answer": "266",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B04",
+          "q": "Golden Ball (Player of the tournament)",
+          "answer": "Harry Kane",
+          "hit": null,
+          "pts": 10
+        },
+        {
+          "id": "B05",
+          "q": "Golden Boot (Most goals, player)",
+          "answer": "Kylian Mbappé",
+          "hit": null,
+          "pts": 10
+        },
+        {
+          "id": "B06",
+          "q": "Most yellow cards, team",
+          "answer": "Argentina",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B07",
+          "q": "Fastest goal, minute",
+          "answer": "2",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B08",
+          "q": "Highest scoring single match (goals)",
+          "answer": "5",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B09",
+          "q": "Number of extra-time or penalty shoot-outs in knockout stage",
+          "answer": "11",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B10",
+          "q": "Final goes to extra time? (Yes/No)",
+          "answer": "Yes",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B11",
+          "q": "Host nation reaches R16? (Yes/No)",
+          "answer": "Yes",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B12",
+          "q": "First-timer reaches R32? (Yes/No)",
+          "answer": "No",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B13",
+          "q": "Most yellow cards, single match",
+          "answer": "8",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B15",
+          "q": "How far does Sweden go? (auto from bracket picks)",
+          "answer": "R32",
+          "hit": null,
+          "pts": 10
+        },
+        {
+          "id": "B16",
+          "q": "Sweden's top scorer (manual)",
+          "answer": "Viktor Gyökeres",
+          "hit": null,
+          "pts": 5
+        }
+      ]
+    },
     "Eddie Williamson": {
-      "rank": 6,
+      "rank": 8,
       "total": 3,
       "group": 3,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.5,
+      "pctMax": 0.3333,
       "pointsToday": 0,
       "games": [
         {
@@ -9233,10 +10537,10 @@
           "away": "Bosnia & Herzegovina",
           "ph": 1,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "B",
@@ -10457,12 +11761,12 @@
       ]
     },
     "Fabian Boberg": {
-      "rank": 6,
+      "rank": 8,
       "total": 3,
       "group": 3,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.5,
+      "pctMax": 0.3333,
       "pointsToday": 0,
       "games": [
         {
@@ -10537,10 +11841,10 @@
           "away": "Bosnia & Herzegovina",
           "ph": 2,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "B",
@@ -11761,12 +13065,12 @@
       ]
     },
     "Jonathan Segelman": {
-      "rank": 6,
+      "rank": 8,
       "total": 3,
       "group": 3,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.5,
+      "pctMax": 0.3333,
       "pointsToday": 0,
       "games": [
         {
@@ -11841,10 +13145,10 @@
           "away": "Bosnia & Herzegovina",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "B",
@@ -13064,1317 +14368,13 @@
         }
       ]
     },
-    "Love Hardeberg": {
-      "rank": 6,
-      "total": 3,
-      "group": 3,
-      "ko": 0,
-      "bonus": 0,
-      "pctMax": 0.5,
-      "pointsToday": 0,
-      "games": [
-        {
-          "group": "A",
-          "home": "Mexico",
-          "away": "South Africa",
-          "ph": 2,
-          "pa": 0,
-          "played": true,
-          "hg": 2,
-          "ag": 0,
-          "pts": 3
-        },
-        {
-          "group": "A",
-          "home": "Korea Republic",
-          "away": "Czechia",
-          "ph": 1,
-          "pa": 1,
-          "played": true,
-          "hg": 2,
-          "ag": 1,
-          "pts": 0
-        },
-        {
-          "group": "A",
-          "home": "Czechia",
-          "away": "South Africa",
-          "ph": 1,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "A",
-          "home": "Mexico",
-          "away": "Korea Republic",
-          "ph": 1,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "A",
-          "home": "Czechia",
-          "away": "Mexico",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "A",
-          "home": "South Africa",
-          "away": "Korea Republic",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "B",
-          "home": "Canada",
-          "away": "Bosnia & Herzegovina",
-          "ph": 1,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "B",
-          "home": "Qatar",
-          "away": "Switzerland",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "B",
-          "home": "Switzerland",
-          "away": "Bosnia & Herzegovina",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "B",
-          "home": "Canada",
-          "away": "Qatar",
-          "ph": 1,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "B",
-          "home": "Switzerland",
-          "away": "Canada",
-          "ph": 1,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "B",
-          "home": "Bosnia & Herzegovina",
-          "away": "Qatar",
-          "ph": 1,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "C",
-          "home": "Brazil",
-          "away": "Morocco",
-          "ph": 1,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "C",
-          "home": "Haiti",
-          "away": "Scotland",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "C",
-          "home": "Scotland",
-          "away": "Morocco",
-          "ph": 0,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "C",
-          "home": "Brazil",
-          "away": "Haiti",
-          "ph": 3,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "C",
-          "home": "Scotland",
-          "away": "Brazil",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "C",
-          "home": "Morocco",
-          "away": "Haiti",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "D",
-          "home": "USA",
-          "away": "Paraguay",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "D",
-          "home": "Australia",
-          "away": "Turkey",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "D",
-          "home": "USA",
-          "away": "Australia",
-          "ph": 1,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "D",
-          "home": "Turkey",
-          "away": "Paraguay",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "D",
-          "home": "Turkey",
-          "away": "USA",
-          "ph": 1,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "D",
-          "home": "Paraguay",
-          "away": "Australia",
-          "ph": 1,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "E",
-          "home": "Germany",
-          "away": "Curaçao",
-          "ph": 5,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "E",
-          "home": "Côte d'Ivoire",
-          "away": "Ecuador",
-          "ph": 0,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "E",
-          "home": "Germany",
-          "away": "Côte d'Ivoire",
-          "ph": 3,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "E",
-          "home": "Ecuador",
-          "away": "Curaçao",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "E",
-          "home": "Curaçao",
-          "away": "Côte d'Ivoire",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "E",
-          "home": "Ecuador",
-          "away": "Germany",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "F",
-          "home": "Netherlands",
-          "away": "Japan",
-          "ph": 1,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "F",
-          "home": "Sweden",
-          "away": "Tunisia",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "F",
-          "home": "Netherlands",
-          "away": "Sweden",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "F",
-          "home": "Tunisia",
-          "away": "Japan",
-          "ph": 0,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "F",
-          "home": "Japan",
-          "away": "Sweden",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "F",
-          "home": "Tunisia",
-          "away": "Netherlands",
-          "ph": 0,
-          "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "G",
-          "home": "Belgium",
-          "away": "Egypt",
-          "ph": 3,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "G",
-          "home": "Iran",
-          "away": "New Zealand",
-          "ph": 1,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "G",
-          "home": "Belgium",
-          "away": "Iran",
-          "ph": 3,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "G",
-          "home": "New Zealand",
-          "away": "Egypt",
-          "ph": 1,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "G",
-          "home": "Egypt",
-          "away": "Iran",
-          "ph": 1,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "G",
-          "home": "New Zealand",
-          "away": "Belgium",
-          "ph": 0,
-          "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "H",
-          "home": "Spain",
-          "away": "Cabo Verde",
-          "ph": 5,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "H",
-          "home": "Saudi Arabia",
-          "away": "Uruguay",
-          "ph": 0,
-          "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "H",
-          "home": "Spain",
-          "away": "Saudi Arabia",
-          "ph": 3,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "H",
-          "home": "Uruguay",
-          "away": "Cabo Verde",
-          "ph": 3,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "H",
-          "home": "Cabo Verde",
-          "away": "Saudi Arabia",
-          "ph": 1,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "H",
-          "home": "Uruguay",
-          "away": "Spain",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "I",
-          "home": "France",
-          "away": "Senegal",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "I",
-          "home": "Iraq",
-          "away": "Norway",
-          "ph": 0,
-          "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "I",
-          "home": "France",
-          "away": "Iraq",
-          "ph": 3,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "I",
-          "home": "Norway",
-          "away": "Senegal",
-          "ph": 2,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "I",
-          "home": "Norway",
-          "away": "France",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "I",
-          "home": "Senegal",
-          "away": "Iraq",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "J",
-          "home": "Argentina",
-          "away": "Algeria",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "J",
-          "home": "Austria",
-          "away": "Jordan",
-          "ph": 3,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "J",
-          "home": "Argentina",
-          "away": "Austria",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "J",
-          "home": "Jordan",
-          "away": "Algeria",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "J",
-          "home": "Algeria",
-          "away": "Austria",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "J",
-          "home": "Jordan",
-          "away": "Argentina",
-          "ph": 0,
-          "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "K",
-          "home": "Portugal",
-          "away": "Congo DR",
-          "ph": 3,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "K",
-          "home": "Uzbekistan",
-          "away": "Colombia",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "K",
-          "home": "Portugal",
-          "away": "Uzbekistan",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "K",
-          "home": "Colombia",
-          "away": "Congo DR",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "K",
-          "home": "Colombia",
-          "away": "Portugal",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "K",
-          "home": "Congo DR",
-          "away": "Uzbekistan",
-          "ph": 1,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "L",
-          "home": "England",
-          "away": "Croatia",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "L",
-          "home": "Ghana",
-          "away": "Panama",
-          "ph": 1,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "L",
-          "home": "England",
-          "away": "Ghana",
-          "ph": 3,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "L",
-          "home": "Panama",
-          "away": "Croatia",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "L",
-          "home": "Panama",
-          "away": "England",
-          "ph": 0,
-          "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        },
-        {
-          "group": "L",
-          "home": "Croatia",
-          "away": "Ghana",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
-        }
-      ],
-      "gw": [
-        {
-          "group": "A",
-          "team": "Mexico",
-          "correct": null
-        },
-        {
-          "group": "B",
-          "team": "Switzerland",
-          "correct": null
-        },
-        {
-          "group": "C",
-          "team": "Brazil",
-          "correct": null
-        },
-        {
-          "group": "D",
-          "team": "Turkey",
-          "correct": null
-        },
-        {
-          "group": "E",
-          "team": "Germany",
-          "correct": null
-        },
-        {
-          "group": "F",
-          "team": "Netherlands",
-          "correct": null
-        },
-        {
-          "group": "G",
-          "team": "Belgium",
-          "correct": null
-        },
-        {
-          "group": "H",
-          "team": "Spain",
-          "correct": null
-        },
-        {
-          "group": "I",
-          "team": "France",
-          "correct": null
-        },
-        {
-          "group": "J",
-          "team": "Argentina",
-          "correct": null
-        },
-        {
-          "group": "K",
-          "team": "Portugal",
-          "correct": null
-        },
-        {
-          "group": "L",
-          "team": "England",
-          "correct": null
-        }
-      ],
-      "bracket": {
-        "R32": [
-          {
-            "team": "Algeria",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Argentina",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Austria",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Belgium",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Bosnia & Herzegovina",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Brazil",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Canada",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Colombia",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Croatia",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Czechia",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Côte d'Ivoire",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Ecuador",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Egypt",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "England",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "France",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Germany",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Iran",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Japan",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Korea Republic",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Mexico",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Morocco",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Netherlands",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Norway",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Portugal",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Scotland",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Senegal",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Spain",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Sweden",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Switzerland",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Turkey",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "USA",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Uruguay",
-            "hit": false,
-            "pts": 0
-          }
-        ],
-        "R16": [
-          {
-            "team": "Argentina",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Belgium",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Brazil",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Colombia",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "England",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "France",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Germany",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Korea Republic",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Mexico",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Netherlands",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Norway",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Portugal",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Spain",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Switzerland",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Turkey",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "USA",
-            "hit": false,
-            "pts": 0
-          }
-        ],
-        "QF": [
-          {
-            "team": "Argentina",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Belgium",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Brazil",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "England",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "France",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Netherlands",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Portugal",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Spain",
-            "hit": false,
-            "pts": 0
-          }
-        ],
-        "SF": [
-          {
-            "team": "Argentina",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Brazil",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "France",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Spain",
-            "hit": false,
-            "pts": 0
-          }
-        ],
-        "Final": [
-          {
-            "team": "Argentina",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Spain",
-            "hit": false,
-            "pts": 0
-          }
-        ],
-        "winner": {
-          "team": "Spain",
-          "hit": false,
-          "pts": 0
-        },
-        "third": {
-          "team": "France",
-          "hit": false,
-          "pts": 0
-        }
-      },
-      "bonusAns": [
-        {
-          "id": "B01",
-          "q": "Most goals scored, team (group stage only)",
-          "answer": "Germany",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B02",
-          "q": "Most goals conceded, team (group stage only)",
-          "answer": "Curaçao",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B03",
-          "q": "Total number of goals (all tournament)",
-          "answer": "262",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B04",
-          "q": "Golden Ball (Player of the tournament)",
-          "answer": "Pedri (Spain)",
-          "hit": null,
-          "pts": 10
-        },
-        {
-          "id": "B05",
-          "q": "Golden Boot (Most goals, player)",
-          "answer": "Kylian Mbappé (France)",
-          "hit": null,
-          "pts": 10
-        },
-        {
-          "id": "B06",
-          "q": "Most yellow cards, team",
-          "answer": "Argentina",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B07",
-          "q": "Fastest goal, minute",
-          "answer": "1",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B08",
-          "q": "Highest scoring single match (goals)",
-          "answer": "5",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B09",
-          "q": "Number of extra-time or penalty shoot-outs in knockout stage",
-          "answer": "7",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B10",
-          "q": "Final goes to extra time? (Yes/No)",
-          "answer": "Yes",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B11",
-          "q": "Host nation reaches R16? (Yes/No)",
-          "answer": "Yes",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B12",
-          "q": "First-timer reaches R32? (Yes/No)",
-          "answer": "No",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B13",
-          "q": "Most yellow cards, single match",
-          "answer": "10",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B15",
-          "q": "How far does Sweden go? (auto from bracket picks)",
-          "answer": "R32",
-          "hit": null,
-          "pts": 10
-        },
-        {
-          "id": "B16",
-          "q": "Sweden's top scorer (manual)",
-          "answer": "Viktor Gyökeres",
-          "hit": null,
-          "pts": 5
-        }
-      ]
-    },
     "Markus Ransved Nilsson": {
-      "rank": 6,
+      "rank": 8,
       "total": 3,
       "group": 3,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.5,
+      "pctMax": 0.3333,
       "pointsToday": 0,
       "games": [
         {
@@ -14449,10 +14449,10 @@
           "away": "Bosnia & Herzegovina",
           "ph": 1,
           "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "B",
@@ -15673,12 +15673,12 @@
       ]
     },
     "Oscar Holmbergh": {
-      "rank": 6,
+      "rank": 8,
       "total": 3,
       "group": 3,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.5,
+      "pctMax": 0.3333,
       "pointsToday": 0,
       "games": [
         {
@@ -15753,10 +15753,10 @@
           "away": "Bosnia & Herzegovina",
           "ph": 0,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "B",
@@ -16982,7 +16982,7 @@
       "group": 2,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.3333,
+      "pctMax": 0.2222,
       "pointsToday": 0,
       "games": [
         {
@@ -17057,10 +17057,10 @@
           "away": "Bosnia & Herzegovina",
           "ph": 0,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "B",
@@ -18286,7 +18286,7 @@
       "group": 1,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.1667,
+      "pctMax": 0.1111,
       "pointsToday": 0,
       "games": [
         {
@@ -18361,10 +18361,10 @@
           "away": "Bosnia & Herzegovina",
           "ph": 0,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "B",
@@ -19590,7 +19590,7 @@
       "group": 1,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.1667,
+      "pctMax": 0.1111,
       "pointsToday": 0,
       "games": [
         {
@@ -19665,10 +19665,10 @@
           "away": "Bosnia & Herzegovina",
           "ph": 2,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0
         },
         {
           "group": "B",
