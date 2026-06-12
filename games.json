@@ -1,14 +1,15 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-12 21:11",
+    "lastRefresh": "2026-06-12 22:36",
     "maxPoints": 729,
-    "participants": 15
+    "participants": 16
   },
   "players": [
     "Hjalmar Sörensen",
     "Lucas Johnson",
     "Harald Johansson",
     "Calle Milebratt",
+    "Erik Rystedt",
     "Gustaf de la Motte",
     "Jakob Hägglund",
     "Eddie Williamson",
@@ -29,13 +30,14 @@
       "winnerPicks": [
         {
           "team": "Mexico",
-          "count": 13,
-          "pct": 87,
+          "count": 14,
+          "pct": 88,
           "players": [
             "Hjalmar Sörensen",
             "Lucas Johnson",
             "Harald Johansson",
             "Calle Milebratt",
+            "Erik Rystedt",
             "Gustaf de la Motte",
             "Jakob Hägglund",
             "Eddie Williamson",
@@ -51,7 +53,7 @@
         {
           "team": "Czechia",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Markus Ransved Nilsson"
           ],
@@ -60,7 +62,7 @@
         {
           "team": "Korea Republic",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Andreas Panagos"
           ],
@@ -81,7 +83,7 @@
             {
               "score": "2–0",
               "count": 12,
-              "pct": 80,
+              "pct": 75,
               "pts": 3,
               "players": [
                 "Hjalmar Sörensen",
@@ -101,12 +103,21 @@
             {
               "score": "3–0",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": 1,
               "players": [
                 "Andreas Panagos",
                 "Wilmer",
                 "Axel Dillner"
+              ]
+            },
+            {
+              "score": "1–0",
+              "count": 1,
+              "pct": 6,
+              "pts": 1,
+              "players": [
+                "Erik Rystedt"
               ]
             }
           ],
@@ -125,7 +136,7 @@
             {
               "score": "1–1",
               "count": 8,
-              "pct": 53,
+              "pct": 50,
               "pts": 0,
               "players": [
                 "Lucas Johnson",
@@ -140,19 +151,20 @@
             },
             {
               "score": "2–1",
-              "count": 3,
-              "pct": 20,
+              "count": 4,
+              "pct": 25,
               "pts": 3,
               "players": [
                 "Hjalmar Sörensen",
                 "Harald Johansson",
-                "Calle Milebratt"
+                "Calle Milebratt",
+                "Erik Rystedt"
               ]
             },
             {
               "score": "0–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": 0,
               "players": [
                 "Oscar Holmbergh"
@@ -161,7 +173,7 @@
             {
               "score": "1–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": 1,
               "players": [
                 "Gustaf de la Motte"
@@ -170,7 +182,7 @@
             {
               "score": "1–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": 0,
               "players": [
                 "Markus Ransved Nilsson"
@@ -179,7 +191,7 @@
             {
               "score": "3–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": 1,
               "players": [
                 "Andreas Panagos"
@@ -197,11 +209,12 @@
           "scorelines": [
             {
               "score": "2–0",
-              "count": 4,
-              "pct": 27,
+              "count": 5,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Calle Milebratt",
+                "Erik Rystedt",
                 "Eddie Williamson",
                 "Markus Ransved Nilsson",
                 "Axel Dillner"
@@ -210,7 +223,7 @@
             {
               "score": "2–1",
               "count": 4,
-              "pct": 27,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -222,7 +235,7 @@
             {
               "score": "1–0",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Harald Johansson",
@@ -233,7 +246,7 @@
             {
               "score": "1–1",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -243,7 +256,7 @@
             {
               "score": "0–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Jonathan Segelman"
@@ -252,7 +265,7 @@
             {
               "score": "3–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -270,12 +283,13 @@
           "scorelines": [
             {
               "score": "2–1",
-              "count": 6,
-              "pct": 40,
+              "count": 7,
+              "pct": 44,
               "pts": null,
               "players": [
                 "Harald Johansson",
                 "Calle Milebratt",
+                "Erik Rystedt",
                 "Gustaf de la Motte",
                 "Jakob Hägglund",
                 "Jonathan Segelman",
@@ -285,7 +299,7 @@
             {
               "score": "1–1",
               "count": 5,
-              "pct": 33,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Love Hardeberg",
@@ -298,7 +312,7 @@
             {
               "score": "1–0",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -308,7 +322,7 @@
             {
               "score": "2–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Fabian Boberg"
@@ -317,7 +331,7 @@
             {
               "score": "2–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Eddie Williamson"
@@ -336,7 +350,7 @@
             {
               "score": "1–1",
               "count": 5,
-              "pct": 33,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Harald Johansson",
@@ -347,9 +361,21 @@
               ]
             },
             {
+              "score": "1–2",
+              "count": 4,
+              "pct": 25,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Erik Rystedt",
+                "Fabian Boberg",
+                "Love Hardeberg"
+              ]
+            },
+            {
               "score": "0–2",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Jonathan Segelman",
@@ -358,20 +384,9 @@
               ]
             },
             {
-              "score": "1–2",
-              "count": 3,
-              "pct": 20,
-              "pts": null,
-              "players": [
-                "Calle Milebratt",
-                "Fabian Boberg",
-                "Love Hardeberg"
-              ]
-            },
-            {
               "score": "0–1",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -381,7 +396,7 @@
             {
               "score": "0–3",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen"
@@ -390,7 +405,7 @@
             {
               "score": "2–3",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -409,7 +424,7 @@
             {
               "score": "0–1",
               "count": 7,
-              "pct": 47,
+              "pct": 44,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -424,7 +439,7 @@
             {
               "score": "0–2",
               "count": 4,
-              "pct": 27,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Gustaf de la Motte",
@@ -435,10 +450,11 @@
             },
             {
               "score": "1–2",
-              "count": 3,
-              "pct": 20,
+              "count": 4,
+              "pct": 25,
               "pts": null,
               "players": [
+                "Erik Rystedt",
                 "Fabian Boberg",
                 "Wilmer",
                 "Axel Dillner"
@@ -447,7 +463,7 @@
             {
               "score": "0–3",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Andreas Panagos"
@@ -466,7 +482,7 @@
         {
           "team": "Switzerland",
           "count": 14,
-          "pct": 93,
+          "pct": 88,
           "players": [
             "Hjalmar Sörensen",
             "Lucas Johnson",
@@ -487,9 +503,10 @@
         },
         {
           "team": "Canada",
-          "count": 1,
-          "pct": 7,
+          "count": 2,
+          "pct": 12,
           "players": [
+            "Erik Rystedt",
             "Axel Dillner"
           ],
           "correct": null
@@ -504,9 +521,21 @@
           "actual": null,
           "scorelines": [
             {
+              "score": "1–1",
+              "count": 4,
+              "pct": 25,
+              "pts": null,
+              "players": [
+                "Hjalmar Sörensen",
+                "Erik Rystedt",
+                "Jakob Hägglund",
+                "Love Hardeberg"
+              ]
+            },
+            {
               "score": "2–1",
               "count": 4,
-              "pct": 27,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Harald Johansson",
@@ -518,7 +547,7 @@
             {
               "score": "1–0",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -527,20 +556,9 @@
               ]
             },
             {
-              "score": "1–1",
-              "count": 3,
-              "pct": 20,
-              "pts": null,
-              "players": [
-                "Hjalmar Sörensen",
-                "Jakob Hägglund",
-                "Love Hardeberg"
-              ]
-            },
-            {
               "score": "0–2",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas Panagos",
@@ -550,7 +568,7 @@
             {
               "score": "0–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -559,7 +577,7 @@
             {
               "score": "1–3",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Markus Ransved Nilsson"
@@ -568,7 +586,7 @@
             {
               "score": "2–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Jonathan Segelman"
@@ -586,11 +604,12 @@
           "scorelines": [
             {
               "score": "0–2",
-              "count": 6,
-              "pct": 40,
+              "count": 7,
+              "pct": 44,
               "pts": null,
               "players": [
                 "Calle Milebratt",
+                "Erik Rystedt",
                 "Gustaf de la Motte",
                 "Fabian Boberg",
                 "Jonathan Segelman",
@@ -601,7 +620,7 @@
             {
               "score": "0–3",
               "count": 5,
-              "pct": 33,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -614,7 +633,7 @@
             {
               "score": "0–1",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas Panagos",
@@ -624,7 +643,7 @@
             {
               "score": "0–4",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -633,7 +652,7 @@
             {
               "score": "1–3",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen"
@@ -652,7 +671,7 @@
             {
               "score": "2–0",
               "count": 7,
-              "pct": 47,
+              "pct": 44,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -665,9 +684,21 @@
               ]
             },
             {
+              "score": "2–1",
+              "count": 4,
+              "pct": 25,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Erik Rystedt",
+                "Love Hardeberg",
+                "Wilmer"
+              ]
+            },
+            {
               "score": "1–0",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Gustaf de la Motte",
@@ -676,20 +707,9 @@
               ]
             },
             {
-              "score": "2–1",
-              "count": 3,
-              "pct": 20,
-              "pts": null,
-              "players": [
-                "Lucas Johnson",
-                "Love Hardeberg",
-                "Wilmer"
-              ]
-            },
-            {
               "score": "3–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -698,7 +718,7 @@
             {
               "score": "3–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Andreas Panagos"
@@ -717,7 +737,7 @@
             {
               "score": "2–0",
               "count": 6,
-              "pct": 40,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -731,7 +751,7 @@
             {
               "score": "1–0",
               "count": 4,
-              "pct": 27,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -742,10 +762,11 @@
             },
             {
               "score": "2–1",
-              "count": 2,
-              "pct": 13,
+              "count": 3,
+              "pct": 19,
               "pts": null,
               "players": [
+                "Erik Rystedt",
                 "Jonathan Segelman",
                 "Andreas Panagos"
               ]
@@ -753,7 +774,7 @@
             {
               "score": "1–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Eddie Williamson"
@@ -762,7 +783,7 @@
             {
               "score": "3–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Axel Dillner"
@@ -771,7 +792,7 @@
             {
               "score": "3–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Wilmer"
@@ -790,7 +811,7 @@
             {
               "score": "2–1",
               "count": 6,
-              "pct": 40,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Calle Milebratt",
@@ -804,7 +825,7 @@
             {
               "score": "1–1",
               "count": 5,
-              "pct": 33,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Jonathan Segelman",
@@ -817,7 +838,7 @@
             {
               "score": "1–0",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -827,11 +848,20 @@
             {
               "score": "3–1",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
                 "Markus Ransved Nilsson"
+              ]
+            },
+            {
+              "score": "0–2",
+              "count": 1,
+              "pct": 6,
+              "pts": null,
+              "players": [
+                "Erik Rystedt"
               ]
             }
           ],
@@ -847,7 +877,7 @@
             {
               "score": "2–1",
               "count": 5,
-              "pct": 33,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -860,7 +890,7 @@
             {
               "score": "2–0",
               "count": 4,
-              "pct": 27,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Harald Johansson",
@@ -872,7 +902,7 @@
             {
               "score": "1–0",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Gustaf de la Motte",
@@ -881,27 +911,28 @@
               ]
             },
             {
+              "score": "1–1",
+              "count": 2,
+              "pct": 12,
+              "pts": null,
+              "players": [
+                "Erik Rystedt",
+                "Andreas Panagos"
+              ]
+            },
+            {
               "score": "0–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Jonathan Segelman"
               ]
             },
             {
-              "score": "1–1",
-              "count": 1,
-              "pct": 7,
-              "pts": null,
-              "players": [
-                "Andreas Panagos"
-              ]
-            },
-            {
               "score": "2–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen"
@@ -919,13 +950,14 @@
       "winnerPicks": [
         {
           "team": "Brazil",
-          "count": 15,
+          "count": 16,
           "pct": 100,
           "players": [
             "Hjalmar Sörensen",
             "Lucas Johnson",
             "Harald Johansson",
             "Calle Milebratt",
+            "Erik Rystedt",
             "Gustaf de la Motte",
             "Jakob Hägglund",
             "Eddie Williamson",
@@ -952,7 +984,7 @@
             {
               "score": "2–1",
               "count": 5,
-              "pct": 33,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -965,7 +997,7 @@
             {
               "score": "1–1",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Eddie Williamson",
@@ -975,10 +1007,11 @@
             },
             {
               "score": "2–0",
-              "count": 2,
-              "pct": 13,
+              "count": 3,
+              "pct": 19,
               "pts": null,
               "players": [
+                "Erik Rystedt",
                 "Gustaf de la Motte",
                 "Jonathan Segelman"
               ]
@@ -986,7 +1019,7 @@
             {
               "score": "3–1",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Calle Milebratt",
@@ -996,7 +1029,7 @@
             {
               "score": "1–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Love Hardeberg"
@@ -1005,7 +1038,7 @@
             {
               "score": "3–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen"
@@ -1014,7 +1047,7 @@
             {
               "score": "4–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Andreas Panagos"
@@ -1032,12 +1065,13 @@
           "scorelines": [
             {
               "score": "0–2",
-              "count": 7,
-              "pct": 47,
+              "count": 8,
+              "pct": 50,
               "pts": null,
               "players": [
                 "Lucas Johnson",
                 "Harald Johansson",
+                "Erik Rystedt",
                 "Gustaf de la Motte",
                 "Jakob Hägglund",
                 "Eddie Williamson",
@@ -1048,7 +1082,7 @@
             {
               "score": "0–1",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -1059,7 +1093,7 @@
             {
               "score": "0–4",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Calle Milebratt",
@@ -1069,7 +1103,7 @@
             {
               "score": "0–3",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -1078,7 +1112,7 @@
             {
               "score": "1–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Jonathan Segelman"
@@ -1087,7 +1121,7 @@
             {
               "score": "2–3",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Wilmer"
@@ -1106,7 +1140,7 @@
             {
               "score": "1–2",
               "count": 4,
-              "pct": 27,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Harald Johansson",
@@ -1116,9 +1150,20 @@
               ]
             },
             {
+              "score": "0–1",
+              "count": 3,
+              "pct": 19,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Calle Milebratt",
+                "Erik Rystedt"
+              ]
+            },
+            {
               "score": "0–2",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Oscar Holmbergh",
@@ -1129,7 +1174,7 @@
             {
               "score": "1–1",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Eddie Williamson",
@@ -1138,19 +1183,9 @@
               ]
             },
             {
-              "score": "0–1",
-              "count": 2,
-              "pct": 13,
-              "pts": null,
-              "players": [
-                "Lucas Johnson",
-                "Calle Milebratt"
-              ]
-            },
-            {
               "score": "1–3",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -1160,7 +1195,7 @@
             {
               "score": "0–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Love Hardeberg"
@@ -1177,9 +1212,23 @@
           "actual": null,
           "scorelines": [
             {
+              "score": "4–0",
+              "count": 6,
+              "pct": 38,
+              "pts": null,
+              "players": [
+                "Hjalmar Sörensen",
+                "Harald Johansson",
+                "Calle Milebratt",
+                "Erik Rystedt",
+                "Jakob Hägglund",
+                "Axel Dillner"
+              ]
+            },
+            {
               "score": "3–0",
               "count": 5,
-              "pct": 33,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -1190,22 +1239,9 @@
               ]
             },
             {
-              "score": "4–0",
-              "count": 5,
-              "pct": 33,
-              "pts": null,
-              "players": [
-                "Hjalmar Sörensen",
-                "Harald Johansson",
-                "Calle Milebratt",
-                "Jakob Hägglund",
-                "Axel Dillner"
-              ]
-            },
-            {
               "score": "5–0",
               "count": 4,
-              "pct": 27,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Gustaf de la Motte",
@@ -1217,7 +1253,7 @@
             {
               "score": "5–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Wilmer"
@@ -1236,7 +1272,7 @@
             {
               "score": "0–2",
               "count": 7,
-              "pct": 47,
+              "pct": 44,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -1250,11 +1286,12 @@
             },
             {
               "score": "1–2",
-              "count": 5,
-              "pct": 33,
+              "count": 6,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
+                "Erik Rystedt",
                 "Gustaf de la Motte",
                 "Eddie Williamson",
                 "Fabian Boberg",
@@ -1264,7 +1301,7 @@
             {
               "score": "1–3",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Harald Johansson",
@@ -1274,7 +1311,7 @@
             {
               "score": "0–3",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Axel Dillner"
@@ -1292,12 +1329,13 @@
           "scorelines": [
             {
               "score": "2–0",
-              "count": 8,
-              "pct": 53,
+              "count": 9,
+              "pct": 56,
               "pts": null,
               "players": [
                 "Harald Johansson",
                 "Calle Milebratt",
+                "Erik Rystedt",
                 "Gustaf de la Motte",
                 "Jakob Hägglund",
                 "Eddie Williamson",
@@ -1309,7 +1347,7 @@
             {
               "score": "3–0",
               "count": 5,
-              "pct": 33,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -1322,7 +1360,7 @@
             {
               "score": "3–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen"
@@ -1331,7 +1369,7 @@
             {
               "score": "4–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -1349,13 +1387,14 @@
       "winnerPicks": [
         {
           "team": "USA",
-          "count": 9,
-          "pct": 60,
+          "count": 10,
+          "pct": 62,
           "players": [
             "Hjalmar Sörensen",
             "Lucas Johnson",
             "Harald Johansson",
             "Calle Milebratt",
+            "Erik Rystedt",
             "Gustaf de la Motte",
             "Fabian Boberg",
             "Jonathan Segelman",
@@ -1367,7 +1406,7 @@
         {
           "team": "Turkey",
           "count": 5,
-          "pct": 33,
+          "pct": 31,
           "players": [
             "Jakob Hägglund",
             "Eddie Williamson",
@@ -1380,7 +1419,7 @@
         {
           "team": "Paraguay",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Oscar Holmbergh"
           ],
@@ -1398,7 +1437,7 @@
             {
               "score": "2–0",
               "count": 6,
-              "pct": 40,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Harald Johansson",
@@ -1410,9 +1449,21 @@
               ]
             },
             {
+              "score": "2–1",
+              "count": 4,
+              "pct": 25,
+              "pts": null,
+              "players": [
+                "Hjalmar Sörensen",
+                "Erik Rystedt",
+                "Wilmer",
+                "Axel Dillner"
+              ]
+            },
+            {
               "score": "1–0",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -1421,20 +1472,9 @@
               ]
             },
             {
-              "score": "2–1",
-              "count": 3,
-              "pct": 20,
-              "pts": null,
-              "players": [
-                "Hjalmar Sörensen",
-                "Wilmer",
-                "Axel Dillner"
-              ]
-            },
-            {
               "score": "1–1",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan Segelman",
@@ -1444,7 +1484,7 @@
             {
               "score": "2–3",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -1462,13 +1502,14 @@
           "scorelines": [
             {
               "score": "1–2",
-              "count": 6,
-              "pct": 40,
+              "count": 7,
+              "pct": 44,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
                 "Lucas Johnson",
                 "Harald Johansson",
+                "Erik Rystedt",
                 "Eddie Williamson",
                 "Oscar Holmbergh",
                 "Axel Dillner"
@@ -1477,7 +1518,7 @@
             {
               "score": "0–2",
               "count": 4,
-              "pct": 27,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Gustaf de la Motte",
@@ -1489,7 +1530,7 @@
             {
               "score": "0–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Calle Milebratt"
@@ -1498,7 +1539,7 @@
             {
               "score": "0–4",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Andreas Panagos"
@@ -1507,7 +1548,7 @@
             {
               "score": "1–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Jonathan Segelman"
@@ -1516,7 +1557,7 @@
             {
               "score": "1–3",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Markus Ransved Nilsson"
@@ -1525,7 +1566,7 @@
             {
               "score": "2–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Wilmer"
@@ -1544,7 +1585,7 @@
             {
               "score": "2–1",
               "count": 5,
-              "pct": 33,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -1556,10 +1597,11 @@
             },
             {
               "score": "2–0",
-              "count": 3,
-              "pct": 20,
+              "count": 4,
+              "pct": 25,
               "pts": null,
               "players": [
+                "Erik Rystedt",
                 "Fabian Boberg",
                 "Markus Ransved Nilsson",
                 "Andreas Panagos"
@@ -1568,7 +1610,7 @@
             {
               "score": "1–0",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jakob Hägglund",
@@ -1578,7 +1620,7 @@
             {
               "score": "1–1",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -1588,7 +1630,7 @@
             {
               "score": "2–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -1597,7 +1639,7 @@
             {
               "score": "3–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Wilmer"
@@ -1606,7 +1648,7 @@
             {
               "score": "3–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Axel Dillner"
@@ -1625,7 +1667,7 @@
             {
               "score": "2–1",
               "count": 5,
-              "pct": 33,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -1638,7 +1680,7 @@
             {
               "score": "2–0",
               "count": 4,
-              "pct": 27,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Calle Milebratt",
@@ -1649,10 +1691,11 @@
             },
             {
               "score": "1–1",
-              "count": 2,
-              "pct": 13,
+              "count": 3,
+              "pct": 19,
               "pts": null,
               "players": [
+                "Erik Rystedt",
                 "Oscar Holmbergh",
                 "Axel Dillner"
               ]
@@ -1660,7 +1703,7 @@
             {
               "score": "0–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Wilmer"
@@ -1669,7 +1712,7 @@
             {
               "score": "1–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Lucas Johnson"
@@ -1678,7 +1721,7 @@
             {
               "score": "3–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Markus Ransved Nilsson"
@@ -1687,7 +1730,7 @@
             {
               "score": "3–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Andreas Panagos"
@@ -1706,7 +1749,7 @@
             {
               "score": "1–1",
               "count": 5,
-              "pct": 33,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -1718,12 +1761,13 @@
             },
             {
               "score": "1–2",
-              "count": 4,
-              "pct": 27,
+              "count": 5,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
                 "Calle Milebratt",
+                "Erik Rystedt",
                 "Gustaf de la Motte",
                 "Fabian Boberg"
               ]
@@ -1731,7 +1775,7 @@
             {
               "score": "0–2",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan Segelman",
@@ -1741,7 +1785,7 @@
             {
               "score": "2–1",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Eddie Williamson",
@@ -1751,7 +1795,7 @@
             {
               "score": "1–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Andreas Panagos"
@@ -1760,7 +1804,7 @@
             {
               "score": "2–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -1779,7 +1823,7 @@
             {
               "score": "1–0",
               "count": 4,
-              "pct": 27,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -1789,9 +1833,20 @@
               ]
             },
             {
+              "score": "2–1",
+              "count": 3,
+              "pct": 19,
+              "pts": null,
+              "players": [
+                "Erik Rystedt",
+                "Markus Ransved Nilsson",
+                "Axel Dillner"
+              ]
+            },
+            {
               "score": "1–1",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Fabian Boberg",
@@ -1799,19 +1854,9 @@
               ]
             },
             {
-              "score": "2–1",
-              "count": 2,
-              "pct": 13,
-              "pts": null,
-              "players": [
-                "Markus Ransved Nilsson",
-                "Axel Dillner"
-              ]
-            },
-            {
               "score": "2–2",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas Panagos",
@@ -1821,7 +1866,7 @@
             {
               "score": "0–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Eddie Williamson"
@@ -1830,7 +1875,7 @@
             {
               "score": "0–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Jonathan Segelman"
@@ -1839,7 +1884,7 @@
             {
               "score": "1–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Calle Milebratt"
@@ -1848,7 +1893,7 @@
             {
               "score": "2–3",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen"
@@ -1857,7 +1902,7 @@
             {
               "score": "3–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -1875,13 +1920,14 @@
       "winnerPicks": [
         {
           "team": "Germany",
-          "count": 15,
+          "count": 16,
           "pct": 100,
           "players": [
             "Hjalmar Sörensen",
             "Lucas Johnson",
             "Harald Johansson",
             "Calle Milebratt",
+            "Erik Rystedt",
             "Gustaf de la Motte",
             "Jakob Hägglund",
             "Eddie Williamson",
@@ -1907,11 +1953,12 @@
           "scorelines": [
             {
               "score": "4–0",
-              "count": 6,
-              "pct": 40,
+              "count": 7,
+              "pct": 44,
               "pts": null,
               "players": [
                 "Harald Johansson",
+                "Erik Rystedt",
                 "Fabian Boberg",
                 "Jonathan Segelman",
                 "Andreas Panagos",
@@ -1922,7 +1969,7 @@
             {
               "score": "3–0",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -1933,7 +1980,7 @@
             {
               "score": "5–0",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Jakob Hägglund",
@@ -1944,7 +1991,7 @@
             {
               "score": "6–0",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Markus Ransved Nilsson",
@@ -1954,7 +2001,7 @@
             {
               "score": "5–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen"
@@ -1972,10 +2019,11 @@
           "scorelines": [
             {
               "score": "1–1",
-              "count": 5,
-              "pct": 33,
+              "count": 6,
+              "pct": 38,
               "pts": null,
               "players": [
+                "Erik Rystedt",
                 "Jakob Hägglund",
                 "Eddie Williamson",
                 "Jonathan Segelman",
@@ -1986,7 +2034,7 @@
             {
               "score": "0–1",
               "count": 4,
-              "pct": 27,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -1998,7 +2046,7 @@
             {
               "score": "0–2",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -2008,7 +2056,7 @@
             {
               "score": "1–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Wilmer"
@@ -2017,7 +2065,7 @@
             {
               "score": "2–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Fabian Boberg"
@@ -2026,7 +2074,7 @@
             {
               "score": "2–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Markus Ransved Nilsson"
@@ -2035,7 +2083,7 @@
             {
               "score": "2–3",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Andreas Panagos"
@@ -2053,11 +2101,12 @@
           "scorelines": [
             {
               "score": "2–0",
-              "count": 4,
-              "pct": 27,
+              "count": 5,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Calle Milebratt",
+                "Erik Rystedt",
                 "Eddie Williamson",
                 "Jonathan Segelman",
                 "Andreas Panagos"
@@ -2066,7 +2115,7 @@
             {
               "score": "2–1",
               "count": 4,
-              "pct": 27,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -2078,7 +2127,7 @@
             {
               "score": "3–1",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Harald Johansson",
@@ -2089,7 +2138,7 @@
             {
               "score": "1–1",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Wilmer",
@@ -2099,7 +2148,7 @@
             {
               "score": "3–0",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -2118,12 +2167,13 @@
           "scorelines": [
             {
               "score": "2–0",
-              "count": 9,
-              "pct": 60,
+              "count": 10,
+              "pct": 62,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
                 "Calle Milebratt",
+                "Erik Rystedt",
                 "Gustaf de la Motte",
                 "Eddie Williamson",
                 "Fabian Boberg",
@@ -2136,7 +2186,7 @@
             {
               "score": "3–0",
               "count": 6,
-              "pct": 40,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -2159,12 +2209,13 @@
           "scorelines": [
             {
               "score": "0–2",
-              "count": 6,
-              "pct": 40,
+              "count": 7,
+              "pct": 44,
               "pts": null,
               "players": [
                 "Harald Johansson",
                 "Calle Milebratt",
+                "Erik Rystedt",
                 "Jakob Hägglund",
                 "Fabian Boberg",
                 "Jonathan Segelman",
@@ -2174,7 +2225,7 @@
             {
               "score": "1–1",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -2185,7 +2236,7 @@
             {
               "score": "0–1",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Eddie Williamson",
@@ -2195,7 +2246,7 @@
             {
               "score": "0–3",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -2205,7 +2256,7 @@
             {
               "score": "1–2",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Love Hardeberg",
@@ -2224,14 +2275,15 @@
           "scorelines": [
             {
               "score": "1–2",
-              "count": 7,
-              "pct": 47,
+              "count": 8,
+              "pct": 50,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
                 "Lucas Johnson",
                 "Harald Johansson",
                 "Calle Milebratt",
+                "Erik Rystedt",
                 "Gustaf de la Motte",
                 "Jakob Hägglund",
                 "Love Hardeberg"
@@ -2240,7 +2292,7 @@
             {
               "score": "0–2",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Markus Ransved Nilsson",
@@ -2250,7 +2302,7 @@
             {
               "score": "1–1",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Eddie Williamson",
@@ -2260,7 +2312,7 @@
             {
               "score": "0–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Wilmer"
@@ -2269,7 +2321,7 @@
             {
               "score": "0–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Jonathan Segelman"
@@ -2278,7 +2330,7 @@
             {
               "score": "1–3",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Fabian Boberg"
@@ -2287,7 +2339,7 @@
             {
               "score": "2–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -2305,13 +2357,14 @@
       "winnerPicks": [
         {
           "team": "Netherlands",
-          "count": 14,
-          "pct": 93,
+          "count": 15,
+          "pct": 94,
           "players": [
             "Hjalmar Sörensen",
             "Lucas Johnson",
             "Harald Johansson",
             "Calle Milebratt",
+            "Erik Rystedt",
             "Gustaf de la Motte",
             "Jakob Hägglund",
             "Eddie Williamson",
@@ -2328,7 +2381,7 @@
         {
           "team": "Japan",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Andreas Panagos"
           ],
@@ -2345,13 +2398,14 @@
           "scorelines": [
             {
               "score": "2–1",
-              "count": 5,
-              "pct": 33,
+              "count": 6,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
                 "Harald Johansson",
                 "Calle Milebratt",
+                "Erik Rystedt",
                 "Gustaf de la Motte",
                 "Eddie Williamson"
               ]
@@ -2359,7 +2413,7 @@
             {
               "score": "1–1",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Love Hardeberg",
@@ -2370,7 +2424,7 @@
             {
               "score": "2–0",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Jakob Hägglund",
@@ -2381,7 +2435,7 @@
             {
               "score": "1–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Lucas Johnson"
@@ -2390,7 +2444,7 @@
             {
               "score": "1–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Andreas Panagos"
@@ -2399,7 +2453,7 @@
             {
               "score": "3–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Jonathan Segelman"
@@ -2408,7 +2462,7 @@
             {
               "score": "4–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -2427,7 +2481,7 @@
             {
               "score": "2–1",
               "count": 5,
-              "pct": 33,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Gustaf de la Motte",
@@ -2440,7 +2494,7 @@
             {
               "score": "1–0",
               "count": 4,
-              "pct": 27,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -2451,11 +2505,12 @@
             },
             {
               "score": "2–0",
-              "count": 3,
-              "pct": 20,
+              "count": 4,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Calle Milebratt",
+                "Erik Rystedt",
                 "Jonathan Segelman",
                 "Axel Dillner"
               ]
@@ -2463,7 +2518,7 @@
             {
               "score": "3–1",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Harald Johansson",
@@ -2473,7 +2528,7 @@
             {
               "score": "1–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Wilmer"
@@ -2492,7 +2547,7 @@
             {
               "score": "2–1",
               "count": 5,
-              "pct": 33,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -2505,7 +2560,7 @@
             {
               "score": "2–0",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Calle Milebratt",
@@ -2516,7 +2571,7 @@
             {
               "score": "3–1",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Fabian Boberg",
@@ -2525,27 +2580,28 @@
               ]
             },
             {
+              "score": "1–1",
+              "count": 2,
+              "pct": 12,
+              "pts": null,
+              "players": [
+                "Erik Rystedt",
+                "Eddie Williamson"
+              ]
+            },
+            {
               "score": "1–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Jakob Hägglund"
               ]
             },
             {
-              "score": "1–1",
-              "count": 1,
-              "pct": 7,
-              "pts": null,
-              "players": [
-                "Eddie Williamson"
-              ]
-            },
-            {
               "score": "2–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen"
@@ -2554,7 +2610,7 @@
             {
               "score": "3–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Gustaf de la Motte"
@@ -2573,7 +2629,7 @@
             {
               "score": "0–1",
               "count": 4,
-              "pct": 27,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Gustaf de la Motte",
@@ -2585,7 +2641,7 @@
             {
               "score": "1–2",
               "count": 4,
-              "pct": 27,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -2596,18 +2652,19 @@
             },
             {
               "score": "0–2",
-              "count": 2,
-              "pct": 13,
+              "count": 3,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Calle Milebratt",
+                "Erik Rystedt",
                 "Markus Ransved Nilsson"
               ]
             },
             {
               "score": "1–3",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -2617,7 +2674,7 @@
             {
               "score": "0–3",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Wilmer"
@@ -2626,7 +2683,7 @@
             {
               "score": "1–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Jonathan Segelman"
@@ -2635,7 +2692,7 @@
             {
               "score": "2–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -2654,7 +2711,7 @@
             {
               "score": "1–2",
               "count": 6,
-              "pct": 40,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -2668,7 +2725,7 @@
             {
               "score": "2–1",
               "count": 5,
-              "pct": 33,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Calle Milebratt",
@@ -2680,10 +2737,11 @@
             },
             {
               "score": "1–1",
-              "count": 3,
-              "pct": 20,
+              "count": 4,
+              "pct": 25,
               "pts": null,
               "players": [
+                "Erik Rystedt",
                 "Jakob Hägglund",
                 "Oscar Holmbergh",
                 "Axel Dillner"
@@ -2692,7 +2750,7 @@
             {
               "score": "0–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Lucas Johnson"
@@ -2710,10 +2768,11 @@
           "scorelines": [
             {
               "score": "0–3",
-              "count": 8,
-              "pct": 53,
+              "count": 9,
+              "pct": 56,
               "pts": null,
               "players": [
+                "Erik Rystedt",
                 "Gustaf de la Motte",
                 "Jakob Hägglund",
                 "Love Hardeberg",
@@ -2727,7 +2786,7 @@
             {
               "score": "0–2",
               "count": 5,
-              "pct": 33,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -2740,7 +2799,7 @@
             {
               "score": "0–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Eddie Williamson"
@@ -2749,7 +2808,7 @@
             {
               "score": "1–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Fabian Boberg"
@@ -2767,13 +2826,14 @@
       "winnerPicks": [
         {
           "team": "Belgium",
-          "count": 15,
+          "count": 16,
           "pct": 100,
           "players": [
             "Hjalmar Sörensen",
             "Lucas Johnson",
             "Harald Johansson",
             "Calle Milebratt",
+            "Erik Rystedt",
             "Gustaf de la Motte",
             "Jakob Hägglund",
             "Eddie Williamson",
@@ -2799,11 +2859,12 @@
           "scorelines": [
             {
               "score": "2–0",
-              "count": 5,
-              "pct": 33,
+              "count": 6,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
+                "Erik Rystedt",
                 "Gustaf de la Motte",
                 "Jakob Hägglund",
                 "Jonathan Segelman",
@@ -2813,7 +2874,7 @@
             {
               "score": "2–1",
               "count": 5,
-              "pct": 33,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -2826,7 +2887,7 @@
             {
               "score": "3–1",
               "count": 5,
-              "pct": 33,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Harald Johansson",
@@ -2848,10 +2909,11 @@
           "scorelines": [
             {
               "score": "1–0",
-              "count": 6,
-              "pct": 40,
+              "count": 7,
+              "pct": 44,
               "pts": null,
               "players": [
+                "Erik Rystedt",
                 "Gustaf de la Motte",
                 "Jakob Hägglund",
                 "Fabian Boberg",
@@ -2863,7 +2925,7 @@
             {
               "score": "2–0",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Calle Milebratt",
@@ -2874,7 +2936,7 @@
             {
               "score": "0–1",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -2884,7 +2946,7 @@
             {
               "score": "2–1",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -2894,7 +2956,7 @@
             {
               "score": "0–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Eddie Williamson"
@@ -2903,7 +2965,7 @@
             {
               "score": "1–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Harald Johansson"
@@ -2920,9 +2982,22 @@
           "actual": null,
           "scorelines": [
             {
+              "score": "2–1",
+              "count": 5,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Calle Milebratt",
+                "Erik Rystedt",
+                "Gustaf de la Motte",
+                "Wilmer"
+              ]
+            },
+            {
               "score": "3–0",
               "count": 5,
-              "pct": 33,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -2935,7 +3010,7 @@
             {
               "score": "2–0",
               "count": 4,
-              "pct": 27,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Jakob Hägglund",
@@ -2945,21 +3020,9 @@
               ]
             },
             {
-              "score": "2–1",
-              "count": 4,
-              "pct": 27,
-              "pts": null,
-              "players": [
-                "Lucas Johnson",
-                "Calle Milebratt",
-                "Gustaf de la Motte",
-                "Wilmer"
-              ]
-            },
-            {
               "score": "3–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Jonathan Segelman"
@@ -2968,7 +3031,7 @@
             {
               "score": "3–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -2987,7 +3050,7 @@
             {
               "score": "0–1",
               "count": 5,
-              "pct": 33,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Harald Johansson",
@@ -2999,10 +3062,11 @@
             },
             {
               "score": "1–1",
-              "count": 3,
-              "pct": 20,
+              "count": 4,
+              "pct": 25,
               "pts": null,
               "players": [
+                "Erik Rystedt",
                 "Gustaf de la Motte",
                 "Eddie Williamson",
                 "Love Hardeberg"
@@ -3011,7 +3075,7 @@
             {
               "score": "1–2",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -3022,7 +3086,7 @@
             {
               "score": "0–2",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Calle Milebratt",
@@ -3032,7 +3096,7 @@
             {
               "score": "0–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen"
@@ -3041,7 +3105,7 @@
             {
               "score": "2–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Wilmer"
@@ -3059,11 +3123,12 @@
           "scorelines": [
             {
               "score": "1–1",
-              "count": 5,
-              "pct": 33,
+              "count": 6,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Harald Johansson",
+                "Erik Rystedt",
                 "Eddie Williamson",
                 "Jonathan Segelman",
                 "Wilmer",
@@ -3073,7 +3138,7 @@
             {
               "score": "1–0",
               "count": 4,
-              "pct": 27,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -3085,7 +3150,7 @@
             {
               "score": "2–1",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Jakob Hägglund",
@@ -3096,7 +3161,7 @@
             {
               "score": "1–2",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -3106,7 +3171,7 @@
             {
               "score": "3–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -3125,7 +3190,7 @@
             {
               "score": "0–3",
               "count": 8,
-              "pct": 53,
+              "pct": 50,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -3139,9 +3204,19 @@
               ]
             },
             {
+              "score": "0–2",
+              "count": 2,
+              "pct": 12,
+              "pts": null,
+              "players": [
+                "Calle Milebratt",
+                "Erik Rystedt"
+              ]
+            },
+            {
               "score": "0–4",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Andreas Panagos",
@@ -3151,25 +3226,16 @@
             {
               "score": "0–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Eddie Williamson"
               ]
             },
             {
-              "score": "0–2",
-              "count": 1,
-              "pct": 7,
-              "pts": null,
-              "players": [
-                "Calle Milebratt"
-              ]
-            },
-            {
               "score": "1–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen"
@@ -3178,7 +3244,7 @@
             {
               "score": "1–3",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Wilmer"
@@ -3187,7 +3253,7 @@
             {
               "score": "2–3",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -3205,13 +3271,14 @@
       "winnerPicks": [
         {
           "team": "Spain",
-          "count": 15,
+          "count": 16,
           "pct": 100,
           "players": [
             "Hjalmar Sörensen",
             "Lucas Johnson",
             "Harald Johansson",
             "Calle Milebratt",
+            "Erik Rystedt",
             "Gustaf de la Motte",
             "Jakob Hägglund",
             "Eddie Williamson",
@@ -3237,13 +3304,14 @@
           "scorelines": [
             {
               "score": "3–0",
-              "count": 6,
-              "pct": 40,
+              "count": 7,
+              "pct": 44,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
                 "Lucas Johnson",
                 "Calle Milebratt",
+                "Erik Rystedt",
                 "Jakob Hägglund",
                 "Jonathan Segelman",
                 "Wilmer"
@@ -3252,7 +3320,7 @@
             {
               "score": "4–0",
               "count": 4,
-              "pct": 27,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Harald Johansson",
@@ -3264,7 +3332,7 @@
             {
               "score": "5–0",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Gustaf de la Motte",
@@ -3275,7 +3343,7 @@
             {
               "score": "4–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Andreas Panagos"
@@ -3284,7 +3352,7 @@
             {
               "score": "7–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -3302,14 +3370,15 @@
           "scorelines": [
             {
               "score": "0–2",
-              "count": 8,
-              "pct": 53,
+              "count": 9,
+              "pct": 56,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
                 "Lucas Johnson",
                 "Harald Johansson",
                 "Calle Milebratt",
+                "Erik Rystedt",
                 "Gustaf de la Motte",
                 "Fabian Boberg",
                 "Markus Ransved Nilsson",
@@ -3319,7 +3388,7 @@
             {
               "score": "1–2",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Eddie Williamson",
@@ -3330,7 +3399,7 @@
             {
               "score": "0–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Jakob Hägglund"
@@ -3339,7 +3408,7 @@
             {
               "score": "0–3",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Love Hardeberg"
@@ -3348,7 +3417,7 @@
             {
               "score": "1–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Jonathan Segelman"
@@ -3357,7 +3426,7 @@
             {
               "score": "1–3",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Andreas Panagos"
@@ -3375,13 +3444,14 @@
           "scorelines": [
             {
               "score": "2–0",
-              "count": 7,
-              "pct": 47,
+              "count": 8,
+              "pct": 50,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
                 "Harald Johansson",
                 "Calle Milebratt",
+                "Erik Rystedt",
                 "Jakob Hägglund",
                 "Eddie Williamson",
                 "Jonathan Segelman",
@@ -3391,7 +3461,7 @@
             {
               "score": "3–0",
               "count": 5,
-              "pct": 33,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -3404,7 +3474,7 @@
             {
               "score": "4–0",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Gustaf de la Motte",
@@ -3414,7 +3484,7 @@
             {
               "score": "1–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -3432,12 +3502,13 @@
           "scorelines": [
             {
               "score": "2–0",
-              "count": 6,
-              "pct": 40,
+              "count": 7,
+              "pct": 44,
               "pts": null,
               "players": [
                 "Lucas Johnson",
                 "Calle Milebratt",
+                "Erik Rystedt",
                 "Jakob Hägglund",
                 "Fabian Boberg",
                 "Markus Ransved Nilsson",
@@ -3447,7 +3518,7 @@
             {
               "score": "2–1",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -3458,7 +3529,7 @@
             {
               "score": "3–0",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Harald Johansson",
@@ -3469,7 +3540,7 @@
             {
               "score": "1–0",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Eddie Williamson",
@@ -3479,7 +3550,7 @@
             {
               "score": "5–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -3498,7 +3569,7 @@
             {
               "score": "0–1",
               "count": 6,
-              "pct": 40,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -3511,11 +3582,12 @@
             },
             {
               "score": "1–1",
-              "count": 3,
-              "pct": 20,
+              "count": 4,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
+                "Erik Rystedt",
                 "Gustaf de la Motte",
                 "Love Hardeberg"
               ]
@@ -3523,7 +3595,7 @@
             {
               "score": "1–2",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Fabian Boberg",
@@ -3533,7 +3605,7 @@
             {
               "score": "0–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Andreas Panagos"
@@ -3542,7 +3614,7 @@
             {
               "score": "0–3",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Wilmer"
@@ -3551,7 +3623,7 @@
             {
               "score": "1–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Jonathan Segelman"
@@ -3560,7 +3632,7 @@
             {
               "score": "2–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -3579,7 +3651,7 @@
             {
               "score": "1–2",
               "count": 8,
-              "pct": 53,
+              "pct": 50,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -3595,7 +3667,7 @@
             {
               "score": "1–3",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Harald Johansson",
@@ -3606,7 +3678,7 @@
             {
               "score": "0–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -3615,16 +3687,25 @@
             {
               "score": "0–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Jonathan Segelman"
               ]
             },
             {
+              "score": "1–1",
+              "count": 1,
+              "pct": 6,
+              "pts": null,
+              "players": [
+                "Erik Rystedt"
+              ]
+            },
+            {
               "score": "2–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Eddie Williamson"
@@ -3633,7 +3714,7 @@
             {
               "score": "2–4",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Andreas Panagos"
@@ -3651,13 +3732,14 @@
       "winnerPicks": [
         {
           "team": "France",
-          "count": 13,
-          "pct": 87,
+          "count": 14,
+          "pct": 88,
           "players": [
             "Hjalmar Sörensen",
             "Lucas Johnson",
             "Harald Johansson",
             "Calle Milebratt",
+            "Erik Rystedt",
             "Gustaf de la Motte",
             "Jakob Hägglund",
             "Eddie Williamson",
@@ -3673,7 +3755,7 @@
         {
           "team": "Norway",
           "count": 2,
-          "pct": 13,
+          "pct": 12,
           "players": [
             "Andreas Panagos",
             "Wilmer"
@@ -3692,7 +3774,7 @@
             {
               "score": "2–1",
               "count": 6,
-              "pct": 40,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -3705,11 +3787,12 @@
             },
             {
               "score": "2–0",
-              "count": 3,
-              "pct": 20,
+              "count": 4,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Lucas Johnson",
+                "Erik Rystedt",
                 "Jonathan Segelman",
                 "Love Hardeberg"
               ]
@@ -3717,7 +3800,7 @@
             {
               "score": "3–0",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Harald Johansson",
@@ -3727,7 +3810,7 @@
             {
               "score": "3–1",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Gustaf de la Motte",
@@ -3737,7 +3820,7 @@
             {
               "score": "1–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Wilmer"
@@ -3746,7 +3829,7 @@
             {
               "score": "2–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -3765,7 +3848,7 @@
             {
               "score": "0–3",
               "count": 6,
-              "pct": 40,
+              "pct": 38,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -3778,11 +3861,12 @@
             },
             {
               "score": "0–2",
-              "count": 4,
-              "pct": 27,
+              "count": 5,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Calle Milebratt",
+                "Erik Rystedt",
                 "Jakob Hägglund",
                 "Eddie Williamson",
                 "Fabian Boberg"
@@ -3791,7 +3875,7 @@
             {
               "score": "0–4",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Markus Ransved Nilsson",
@@ -3802,7 +3886,7 @@
             {
               "score": "1–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Jonathan Segelman"
@@ -3811,7 +3895,7 @@
             {
               "score": "1–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -3829,13 +3913,14 @@
           "scorelines": [
             {
               "score": "3–0",
-              "count": 8,
-              "pct": 53,
+              "count": 9,
+              "pct": 56,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
                 "Lucas Johnson",
                 "Calle Milebratt",
+                "Erik Rystedt",
                 "Jakob Hägglund",
                 "Fabian Boberg",
                 "Jonathan Segelman",
@@ -3846,7 +3931,7 @@
             {
               "score": "2–0",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Eddie Williamson",
@@ -3856,7 +3941,7 @@
             {
               "score": "4–0",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Gustaf de la Motte",
@@ -3866,7 +3951,7 @@
             {
               "score": "2–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Wilmer"
@@ -3875,7 +3960,7 @@
             {
               "score": "3–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -3884,7 +3969,7 @@
             {
               "score": "5–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Harald Johansson"
@@ -3903,7 +3988,7 @@
             {
               "score": "2–1",
               "count": 4,
-              "pct": 27,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -3913,9 +3998,20 @@
               ]
             },
             {
+              "score": "1–1",
+              "count": 3,
+              "pct": 19,
+              "pts": null,
+              "players": [
+                "Erik Rystedt",
+                "Jakob Hägglund",
+                "Wilmer"
+              ]
+            },
+            {
               "score": "1–0",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -3923,19 +4019,9 @@
               ]
             },
             {
-              "score": "1–1",
-              "count": 2,
-              "pct": 13,
-              "pts": null,
-              "players": [
-                "Jakob Hägglund",
-                "Wilmer"
-              ]
-            },
-            {
               "score": "1–2",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Calle Milebratt",
@@ -3945,7 +4031,7 @@
             {
               "score": "2–2",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Love Hardeberg",
@@ -3955,7 +4041,7 @@
             {
               "score": "3–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Harald Johansson"
@@ -3964,7 +4050,7 @@
             {
               "score": "3–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Gustaf de la Motte"
@@ -3973,7 +4059,7 @@
             {
               "score": "4–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Andreas Panagos"
@@ -3991,10 +4077,11 @@
           "scorelines": [
             {
               "score": "1–2",
-              "count": 5,
-              "pct": 33,
+              "count": 6,
+              "pct": 38,
               "pts": null,
               "players": [
+                "Erik Rystedt",
                 "Gustaf de la Motte",
                 "Eddie Williamson",
                 "Love Hardeberg",
@@ -4005,7 +4092,7 @@
             {
               "score": "2–2",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -4016,7 +4103,7 @@
             {
               "score": "0–1",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -4026,7 +4113,7 @@
             {
               "score": "0–2",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Calle Milebratt",
@@ -4036,7 +4123,7 @@
             {
               "score": "1–3",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Harald Johansson",
@@ -4046,7 +4133,7 @@
             {
               "score": "0–3",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -4064,13 +4151,14 @@
           "scorelines": [
             {
               "score": "2–0",
-              "count": 8,
-              "pct": 53,
+              "count": 9,
+              "pct": 56,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
                 "Lucas Johnson",
                 "Calle Milebratt",
+                "Erik Rystedt",
                 "Gustaf de la Motte",
                 "Jakob Hägglund",
                 "Fabian Boberg",
@@ -4081,7 +4169,7 @@
             {
               "score": "1–0",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Harald Johansson",
@@ -4092,7 +4180,7 @@
             {
               "score": "2–1",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan Segelman",
@@ -4102,7 +4190,7 @@
             {
               "score": "0–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Wilmer"
@@ -4111,7 +4199,7 @@
             {
               "score": "3–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Andreas Panagos"
@@ -4129,13 +4217,14 @@
       "winnerPicks": [
         {
           "team": "Argentina",
-          "count": 15,
+          "count": 16,
           "pct": 100,
           "players": [
             "Hjalmar Sörensen",
             "Lucas Johnson",
             "Harald Johansson",
             "Calle Milebratt",
+            "Erik Rystedt",
             "Gustaf de la Motte",
             "Jakob Hägglund",
             "Eddie Williamson",
@@ -4162,7 +4251,7 @@
             {
               "score": "2–0",
               "count": 10,
-              "pct": 67,
+              "pct": 62,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -4179,10 +4268,11 @@
             },
             {
               "score": "3–0",
-              "count": 3,
-              "pct": 20,
+              "count": 4,
+              "pct": 25,
               "pts": null,
               "players": [
+                "Erik Rystedt",
                 "Fabian Boberg",
                 "Markus Ransved Nilsson",
                 "Andreas Panagos"
@@ -4191,7 +4281,7 @@
             {
               "score": "2–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Eddie Williamson"
@@ -4200,7 +4290,7 @@
             {
               "score": "3–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -4218,13 +4308,14 @@
           "scorelines": [
             {
               "score": "2–0",
-              "count": 7,
-              "pct": 47,
+              "count": 8,
+              "pct": 50,
               "pts": null,
               "players": [
                 "Lucas Johnson",
                 "Harald Johansson",
                 "Calle Milebratt",
+                "Erik Rystedt",
                 "Jakob Hägglund",
                 "Fabian Boberg",
                 "Markus Ransved Nilsson",
@@ -4234,7 +4325,7 @@
             {
               "score": "1–0",
               "count": 4,
-              "pct": 27,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -4246,7 +4337,7 @@
             {
               "score": "3–0",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Oscar Holmbergh",
@@ -4256,7 +4347,7 @@
             {
               "score": "2–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Jonathan Segelman"
@@ -4265,7 +4356,7 @@
             {
               "score": "3–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Love Hardeberg"
@@ -4283,14 +4374,15 @@
           "scorelines": [
             {
               "score": "2–1",
-              "count": 11,
-              "pct": 73,
+              "count": 12,
+              "pct": 75,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
                 "Lucas Johnson",
                 "Harald Johansson",
                 "Calle Milebratt",
+                "Erik Rystedt",
                 "Jakob Hägglund",
                 "Eddie Williamson",
                 "Fabian Boberg",
@@ -4303,7 +4395,7 @@
             {
               "score": "1–1",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Oscar Holmbergh",
@@ -4313,7 +4405,7 @@
             {
               "score": "2–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Gustaf de la Motte"
@@ -4322,7 +4414,7 @@
             {
               "score": "3–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Jonathan Segelman"
@@ -4341,7 +4433,7 @@
             {
               "score": "0–1",
               "count": 5,
-              "pct": 33,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Harald Johansson",
@@ -4352,9 +4444,20 @@
               ]
             },
             {
+              "score": "1–1",
+              "count": 3,
+              "pct": 19,
+              "pts": null,
+              "players": [
+                "Erik Rystedt",
+                "Jonathan Segelman",
+                "Wilmer"
+              ]
+            },
+            {
               "score": "1–2",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Gustaf de la Motte",
@@ -4365,7 +4468,7 @@
             {
               "score": "0–2",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -4373,19 +4476,9 @@
               ]
             },
             {
-              "score": "1–1",
-              "count": 2,
-              "pct": 13,
-              "pts": null,
-              "players": [
-                "Jonathan Segelman",
-                "Wilmer"
-              ]
-            },
-            {
               "score": "2–2",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -4395,7 +4488,7 @@
             {
               "score": "0–3",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Andreas Panagos"
@@ -4413,11 +4506,12 @@
           "scorelines": [
             {
               "score": "1–2",
-              "count": 6,
-              "pct": 40,
+              "count": 7,
+              "pct": 44,
               "pts": null,
               "players": [
                 "Calle Milebratt",
+                "Erik Rystedt",
                 "Gustaf de la Motte",
                 "Jakob Hägglund",
                 "Fabian Boberg",
@@ -4428,7 +4522,7 @@
             {
               "score": "0–1",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -4439,7 +4533,7 @@
             {
               "score": "1–1",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Harald Johansson",
@@ -4449,7 +4543,7 @@
             {
               "score": "0–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Andreas Panagos"
@@ -4458,7 +4552,7 @@
             {
               "score": "2–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Jonathan Segelman"
@@ -4467,7 +4561,7 @@
             {
               "score": "2–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen"
@@ -4476,7 +4570,7 @@
             {
               "score": "2–3",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Eddie Williamson"
@@ -4495,7 +4589,7 @@
             {
               "score": "0–3",
               "count": 7,
-              "pct": 47,
+              "pct": 44,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -4509,11 +4603,12 @@
             },
             {
               "score": "0–2",
-              "count": 3,
-              "pct": 20,
+              "count": 4,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Calle Milebratt",
+                "Erik Rystedt",
                 "Jonathan Segelman",
                 "Markus Ransved Nilsson"
               ]
@@ -4521,7 +4616,7 @@
             {
               "score": "0–4",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Jakob Hägglund",
@@ -4532,7 +4627,7 @@
             {
               "score": "1–3",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen"
@@ -4541,7 +4636,7 @@
             {
               "score": "2–4",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Wilmer"
@@ -4559,13 +4654,14 @@
       "winnerPicks": [
         {
           "team": "Portugal",
-          "count": 14,
-          "pct": 93,
+          "count": 15,
+          "pct": 94,
           "players": [
             "Hjalmar Sörensen",
             "Lucas Johnson",
             "Harald Johansson",
             "Calle Milebratt",
+            "Erik Rystedt",
             "Gustaf de la Motte",
             "Jakob Hägglund",
             "Eddie Williamson",
@@ -4582,7 +4678,7 @@
         {
           "team": "Colombia",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Wilmer"
           ],
@@ -4599,12 +4695,13 @@
           "scorelines": [
             {
               "score": "3–0",
-              "count": 8,
-              "pct": 53,
+              "count": 9,
+              "pct": 56,
               "pts": null,
               "players": [
                 "Harald Johansson",
                 "Calle Milebratt",
+                "Erik Rystedt",
                 "Gustaf de la Motte",
                 "Jonathan Segelman",
                 "Love Hardeberg",
@@ -4616,7 +4713,7 @@
             {
               "score": "2–0",
               "count": 5,
-              "pct": 33,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -4629,7 +4726,7 @@
             {
               "score": "1–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen"
@@ -4638,7 +4735,7 @@
             {
               "score": "2–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Andreas Panagos"
@@ -4657,7 +4754,7 @@
             {
               "score": "0–2",
               "count": 7,
-              "pct": 47,
+              "pct": 44,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -4672,7 +4769,7 @@
             {
               "score": "0–3",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Eddie Williamson",
@@ -4682,10 +4779,11 @@
             },
             {
               "score": "1–2",
-              "count": 2,
-              "pct": 13,
+              "count": 3,
+              "pct": 19,
               "pts": null,
               "players": [
+                "Erik Rystedt",
                 "Gustaf de la Motte",
                 "Markus Ransved Nilsson"
               ]
@@ -4693,7 +4791,7 @@
             {
               "score": "0–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Harald Johansson"
@@ -4702,7 +4800,7 @@
             {
               "score": "1–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Axel Dillner"
@@ -4711,7 +4809,7 @@
             {
               "score": "1–3",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Wilmer"
@@ -4729,11 +4827,12 @@
           "scorelines": [
             {
               "score": "2–0",
-              "count": 6,
-              "pct": 40,
+              "count": 7,
+              "pct": 44,
               "pts": null,
               "players": [
                 "Calle Milebratt",
+                "Erik Rystedt",
                 "Gustaf de la Motte",
                 "Jonathan Segelman",
                 "Love Hardeberg",
@@ -4744,7 +4843,7 @@
             {
               "score": "3–0",
               "count": 5,
-              "pct": 33,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -4757,7 +4856,7 @@
             {
               "score": "2–1",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Eddie Williamson",
@@ -4767,7 +4866,7 @@
             {
               "score": "4–0",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Oscar Holmbergh",
@@ -4785,9 +4884,22 @@
           "actual": null,
           "scorelines": [
             {
+              "score": "2–0",
+              "count": 5,
+              "pct": 31,
+              "pts": null,
+              "players": [
+                "Harald Johansson",
+                "Calle Milebratt",
+                "Erik Rystedt",
+                "Fabian Boberg",
+                "Love Hardeberg"
+              ]
+            },
+            {
               "score": "2–1",
               "count": 5,
-              "pct": 33,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -4798,21 +4910,9 @@
               ]
             },
             {
-              "score": "2–0",
-              "count": 4,
-              "pct": 27,
-              "pts": null,
-              "players": [
-                "Harald Johansson",
-                "Calle Milebratt",
-                "Fabian Boberg",
-                "Love Hardeberg"
-              ]
-            },
-            {
               "score": "1–0",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -4822,7 +4922,7 @@
             {
               "score": "3–1",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Eddie Williamson",
@@ -4832,7 +4932,7 @@
             {
               "score": "3–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Gustaf de la Motte"
@@ -4841,7 +4941,7 @@
             {
               "score": "4–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Wilmer"
@@ -4860,7 +4960,7 @@
             {
               "score": "1–2",
               "count": 5,
-              "pct": 33,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Calle Milebratt",
@@ -4872,11 +4972,12 @@
             },
             {
               "score": "1–1",
-              "count": 3,
-              "pct": 20,
+              "count": 4,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
+                "Erik Rystedt",
                 "Andreas Panagos",
                 "Axel Dillner"
               ]
@@ -4884,7 +4985,7 @@
             {
               "score": "0–1",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -4894,7 +4995,7 @@
             {
               "score": "0–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Fabian Boberg"
@@ -4903,7 +5004,7 @@
             {
               "score": "1–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Wilmer"
@@ -4912,7 +5013,7 @@
             {
               "score": "1–3",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Harald Johansson"
@@ -4921,7 +5022,7 @@
             {
               "score": "2–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -4930,7 +5031,7 @@
             {
               "score": "2–3",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Eddie Williamson"
@@ -4947,9 +5048,21 @@
           "actual": null,
           "scorelines": [
             {
+              "score": "1–1",
+              "count": 4,
+              "pct": 25,
+              "pts": null,
+              "players": [
+                "Erik Rystedt",
+                "Gustaf de la Motte",
+                "Love Hardeberg",
+                "Wilmer"
+              ]
+            },
+            {
               "score": "1–0",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -4958,20 +5071,9 @@
               ]
             },
             {
-              "score": "1–1",
-              "count": 3,
-              "pct": 20,
-              "pts": null,
-              "players": [
-                "Gustaf de la Motte",
-                "Love Hardeberg",
-                "Wilmer"
-              ]
-            },
-            {
               "score": "2–1",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -4982,7 +5084,7 @@
             {
               "score": "0–0",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Harald Johansson",
@@ -4992,7 +5094,7 @@
             {
               "score": "0–1",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Calle Milebratt",
@@ -5002,7 +5104,7 @@
             {
               "score": "2–0",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Fabian Boberg"
@@ -5011,7 +5113,7 @@
             {
               "score": "3–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -5029,12 +5131,13 @@
       "winnerPicks": [
         {
           "team": "England",
-          "count": 14,
-          "pct": 93,
+          "count": 15,
+          "pct": 94,
           "players": [
             "Hjalmar Sörensen",
             "Lucas Johnson",
             "Calle Milebratt",
+            "Erik Rystedt",
             "Gustaf de la Motte",
             "Jakob Hägglund",
             "Eddie Williamson",
@@ -5052,7 +5155,7 @@
         {
           "team": "Croatia",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Harald Johansson"
           ],
@@ -5069,13 +5172,14 @@
           "scorelines": [
             {
               "score": "2–1",
-              "count": 9,
-              "pct": 60,
+              "count": 10,
+              "pct": 62,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
                 "Lucas Johnson",
                 "Calle Milebratt",
+                "Erik Rystedt",
                 "Gustaf de la Motte",
                 "Eddie Williamson",
                 "Fabian Boberg",
@@ -5087,7 +5191,7 @@
             {
               "score": "2–0",
               "count": 4,
-              "pct": 27,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Jakob Hägglund",
@@ -5099,7 +5203,7 @@
             {
               "score": "1–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Harald Johansson"
@@ -5108,7 +5212,7 @@
             {
               "score": "3–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Axel Dillner"
@@ -5126,10 +5230,11 @@
           "scorelines": [
             {
               "score": "2–0",
-              "count": 5,
-              "pct": 33,
+              "count": 6,
+              "pct": 38,
               "pts": null,
               "players": [
+                "Erik Rystedt",
                 "Jakob Hägglund",
                 "Fabian Boberg",
                 "Markus Ransved Nilsson",
@@ -5140,7 +5245,7 @@
             {
               "score": "2–1",
               "count": 4,
-              "pct": 27,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -5152,7 +5257,7 @@
             {
               "score": "1–0",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -5163,7 +5268,7 @@
             {
               "score": "1–1",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Jonathan Segelman",
@@ -5173,7 +5278,7 @@
             {
               "score": "3–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Wilmer"
@@ -5190,9 +5295,21 @@
           "actual": null,
           "scorelines": [
             {
+              "score": "2–0",
+              "count": 4,
+              "pct": 25,
+              "pts": null,
+              "players": [
+                "Lucas Johnson",
+                "Harald Johansson",
+                "Erik Rystedt",
+                "Fabian Boberg"
+              ]
+            },
+            {
               "score": "1–0",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Jakob Hägglund",
@@ -5201,20 +5318,9 @@
               ]
             },
             {
-              "score": "2–0",
-              "count": 3,
-              "pct": 20,
-              "pts": null,
-              "players": [
-                "Lucas Johnson",
-                "Harald Johansson",
-                "Fabian Boberg"
-              ]
-            },
-            {
               "score": "3–0",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Gustaf de la Motte",
@@ -5225,7 +5331,7 @@
             {
               "score": "3–1",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -5236,7 +5342,7 @@
             {
               "score": "2–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Wilmer"
@@ -5245,7 +5351,7 @@
             {
               "score": "3–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Oscar Holmbergh"
@@ -5254,7 +5360,7 @@
             {
               "score": "4–1",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Andreas Panagos"
@@ -5272,12 +5378,13 @@
           "scorelines": [
             {
               "score": "0–2",
-              "count": 7,
-              "pct": 47,
+              "count": 8,
+              "pct": 50,
               "pts": null,
               "players": [
                 "Lucas Johnson",
                 "Harald Johansson",
+                "Erik Rystedt",
                 "Jakob Hägglund",
                 "Fabian Boberg",
                 "Jonathan Segelman",
@@ -5288,7 +5395,7 @@
             {
               "score": "0–1",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Eddie Williamson",
@@ -5299,7 +5406,7 @@
             {
               "score": "1–2",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -5310,7 +5417,7 @@
             {
               "score": "0–3",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Calle Milebratt",
@@ -5329,12 +5436,13 @@
           "scorelines": [
             {
               "score": "0–3",
-              "count": 6,
-              "pct": 40,
+              "count": 7,
+              "pct": 44,
               "pts": null,
               "players": [
                 "Lucas Johnson",
                 "Harald Johansson",
+                "Erik Rystedt",
                 "Jakob Hägglund",
                 "Fabian Boberg",
                 "Love Hardeberg",
@@ -5344,7 +5452,7 @@
             {
               "score": "0–2",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Gustaf de la Motte",
@@ -5355,7 +5463,7 @@
             {
               "score": "0–1",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
@@ -5365,7 +5473,7 @@
             {
               "score": "0–4",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Calle Milebratt",
@@ -5375,7 +5483,7 @@
             {
               "score": "1–2",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Wilmer"
@@ -5384,7 +5492,7 @@
             {
               "score": "1–6",
               "count": 1,
-              "pct": 7,
+              "pct": 6,
               "pts": null,
               "players": [
                 "Axel Dillner"
@@ -5403,7 +5511,7 @@
             {
               "score": "2–1",
               "count": 5,
-              "pct": 33,
+              "pct": 31,
               "pts": null,
               "players": [
                 "Harald Johansson",
@@ -5416,7 +5524,7 @@
             {
               "score": "2–0",
               "count": 4,
-              "pct": 27,
+              "pct": 25,
               "pts": null,
               "players": [
                 "Calle Milebratt",
@@ -5428,7 +5536,7 @@
             {
               "score": "1–0",
               "count": 3,
-              "pct": 20,
+              "pct": 19,
               "pts": null,
               "players": [
                 "Lucas Johnson",
@@ -5437,22 +5545,23 @@
               ]
             },
             {
+              "score": "1–1",
+              "count": 2,
+              "pct": 12,
+              "pts": null,
+              "players": [
+                "Erik Rystedt",
+                "Axel Dillner"
+              ]
+            },
+            {
               "score": "2–2",
               "count": 2,
-              "pct": 13,
+              "pct": 12,
               "pts": null,
               "players": [
                 "Hjalmar Sörensen",
                 "Oscar Holmbergh"
-              ]
-            },
-            {
-              "score": "1–1",
-              "count": 1,
-              "pct": 7,
-              "pts": null,
-              "players": [
-                "Axel Dillner"
               ]
             }
           ],

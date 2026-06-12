@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-12 21:11",
+    "lastRefresh": "2026-06-12 22:36",
     "maxPoints": 729,
-    "participants": 15,
+    "participants": 16,
     "maxAvailable": 6
   },
   "players": [
@@ -10,6 +10,7 @@
     "Lucas Johnson",
     "Harald Johansson",
     "Calle Milebratt",
+    "Erik Rystedt",
     "Gustaf de la Motte",
     "Jakob Hägglund",
     "Eddie Williamson",
@@ -38,7 +39,7 @@
       "actual": null,
       "dist": {
         "Group stage": 3,
-        "R32": 7,
+        "R32": 8,
         "R16": 5,
         "QF": 0,
         "SF": 0,
@@ -46,9 +47,9 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 20,
-        "R32": 47,
-        "R16": 33,
+        "Group stage": 19,
+        "R32": 50,
+        "R16": 31,
         "QF": 0,
         "SF": 0,
         "Final": 0,
@@ -63,7 +64,7 @@
       "actual": null,
       "dist": {
         "Group stage": 0,
-        "R32": 9,
+        "R32": 10,
         "R16": 6,
         "QF": 0,
         "SF": 0,
@@ -72,8 +73,8 @@
       },
       "pct": {
         "Group stage": 0,
-        "R32": 60,
-        "R16": 40,
+        "R32": 62,
+        "R16": 38,
         "QF": 0,
         "SF": 0,
         "Final": 0,
@@ -89,7 +90,7 @@
       "dist": {
         "Group stage": 0,
         "R32": 4,
-        "R16": 11,
+        "R16": 12,
         "QF": 0,
         "SF": 0,
         "Final": 0,
@@ -97,8 +98,8 @@
       },
       "pct": {
         "Group stage": 0,
-        "R32": 27,
-        "R16": 73,
+        "R32": 25,
+        "R16": 75,
         "QF": 0,
         "SF": 0,
         "Final": 0,
@@ -112,7 +113,7 @@
       "group": "A",
       "actual": null,
       "dist": {
-        "Group stage": 15,
+        "Group stage": 16,
         "R32": 0,
         "R16": 0,
         "QF": 0,
@@ -138,7 +139,7 @@
       "actual": null,
       "dist": {
         "Group stage": 3,
-        "R32": 10,
+        "R32": 11,
         "R16": 2,
         "QF": 0,
         "SF": 0,
@@ -146,9 +147,9 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 20,
-        "R32": 67,
-        "R16": 13,
+        "Group stage": 19,
+        "R32": 69,
+        "R16": 12,
         "QF": 0,
         "SF": 0,
         "Final": 0,
@@ -164,7 +165,7 @@
       "dist": {
         "Group stage": 0,
         "R32": 11,
-        "R16": 4,
+        "R16": 5,
         "QF": 0,
         "SF": 0,
         "Final": 0,
@@ -172,8 +173,8 @@
       },
       "pct": {
         "Group stage": 0,
-        "R32": 73,
-        "R16": 27,
+        "R32": 69,
+        "R16": 31,
         "QF": 0,
         "SF": 0,
         "Final": 0,
@@ -187,7 +188,7 @@
       "group": "B",
       "actual": null,
       "dist": {
-        "Group stage": 14,
+        "Group stage": 15,
         "R32": 1,
         "R16": 0,
         "QF": 0,
@@ -196,8 +197,8 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 93,
-        "R32": 7,
+        "Group stage": 94,
+        "R32": 6,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -214,7 +215,7 @@
       "dist": {
         "Group stage": 0,
         "R32": 1,
-        "R16": 14,
+        "R16": 15,
         "QF": 0,
         "SF": 0,
         "Final": 0,
@@ -222,8 +223,8 @@
       },
       "pct": {
         "Group stage": 0,
-        "R32": 7,
-        "R16": 93,
+        "R32": 6,
+        "R16": 94,
         "QF": 0,
         "SF": 0,
         "Final": 0,
@@ -241,17 +242,17 @@
         "R32": 2,
         "R16": 1,
         "QF": 5,
-        "SF": 3,
+        "SF": 4,
         "Final": 4,
         "Champion": 0
       },
       "pct": {
         "Group stage": 0,
-        "R32": 13,
-        "R16": 7,
-        "QF": 33,
-        "SF": 20,
-        "Final": 27,
+        "R32": 12,
+        "R16": 6,
+        "QF": 31,
+        "SF": 25,
+        "Final": 25,
         "Champion": 0
       },
       "championPct": 0,
@@ -262,7 +263,7 @@
       "group": "C",
       "actual": null,
       "dist": {
-        "Group stage": 15,
+        "Group stage": 16,
         "R32": 0,
         "R16": 0,
         "QF": 0,
@@ -288,7 +289,7 @@
       "actual": null,
       "dist": {
         "Group stage": 0,
-        "R32": 14,
+        "R32": 15,
         "R16": 0,
         "QF": 1,
         "SF": 0,
@@ -297,9 +298,9 @@
       },
       "pct": {
         "Group stage": 0,
-        "R32": 93,
+        "R32": 94,
         "R16": 0,
-        "QF": 7,
+        "QF": 6,
         "SF": 0,
         "Final": 0,
         "Champion": 0
@@ -313,7 +314,7 @@
       "actual": null,
       "dist": {
         "Group stage": 3,
-        "R32": 11,
+        "R32": 12,
         "R16": 1,
         "QF": 0,
         "SF": 0,
@@ -321,9 +322,9 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 20,
-        "R32": 73,
-        "R16": 7,
+        "Group stage": 19,
+        "R32": 75,
+        "R16": 6,
         "QF": 0,
         "SF": 0,
         "Final": 0,
@@ -337,7 +338,7 @@
       "group": "D",
       "actual": null,
       "dist": {
-        "Group stage": 11,
+        "Group stage": 12,
         "R32": 3,
         "R16": 1,
         "QF": 0,
@@ -346,9 +347,9 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 73,
-        "R32": 20,
-        "R16": 7,
+        "Group stage": 75,
+        "R32": 19,
+        "R16": 6,
         "QF": 0,
         "SF": 0,
         "Final": 0,
@@ -363,7 +364,7 @@
       "actual": null,
       "dist": {
         "Group stage": 9,
-        "R32": 6,
+        "R32": 7,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -371,8 +372,8 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 60,
-        "R32": 40,
+        "Group stage": 56,
+        "R32": 44,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -389,17 +390,17 @@
       "dist": {
         "Group stage": 1,
         "R32": 2,
-        "R16": 11,
+        "R16": 12,
         "QF": 1,
         "SF": 0,
         "Final": 0,
         "Champion": 0
       },
       "pct": {
-        "Group stage": 7,
-        "R32": 13,
-        "R16": 73,
-        "QF": 7,
+        "Group stage": 6,
+        "R32": 12,
+        "R16": 75,
+        "QF": 6,
         "SF": 0,
         "Final": 0,
         "Champion": 0
@@ -414,16 +415,16 @@
       "dist": {
         "Group stage": 1,
         "R32": 2,
-        "R16": 12,
+        "R16": 13,
         "QF": 0,
         "SF": 0,
         "Final": 0,
         "Champion": 0
       },
       "pct": {
-        "Group stage": 7,
-        "R32": 13,
-        "R16": 80,
+        "Group stage": 6,
+        "R32": 12,
+        "R16": 81,
         "QF": 0,
         "SF": 0,
         "Final": 0,
@@ -437,7 +438,7 @@
       "group": "E",
       "actual": null,
       "dist": {
-        "Group stage": 15,
+        "Group stage": 16,
         "R32": 0,
         "R16": 0,
         "QF": 0,
@@ -463,7 +464,7 @@
       "actual": null,
       "dist": {
         "Group stage": 2,
-        "R32": 12,
+        "R32": 13,
         "R16": 1,
         "QF": 0,
         "SF": 0,
@@ -471,9 +472,9 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 13,
-        "R32": 80,
-        "R16": 7,
+        "Group stage": 12,
+        "R32": 81,
+        "R16": 6,
         "QF": 0,
         "SF": 0,
         "Final": 0,
@@ -488,7 +489,7 @@
       "actual": null,
       "dist": {
         "Group stage": 0,
-        "R32": 13,
+        "R32": 14,
         "R16": 2,
         "QF": 0,
         "SF": 0,
@@ -497,8 +498,8 @@
       },
       "pct": {
         "Group stage": 0,
-        "R32": 87,
-        "R16": 13,
+        "R32": 88,
+        "R16": 12,
         "QF": 0,
         "SF": 0,
         "Final": 0,
@@ -514,7 +515,7 @@
       "dist": {
         "Group stage": 0,
         "R32": 0,
-        "R16": 15,
+        "R16": 16,
         "QF": 0,
         "SF": 0,
         "Final": 0,
@@ -538,7 +539,7 @@
       "actual": null,
       "dist": {
         "Group stage": 2,
-        "R32": 12,
+        "R32": 13,
         "R16": 0,
         "QF": 1,
         "SF": 0,
@@ -546,10 +547,10 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 13,
-        "R32": 80,
+        "Group stage": 12,
+        "R32": 81,
         "R16": 0,
-        "QF": 7,
+        "QF": 6,
         "SF": 0,
         "Final": 0,
         "Champion": 0
@@ -565,21 +566,21 @@
         "Group stage": 0,
         "R32": 2,
         "R16": 0,
-        "QF": 11,
+        "QF": 12,
         "SF": 1,
         "Final": 0,
         "Champion": 1
       },
       "pct": {
         "Group stage": 0,
-        "R32": 13,
+        "R32": 12,
         "R16": 0,
-        "QF": 73,
-        "SF": 7,
+        "QF": 75,
+        "SF": 6,
         "Final": 0,
-        "Champion": 7
+        "Champion": 6
       },
-      "championPct": 7,
+      "championPct": 6,
       "championBy": [
         "Oscar Holmbergh"
       ]
@@ -590,7 +591,7 @@
       "actual": null,
       "dist": {
         "Group stage": 0,
-        "R32": 13,
+        "R32": 14,
         "R16": 1,
         "QF": 1,
         "SF": 0,
@@ -599,9 +600,9 @@
       },
       "pct": {
         "Group stage": 0,
-        "R32": 87,
-        "R16": 7,
-        "QF": 7,
+        "R32": 88,
+        "R16": 6,
+        "QF": 6,
         "SF": 0,
         "Final": 0,
         "Champion": 0
@@ -614,7 +615,7 @@
       "group": "F",
       "actual": null,
       "dist": {
-        "Group stage": 14,
+        "Group stage": 15,
         "R32": 1,
         "R16": 0,
         "QF": 0,
@@ -623,8 +624,8 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 93,
-        "R32": 7,
+        "Group stage": 94,
+        "R32": 6,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -642,7 +643,7 @@
         "Group stage": 0,
         "R32": 0,
         "R16": 1,
-        "QF": 14,
+        "QF": 15,
         "SF": 0,
         "Final": 0,
         "Champion": 0
@@ -650,8 +651,8 @@
       "pct": {
         "Group stage": 0,
         "R32": 0,
-        "R16": 7,
-        "QF": 93,
+        "R16": 6,
+        "QF": 94,
         "SF": 0,
         "Final": 0,
         "Champion": 0
@@ -664,7 +665,7 @@
       "group": "G",
       "actual": null,
       "dist": {
-        "Group stage": 3,
+        "Group stage": 4,
         "R32": 9,
         "R16": 3,
         "QF": 0,
@@ -673,9 +674,9 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 20,
-        "R32": 60,
-        "R16": 20,
+        "Group stage": 25,
+        "R32": 56,
+        "R16": 19,
         "QF": 0,
         "SF": 0,
         "Final": 0,
@@ -690,7 +691,7 @@
       "actual": null,
       "dist": {
         "Group stage": 6,
-        "R32": 8,
+        "R32": 9,
         "R16": 1,
         "QF": 0,
         "SF": 0,
@@ -698,9 +699,9 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 40,
-        "R32": 53,
-        "R16": 7,
+        "Group stage": 38,
+        "R32": 56,
+        "R16": 6,
         "QF": 0,
         "SF": 0,
         "Final": 0,
@@ -714,7 +715,7 @@
       "group": "G",
       "actual": null,
       "dist": {
-        "Group stage": 13,
+        "Group stage": 14,
         "R32": 2,
         "R16": 0,
         "QF": 0,
@@ -723,8 +724,8 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 87,
-        "R32": 13,
+        "Group stage": 88,
+        "R32": 12,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -739,7 +740,7 @@
       "group": "H",
       "actual": null,
       "dist": {
-        "Group stage": 14,
+        "Group stage": 15,
         "R32": 1,
         "R16": 0,
         "QF": 0,
@@ -748,8 +749,8 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 93,
-        "R32": 7,
+        "Group stage": 94,
+        "R32": 6,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -764,7 +765,7 @@
       "group": "H",
       "actual": null,
       "dist": {
-        "Group stage": 13,
+        "Group stage": 14,
         "R32": 2,
         "R16": 0,
         "QF": 0,
@@ -773,8 +774,8 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 87,
-        "R32": 13,
+        "Group stage": 88,
+        "R32": 12,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -795,23 +796,24 @@
         "QF": 0,
         "SF": 3,
         "Final": 1,
-        "Champion": 11
+        "Champion": 12
       },
       "pct": {
         "Group stage": 0,
         "R32": 0,
         "R16": 0,
         "QF": 0,
-        "SF": 20,
-        "Final": 7,
-        "Champion": 73
+        "SF": 19,
+        "Final": 6,
+        "Champion": 75
       },
-      "championPct": 73,
+      "championPct": 75,
       "championBy": [
         "Hjalmar Sörensen",
         "Lucas Johnson",
         "Harald Johansson",
         "Calle Milebratt",
+        "Erik Rystedt",
         "Gustaf de la Motte",
         "Jakob Hägglund",
         "Eddie Williamson",
@@ -827,7 +829,7 @@
       "actual": null,
       "dist": {
         "Group stage": 0,
-        "R32": 15,
+        "R32": 16,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -855,20 +857,20 @@
         "R32": 1,
         "R16": 0,
         "QF": 2,
-        "SF": 9,
+        "SF": 10,
         "Final": 0,
         "Champion": 3
       },
       "pct": {
         "Group stage": 0,
-        "R32": 7,
+        "R32": 6,
         "R16": 0,
-        "QF": 13,
-        "SF": 60,
+        "QF": 12,
+        "SF": 62,
         "Final": 0,
-        "Champion": 20
+        "Champion": 19
       },
-      "championPct": 20,
+      "championPct": 19,
       "championBy": [
         "Jonathan Segelman",
         "Markus Ransved Nilsson",
@@ -880,7 +882,7 @@
       "group": "I",
       "actual": null,
       "dist": {
-        "Group stage": 15,
+        "Group stage": 16,
         "R32": 0,
         "R16": 0,
         "QF": 0,
@@ -907,18 +909,18 @@
       "dist": {
         "Group stage": 1,
         "R32": 2,
-        "R16": 9,
+        "R16": 10,
         "QF": 1,
         "SF": 2,
         "Final": 0,
         "Champion": 0
       },
       "pct": {
-        "Group stage": 7,
-        "R32": 13,
-        "R16": 60,
-        "QF": 7,
-        "SF": 13,
+        "Group stage": 6,
+        "R32": 12,
+        "R16": 62,
+        "QF": 6,
+        "SF": 12,
         "Final": 0,
         "Champion": 0
       },
@@ -931,7 +933,7 @@
       "actual": null,
       "dist": {
         "Group stage": 2,
-        "R32": 9,
+        "R32": 10,
         "R16": 4,
         "QF": 0,
         "SF": 0,
@@ -939,9 +941,9 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 13,
-        "R32": 60,
-        "R16": 27,
+        "Group stage": 12,
+        "R32": 62,
+        "R16": 25,
         "QF": 0,
         "SF": 0,
         "Final": 0,
@@ -955,7 +957,7 @@
       "group": "J",
       "actual": null,
       "dist": {
-        "Group stage": 5,
+        "Group stage": 6,
         "R32": 10,
         "R16": 0,
         "QF": 0,
@@ -964,8 +966,8 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 33,
-        "R32": 67,
+        "Group stage": 38,
+        "R32": 62,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -985,16 +987,16 @@
         "R16": 0,
         "QF": 2,
         "SF": 7,
-        "Final": 6,
+        "Final": 7,
         "Champion": 0
       },
       "pct": {
         "Group stage": 0,
         "R32": 0,
         "R16": 0,
-        "QF": 13,
-        "SF": 47,
-        "Final": 40,
+        "QF": 12,
+        "SF": 44,
+        "Final": 44,
         "Champion": 0
       },
       "championPct": 0,
@@ -1006,7 +1008,7 @@
       "actual": null,
       "dist": {
         "Group stage": 0,
-        "R32": 15,
+        "R32": 16,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -1030,7 +1032,7 @@
       "group": "J",
       "actual": null,
       "dist": {
-        "Group stage": 15,
+        "Group stage": 16,
         "R32": 0,
         "R16": 0,
         "QF": 0,
@@ -1056,7 +1058,7 @@
       "actual": null,
       "dist": {
         "Group stage": 0,
-        "R32": 6,
+        "R32": 7,
         "R16": 8,
         "QF": 1,
         "SF": 0,
@@ -1065,9 +1067,9 @@
       },
       "pct": {
         "Group stage": 0,
-        "R32": 40,
-        "R16": 53,
-        "QF": 7,
+        "R32": 44,
+        "R16": 50,
+        "QF": 6,
         "SF": 0,
         "Final": 0,
         "Champion": 0
@@ -1080,7 +1082,7 @@
       "group": "K",
       "actual": null,
       "dist": {
-        "Group stage": 12,
+        "Group stage": 13,
         "R32": 3,
         "R16": 0,
         "QF": 0,
@@ -1089,8 +1091,8 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 80,
-        "R32": 20,
+        "Group stage": 81,
+        "R32": 19,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -1108,17 +1110,17 @@
         "Group stage": 0,
         "R32": 2,
         "R16": 0,
-        "QF": 11,
+        "QF": 12,
         "SF": 2,
         "Final": 0,
         "Champion": 0
       },
       "pct": {
         "Group stage": 0,
-        "R32": 13,
+        "R32": 12,
         "R16": 0,
-        "QF": 73,
-        "SF": 13,
+        "QF": 75,
+        "SF": 12,
         "Final": 0,
         "Champion": 0
       },
@@ -1130,7 +1132,7 @@
       "group": "K",
       "actual": null,
       "dist": {
-        "Group stage": 14,
+        "Group stage": 15,
         "R32": 1,
         "R16": 0,
         "QF": 0,
@@ -1139,8 +1141,8 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 93,
-        "R32": 7,
+        "Group stage": 94,
+        "R32": 6,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -1157,7 +1159,7 @@
       "dist": {
         "Group stage": 0,
         "R32": 7,
-        "R16": 6,
+        "R16": 7,
         "QF": 1,
         "SF": 1,
         "Final": 0,
@@ -1165,10 +1167,10 @@
       },
       "pct": {
         "Group stage": 0,
-        "R32": 47,
-        "R16": 40,
-        "QF": 7,
-        "SF": 7,
+        "R32": 44,
+        "R16": 44,
+        "QF": 6,
+        "SF": 6,
         "Final": 0,
         "Champion": 0
       },
@@ -1183,7 +1185,7 @@
         "Group stage": 0,
         "R32": 0,
         "R16": 1,
-        "QF": 8,
+        "QF": 9,
         "SF": 2,
         "Final": 4,
         "Champion": 0
@@ -1191,10 +1193,10 @@
       "pct": {
         "Group stage": 0,
         "R32": 0,
-        "R16": 7,
-        "QF": 53,
-        "SF": 13,
-        "Final": 27,
+        "R16": 6,
+        "QF": 56,
+        "SF": 12,
+        "Final": 25,
         "Champion": 0
       },
       "championPct": 0,
@@ -1206,7 +1208,7 @@
       "actual": null,
       "dist": {
         "Group stage": 4,
-        "R32": 11,
+        "R32": 12,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -1214,8 +1216,8 @@
         "Champion": 0
       },
       "pct": {
-        "Group stage": 27,
-        "R32": 73,
+        "Group stage": 25,
+        "R32": 75,
         "R16": 0,
         "QF": 0,
         "SF": 0,
@@ -1230,7 +1232,7 @@
       "group": "L",
       "actual": null,
       "dist": {
-        "Group stage": 15,
+        "Group stage": 16,
         "R32": 0,
         "R16": 0,
         "QF": 0,
@@ -1262,7 +1264,7 @@
         {
           "answer": "Germany",
           "count": 7,
-          "pct": 47,
+          "pct": 44,
           "players": [
             "Hjalmar Sörensen",
             "Jakob Hägglund",
@@ -1276,10 +1278,11 @@
         },
         {
           "answer": "Brazil",
-          "count": 3,
-          "pct": 20,
+          "count": 4,
+          "pct": 25,
           "players": [
             "Calle Milebratt",
+            "Erik Rystedt",
             "Andreas Panagos",
             "Wilmer"
           ],
@@ -1288,7 +1291,7 @@
         {
           "answer": "Spain",
           "count": 2,
-          "pct": 13,
+          "pct": 12,
           "players": [
             "Lucas Johnson",
             "Gustaf de la Motte"
@@ -1298,7 +1301,7 @@
         {
           "answer": "Belgium",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Jonathan Segelman"
           ],
@@ -1307,7 +1310,7 @@
         {
           "answer": "England",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Axel Dillner"
           ],
@@ -1316,7 +1319,7 @@
         {
           "answer": "France",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Harald Johansson"
           ],
@@ -1334,7 +1337,7 @@
         {
           "answer": "Curaçao",
           "count": 7,
-          "pct": 47,
+          "pct": 44,
           "players": [
             "Lucas Johnson",
             "Harald Johansson",
@@ -1348,11 +1351,12 @@
         },
         {
           "answer": "Haiti",
-          "count": 6,
-          "pct": 40,
+          "count": 7,
+          "pct": 44,
           "players": [
             "Hjalmar Sörensen",
             "Calle Milebratt",
+            "Erik Rystedt",
             "Gustaf de la Motte",
             "Markus Ransved Nilsson",
             "Andreas Panagos",
@@ -1363,7 +1367,7 @@
         {
           "answer": "Cabo Verde",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Oscar Holmbergh"
           ],
@@ -1372,7 +1376,7 @@
         {
           "answer": "Panama",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Axel Dillner"
           ],
@@ -1390,7 +1394,7 @@
         {
           "answer": "240–249",
           "count": 3,
-          "pct": 20,
+          "pct": 19,
           "players": [
             "Lucas Johnson",
             "Eddie Williamson",
@@ -1399,9 +1403,18 @@
           "hit": null
         },
         {
+          "answer": "250–259",
+          "count": 1,
+          "pct": 6,
+          "players": [
+            "Erik Rystedt"
+          ],
+          "hit": null
+        },
+        {
           "answer": "260–269",
           "count": 5,
-          "pct": 33,
+          "pct": 31,
           "players": [
             "Calle Milebratt",
             "Gustaf de la Motte",
@@ -1414,7 +1427,7 @@
         {
           "answer": "270–279",
           "count": 3,
-          "pct": 20,
+          "pct": 19,
           "players": [
             "Harald Johansson",
             "Jakob Hägglund",
@@ -1425,7 +1438,7 @@
         {
           "answer": "280–289",
           "count": 2,
-          "pct": 13,
+          "pct": 12,
           "players": [
             "Hjalmar Sörensen",
             "Wilmer"
@@ -1435,7 +1448,7 @@
         {
           "answer": "300–309",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Andreas Panagos"
           ],
@@ -1444,7 +1457,7 @@
         {
           "answer": "320–329",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Oscar Holmbergh"
           ],
@@ -1461,12 +1474,13 @@
       "answers": [
         {
           "answer": "Lamine Yamal",
-          "count": 6,
-          "pct": 40,
+          "count": 7,
+          "pct": 44,
           "players": [
             "Lucas Johnson",
             "Harald Johansson",
             "Calle Milebratt",
+            "Erik Rystedt",
             "Fabian Boberg",
             "Wilmer",
             "Axel Dillner"
@@ -1476,7 +1490,7 @@
         {
           "answer": "Harry Kane",
           "count": 2,
-          "pct": 13,
+          "pct": 12,
           "players": [
             "Gustaf de la Motte",
             "Eddie Williamson"
@@ -1486,7 +1500,7 @@
         {
           "answer": "Kylian Mbappé",
           "count": 2,
-          "pct": 13,
+          "pct": 12,
           "players": [
             "Jakob Hägglund",
             "Andreas Panagos"
@@ -1496,7 +1510,7 @@
         {
           "answer": "LAMIN YAMAL",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Hjalmar Sörensen"
           ],
@@ -1505,7 +1519,7 @@
         {
           "answer": "Mbape",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Jonathan Segelman"
           ],
@@ -1514,7 +1528,7 @@
         {
           "answer": "Mbappé",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Markus Ransved Nilsson"
           ],
@@ -1523,7 +1537,7 @@
         {
           "answer": "Michael Olise",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Oscar Holmbergh"
           ],
@@ -1532,7 +1546,7 @@
         {
           "answer": "Pedri (Spain)",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Love Hardeberg"
           ],
@@ -1548,9 +1562,22 @@
       "status": "tbd",
       "answers": [
         {
+          "answer": "Kylian Mbappé",
+          "count": 5,
+          "pct": 31,
+          "players": [
+            "Harald Johansson",
+            "Calle Milebratt",
+            "Erik Rystedt",
+            "Gustaf de la Motte",
+            "Jakob Hägglund"
+          ],
+          "hit": null
+        },
+        {
           "answer": "Harry Kane",
           "count": 4,
-          "pct": 27,
+          "pct": 25,
           "players": [
             "Eddie Williamson",
             "Fabian Boberg",
@@ -1560,21 +1587,9 @@
           "hit": null
         },
         {
-          "answer": "Kylian Mbappé",
-          "count": 4,
-          "pct": 27,
-          "players": [
-            "Harald Johansson",
-            "Calle Milebratt",
-            "Gustaf de la Motte",
-            "Jakob Hägglund"
-          ],
-          "hit": null
-        },
-        {
           "answer": "Alexander Sörloth",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Wilmer"
           ],
@@ -1583,7 +1598,7 @@
         {
           "answer": "Erlin Haaland",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Andreas Panagos"
           ],
@@ -1592,7 +1607,7 @@
         {
           "answer": "Haaland",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Markus Ransved Nilsson"
           ],
@@ -1601,7 +1616,7 @@
         {
           "answer": "Kylian Mbappe",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Lucas Johnson"
           ],
@@ -1610,7 +1625,7 @@
         {
           "answer": "Kylian Mbappé (France)",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Love Hardeberg"
           ],
@@ -1619,7 +1634,7 @@
         {
           "answer": "Mbape",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Jonathan Segelman"
           ],
@@ -1628,7 +1643,7 @@
         {
           "answer": "Mikel Oyarzabal",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Hjalmar Sörensen"
           ],
@@ -1646,7 +1661,7 @@
         {
           "answer": "Argentina",
           "count": 7,
-          "pct": 47,
+          "pct": 44,
           "players": [
             "Hjalmar Sörensen",
             "Harald Johansson",
@@ -1661,7 +1676,7 @@
         {
           "answer": "Brazil",
           "count": 2,
-          "pct": 13,
+          "pct": 12,
           "players": [
             "Jakob Hägglund",
             "Oscar Holmbergh"
@@ -1669,9 +1684,19 @@
           "hit": null
         },
         {
+          "answer": "Uruguay",
+          "count": 2,
+          "pct": 12,
+          "players": [
+            "Erik Rystedt",
+            "Axel Dillner"
+          ],
+          "hit": null
+        },
+        {
           "answer": "0",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Jonathan Segelman"
           ],
@@ -1680,7 +1705,7 @@
         {
           "answer": "Colombia",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Wilmer"
           ],
@@ -1689,7 +1714,7 @@
         {
           "answer": "France",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Lucas Johnson"
           ],
@@ -1698,7 +1723,7 @@
         {
           "answer": "Senegal",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Fabian Boberg"
           ],
@@ -1707,18 +1732,9 @@
         {
           "answer": "Turkey",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Markus Ransved Nilsson"
-          ],
-          "hit": null
-        },
-        {
-          "answer": "Uruguay",
-          "count": 1,
-          "pct": 7,
-          "players": [
-            "Axel Dillner"
           ],
           "hit": null
         }
@@ -1733,12 +1749,13 @@
       "answers": [
         {
           "answer": "2",
-          "count": 8,
-          "pct": 53,
+          "count": 9,
+          "pct": 56,
           "players": [
             "Hjalmar Sörensen",
             "Lucas Johnson",
             "Harald Johansson",
+            "Erik Rystedt",
             "Gustaf de la Motte",
             "Eddie Williamson",
             "Jonathan Segelman",
@@ -1750,7 +1767,7 @@
         {
           "answer": "1",
           "count": 2,
-          "pct": 13,
+          "pct": 12,
           "players": [
             "Love Hardeberg",
             "Wilmer"
@@ -1760,7 +1777,7 @@
         {
           "answer": "3",
           "count": 2,
-          "pct": 13,
+          "pct": 12,
           "players": [
             "Calle Milebratt",
             "Axel Dillner"
@@ -1770,7 +1787,7 @@
         {
           "answer": "4",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Fabian Boberg"
           ],
@@ -1779,7 +1796,7 @@
         {
           "answer": "6",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Jakob Hägglund"
           ],
@@ -1788,7 +1805,7 @@
         {
           "answer": "8",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Markus Ransved Nilsson"
           ],
@@ -1804,9 +1821,22 @@
       "status": "provisional",
       "answers": [
         {
+          "answer": "4",
+          "count": 5,
+          "pct": 31,
+          "players": [
+            "Lucas Johnson",
+            "Calle Milebratt",
+            "Erik Rystedt",
+            "Fabian Boberg",
+            "Jonathan Segelman"
+          ],
+          "hit": null
+        },
+        {
           "answer": "5",
           "count": 5,
-          "pct": 33,
+          "pct": 31,
           "players": [
             "Harald Johansson",
             "Gustaf de la Motte",
@@ -1817,21 +1847,9 @@
           "hit": null
         },
         {
-          "answer": "4",
-          "count": 4,
-          "pct": 27,
-          "players": [
-            "Lucas Johnson",
-            "Calle Milebratt",
-            "Fabian Boberg",
-            "Jonathan Segelman"
-          ],
-          "hit": null
-        },
-        {
           "answer": "6",
           "count": 4,
-          "pct": 27,
+          "pct": 25,
           "players": [
             "Hjalmar Sörensen",
             "Markus Ransved Nilsson",
@@ -1843,7 +1861,7 @@
         {
           "answer": "7",
           "count": 2,
-          "pct": 13,
+          "pct": 12,
           "players": [
             "Oscar Holmbergh",
             "Axel Dillner"
@@ -1861,9 +1879,10 @@
       "answers": [
         {
           "answer": "8",
-          "count": 3,
-          "pct": 20,
+          "count": 4,
+          "pct": 25,
           "players": [
+            "Erik Rystedt",
             "Eddie Williamson",
             "Markus Ransved Nilsson",
             "Axel Dillner"
@@ -1873,7 +1892,7 @@
         {
           "answer": "0",
           "count": 2,
-          "pct": 13,
+          "pct": 12,
           "players": [
             "Hjalmar Sörensen",
             "Lucas Johnson"
@@ -1883,7 +1902,7 @@
         {
           "answer": "6",
           "count": 2,
-          "pct": 13,
+          "pct": 12,
           "players": [
             "Harald Johansson",
             "Oscar Holmbergh"
@@ -1893,7 +1912,7 @@
         {
           "answer": "1",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Jonathan Segelman"
           ],
@@ -1902,7 +1921,7 @@
         {
           "answer": "11",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Gustaf de la Motte"
           ],
@@ -1911,7 +1930,7 @@
         {
           "answer": "2",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Calle Milebratt"
           ],
@@ -1920,7 +1939,7 @@
         {
           "answer": "3",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Fabian Boberg"
           ],
@@ -1929,7 +1948,7 @@
         {
           "answer": "4",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Andreas Panagos"
           ],
@@ -1938,7 +1957,7 @@
         {
           "answer": "5",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Jakob Hägglund"
           ],
@@ -1947,7 +1966,7 @@
         {
           "answer": "7",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Love Hardeberg"
           ],
@@ -1956,7 +1975,7 @@
         {
           "answer": "9",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Wilmer"
           ],
@@ -1974,7 +1993,7 @@
         {
           "answer": "No",
           "count": 8,
-          "pct": 53,
+          "pct": 50,
           "players": [
             "Lucas Johnson",
             "Calle Milebratt",
@@ -1989,11 +2008,12 @@
         },
         {
           "answer": "Yes",
-          "count": 7,
-          "pct": 47,
+          "count": 8,
+          "pct": 50,
           "players": [
             "Hjalmar Sörensen",
             "Harald Johansson",
+            "Erik Rystedt",
             "Gustaf de la Motte",
             "Eddie Williamson",
             "Fabian Boberg",
@@ -2013,13 +2033,14 @@
       "answers": [
         {
           "answer": "Yes",
-          "count": 14,
-          "pct": 93,
+          "count": 15,
+          "pct": 94,
           "players": [
             "Hjalmar Sörensen",
             "Lucas Johnson",
             "Harald Johansson",
             "Calle Milebratt",
+            "Erik Rystedt",
             "Gustaf de la Motte",
             "Jakob Hägglund",
             "Eddie Williamson",
@@ -2036,7 +2057,7 @@
         {
           "answer": "No",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Markus Ransved Nilsson"
           ],
@@ -2053,13 +2074,14 @@
       "answers": [
         {
           "answer": "No",
-          "count": 13,
-          "pct": 87,
+          "count": 14,
+          "pct": 88,
           "players": [
             "Hjalmar Sörensen",
             "Lucas Johnson",
             "Harald Johansson",
             "Calle Milebratt",
+            "Erik Rystedt",
             "Gustaf de la Motte",
             "Jakob Hägglund",
             "Eddie Williamson",
@@ -2075,7 +2097,7 @@
         {
           "answer": "Yes",
           "count": 2,
-          "pct": 13,
+          "pct": 12,
           "players": [
             "Jonathan Segelman",
             "Axel Dillner"
@@ -2094,7 +2116,7 @@
         {
           "answer": "8",
           "count": 6,
-          "pct": 40,
+          "pct": 38,
           "players": [
             "Hjalmar Sörensen",
             "Calle Milebratt",
@@ -2106,9 +2128,20 @@
           "hit": null
         },
         {
+          "answer": "9",
+          "count": 3,
+          "pct": 19,
+          "players": [
+            "Erik Rystedt",
+            "Eddie Williamson",
+            "Wilmer"
+          ],
+          "hit": null
+        },
+        {
           "answer": "4",
           "count": 2,
-          "pct": 13,
+          "pct": 12,
           "players": [
             "Fabian Boberg",
             "Jonathan Segelman"
@@ -2118,7 +2151,7 @@
         {
           "answer": "7",
           "count": 2,
-          "pct": 13,
+          "pct": 12,
           "players": [
             "Jakob Hägglund",
             "Markus Ransved Nilsson"
@@ -2126,19 +2159,9 @@
           "hit": null
         },
         {
-          "answer": "9",
-          "count": 2,
-          "pct": 13,
-          "players": [
-            "Eddie Williamson",
-            "Wilmer"
-          ],
-          "hit": null
-        },
-        {
           "answer": "10",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Love Hardeberg"
           ],
@@ -2147,7 +2170,7 @@
         {
           "answer": "11",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Lucas Johnson"
           ],
@@ -2156,7 +2179,7 @@
         {
           "answer": "6",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Harald Johansson"
           ],
@@ -2173,12 +2196,13 @@
       "answers": [
         {
           "answer": "R32",
-          "count": 13,
-          "pct": 87,
+          "count": 14,
+          "pct": 88,
           "players": [
             "Lucas Johnson",
             "Harald Johansson",
             "Calle Milebratt",
+            "Erik Rystedt",
             "Gustaf de la Motte",
             "Jakob Hägglund",
             "Eddie Williamson",
@@ -2195,7 +2219,7 @@
         {
           "answer": "QF",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Hjalmar Sörensen"
           ],
@@ -2204,7 +2228,7 @@
         {
           "answer": "R16",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Markus Ransved Nilsson"
           ],
@@ -2222,7 +2246,7 @@
         {
           "answer": "Viktor Gyökeres",
           "count": 8,
-          "pct": 53,
+          "pct": 50,
           "players": [
             "Hjalmar Sörensen",
             "Harald Johansson",
@@ -2237,9 +2261,10 @@
         },
         {
           "answer": "Alexander Isak",
-          "count": 1,
-          "pct": 7,
+          "count": 2,
+          "pct": 12,
           "players": [
+            "Erik Rystedt",
             "Andreas Panagos"
           ],
           "hit": null
@@ -2247,7 +2272,7 @@
         {
           "answer": "Gyökeres",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Markus Ransved Nilsson"
           ],
@@ -2256,7 +2281,7 @@
         {
           "answer": "Gyökers",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Oscar Holmbergh"
           ],
@@ -2265,7 +2290,7 @@
         {
           "answer": "Isak",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Wilmer"
           ],
@@ -2274,7 +2299,7 @@
         {
           "answer": "Victor Gyöekeres",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Calle Milebratt"
           ],
@@ -2283,7 +2308,7 @@
         {
           "answer": "Victor Gyökeres",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Lucas Johnson"
           ],
@@ -2292,7 +2317,7 @@
         {
           "answer": "Viktor G",
           "count": 1,
-          "pct": 7,
+          "pct": 6,
           "players": [
             "Jonathan Segelman"
           ],

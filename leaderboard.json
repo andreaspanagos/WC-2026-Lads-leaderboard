@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-12 21:11",
+    "lastRefresh": "2026-06-12 22:36",
     "maxPoints": 729,
-    "participants": 15,
+    "participants": 16,
     "maxAvailable": 6
   },
   "rows": [
@@ -41,6 +41,17 @@
     },
     {
       "rank": 4,
+      "player": "Erik Rystedt",
+      "group": 4,
+      "ko": 0,
+      "bonus": 0,
+      "total": 4,
+      "prevRank": null,
+      "pointsToday": 0,
+      "pctMax": 0.6667
+    },
+    {
+      "rank": 4,
       "player": "Gustaf de la Motte",
       "group": 4,
       "ko": 0,
@@ -51,7 +62,7 @@
       "pctMax": 0.6667
     },
     {
-      "rank": 5,
+      "rank": 6,
       "player": "Eddie Williamson",
       "group": 3,
       "ko": 0,
@@ -62,7 +73,7 @@
       "pctMax": 0.5
     },
     {
-      "rank": 5,
+      "rank": 6,
       "player": "Fabian Boberg",
       "group": 3,
       "ko": 0,
@@ -73,7 +84,7 @@
       "pctMax": 0.5
     },
     {
-      "rank": 5,
+      "rank": 6,
       "player": "Jakob Hägglund",
       "group": 3,
       "ko": 0,
@@ -84,7 +95,7 @@
       "pctMax": 0.5
     },
     {
-      "rank": 5,
+      "rank": 6,
       "player": "Jonathan Segelman",
       "group": 3,
       "ko": 0,
@@ -95,7 +106,7 @@
       "pctMax": 0.5
     },
     {
-      "rank": 5,
+      "rank": 6,
       "player": "Love Hardeberg",
       "group": 3,
       "ko": 0,
@@ -106,7 +117,7 @@
       "pctMax": 0.5
     },
     {
-      "rank": 5,
+      "rank": 6,
       "player": "Lucas Johnson",
       "group": 3,
       "ko": 0,
@@ -117,7 +128,7 @@
       "pctMax": 0.5
     },
     {
-      "rank": 5,
+      "rank": 6,
       "player": "Markus Ransved Nilsson",
       "group": 3,
       "ko": 0,
@@ -128,7 +139,7 @@
       "pctMax": 0.5
     },
     {
-      "rank": 5,
+      "rank": 6,
       "player": "Oscar Holmbergh",
       "group": 3,
       "ko": 0,
@@ -139,7 +150,7 @@
       "pctMax": 0.5
     },
     {
-      "rank": 13,
+      "rank": 14,
       "player": "Andreas Panagos",
       "group": 2,
       "ko": 0,
@@ -150,7 +161,7 @@
       "pctMax": 0.3333
     },
     {
-      "rank": 14,
+      "rank": 15,
       "player": "Axel Dillner",
       "group": 1,
       "ko": 0,
@@ -161,7 +172,7 @@
       "pctMax": 0.1667
     },
     {
-      "rank": 14,
+      "rank": 15,
       "player": "Wilmer",
       "group": 1,
       "ko": 0,
