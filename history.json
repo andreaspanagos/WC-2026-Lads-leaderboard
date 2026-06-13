@@ -74,54 +74,54 @@
       "standings": {
         "Hjalmar Sörensen": {
           "rank": 1,
-          "total": 9
+          "total": 10
         },
         "Erik Rystedt": {
           "rank": 2,
-          "total": 7
+          "total": 8
         },
         "Calle Milebratt": {
           "rank": 3,
-          "total": 6
+          "total": 7
         },
         "Harald Johansson": {
           "rank": 3,
-          "total": 6
+          "total": 7
         },
         "Jakob Hägglund": {
           "rank": 3,
-          "total": 6
+          "total": 7
         },
         "Love Hardeberg": {
           "rank": 3,
-          "total": 6
+          "total": 7
         },
         "Gustaf de la Motte": {
           "rank": 7,
-          "total": 4
+          "total": 5
         },
         "Eddie Williamson": {
           "rank": 8,
-          "total": 3
+          "total": 4
         },
         "Fabian Boberg": {
           "rank": 8,
-          "total": 3
-        },
-        "Jonathan Segelman": {
-          "rank": 8,
-          "total": 3
+          "total": 4
         },
         "Lucas Johnson": {
           "rank": 8,
-          "total": 3
+          "total": 4
         },
         "Markus Ransved Nilsson": {
           "rank": 8,
+          "total": 4
+        },
+        "Jonathan Segelman": {
+          "rank": 12,
           "total": 3
         },
         "Oscar Holmbergh": {
-          "rank": 8,
+          "rank": 12,
           "total": 3
         },
         "Andreas Panagos": {
@@ -129,12 +129,12 @@
           "total": 2
         },
         "Axel Dillner": {
-          "rank": 15,
-          "total": 1
+          "rank": 14,
+          "total": 2
         },
         "Wilmer": {
-          "rank": 15,
-          "total": 1
+          "rank": 14,
+          "total": 2
         }
       }
     }
