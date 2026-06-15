@@ -1,8 +1,8 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-15 09:41",
+    "lastRefresh": "2026-06-15 10:02",
     "maxPoints": 729,
-    "participants": 16,
+    "participants": 17,
     "maxAvailable": 36
   },
   "rows": [
@@ -140,6 +140,17 @@
     },
     {
       "rank": 12,
+      "player": "Kasper Oldmark",
+      "group": 7,
+      "ko": 0,
+      "bonus": 0,
+      "total": 7,
+      "prevRank": null,
+      "pointsToday": 0,
+      "pctMax": 0.1944
+    },
+    {
+      "rank": 12,
       "player": "Lucas Johnson",
       "group": 7,
       "ko": 0,
@@ -161,7 +172,7 @@
       "pctMax": 0.1944
     },
     {
-      "rank": 15,
+      "rank": 16,
       "player": "Oscar Holmbergh",
       "group": 6,
       "ko": 0,
@@ -172,7 +183,7 @@
       "pctMax": 0.1667
     },
     {
-      "rank": 16,
+      "rank": 17,
       "player": "Jonathan Segelman",
       "group": 5,
       "ko": 0,
