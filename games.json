@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-15 10:02",
+    "lastRefresh": "2026-06-15 21:52",
     "maxPoints": 729,
     "participants": 17
   },
@@ -3396,14 +3396,17 @@
           "kickoff": "2026-06-15 18:00",
           "home": "Spain",
           "away": "Cabo Verde",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 0,
+            "ag": 0
+          },
           "scorelines": [
             {
               "score": "3–0",
               "count": 7,
               "pct": 41,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Hjalmar Sörensen",
                 "Wilmer",
@@ -3418,7 +3421,7 @@
               "score": "4–0",
               "count": 5,
               "pct": 29,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Axel Dillner",
                 "Harald Johansson",
@@ -3431,7 +3434,7 @@
               "score": "5–0",
               "count": 3,
               "pct": 18,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Love Hardeberg",
                 "Gustaf de la Motte",
@@ -3442,7 +3445,7 @@
               "score": "4–1",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Andreas Panagos"
               ]
@@ -3451,7 +3454,7 @@
               "score": "7–0",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Oscar Holmbergh"
               ]
