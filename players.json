@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-15 21:52",
+    "lastRefresh": "2026-06-16 07:59",
     "maxPoints": 729,
     "participants": 17,
     "maxAvailable": 39
@@ -32,7 +32,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.3846,
-      "pointsToday": 2,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -1246,7 +1246,7 @@
         {
           "id": "B04",
           "q": "Golden Ball (Player of the tournament)",
-          "answer": "LAMIN YAMAL",
+          "answer": "Lamine Yamal",
           "hit": null,
           "pts": 10
         },
@@ -1336,7 +1336,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.3077,
-      "pointsToday": 5,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -2627,7 +2627,7 @@
         {
           "id": "B16",
           "q": "Sweden's top scorer (manual)",
-          "answer": "Isak",
+          "answer": "Alexander Isak",
           "hit": null,
           "pts": 5
         }
@@ -2640,7 +2640,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.1795,
-      "pointsToday": 2,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -3861,7 +3861,7 @@
         {
           "id": "B05",
           "q": "Golden Boot (Most goals, player)",
-          "answer": "Kylian Mbappe",
+          "answer": "Kylian Mbappé",
           "hit": null,
           "pts": 10
         },
@@ -3931,7 +3931,7 @@
         {
           "id": "B16",
           "q": "Sweden's top scorer (manual)",
-          "answer": "Victor Gyökeres",
+          "answer": "Viktor Gyökeres",
           "hit": null,
           "pts": 5
         }
@@ -3944,7 +3944,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.2821,
-      "pointsToday": 3,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -5248,7 +5248,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.2821,
-      "pointsToday": 2,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -6552,7 +6552,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.2821,
-      "pointsToday": 3,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -7766,14 +7766,14 @@
         {
           "id": "B04",
           "q": "Golden Ball (Player of the tournament)",
-          "answer": "Pedri (Spain)",
+          "answer": "Pedri",
           "hit": null,
           "pts": 10
         },
         {
           "id": "B05",
           "q": "Golden Boot (Most goals, player)",
-          "answer": "Kylian Mbappé (France)",
+          "answer": "Kylian Mbappé",
           "hit": null,
           "pts": 10
         },
@@ -7856,7 +7856,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.2564,
-      "pointsToday": 2,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -9160,7 +9160,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.2564,
-      "pointsToday": 2,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -10464,7 +10464,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.2564,
-      "pointsToday": 2,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -11755,7 +11755,7 @@
         {
           "id": "B16",
           "q": "Sweden's top scorer (manual)",
-          "answer": "Victor Gyöekeres",
+          "answer": "Viktor Gyökeres",
           "hit": null,
           "pts": 5
         }
@@ -11768,7 +11768,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.2564,
-      "pointsToday": 2,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -13072,7 +13072,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.2051,
-      "pointsToday": 3,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -14376,7 +14376,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.2051,
-      "pointsToday": 2,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -15680,7 +15680,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.1795,
-      "pointsToday": 2,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -16901,7 +16901,7 @@
         {
           "id": "B05",
           "q": "Golden Boot (Most goals, player)",
-          "answer": "Erlin Haaland",
+          "answer": "Erling Haaland",
           "hit": null,
           "pts": 10
         },
@@ -18275,7 +18275,7 @@
         {
           "id": "B16",
           "q": "Sweden's top scorer (manual)",
-          "answer": "Victor Gyökeres",
+          "answer": "Viktor Gyökeres",
           "hit": null,
           "pts": 5
         }
@@ -18288,7 +18288,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.1795,
-      "pointsToday": 2,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -19502,14 +19502,14 @@
         {
           "id": "B04",
           "q": "Golden Ball (Player of the tournament)",
-          "answer": "Mbappé",
+          "answer": "Kylian Mbappé",
           "hit": null,
           "pts": 10
         },
         {
           "id": "B05",
           "q": "Golden Boot (Most goals, player)",
-          "answer": "Haaland",
+          "answer": "Erling Haaland",
           "hit": null,
           "pts": 10
         },
@@ -19579,7 +19579,7 @@
         {
           "id": "B16",
           "q": "Sweden's top scorer (manual)",
-          "answer": "Gyökeres",
+          "answer": "Viktor Gyökeres",
           "hit": null,
           "pts": 5
         }
@@ -19592,7 +19592,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.1538,
-      "pointsToday": 2,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -20883,7 +20883,7 @@
         {
           "id": "B16",
           "q": "Sweden's top scorer (manual)",
-          "answer": "Gyökers",
+          "answer": "Viktor Gyökeres",
           "hit": null,
           "pts": 5
         }
@@ -20896,7 +20896,7 @@
       "ko": 0,
       "bonus": 0,
       "pctMax": 0.1282,
-      "pointsToday": 2,
+      "pointsToday": 0,
       "games": [
         {
           "group": "A",
@@ -22110,14 +22110,14 @@
         {
           "id": "B04",
           "q": "Golden Ball (Player of the tournament)",
-          "answer": "Mbape",
+          "answer": "Kylian Mbappé",
           "hit": null,
           "pts": 10
         },
         {
           "id": "B05",
           "q": "Golden Boot (Most goals, player)",
-          "answer": "Mbape",
+          "answer": "Kylian Mbappé",
           "hit": null,
           "pts": 10
         },
@@ -22187,7 +22187,7 @@
         {
           "id": "B16",
           "q": "Sweden's top scorer (manual)",
-          "answer": "Viktor G",
+          "answer": "Viktor Gyökeres",
           "hit": null,
           "pts": 5
         }

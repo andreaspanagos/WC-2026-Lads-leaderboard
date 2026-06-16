@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-15 21:52",
+    "lastRefresh": "2026-06-16 07:59",
     "maxPoints": 729,
     "participants": 17,
     "maxAvailable": 39
@@ -1487,9 +1487,10 @@
       "answers": [
         {
           "answer": "Lamine Yamal",
-          "count": 8,
-          "pct": 47,
+          "count": 9,
+          "pct": 53,
           "players": [
+            "Hjalmar Sörensen",
             "Wilmer",
             "Lucas Johnson",
             "Axel Dillner",
@@ -1498,6 +1499,18 @@
             "Calle Milebratt",
             "Fabian Boberg",
             "Kasper Oldmark"
+          ],
+          "hit": null
+        },
+        {
+          "answer": "Kylian Mbappé",
+          "count": 4,
+          "pct": 24,
+          "players": [
+            "Jakob Hägglund",
+            "Andreas Panagos",
+            "Markus Ransved Nilsson",
+            "Jonathan Segelman"
           ],
           "hit": null
         },
@@ -1512,43 +1525,6 @@
           "hit": null
         },
         {
-          "answer": "Kylian Mbappé",
-          "count": 2,
-          "pct": 12,
-          "players": [
-            "Jakob Hägglund",
-            "Andreas Panagos"
-          ],
-          "hit": null
-        },
-        {
-          "answer": "LAMIN YAMAL",
-          "count": 1,
-          "pct": 6,
-          "players": [
-            "Hjalmar Sörensen"
-          ],
-          "hit": null
-        },
-        {
-          "answer": "Mbape",
-          "count": 1,
-          "pct": 6,
-          "players": [
-            "Jonathan Segelman"
-          ],
-          "hit": null
-        },
-        {
-          "answer": "Mbappé",
-          "count": 1,
-          "pct": 6,
-          "players": [
-            "Markus Ransved Nilsson"
-          ],
-          "hit": null
-        },
-        {
           "answer": "Michael Olise",
           "count": 1,
           "pct": 6,
@@ -1558,7 +1534,7 @@
           "hit": null
         },
         {
-          "answer": "Pedri (Spain)",
+          "answer": "Pedri",
           "count": 1,
           "pct": 6,
           "players": [
@@ -1577,15 +1553,18 @@
       "answers": [
         {
           "answer": "Kylian Mbappé",
-          "count": 6,
-          "pct": 35,
+          "count": 9,
+          "pct": 53,
           "players": [
+            "Lucas Johnson",
             "Erik Rystedt",
+            "Love Hardeberg",
             "Harald Johansson",
             "Jakob Hägglund",
             "Calle Milebratt",
             "Gustaf de la Motte",
-            "Kasper Oldmark"
+            "Kasper Oldmark",
+            "Jonathan Segelman"
           ],
           "hit": null
         },
@@ -1602,56 +1581,21 @@
           "hit": null
         },
         {
-          "answer": "Alexander Sörloth",
-          "count": 1,
-          "pct": 6,
+          "answer": "Erling Haaland",
+          "count": 2,
+          "pct": 12,
           "players": [
-            "Wilmer"
-          ],
-          "hit": null
-        },
-        {
-          "answer": "Erlin Haaland",
-          "count": 1,
-          "pct": 6,
-          "players": [
-            "Andreas Panagos"
-          ],
-          "hit": null
-        },
-        {
-          "answer": "Haaland",
-          "count": 1,
-          "pct": 6,
-          "players": [
+            "Andreas Panagos",
             "Markus Ransved Nilsson"
           ],
           "hit": null
         },
         {
-          "answer": "Kylian Mbappe",
+          "answer": "Alexander Sörloth",
           "count": 1,
           "pct": 6,
           "players": [
-            "Lucas Johnson"
-          ],
-          "hit": null
-        },
-        {
-          "answer": "Kylian Mbappé (France)",
-          "count": 1,
-          "pct": 6,
-          "players": [
-            "Love Hardeberg"
-          ],
-          "hit": null
-        },
-        {
-          "answer": "Mbape",
-          "count": 1,
-          "pct": 6,
-          "players": [
-            "Jonathan Segelman"
+            "Wilmer"
           ],
           "hit": null
         },
@@ -2269,82 +2213,34 @@
       "answers": [
         {
           "answer": "Viktor Gyökeres",
-          "count": 8,
-          "pct": 47,
+          "count": 14,
+          "pct": 82,
           "players": [
             "Hjalmar Sörensen",
+            "Lucas Johnson",
             "Axel Dillner",
             "Love Hardeberg",
             "Harald Johansson",
             "Jakob Hägglund",
+            "Calle Milebratt",
             "Eddie Williamson",
             "Fabian Boberg",
-            "Gustaf de la Motte"
+            "Gustaf de la Motte",
+            "Kasper Oldmark",
+            "Markus Ransved Nilsson",
+            "Oscar Holmbergh",
+            "Jonathan Segelman"
           ],
           "hit": null
         },
         {
           "answer": "Alexander Isak",
-          "count": 2,
-          "pct": 12,
+          "count": 3,
+          "pct": 18,
           "players": [
+            "Wilmer",
             "Erik Rystedt",
             "Andreas Panagos"
-          ],
-          "hit": null
-        },
-        {
-          "answer": "Victor Gyökeres",
-          "count": 2,
-          "pct": 12,
-          "players": [
-            "Lucas Johnson",
-            "Kasper Oldmark"
-          ],
-          "hit": null
-        },
-        {
-          "answer": "Gyökeres",
-          "count": 1,
-          "pct": 6,
-          "players": [
-            "Markus Ransved Nilsson"
-          ],
-          "hit": null
-        },
-        {
-          "answer": "Gyökers",
-          "count": 1,
-          "pct": 6,
-          "players": [
-            "Oscar Holmbergh"
-          ],
-          "hit": null
-        },
-        {
-          "answer": "Isak",
-          "count": 1,
-          "pct": 6,
-          "players": [
-            "Wilmer"
-          ],
-          "hit": null
-        },
-        {
-          "answer": "Victor Gyöekeres",
-          "count": 1,
-          "pct": 6,
-          "players": [
-            "Calle Milebratt"
-          ],
-          "hit": null
-        },
-        {
-          "answer": "Viktor G",
-          "count": 1,
-          "pct": 6,
-          "players": [
-            "Jonathan Segelman"
           ],
           "hit": null
         }

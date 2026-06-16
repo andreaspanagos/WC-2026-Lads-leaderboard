@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-15 21:52",
+    "lastRefresh": "2026-06-16 07:59",
     "maxPoints": 729,
     "participants": 17,
     "maxAvailable": 39
@@ -14,7 +14,7 @@
       "bonus": 0,
       "total": 15,
       "prevRank": 1,
-      "pointsToday": 2,
+      "pointsToday": 0,
       "pctMax": 0.3846
     },
     {
@@ -24,8 +24,8 @@
       "ko": 0,
       "bonus": 0,
       "total": 12,
-      "prevRank": 9,
-      "pointsToday": 5,
+      "prevRank": 2,
+      "pointsToday": 0,
       "pctMax": 0.3077
     },
     {
@@ -36,7 +36,7 @@
       "bonus": 0,
       "total": 11,
       "prevRank": 3,
-      "pointsToday": 3,
+      "pointsToday": 0,
       "pctMax": 0.2821
     },
     {
@@ -46,8 +46,8 @@
       "ko": 0,
       "bonus": 0,
       "total": 11,
-      "prevRank": 2,
-      "pointsToday": 2,
+      "prevRank": 3,
+      "pointsToday": 0,
       "pctMax": 0.2821
     },
     {
@@ -58,7 +58,7 @@
       "bonus": 0,
       "total": 11,
       "prevRank": 3,
-      "pointsToday": 3,
+      "pointsToday": 0,
       "pctMax": 0.2821
     },
     {
@@ -68,8 +68,8 @@
       "ko": 0,
       "bonus": 0,
       "total": 10,
-      "prevRank": 3,
-      "pointsToday": 2,
+      "prevRank": 6,
+      "pointsToday": 0,
       "pctMax": 0.2564
     },
     {
@@ -79,8 +79,8 @@
       "ko": 0,
       "bonus": 0,
       "total": 10,
-      "prevRank": 3,
-      "pointsToday": 2,
+      "prevRank": 6,
+      "pointsToday": 0,
       "pctMax": 0.2564
     },
     {
@@ -90,8 +90,8 @@
       "ko": 0,
       "bonus": 0,
       "total": 10,
-      "prevRank": 3,
-      "pointsToday": 2,
+      "prevRank": 6,
+      "pointsToday": 0,
       "pctMax": 0.2564
     },
     {
@@ -101,8 +101,8 @@
       "ko": 0,
       "bonus": 0,
       "total": 10,
-      "prevRank": 3,
-      "pointsToday": 2,
+      "prevRank": 6,
+      "pointsToday": 0,
       "pctMax": 0.2564
     },
     {
@@ -112,8 +112,8 @@
       "ko": 0,
       "bonus": 0,
       "total": 8,
-      "prevRank": 11,
-      "pointsToday": 3,
+      "prevRank": 10,
+      "pointsToday": 0,
       "pctMax": 0.2051
     },
     {
@@ -124,7 +124,7 @@
       "bonus": 0,
       "total": 8,
       "prevRank": 10,
-      "pointsToday": 2,
+      "pointsToday": 0,
       "pctMax": 0.2051
     },
     {
@@ -134,8 +134,8 @@
       "ko": 0,
       "bonus": 0,
       "total": 7,
-      "prevRank": 11,
-      "pointsToday": 2,
+      "prevRank": 12,
+      "pointsToday": 0,
       "pctMax": 0.1795
     },
     {
@@ -145,7 +145,7 @@
       "ko": 0,
       "bonus": 0,
       "total": 7,
-      "prevRank": null,
+      "prevRank": 12,
       "pointsToday": 0,
       "pctMax": 0.1795
     },
@@ -156,8 +156,8 @@
       "ko": 0,
       "bonus": 0,
       "total": 7,
-      "prevRank": 11,
-      "pointsToday": 2,
+      "prevRank": 12,
+      "pointsToday": 0,
       "pctMax": 0.1795
     },
     {
@@ -167,8 +167,8 @@
       "ko": 0,
       "bonus": 0,
       "total": 7,
-      "prevRank": 11,
-      "pointsToday": 2,
+      "prevRank": 12,
+      "pointsToday": 0,
       "pctMax": 0.1795
     },
     {
@@ -178,8 +178,8 @@
       "ko": 0,
       "bonus": 0,
       "total": 6,
-      "prevRank": 15,
-      "pointsToday": 2,
+      "prevRank": 16,
+      "pointsToday": 0,
       "pctMax": 0.1538
     },
     {
@@ -189,8 +189,8 @@
       "ko": 0,
       "bonus": 0,
       "total": 5,
-      "prevRank": 16,
-      "pointsToday": 2,
+      "prevRank": 17,
+      "pointsToday": 0,
       "pctMax": 0.1282
     }
   ]
