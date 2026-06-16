@@ -295,7 +295,15 @@
           "rank": 3,
           "total": 11
         },
+        "Eddie Williamson": {
+          "rank": 3,
+          "total": 11
+        },
         "Erik Rystedt": {
+          "rank": 3,
+          "total": 11
+        },
+        "Harald Johansson": {
           "rank": 3,
           "total": 11
         },
@@ -304,19 +312,11 @@
           "total": 11
         },
         "Calle Milebratt": {
-          "rank": 6,
-          "total": 10
-        },
-        "Eddie Williamson": {
-          "rank": 6,
-          "total": 10
-        },
-        "Harald Johansson": {
-          "rank": 6,
+          "rank": 8,
           "total": 10
         },
         "Jakob Hägglund": {
-          "rank": 6,
+          "rank": 8,
           "total": 10
         },
         "Fabian Boberg": {
@@ -327,29 +327,29 @@
           "rank": 10,
           "total": 8
         },
+        "Jonathan Segelman": {
+          "rank": 10,
+          "total": 8
+        },
         "Andreas Panagos": {
-          "rank": 12,
+          "rank": 13,
           "total": 7
         },
         "Kasper Oldmark": {
-          "rank": 12,
+          "rank": 13,
           "total": 7
         },
         "Lucas Johnson": {
-          "rank": 12,
+          "rank": 13,
           "total": 7
         },
         "Markus Ransved Nilsson": {
-          "rank": 12,
+          "rank": 13,
           "total": 7
         },
         "Oscar Holmbergh": {
-          "rank": 16,
-          "total": 6
-        },
-        "Jonathan Segelman": {
           "rank": 17,
-          "total": 5
+          "total": 6
         }
       }
     }
