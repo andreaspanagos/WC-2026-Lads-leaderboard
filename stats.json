@@ -1,27 +1,27 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-16 09:16",
+    "lastRefresh": "2026-06-17 07:14",
     "maxPoints": 729,
     "participants": 17,
-    "maxAvailable": 48
+    "maxAvailable": 57
   },
   "players": [
     "Hjalmar Sörensen",
-    "Wilmer",
+    "Erik Rystedt",
+    "Fabian Boberg",
     "Lucas Johnson",
     "Harald Johansson",
+    "Wilmer",
     "Axel Dillner",
     "Eddie Williamson",
-    "Erik Rystedt",
     "Love Hardeberg",
     "Jakob Hägglund",
     "Calle Milebratt",
-    "Fabian Boberg",
     "Gustaf de la Motte",
-    "Jonathan Segelman",
     "Andreas Panagos",
-    "Kasper Oldmark",
     "Markus Ransved Nilsson",
+    "Jonathan Segelman",
+    "Kasper Oldmark",
     "Oscar Holmbergh"
   ],
   "stages": [
@@ -811,16 +811,16 @@
       "championPct": 76,
       "championBy": [
         "Hjalmar Sörensen",
-        "Wilmer",
+        "Erik Rystedt",
+        "Fabian Boberg",
         "Lucas Johnson",
         "Harald Johansson",
+        "Wilmer",
         "Axel Dillner",
         "Eddie Williamson",
-        "Erik Rystedt",
         "Love Hardeberg",
         "Jakob Hägglund",
         "Calle Milebratt",
-        "Fabian Boberg",
         "Gustaf de la Motte",
         "Kasper Oldmark"
       ]
@@ -874,9 +874,9 @@
       },
       "championPct": 18,
       "championBy": [
-        "Jonathan Segelman",
         "Andreas Panagos",
-        "Markus Ransved Nilsson"
+        "Markus Ransved Nilsson",
+        "Jonathan Segelman"
       ]
     },
     {
@@ -1269,10 +1269,10 @@
           "pct": 41,
           "players": [
             "Hjalmar Sörensen",
+            "Fabian Boberg",
             "Eddie Williamson",
             "Love Hardeberg",
             "Jakob Hägglund",
-            "Fabian Boberg",
             "Markus Ransved Nilsson",
             "Oscar Holmbergh"
           ],
@@ -1283,8 +1283,8 @@
           "count": 4,
           "pct": 24,
           "players": [
-            "Wilmer",
             "Erik Rystedt",
+            "Wilmer",
             "Calle Milebratt",
             "Andreas Panagos"
           ],
@@ -1351,13 +1351,13 @@
           "pct": 47,
           "players": [
             "Hjalmar Sörensen",
-            "Wilmer",
             "Erik Rystedt",
+            "Wilmer",
             "Calle Milebratt",
             "Gustaf de la Motte",
             "Andreas Panagos",
-            "Kasper Oldmark",
-            "Markus Ransved Nilsson"
+            "Markus Ransved Nilsson",
+            "Kasper Oldmark"
           ],
           "hit": null
         },
@@ -1366,12 +1366,12 @@
           "count": 7,
           "pct": 41,
           "players": [
+            "Fabian Boberg",
             "Lucas Johnson",
             "Harald Johansson",
             "Eddie Williamson",
             "Love Hardeberg",
             "Jakob Hägglund",
-            "Fabian Boberg",
             "Jonathan Segelman"
           ],
           "hit": null
@@ -1400,7 +1400,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "46",
+      "current": "58",
       "status": "provisional",
       "answers": [
         {
@@ -1442,9 +1442,9 @@
           "count": 3,
           "pct": 18,
           "players": [
+            "Fabian Boberg",
             "Harald Johansson",
-            "Jakob Hägglund",
-            "Fabian Boberg"
+            "Jakob Hägglund"
           ],
           "hit": null
         },
@@ -1491,13 +1491,13 @@
           "pct": 53,
           "players": [
             "Hjalmar Sörensen",
-            "Wilmer",
+            "Erik Rystedt",
+            "Fabian Boberg",
             "Lucas Johnson",
             "Harald Johansson",
+            "Wilmer",
             "Axel Dillner",
-            "Erik Rystedt",
             "Calle Milebratt",
-            "Fabian Boberg",
             "Kasper Oldmark"
           ],
           "hit": null
@@ -1508,9 +1508,9 @@
           "pct": 24,
           "players": [
             "Jakob Hägglund",
-            "Jonathan Segelman",
             "Andreas Panagos",
-            "Markus Ransved Nilsson"
+            "Markus Ransved Nilsson",
+            "Jonathan Segelman"
           ],
           "hit": null
         },
@@ -1556,9 +1556,9 @@
           "count": 9,
           "pct": 53,
           "players": [
+            "Erik Rystedt",
             "Lucas Johnson",
             "Harald Johansson",
-            "Erik Rystedt",
             "Love Hardeberg",
             "Jakob Hägglund",
             "Calle Milebratt",
@@ -1573,9 +1573,9 @@
           "count": 4,
           "pct": 24,
           "players": [
+            "Fabian Boberg",
             "Axel Dillner",
             "Eddie Williamson",
-            "Fabian Boberg",
             "Oscar Holmbergh"
           ],
           "hit": null
@@ -1648,8 +1648,8 @@
           "count": 2,
           "pct": 12,
           "players": [
-            "Axel Dillner",
-            "Erik Rystedt"
+            "Erik Rystedt",
+            "Axel Dillner"
           ],
           "hit": null
         },
@@ -1713,13 +1713,13 @@
           "pct": 59,
           "players": [
             "Hjalmar Sörensen",
+            "Erik Rystedt",
             "Lucas Johnson",
             "Harald Johansson",
             "Eddie Williamson",
-            "Erik Rystedt",
             "Gustaf de la Motte",
-            "Jonathan Segelman",
             "Andreas Panagos",
+            "Jonathan Segelman",
             "Kasper Oldmark",
             "Oscar Holmbergh"
           ],
@@ -1800,10 +1800,10 @@
           "count": 5,
           "pct": 29,
           "players": [
-            "Lucas Johnson",
             "Erik Rystedt",
-            "Calle Milebratt",
             "Fabian Boberg",
+            "Lucas Johnson",
+            "Calle Milebratt",
             "Jonathan Segelman"
           ],
           "hit": null
@@ -1844,9 +1844,9 @@
           "count": 4,
           "pct": 24,
           "players": [
+            "Erik Rystedt",
             "Axel Dillner",
             "Eddie Williamson",
-            "Erik Rystedt",
             "Markus Ransved Nilsson"
           ],
           "hit": null
@@ -1962,10 +1962,10 @@
             "Axel Dillner",
             "Jakob Hägglund",
             "Calle Milebratt",
-            "Jonathan Segelman",
             "Andreas Panagos",
-            "Kasper Oldmark",
             "Markus Ransved Nilsson",
+            "Jonathan Segelman",
+            "Kasper Oldmark",
             "Oscar Holmbergh"
           ],
           "hit": null
@@ -1976,12 +1976,12 @@
           "pct": 47,
           "players": [
             "Hjalmar Sörensen",
-            "Wilmer",
-            "Harald Johansson",
-            "Eddie Williamson",
             "Erik Rystedt",
-            "Love Hardeberg",
             "Fabian Boberg",
+            "Harald Johansson",
+            "Wilmer",
+            "Eddie Williamson",
+            "Love Hardeberg",
             "Gustaf de la Motte"
           ],
           "hit": null
@@ -2001,19 +2001,19 @@
           "pct": 94,
           "players": [
             "Hjalmar Sörensen",
-            "Wilmer",
+            "Erik Rystedt",
+            "Fabian Boberg",
             "Lucas Johnson",
             "Harald Johansson",
+            "Wilmer",
             "Axel Dillner",
             "Eddie Williamson",
-            "Erik Rystedt",
             "Love Hardeberg",
             "Jakob Hägglund",
             "Calle Milebratt",
-            "Fabian Boberg",
             "Gustaf de la Motte",
-            "Jonathan Segelman",
             "Andreas Panagos",
+            "Jonathan Segelman",
             "Kasper Oldmark",
             "Oscar Holmbergh"
           ],
@@ -2043,19 +2043,19 @@
           "pct": 88,
           "players": [
             "Hjalmar Sörensen",
-            "Wilmer",
+            "Erik Rystedt",
+            "Fabian Boberg",
             "Lucas Johnson",
             "Harald Johansson",
+            "Wilmer",
             "Eddie Williamson",
-            "Erik Rystedt",
             "Love Hardeberg",
             "Jakob Hägglund",
             "Calle Milebratt",
-            "Fabian Boberg",
             "Gustaf de la Motte",
             "Andreas Panagos",
-            "Kasper Oldmark",
             "Markus Ransved Nilsson",
+            "Kasper Oldmark",
             "Oscar Holmbergh"
           ],
           "hit": null
@@ -2098,9 +2098,9 @@
           "count": 4,
           "pct": 24,
           "players": [
+            "Erik Rystedt",
             "Wilmer",
             "Eddie Williamson",
-            "Erik Rystedt",
             "Kasper Oldmark"
           ],
           "hit": null
@@ -2166,19 +2166,19 @@
           "count": 15,
           "pct": 88,
           "players": [
-            "Wilmer",
+            "Erik Rystedt",
+            "Fabian Boberg",
             "Lucas Johnson",
             "Harald Johansson",
+            "Wilmer",
             "Axel Dillner",
             "Eddie Williamson",
-            "Erik Rystedt",
             "Love Hardeberg",
             "Jakob Hägglund",
             "Calle Milebratt",
-            "Fabian Boberg",
             "Gustaf de la Motte",
-            "Jonathan Segelman",
             "Andreas Panagos",
+            "Jonathan Segelman",
             "Kasper Oldmark",
             "Oscar Holmbergh"
           ],
@@ -2217,6 +2217,7 @@
           "pct": 82,
           "players": [
             "Hjalmar Sörensen",
+            "Fabian Boberg",
             "Lucas Johnson",
             "Harald Johansson",
             "Axel Dillner",
@@ -2224,11 +2225,10 @@
             "Love Hardeberg",
             "Jakob Hägglund",
             "Calle Milebratt",
-            "Fabian Boberg",
             "Gustaf de la Motte",
+            "Markus Ransved Nilsson",
             "Jonathan Segelman",
             "Kasper Oldmark",
-            "Markus Ransved Nilsson",
             "Oscar Holmbergh"
           ],
           "hit": null
@@ -2238,8 +2238,8 @@
           "count": 3,
           "pct": 18,
           "players": [
-            "Wilmer",
             "Erik Rystedt",
+            "Wilmer",
             "Andreas Panagos"
           ],
           "hit": null
