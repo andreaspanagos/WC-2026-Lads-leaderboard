@@ -498,6 +498,79 @@
           "total": 12
         }
       }
+    },
+    {
+      "date": "2026-06-19",
+      "standings": {
+        "Hjalmar Sörensen": {
+          "rank": 1,
+          "total": 32
+        },
+        "Erik Rystedt": {
+          "rank": 2,
+          "total": 26
+        },
+        "Fabian Boberg": {
+          "rank": 3,
+          "total": 25
+        },
+        "Gustaf de la Motte": {
+          "rank": 4,
+          "total": 24
+        },
+        "Wilmer": {
+          "rank": 4,
+          "total": 24
+        },
+        "Harald Johansson": {
+          "rank": 6,
+          "total": 23
+        },
+        "Eddie Williamson": {
+          "rank": 7,
+          "total": 22
+        },
+        "Andreas Panagos": {
+          "rank": 8,
+          "total": 21
+        },
+        "Calle Milebratt": {
+          "rank": 8,
+          "total": 21
+        },
+        "Jakob Hägglund": {
+          "rank": 8,
+          "total": 21
+        },
+        "Love Hardeberg": {
+          "rank": 8,
+          "total": 21
+        },
+        "Markus Ransved Nilsson": {
+          "rank": 8,
+          "total": 21
+        },
+        "Axel Dillner": {
+          "rank": 13,
+          "total": 20
+        },
+        "Lucas Johnson": {
+          "rank": 13,
+          "total": 20
+        },
+        "Jonathan Segelman": {
+          "rank": 15,
+          "total": 18
+        },
+        "Kasper Oldmark": {
+          "rank": 16,
+          "total": 17
+        },
+        "Oscar Holmbergh": {
+          "rank": 17,
+          "total": 14
+        }
+      }
     }
   ]
 }
