@@ -1424,9 +1424,10 @@
   // Fill the top-3 podium cards' badge clusters. Called from both renderLeaderboard
   // and renderAchievements since the two JSON files load in parallel (either may win).
   function decoratePodiumBadges() {
+    const admin = document.body.classList.contains("admin");   // badges are admin-only
     document.querySelectorAll(".podium-badges[data-player]").forEach(div => {
       const p = div.getAttribute("data-player");
-      div.innerHTML = badgeStrip(achData && achData.byPlayer ? achData.byPlayer[p] : []);
+      div.innerHTML = admin ? badgeStrip(achData && achData.byPlayer ? achData.byPlayer[p] : []) : "";
     });
   }
 
@@ -2598,8 +2599,9 @@
     });
 
     // Achievements / badges earned by this player (+ a collapsed locked remainder).
+    // Admin-only — the public player view omits the Badges section entirely.
     let achHtml = "";
-    if (achData) {
+    if (achData && document.body.classList.contains("admin")) {
       const earned = (achData.byPlayer && achData.byPlayer[name]) || [];
       const earnedSet = new Set(earned.map(b => b.id));
       const catalog = achData.catalog || [];
