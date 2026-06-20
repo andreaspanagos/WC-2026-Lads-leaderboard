@@ -71,6 +71,56 @@
           "correct": null
         }
       ],
+      "standings": [
+        {
+          "team": "Mexico",
+          "P": 2,
+          "W": 2,
+          "D": 0,
+          "L": 0,
+          "GF": 3,
+          "GA": 0,
+          "GD": 3,
+          "Pts": 6,
+          "pos": 1
+        },
+        {
+          "team": "Korea Republic",
+          "P": 2,
+          "W": 1,
+          "D": 0,
+          "L": 1,
+          "GF": 2,
+          "GA": 2,
+          "GD": 0,
+          "Pts": 3,
+          "pos": 2
+        },
+        {
+          "team": "Czechia",
+          "P": 2,
+          "W": 0,
+          "D": 1,
+          "L": 1,
+          "GF": 2,
+          "GA": 3,
+          "GD": -1,
+          "Pts": 1,
+          "pos": 3
+        },
+        {
+          "team": "South Africa",
+          "P": 2,
+          "W": 0,
+          "D": 1,
+          "L": 1,
+          "GF": 1,
+          "GA": 3,
+          "GD": -2,
+          "Pts": 1,
+          "pos": 4
+        }
+      ],
       "games": [
         {
           "kickoff": "2026-06-11 21:00",
@@ -533,6 +583,56 @@
             "Kasper Oldmark"
           ],
           "correct": null
+        }
+      ],
+      "standings": [
+        {
+          "team": "Canada",
+          "P": 2,
+          "W": 1,
+          "D": 1,
+          "L": 0,
+          "GF": 7,
+          "GA": 1,
+          "GD": 6,
+          "Pts": 4,
+          "pos": 1
+        },
+        {
+          "team": "Switzerland",
+          "P": 2,
+          "W": 1,
+          "D": 1,
+          "L": 0,
+          "GF": 5,
+          "GA": 2,
+          "GD": 3,
+          "Pts": 4,
+          "pos": 2
+        },
+        {
+          "team": "Bosnia & Herzegovina",
+          "P": 2,
+          "W": 0,
+          "D": 1,
+          "L": 1,
+          "GF": 2,
+          "GA": 5,
+          "GD": -3,
+          "Pts": 1,
+          "pos": 3
+        },
+        {
+          "team": "Qatar",
+          "P": 2,
+          "W": 0,
+          "D": 1,
+          "L": 1,
+          "GF": 1,
+          "GA": 7,
+          "GD": -6,
+          "Pts": 1,
+          "pos": 4
         }
       ],
       "games": [
@@ -1015,6 +1115,56 @@
           "correct": null
         }
       ],
+      "standings": [
+        {
+          "team": "Brazil",
+          "P": 2,
+          "W": 1,
+          "D": 1,
+          "L": 0,
+          "GF": 4,
+          "GA": 1,
+          "GD": 3,
+          "Pts": 4,
+          "pos": 1
+        },
+        {
+          "team": "Morocco",
+          "P": 2,
+          "W": 1,
+          "D": 1,
+          "L": 0,
+          "GF": 2,
+          "GA": 1,
+          "GD": 1,
+          "Pts": 4,
+          "pos": 2
+        },
+        {
+          "team": "Scotland",
+          "P": 2,
+          "W": 1,
+          "D": 0,
+          "L": 1,
+          "GF": 1,
+          "GA": 1,
+          "GD": 0,
+          "Pts": 3,
+          "pos": 3
+        },
+        {
+          "team": "Haiti",
+          "P": 2,
+          "W": 0,
+          "D": 0,
+          "L": 2,
+          "GF": 0,
+          "GA": 4,
+          "GD": -4,
+          "Pts": 0,
+          "pos": 4
+        }
+      ],
       "games": [
         {
           "kickoff": "2026-06-14 00:00",
@@ -1493,6 +1643,56 @@
             "Oscar Holmbergh"
           ],
           "correct": null
+        }
+      ],
+      "standings": [
+        {
+          "team": "USA",
+          "P": 2,
+          "W": 2,
+          "D": 0,
+          "L": 0,
+          "GF": 6,
+          "GA": 1,
+          "GD": 5,
+          "Pts": 6,
+          "pos": 1
+        },
+        {
+          "team": "Australia",
+          "P": 2,
+          "W": 1,
+          "D": 0,
+          "L": 1,
+          "GF": 2,
+          "GA": 2,
+          "GD": 0,
+          "Pts": 3,
+          "pos": 2
+        },
+        {
+          "team": "Paraguay",
+          "P": 2,
+          "W": 1,
+          "D": 0,
+          "L": 1,
+          "GF": 2,
+          "GA": 4,
+          "GD": -2,
+          "Pts": 3,
+          "pos": 3
+        },
+        {
+          "team": "Turkey",
+          "P": 2,
+          "W": 0,
+          "D": 0,
+          "L": 2,
+          "GF": 0,
+          "GA": 3,
+          "GD": -3,
+          "Pts": 0,
+          "pos": 4
         }
       ],
       "games": [
@@ -2031,6 +2231,56 @@
           "correct": null
         }
       ],
+      "standings": [
+        {
+          "team": "Germany",
+          "P": 1,
+          "W": 1,
+          "D": 0,
+          "L": 0,
+          "GF": 7,
+          "GA": 1,
+          "GD": 6,
+          "Pts": 3,
+          "pos": 1
+        },
+        {
+          "team": "Côte d'Ivoire",
+          "P": 1,
+          "W": 1,
+          "D": 0,
+          "L": 0,
+          "GF": 1,
+          "GA": 0,
+          "GD": 1,
+          "Pts": 3,
+          "pos": 2
+        },
+        {
+          "team": "Ecuador",
+          "P": 1,
+          "W": 0,
+          "D": 0,
+          "L": 1,
+          "GF": 0,
+          "GA": 1,
+          "GD": -1,
+          "Pts": 0,
+          "pos": 3
+        },
+        {
+          "team": "Curaçao",
+          "P": 1,
+          "W": 0,
+          "D": 0,
+          "L": 1,
+          "GF": 1,
+          "GA": 7,
+          "GD": -6,
+          "Pts": 0,
+          "pos": 4
+        }
+      ],
       "games": [
         {
           "kickoff": "2026-06-14 19:00",
@@ -2487,6 +2737,56 @@
             "Andreas Panagos"
           ],
           "correct": null
+        }
+      ],
+      "standings": [
+        {
+          "team": "Sweden",
+          "P": 1,
+          "W": 1,
+          "D": 0,
+          "L": 0,
+          "GF": 5,
+          "GA": 1,
+          "GD": 4,
+          "Pts": 3,
+          "pos": 1
+        },
+        {
+          "team": "Japan",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 2,
+          "GA": 2,
+          "GD": 0,
+          "Pts": 1,
+          "pos": 2
+        },
+        {
+          "team": "Netherlands",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 2,
+          "GA": 2,
+          "GD": 0,
+          "Pts": 1,
+          "pos": 3
+        },
+        {
+          "team": "Tunisia",
+          "P": 1,
+          "W": 0,
+          "D": 0,
+          "L": 1,
+          "GF": 1,
+          "GA": 5,
+          "GD": -4,
+          "Pts": 0,
+          "pos": 4
         }
       ],
       "games": [
@@ -2963,6 +3263,56 @@
           "correct": null
         }
       ],
+      "standings": [
+        {
+          "team": "Iran",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 2,
+          "GA": 2,
+          "GD": 0,
+          "Pts": 1,
+          "pos": 1
+        },
+        {
+          "team": "New Zealand",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 2,
+          "GA": 2,
+          "GD": 0,
+          "Pts": 1,
+          "pos": 2
+        },
+        {
+          "team": "Belgium",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 1,
+          "GA": 1,
+          "GD": 0,
+          "Pts": 1,
+          "pos": 3
+        },
+        {
+          "team": "Egypt",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 1,
+          "GA": 1,
+          "GD": 0,
+          "Pts": 1,
+          "pos": 4
+        }
+      ],
       "games": [
         {
           "kickoff": "2026-06-15 21:00",
@@ -3419,6 +3769,56 @@
             "Oscar Holmbergh"
           ],
           "correct": null
+        }
+      ],
+      "standings": [
+        {
+          "team": "Saudi Arabia",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 1,
+          "GA": 1,
+          "GD": 0,
+          "Pts": 1,
+          "pos": 1
+        },
+        {
+          "team": "Uruguay",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 1,
+          "GA": 1,
+          "GD": 0,
+          "Pts": 1,
+          "pos": 2
+        },
+        {
+          "team": "Cabo Verde",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 0,
+          "GA": 0,
+          "GD": 0,
+          "Pts": 1,
+          "pos": 3
+        },
+        {
+          "team": "Spain",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 0,
+          "GA": 0,
+          "GD": 0,
+          "Pts": 1,
+          "pos": 4
         }
       ],
       "games": [
@@ -3901,6 +4301,56 @@
             "Kasper Oldmark"
           ],
           "correct": null
+        }
+      ],
+      "standings": [
+        {
+          "team": "Norway",
+          "P": 1,
+          "W": 1,
+          "D": 0,
+          "L": 0,
+          "GF": 4,
+          "GA": 1,
+          "GD": 3,
+          "Pts": 3,
+          "pos": 1
+        },
+        {
+          "team": "France",
+          "P": 1,
+          "W": 1,
+          "D": 0,
+          "L": 0,
+          "GF": 3,
+          "GA": 1,
+          "GD": 2,
+          "Pts": 3,
+          "pos": 2
+        },
+        {
+          "team": "Senegal",
+          "P": 1,
+          "W": 0,
+          "D": 0,
+          "L": 1,
+          "GF": 1,
+          "GA": 3,
+          "GD": -2,
+          "Pts": 0,
+          "pos": 3
+        },
+        {
+          "team": "Iraq",
+          "P": 1,
+          "W": 0,
+          "D": 0,
+          "L": 1,
+          "GF": 1,
+          "GA": 4,
+          "GD": -3,
+          "Pts": 0,
+          "pos": 4
         }
       ],
       "games": [
@@ -4401,6 +4851,56 @@
           "correct": null
         }
       ],
+      "standings": [
+        {
+          "team": "Argentina",
+          "P": 1,
+          "W": 1,
+          "D": 0,
+          "L": 0,
+          "GF": 3,
+          "GA": 0,
+          "GD": 3,
+          "Pts": 3,
+          "pos": 1
+        },
+        {
+          "team": "Austria",
+          "P": 1,
+          "W": 1,
+          "D": 0,
+          "L": 0,
+          "GF": 3,
+          "GA": 1,
+          "GD": 2,
+          "Pts": 3,
+          "pos": 2
+        },
+        {
+          "team": "Jordan",
+          "P": 1,
+          "W": 0,
+          "D": 0,
+          "L": 1,
+          "GF": 1,
+          "GA": 3,
+          "GD": -2,
+          "Pts": 0,
+          "pos": 3
+        },
+        {
+          "team": "Algeria",
+          "P": 1,
+          "W": 0,
+          "D": 0,
+          "L": 1,
+          "GF": 0,
+          "GA": 3,
+          "GD": -3,
+          "Pts": 0,
+          "pos": 4
+        }
+      ],
       "games": [
         {
           "kickoff": "2026-06-17 03:00",
@@ -4873,6 +5373,56 @@
             "Wilmer"
           ],
           "correct": null
+        }
+      ],
+      "standings": [
+        {
+          "team": "Colombia",
+          "P": 1,
+          "W": 1,
+          "D": 0,
+          "L": 0,
+          "GF": 3,
+          "GA": 1,
+          "GD": 2,
+          "Pts": 3,
+          "pos": 1
+        },
+        {
+          "team": "Congo DR",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 1,
+          "GA": 1,
+          "GD": 0,
+          "Pts": 1,
+          "pos": 2
+        },
+        {
+          "team": "Portugal",
+          "P": 1,
+          "W": 0,
+          "D": 1,
+          "L": 0,
+          "GF": 1,
+          "GA": 1,
+          "GD": 0,
+          "Pts": 1,
+          "pos": 3
+        },
+        {
+          "team": "Uzbekistan",
+          "P": 1,
+          "W": 0,
+          "D": 0,
+          "L": 1,
+          "GF": 1,
+          "GA": 3,
+          "GD": -2,
+          "Pts": 0,
+          "pos": 4
         }
       ],
       "games": [
@@ -5363,6 +5913,56 @@
             "Harald Johansson"
           ],
           "correct": null
+        }
+      ],
+      "standings": [
+        {
+          "team": "England",
+          "P": 1,
+          "W": 1,
+          "D": 0,
+          "L": 0,
+          "GF": 4,
+          "GA": 2,
+          "GD": 2,
+          "Pts": 3,
+          "pos": 1
+        },
+        {
+          "team": "Ghana",
+          "P": 1,
+          "W": 1,
+          "D": 0,
+          "L": 0,
+          "GF": 1,
+          "GA": 0,
+          "GD": 1,
+          "Pts": 3,
+          "pos": 2
+        },
+        {
+          "team": "Panama",
+          "P": 1,
+          "W": 0,
+          "D": 0,
+          "L": 1,
+          "GF": 0,
+          "GA": 1,
+          "GD": -1,
+          "Pts": 0,
+          "pos": 3
+        },
+        {
+          "team": "Croatia",
+          "P": 1,
+          "W": 0,
+          "D": 0,
+          "L": 1,
+          "GF": 2,
+          "GA": 4,
+          "GD": -2,
+          "Pts": 0,
+          "pos": 4
         }
       ],
       "games": [
