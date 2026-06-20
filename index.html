@@ -1641,6 +1641,10 @@
     const promptEl = document.getElementById("me-prompt");
     const heroEl = document.getElementById("me-hero");
     if (!promptEl || !heroEl || !lbData) return;
+    // "This is you" (picker + hero) is admin-only — public never sees it.
+    if (!document.body.classList.contains("admin")) {
+      promptEl.hidden = true; heroEl.hidden = true; return;
+    }
     const rows = lbData.rows;
     const me = getMe();
 
@@ -1883,6 +1887,7 @@
   // dashboard hero/row highlight). getMe() validates it against the current
   // standings so a stale stored name never highlights a missing player.
   function getMe() {
+    if (!document.body.classList.contains("admin")) return "";   // "This is you" is admin-only
     if (trendMe && lbData && !lbData.rows.some(r => r.player === trendMe)) return "";
     return trendMe;
   }
