@@ -584,56 +584,56 @@
           "total": 30
         },
         "Wilmer": {
-          "rank": 3,
-          "total": 29
+          "rank": 2,
+          "total": 30
         },
         "Fabian Boberg": {
           "rank": 4,
-          "total": 28
+          "total": 29
         },
         "Gustaf de la Motte": {
           "rank": 5,
-          "total": 26
+          "total": 27
         },
         "Lucas Johnson": {
           "rank": 5,
-          "total": 26
+          "total": 27
         },
         "Calle Milebratt": {
           "rank": 7,
-          "total": 25
-        },
-        "Eddie Williamson": {
-          "rank": 7,
-          "total": 25
+          "total": 26
         },
         "Harald Johansson": {
           "rank": 7,
+          "total": 26
+        },
+        "Eddie Williamson": {
+          "rank": 9,
           "total": 25
         },
         "Love Hardeberg": {
-          "rank": 10,
-          "total": 24
+          "rank": 9,
+          "total": 25
         },
         "Andreas Panagos": {
           "rank": 11,
-          "total": 23
+          "total": 24
         },
         "Jakob Hägglund": {
           "rank": 11,
-          "total": 23
+          "total": 24
         },
         "Markus Ransved Nilsson": {
           "rank": 11,
-          "total": 23
+          "total": 24
         },
         "Axel Dillner": {
           "rank": 14,
-          "total": 22
+          "total": 23
         },
         "Jonathan Segelman": {
           "rank": 15,
-          "total": 21
+          "total": 22
         },
         "Kasper Oldmark": {
           "rank": 16,
@@ -641,7 +641,7 @@
         },
         "Oscar Holmbergh": {
           "rank": 17,
-          "total": 16
+          "total": 17
         }
       }
     }

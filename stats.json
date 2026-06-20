@@ -1,15 +1,15 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-20 09:12",
+    "lastRefresh": "2026-06-20 21:20",
     "maxPoints": 729,
     "participants": 17,
-    "maxAvailable": 96
+    "maxAvailable": 99
   },
   "players": [
     "Hjalmar Sörensen",
     "Lucas Johnson",
-    "Erik Rystedt",
     "Wilmer",
+    "Erik Rystedt",
     "Fabian Boberg",
     "Gustaf de la Motte",
     "Harald Johansson",
@@ -812,8 +812,8 @@
       "championBy": [
         "Hjalmar Sörensen",
         "Lucas Johnson",
-        "Erik Rystedt",
         "Wilmer",
+        "Erik Rystedt",
         "Fabian Boberg",
         "Gustaf de la Motte",
         "Harald Johansson",
@@ -1283,8 +1283,8 @@
           "count": 4,
           "pct": 24,
           "players": [
-            "Erik Rystedt",
             "Wilmer",
+            "Erik Rystedt",
             "Calle Milebratt",
             "Andreas Panagos"
           ],
@@ -1351,8 +1351,8 @@
           "pct": 47,
           "players": [
             "Hjalmar Sörensen",
-            "Erik Rystedt",
             "Wilmer",
+            "Erik Rystedt",
             "Gustaf de la Motte",
             "Calle Milebratt",
             "Andreas Panagos",
@@ -1400,11 +1400,11 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "96",
+      "current": "102",
       "status": "provisional",
       "answers": [
         {
-          "answer": "240–249",
+          "answer": "240â€“249",
           "count": 4,
           "pct": 24,
           "players": [
@@ -1416,7 +1416,7 @@
           "hit": null
         },
         {
-          "answer": "250–259",
+          "answer": "250â€“259",
           "count": 1,
           "pct": 6,
           "players": [
@@ -1425,7 +1425,7 @@
           "hit": null
         },
         {
-          "answer": "260–269",
+          "answer": "260â€“269",
           "count": 5,
           "pct": 29,
           "players": [
@@ -1438,7 +1438,7 @@
           "hit": null
         },
         {
-          "answer": "270–279",
+          "answer": "270â€“279",
           "count": 3,
           "pct": 18,
           "players": [
@@ -1449,7 +1449,7 @@
           "hit": null
         },
         {
-          "answer": "280–289",
+          "answer": "280â€“289",
           "count": 2,
           "pct": 12,
           "players": [
@@ -1459,7 +1459,7 @@
           "hit": null
         },
         {
-          "answer": "300–309",
+          "answer": "300â€“309",
           "count": 1,
           "pct": 6,
           "players": [
@@ -1468,7 +1468,7 @@
           "hit": null
         },
         {
-          "answer": "320–329",
+          "answer": "320â€“329",
           "count": 1,
           "pct": 6,
           "players": [
@@ -1492,8 +1492,8 @@
           "players": [
             "Hjalmar Sörensen",
             "Lucas Johnson",
-            "Erik Rystedt",
             "Wilmer",
+            "Erik Rystedt",
             "Fabian Boberg",
             "Harald Johansson",
             "Calle Milebratt",
@@ -1976,8 +1976,8 @@
           "pct": 47,
           "players": [
             "Hjalmar Sörensen",
-            "Erik Rystedt",
             "Wilmer",
+            "Erik Rystedt",
             "Fabian Boberg",
             "Gustaf de la Motte",
             "Harald Johansson",
@@ -2002,8 +2002,8 @@
           "players": [
             "Hjalmar Sörensen",
             "Lucas Johnson",
-            "Erik Rystedt",
             "Wilmer",
+            "Erik Rystedt",
             "Fabian Boberg",
             "Gustaf de la Motte",
             "Harald Johansson",
@@ -2044,8 +2044,8 @@
           "players": [
             "Hjalmar Sörensen",
             "Lucas Johnson",
-            "Erik Rystedt",
             "Wilmer",
+            "Erik Rystedt",
             "Fabian Boberg",
             "Gustaf de la Motte",
             "Harald Johansson",
@@ -2098,8 +2098,8 @@
           "count": 4,
           "pct": 24,
           "players": [
-            "Erik Rystedt",
             "Wilmer",
+            "Erik Rystedt",
             "Eddie Williamson",
             "Kasper Oldmark"
           ],
@@ -2167,8 +2167,8 @@
           "pct": 88,
           "players": [
             "Lucas Johnson",
-            "Erik Rystedt",
             "Wilmer",
+            "Erik Rystedt",
             "Fabian Boberg",
             "Gustaf de la Motte",
             "Harald Johansson",
@@ -2238,8 +2238,8 @@
           "count": 3,
           "pct": 18,
           "players": [
-            "Erik Rystedt",
             "Wilmer",
+            "Erik Rystedt",
             "Andreas Panagos"
           ],
           "hit": null
