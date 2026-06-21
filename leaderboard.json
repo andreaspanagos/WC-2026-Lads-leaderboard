@@ -1,197 +1,197 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-20 21:20",
+    "lastRefresh": "2026-06-21 09:52",
     "maxPoints": 729,
     "participants": 17,
-    "maxAvailable": 99
+    "maxAvailable": 108
   },
   "rows": [
     {
       "rank": 1,
       "player": "Hjalmar Sörensen",
-      "group": 34,
+      "group": 36,
       "ko": 0,
       "bonus": 0,
-      "total": 34,
+      "total": 36,
       "prevRank": 1,
       "pointsToday": 2,
-      "pctMax": 0.3434
+      "pctMax": 0.3333
     },
     {
       "rank": 2,
-      "player": "Erik Rystedt",
-      "group": 30,
+      "player": "Fabian Boberg",
+      "group": 33,
       "ko": 0,
       "bonus": 0,
-      "total": 30,
-      "prevRank": 2,
-      "pointsToday": 4,
-      "pctMax": 0.303
-    },
-    {
-      "rank": 2,
-      "player": "Wilmer",
-      "group": 30,
-      "ko": 0,
-      "bonus": 0,
-      "total": 30,
+      "total": 33,
       "prevRank": 4,
-      "pointsToday": 6,
-      "pctMax": 0.303
+      "pointsToday": 4,
+      "pctMax": 0.3056
+    },
+    {
+      "rank": 3,
+      "player": "Erik Rystedt",
+      "group": 32,
+      "ko": 0,
+      "bonus": 0,
+      "total": 32,
+      "prevRank": 2,
+      "pointsToday": 2,
+      "pctMax": 0.2963
     },
     {
       "rank": 4,
-      "player": "Fabian Boberg",
+      "player": "Lucas Johnson",
+      "group": 31,
+      "ko": 0,
+      "bonus": 0,
+      "total": 31,
+      "prevRank": 5,
+      "pointsToday": 4,
+      "pctMax": 0.287
+    },
+    {
+      "rank": 4,
+      "player": "Wilmer",
+      "group": 31,
+      "ko": 0,
+      "bonus": 0,
+      "total": 31,
+      "prevRank": 2,
+      "pointsToday": 1,
+      "pctMax": 0.287
+    },
+    {
+      "rank": 6,
+      "player": "Gustaf de la Motte",
       "group": 29,
       "ko": 0,
       "bonus": 0,
       "total": 29,
-      "prevRank": 3,
-      "pointsToday": 4,
-      "pctMax": 0.2929
-    },
-    {
-      "rank": 5,
-      "player": "Gustaf de la Motte",
-      "group": 27,
-      "ko": 0,
-      "bonus": 0,
-      "total": 27,
-      "prevRank": 4,
-      "pointsToday": 3,
-      "pctMax": 0.2727
-    },
-    {
-      "rank": 5,
-      "player": "Lucas Johnson",
-      "group": 27,
-      "ko": 0,
-      "bonus": 0,
-      "total": 27,
-      "prevRank": 13,
-      "pointsToday": 7,
-      "pctMax": 0.2727
+      "prevRank": 5,
+      "pointsToday": 2,
+      "pctMax": 0.2685
     },
     {
       "rank": 7,
       "player": "Calle Milebratt",
-      "group": 26,
+      "group": 28,
       "ko": 0,
       "bonus": 0,
-      "total": 26,
-      "prevRank": 8,
-      "pointsToday": 5,
-      "pctMax": 0.2626
+      "total": 28,
+      "prevRank": 7,
+      "pointsToday": 2,
+      "pctMax": 0.2593
     },
     {
       "rank": 7,
       "player": "Harald Johansson",
+      "group": 28,
+      "ko": 0,
+      "bonus": 0,
+      "total": 28,
+      "prevRank": 7,
+      "pointsToday": 2,
+      "pctMax": 0.2593
+    },
+    {
+      "rank": 7,
+      "player": "Jakob Hägglund",
+      "group": 28,
+      "ko": 0,
+      "bonus": 0,
+      "total": 28,
+      "prevRank": 11,
+      "pointsToday": 4,
+      "pctMax": 0.2593
+    },
+    {
+      "rank": 10,
+      "player": "Eddie Williamson",
+      "group": 27,
+      "ko": 0,
+      "bonus": 0,
+      "total": 27,
+      "prevRank": 9,
+      "pointsToday": 2,
+      "pctMax": 0.25
+    },
+    {
+      "rank": 10,
+      "player": "Love Hardeberg",
+      "group": 27,
+      "ko": 0,
+      "bonus": 0,
+      "total": 27,
+      "prevRank": 9,
+      "pointsToday": 2,
+      "pctMax": 0.25
+    },
+    {
+      "rank": 12,
+      "player": "Andreas Panagos",
       "group": 26,
       "ko": 0,
       "bonus": 0,
       "total": 26,
-      "prevRank": 6,
-      "pointsToday": 3,
-      "pctMax": 0.2626
+      "prevRank": 11,
+      "pointsToday": 2,
+      "pctMax": 0.2407
     },
     {
-      "rank": 9,
-      "player": "Eddie Williamson",
-      "group": 25,
-      "ko": 0,
-      "bonus": 0,
-      "total": 25,
-      "prevRank": 7,
-      "pointsToday": 3,
-      "pctMax": 0.2525
-    },
-    {
-      "rank": 9,
-      "player": "Love Hardeberg",
-      "group": 25,
-      "ko": 0,
-      "bonus": 0,
-      "total": 25,
-      "prevRank": 8,
-      "pointsToday": 4,
-      "pctMax": 0.2525
-    },
-    {
-      "rank": 11,
-      "player": "Andreas Panagos",
-      "group": 24,
-      "ko": 0,
-      "bonus": 0,
-      "total": 24,
-      "prevRank": 8,
-      "pointsToday": 3,
-      "pctMax": 0.2424
-    },
-    {
-      "rank": 11,
-      "player": "Jakob Hägglund",
-      "group": 24,
-      "ko": 0,
-      "bonus": 0,
-      "total": 24,
-      "prevRank": 8,
-      "pointsToday": 3,
-      "pctMax": 0.2424
-    },
-    {
-      "rank": 11,
+      "rank": 12,
       "player": "Markus Ransved Nilsson",
-      "group": 24,
+      "group": 26,
       "ko": 0,
       "bonus": 0,
-      "total": 24,
-      "prevRank": 8,
-      "pointsToday": 3,
-      "pctMax": 0.2424
+      "total": 26,
+      "prevRank": 11,
+      "pointsToday": 2,
+      "pctMax": 0.2407
     },
     {
       "rank": 14,
       "player": "Axel Dillner",
-      "group": 23,
+      "group": 24,
       "ko": 0,
       "bonus": 0,
-      "total": 23,
-      "prevRank": 13,
-      "pointsToday": 3,
-      "pctMax": 0.2323
+      "total": 24,
+      "prevRank": 14,
+      "pointsToday": 1,
+      "pctMax": 0.2222
     },
     {
       "rank": 15,
       "player": "Jonathan Segelman",
-      "group": 22,
+      "group": 23,
       "ko": 0,
       "bonus": 0,
-      "total": 22,
+      "total": 23,
       "prevRank": 15,
-      "pointsToday": 4,
-      "pctMax": 0.2222
+      "pointsToday": 1,
+      "pctMax": 0.213
     },
     {
-      "rank": 16,
+      "rank": 15,
       "player": "Kasper Oldmark",
-      "group": 19,
+      "group": 23,
       "ko": 0,
       "bonus": 0,
-      "total": 19,
+      "total": 23,
       "prevRank": 16,
-      "pointsToday": 2,
-      "pctMax": 0.1919
+      "pointsToday": 4,
+      "pctMax": 0.213
     },
     {
       "rank": 17,
       "player": "Oscar Holmbergh",
-      "group": 17,
+      "group": 20,
       "ko": 0,
       "bonus": 0,
-      "total": 17,
+      "total": 20,
       "prevRank": 17,
       "pointsToday": 3,
-      "pctMax": 0.1717
+      "pctMax": 0.1852
     }
   ]
 }
