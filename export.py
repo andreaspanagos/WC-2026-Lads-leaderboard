@@ -75,9 +75,9 @@ wb = openpyxl.load_workbook(_tmp_model, data_only=True)
 ws = wb[SHEET]
 bk = wb["Backend"]
 
-# â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ leaderboard.json â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ───────────────────────── leaderboard.json ─────────────────────────
 
-# Previous export (most recent prior state) â€” used to seed a new day's baseline.
+# Previous export (most recent prior state) — used to seed a new day's baseline.
 prev_state = {}                # name -> {"rank":, "total":}
 if os.path.exists(OUTPUT):
     try:
@@ -139,10 +139,10 @@ for r in rows:
         if (b and b.get("total") is not None and r["total"] is not None) else 0
 
 # leaderboard.json is written further down (see "finalise leaderboard.json"),
-# once fixtures and the bonus answer key are known â€” we need them to compute how
+# once fixtures and the bonus answer key are known — we need them to compute how
 # many points have actually been winnable so far for the % Max column.
 
-# â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ flat per-player picks table (row 100+) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ───────────────── flat per-player picks table (row 100+) ─────────────────
 
 hdr = {}
 for c in range(1, ws.max_column + 1):
@@ -164,7 +164,7 @@ players = [x["player"] for x in sorted(rows, key=lambda x: (x["rank"] is None, x
            if x["player"] in flat]
 players += [n for n in flat if n not in players]
 
-# â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ Backend: fixtures, results, progression â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ───────────────── Backend: fixtures, results, progression ─────────────────
 
 # Authoritative scores + played-status come from the Results sheet input cells.
 # (Backend coerces a blank result to 0, which would look like a played 0-0 draw;
@@ -183,7 +183,7 @@ for _hdr, _g in _GROUP_HDR.items():
                                    as_int(_rs.cell(row=_r, column=6).value),   # F
                                    as_int(_rs.cell(row=_r, column=8).value))   # H
 
-# Group fixtures in GS01..GS72 order (Backend rows 3-74, cols B-F) â€” order matters
+# Group fixtures in GS01..GS72 order (Backend rows 3-74, cols B-F) — order matters
 # because it aligns positionally with the player picks GS01..GS72.
 fixtures = []                  # [{group, home, away, hg, ag, played}]
 for row in bk.iter_rows(min_row=3, max_row=74, min_col=2, max_col=6, values_only=True):
@@ -255,7 +255,7 @@ def actual_stage(team):
         return "Group stage"   # group done, R32 drawn, team not in it -> eliminated
     return None
 
-# â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ per-player derived picks â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ───────────────── per-player derived picks ─────────────────
 
 def player_round_sets(p):
     d = flat[p]
@@ -278,10 +278,10 @@ def predicted_stage(p, team):
             return key
     return "Group stage"
 
-# â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ group standings (from authoritative fixtures) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ───────────────── group standings (from authoritative fixtures) ─────────────────
 # Computed from the merged Backend/Results scores already in `fixtures`, so the
 # table matches the official results. Tiebreak: Pts -> GD -> GF -> team name.
-# (FIFA's head-to-head / fair-play tiebreakers are NOT applied â€” the feed lacks
+# (FIFA's head-to-head / fair-play tiebreakers are NOT applied — the feed lacks
 # the data for them; flagged in the UI footnote.)
 
 def compute_standings(group):
@@ -315,13 +315,13 @@ def compute_standings(group):
     return standings
 
 
-# â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ games.json: scoreline distributions â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ───────────────── games.json: scoreline distributions ─────────────────
 
 n_players = len(players)
 groups_out = {}
 # Per-fixture pick popularity, keyed by fixture index, reused below to tag each
 # player's own scoreline with its pool %, how many players shared it, and whether it
-# was the most-picked scoreline â€” the substrate for the contrarian/crowd badges.
+# was the most-picked scoreline — the substrate for the contrarian/crowd badges.
 # game_scorers[gi] = how many players earned any points on that game (Giant Slayer).
 game_pick_meta = {}
 game_scorers = {}
@@ -338,7 +338,7 @@ for gi, fx in enumerate(fixtures):
     scorelines = []
     for (ph, pa), ppl in by_score.items():
         scorelines.append({
-            "score": f"{ph}â€“{pa}",
+            "score": f"{ph}–{pa}",
             "count": len(ppl),
             "pct": round(100 * len(ppl) / n_players) if n_players else 0,
             "pts": game_points(ph, pa, fx["hg"], fx["ag"]) if fx["played"] else None,
@@ -396,7 +396,7 @@ with open(GAMES_OUTPUT, "w", encoding="utf-8") as f:
 ngames = sum(len(g["games"]) for g in groups_json)
 print(f"Exported {ngames} games x {n_players} players -> {GAMES_OUTPUT}")
 
-# â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ stats.json: team progression + bonus â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ───────────────── stats.json: team progression + bonus ─────────────────
 
 teams_json = []
 for team in sorted(teams, key=lambda t: (teams[t]["group"] or "?", t)):
@@ -427,7 +427,7 @@ for row in sc.iter_rows(min_row=19, max_row=33, min_col=2, max_col=4, values_onl
 
 # Answer key maintained by hand in the Results sheet: BONUS POINTS block,
 # col BO = current correct answer, col BP = status. Ties are entered in BO as
-# a comma-separated list ("Mexico, Canada") â€” every listed answer counts as
+# a comma-separated list ("Mexico, Canada") — every listed answer counts as
 # correct. Status: "Decided" -> final (check marks shown); any other status
 # with an answer present -> provisional ("so far"); empty answer -> TBD.
 res = wb["Results"]
@@ -474,12 +474,12 @@ def answer_hit(bid, ans, key):
     return na in key["normSet"]
 
 # Questions whose answers are bucketed into ranges for display (id -> bucket size),
-# e.g. B03 total goals shown as 230-239, 240-249, â€¦ instead of every unique value.
+# e.g. B03 total goals shown as 230-239, 240-249, … instead of every unique value.
 NUMERIC_BUCKET = {"B03": 10}
 
 def bucket_hit(lo, size, key, bid):
     """Decided-state: True if the range [lo, lo+size-1] overlaps the correct
-    answer Â± tolerance â€” i.e. a player in this bucket could be scored correct."""
+    answer ± tolerance — i.e. a player in this bucket could be scored correct."""
     tol = NUMERIC_TOLERANCE.get(bid, 0)
     hi = lo + size - 1
     for k in key["normSet"]:
@@ -505,7 +505,7 @@ for krow, bid in KEY_ROW_TO_ID.items():
         "normSet": {norm_answer(a) for a in ans_str.replace(";", ",").split(",") if a.strip()},
     }
 
-# â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ finalise leaderboard.json (now that scoring is known) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ───────────── finalise leaderboard.json (now that scoring is known) ─────────────
 # Bonus points don't count until the knockout stage begins. The model credits a
 # filled bonus answer immediately (see the bonus scoring quirk), which would leak
 # bonus points into the group-stage standings, so until the R32 draw exists we
@@ -519,7 +519,7 @@ if not ko_started:
         if b and r.get("total") is not None:
             r["total"] = r["total"] - b
         r["bonus"] = 0
-    # Re-rank (standard competition ranking â€” ties share a rank) and re-sort so
+    # Re-rank (standard competition ranking — ties share a rank) and re-sort so
     # the array order matches the bonus-free standings.
     rows.sort(key=lambda x: (x["total"] is None, -(x["total"] or 0), str(x["player"])))
     last_total, last_rank = object(), 0
@@ -537,7 +537,7 @@ if not ko_started:
 # far, so % Max reflects share of what was actually up for grabs (not the full
 # 729-point tournament). Group games are worth 3 each once played; a bonus
 # question's max counts once its answer is filled (the model credits filled
-# answers immediately, decided or not) â€” but only from the knockout stage on.
+# answers immediately, decided or not) — but only from the knockout stage on.
 # Knockouts are added in Phase 2.
 games_played = sum(1 for fx in fixtures if fx["played"])
 bonus_open = 0 if not ko_started else sum(
@@ -555,8 +555,8 @@ with open(OUTPUT, "w", encoding="utf-8") as f:
     json.dump({"meta": meta, "rows": rows}, f, ensure_ascii=False, indent=2)
 print(f"Exported {len(rows)} players -> {OUTPUT} (available so far: {available})")
 
-# â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ history.json: daily standings (rank-over-time) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
-# One snapshot per calendar day, upserted on every export â€” so the latest run of
+# ───────────────── history.json: daily standings (rank-over-time) ─────────────────
+# One snapshot per calendar day, upserted on every export — so the latest run of
 # a day overwrites that day's entry and, once the day is over, it holds that day's
 # FINAL standings. Feeds the rank-trajectory sparklines and the "biggest movers
 # this week" summary on the site. rank/total here are the same finalised values
@@ -602,7 +602,7 @@ for bd in bonus_defs:
     counts = {}
     for p in players:
         a = bonus_answer(p, bd["id"])
-        a = "â€”" if a is None or str(a).strip() == "" else str(a).strip()
+        a = "—" if a is None or str(a).strip() == "" else str(a).strip()
         counts.setdefault(a, []).append(p)
     size = NUMERIC_BUCKET.get(bd["id"])
     if size:
@@ -612,9 +612,9 @@ for bd in bonus_defs:
             try:
                 v = int(float(str(a).replace(",", ".")))
                 lo = (v // size) * size
-                lbl = f"{lo}â€“{lo + size - 1}"
+                lbl = f"{lo}–{lo + size - 1}"
             except (ValueError, TypeError):
-                lo, lbl = None, str(a)        # e.g. "â€”" (no pick) kept as-is
+                lo, lbl = None, str(a)        # e.g. "—" (no pick) kept as-is
             g = groups.setdefault(lbl, {"lo": lo, "players": []})
             g["players"].extend(ppl)
         tmp = []
@@ -650,7 +650,7 @@ with open(STATS_OUTPUT, "w", encoding="utf-8") as f:
               f, ensure_ascii=False, indent=2)
 print(f"Exported {len(teams_json)} teams, {len(bonus_json)} bonus questions -> {STATS_OUTPUT}")
 
-# â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ players.json: per-player detail view â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ───────────────── players.json: per-player detail view ─────────────────
 # One record per player: their leaderboard standing plus every individual pick
 # (group scorelines with points earned, group-winner picks, the knockout bracket,
 # and bonus answers). Feeds the clickable player-detail panel on the site.
@@ -740,51 +740,51 @@ with open(PLAYERS_OUTPUT, "w", encoding="utf-8") as f:
               f, ensure_ascii=False, indent=2)
 print(f"Exported detail for {len(players_detail)} players -> {PLAYERS_OUTPUT}")
 
-# â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ achievements.json: gamification badges â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ───────────────── achievements.json: gamification badges ─────────────────
 # Tongue-in-cheek group-stage badges, computed entirely from data already built
 # above: per-player games (with pts + pick popularity), the leaderboard rows, and
 # the daily rank history. Output is a static catalog (all 20, for the locked/earned
 # gallery), an earners-count per badge, and the unlocked ids per player.
 ACHIEVEMENTS = [
-    {"id": "crystal-ball", "name": "Crystal Ball", "emoji": "ðŸ”®", "rarity": "Legendary",
+    {"id": "crystal-ball", "name": "Crystal Ball", "emoji": "🔮", "rarity": "Legendary",
      "desc": "The only player to nail a match's exact scoreline."},
-    {"id": "untouchable", "name": "Untouchable", "emoji": "ðŸ‘‘", "rarity": "Legendary",
+    {"id": "untouchable", "name": "Untouchable", "emoji": "👑", "rarity": "Legendary",
      "desc": "Held rank #1 three update days in a row."},
-    {"id": "the-sweep", "name": "The Sweep", "emoji": "ðŸ§¹", "rarity": "Legendary",
+    {"id": "the-sweep", "name": "The Sweep", "emoji": "🧹", "rarity": "Legendary",
      "desc": "Got the result right on every match of a full group."},
-    {"id": "perfect-day", "name": "Perfect Day", "emoji": "ðŸ’¯", "rarity": "Legendary",
+    {"id": "perfect-day", "name": "Perfect Day", "emoji": "💯", "rarity": "Legendary",
      "desc": "Scored on every match you picked on a matchday."},
-    {"id": "giant-slayer", "name": "Giant Slayer", "emoji": "ðŸ—¡ï¸", "rarity": "Rare",
+    {"id": "giant-slayer", "name": "Giant Slayer", "emoji": "🗡️", "rarity": "Rare",
      "desc": "Scored on a game only 3 or fewer players read right."},
-    {"id": "hot-streak", "name": "Hot Streak", "emoji": "ðŸ”¥", "rarity": "Rare",
+    {"id": "hot-streak", "name": "Hot Streak", "emoji": "🔥", "rarity": "Rare",
      "desc": "Scored points in five matches running."},
-    {"id": "the-comeback", "name": "The Comeback", "emoji": "ðŸ“ˆ", "rarity": "Rare",
+    {"id": "the-comeback", "name": "The Comeback", "emoji": "📈", "rarity": "Rare",
      "desc": "Climbed 8+ ranks in a single day."},
-    {"id": "day-winner", "name": "Day Winner", "emoji": "â±ï¸", "rarity": "Rare",
+    {"id": "day-winner", "name": "Day Winner", "emoji": "⏱️", "rarity": "Rare",
      "desc": "Top points-scorer of a matchday."},
-    {"id": "contrarian-king", "name": "Contrarian King", "emoji": "ðŸ´", "rarity": "Rare",
+    {"id": "contrarian-king", "name": "Contrarian King", "emoji": "🐴", "rarity": "Rare",
      "desc": "Won the day while picking against the crowd."},
-    {"id": "on-the-rise", "name": "On the Rise", "emoji": "ðŸ§—", "rarity": "Rare",
+    {"id": "on-the-rise", "name": "On the Rise", "emoji": "🧗", "rarity": "Rare",
      "desc": "Improved your rank three update days in a row."},
-    {"id": "bullseye", "name": "Bullseye", "emoji": "ðŸŽ¯", "rarity": "Rare",
+    {"id": "bullseye", "name": "Bullseye", "emoji": "🎯", "rarity": "Rare",
      "desc": "Two exact scorelines in one matchday."},
-    {"id": "off-the-mark", "name": "Off the Mark", "emoji": "âœ…", "rarity": "Common",
+    {"id": "off-the-mark", "name": "Off the Mark", "emoji": "✅", "rarity": "Common",
      "desc": "Got your first points on the board."},
-    {"id": "first-blood", "name": "First Blood", "emoji": "ðŸ©¸", "rarity": "Common",
+    {"id": "first-blood", "name": "First Blood", "emoji": "🩸", "rarity": "Common",
      "desc": "Landed your first exact scoreline."},
-    {"id": "crowd-surfer", "name": "Crowd Surfer", "emoji": "ðŸ‘", "rarity": "Common",
+    {"id": "crowd-surfer", "name": "Crowd Surfer", "emoji": "🐑", "rarity": "Common",
      "desc": "Cashed in on the people's pick."},
-    {"id": "reading-the-game", "name": "Reading the Game", "emoji": "ðŸ§ ", "rarity": "Common",
+    {"id": "reading-the-game", "name": "Reading the Game", "emoji": "🧠", "rarity": "Common",
      "desc": "Three correct results in a single matchday."},
-    {"id": "steady-hand", "name": "Steady Hand", "emoji": "ðŸ“", "rarity": "Common",
+    {"id": "steady-hand", "name": "Steady Hand", "emoji": "📏", "rarity": "Common",
      "desc": "Scored points on three matchdays in a row."},
-    {"id": "wooden-spoon", "name": "Wooden Spoon", "emoji": "ðŸ¥„", "rarity": "Common",
+    {"id": "wooden-spoon", "name": "Wooden Spoon", "emoji": "🥄", "rarity": "Common",
      "desc": "Propping up the table."},
-    {"id": "snake-eyes", "name": "Snake Eyes", "emoji": "ðŸŽ²", "rarity": "Common",
+    {"id": "snake-eyes", "name": "Snake Eyes", "emoji": "🎲", "rarity": "Common",
      "desc": "Five matches in a row without a single point."},
-    {"id": "cold-snap", "name": "Cold Snap", "emoji": "ðŸ§Š", "rarity": "Common",
+    {"id": "cold-snap", "name": "Cold Snap", "emoji": "🧊", "rarity": "Common",
      "desc": "Blanked an entire matchday."},
-    {"id": "free-fall", "name": "Free Fall", "emoji": "ðŸ“‰", "rarity": "Common",
+    {"id": "free-fall", "name": "Free Fall", "emoji": "📉", "rarity": "Common",
      "desc": "Tumbled 8+ ranks in a single day."},
 ]
 ACH_ORDER = {a["id"]: i for i, a in enumerate(ACHIEVEMENTS)}
@@ -808,13 +808,13 @@ def _gmatch(g):
     return f'{g["home"]} v {g["away"]}'
 
 
-# Worst (highest) rank on the board â†’ Wooden Spoon.
+# Worst (highest) rank on the board → Wooden Spoon.
 _ranks = [r["rank"] for r in rows if r.get("rank") is not None]
 worst_rank = max(_ranks) if _ranks else None
 _refresh_date = str(meta.get("lastRefresh") or "")[:10] or None
 
 # Per-player rank trajectory across update days as (date, rank) pairs. Skip days where
-# the whole field is tied at rank 1 (the opening 0-0 day before any game is scored) â€”
+# the whole field is tied at rank 1 (the opening 0-0 day before any game is scored) —
 # drops/climbs measured off that artificial start aren't real movement.
 rank_series = {}
 for _day in sorted(history.get("days", []), key=lambda x: x.get("date") or ""):
@@ -841,7 +841,7 @@ for _p in players:
             _rec["scoring_pcts"].append(_g["pct"])
 
 # Sole top scorer of each matchday (must have outscored everyone else, > 0). Ties
-# award no Day Winner â€” early one-game days produce big ties and would otherwise hand
+# award no Day Winner — early one-game days produce big ties and would otherwise hand
 # the badge to almost the whole pool, defeating its rarity.
 day_top = {}
 for _date, _plm in day_points.items():
@@ -852,7 +852,7 @@ for _date, _plm in day_points.items():
 
 
 def player_badges(p):
-    """Return {badge_id: {"date": iso, "how": text}} â€” the first time each badge's
+    """Return {badge_id: {"date": iso, "how": text}} — the first time each badge's
     condition was met, with the triggering evidence for the player profile."""
     d = players_detail[p]
     awards = {}
@@ -870,27 +870,27 @@ def player_badges(p):
         if dt:
             by_day.setdefault(dt, []).append(g)
 
-    # â”€â”€ single-game (chronological â†’ first occurrence) â”€â”€
+    # ── single-game (chronological → first occurrence) ──
     for g in chrono:
         if g["pts"] >= 1:
             give("off-the-mark", _gdate(g), f'First points: {_gmatch(g)} (+{g["pts"]})')
             break
     for g in chrono:
         if g["pts"] == 3:
-            give("first-blood", _gdate(g), f'{g["home"]} {g["ph"]}â€“{g["pa"]} {g["away"]} â€” exact!')
+            give("first-blood", _gdate(g), f'{g["home"]} {g["ph"]}–{g["pa"]} {g["away"]} — exact!')
             if g.get("sameCount") == 1:
                 give("crystal-ball", _gdate(g),
-                     f'{g["home"]} {g["ph"]}â€“{g["pa"]} {g["away"]} â€” the only exact call')
+                     f'{g["home"]} {g["ph"]}–{g["pa"]} {g["away"]} — the only exact call')
         if g["pts"] >= 1:
             gs = g.get("gameScorers")
             if gs is not None and gs <= 3:
                 give("giant-slayer", _gdate(g),
-                     f'{_gmatch(g)} â€” only {gs} player{"" if gs == 1 else "s"} scored')
+                     f'{_gmatch(g)} — only {gs} player{"" if gs == 1 else "s"} scored')
             if g.get("isTopPick"):
                 give("crowd-surfer", _gdate(g),
-                     f'{_gmatch(g)} â€” rode the {g["ph"]}â€“{g["pa"]} consensus')
+                     f'{_gmatch(g)} — rode the {g["ph"]}–{g["pa"]} consensus')
 
-    # â”€â”€ matchday-based (chronological dates â†’ first) â”€â”€
+    # ── matchday-based (chronological dates → first) ──
     for dt in sorted(by_day):
         dg = by_day[dt]
         if len(dg) >= 2 and all(x["pts"] >= 1 for x in dg):
@@ -904,7 +904,7 @@ def player_badges(p):
         if len(dg) >= 2 and all(x["pts"] == 0 for x in dg):
             give("cold-snap", dt, f'Blanked all {len(dg)} games that day')
 
-    # â”€â”€ group sweep: every match of a fully-played group correct â”€â”€
+    # ── group sweep: every match of a fully-played group correct ──
     by_group = {}
     for g in played:
         by_group.setdefault(g["group"], []).append(g)
@@ -912,7 +912,7 @@ def player_badges(p):
         if len(gg) >= 6 and all(x["pts"] >= 1 for x in gg):
             give("the-sweep", max(_gdate(x) for x in gg), f'All 6 Group {grp} results correct')
 
-    # â”€â”€ streaks (chronological) â”€â”€
+    # ── streaks (chronological) ──
     i = _run_end([g["pts"] >= 1 for g in chrono], 5)
     if i is not None:
         give("hot-streak", _gdate(chrono[i]), "Points in 5 straight matches")
@@ -920,7 +920,7 @@ def player_badges(p):
     if i is not None:
         give("snake-eyes", _gdate(chrono[i]), "0 points in 5 straight matches")
 
-    # â”€â”€ day winner / contrarian (cross-player) â”€â”€
+    # ── day winner / contrarian (cross-player) ──
     for dt in sorted(day_top):
         if p in day_top[dt]:
             give("day-winner", dt, f'Outright top scorer (+{day_points[dt][p]["pts"]})')
@@ -929,30 +929,30 @@ def player_badges(p):
                 give("contrarian-king", dt,
                      f'Top scorer on a {round(sum(pcts) / len(pcts))}%-popularity card')
 
-    # â”€â”€ rank movement / consistency (history) â”€â”€
+    # ── rank movement / consistency (history) ──
     series = rank_series.get(p, [])
     for (d0, r0), (d1, r1) in zip(series, series[1:]):
         if r0 - r1 >= 8:
-            give("the-comeback", d1, f'#{r0} â†’ #{r1} in a day')
+            give("the-comeback", d1, f'#{r0} → #{r1} in a day')
         if r1 - r0 >= 8:
-            give("free-fall", d1, f'#{r0} â†’ #{r1} in a day')
+            give("free-fall", d1, f'#{r0} → #{r1} in a day')
     for j in range(len(series) - 2):
         (da, ra), (db, rb), (dc, rc) = series[j], series[j + 1], series[j + 2]
         if ra == 1 and rb == 1 and rc == 1:
             give("untouchable", dc, "Held #1 three update days running")
         if ra > rb > rc:
-            give("on-the-rise", dc, f'#{ra} â†’ #{rb} â†’ #{rc}')
+            give("on-the-rise", dc, f'#{ra} → #{rb} → #{rc}')
 
-    # â”€â”€ points on three consecutive matchdays â”€â”€
+    # ── points on three consecutive matchdays ──
     dts = sorted(by_day)
     flags = [sum(x["pts"] for x in by_day[dt]) > 0 for dt in dts]
     e = _run_end(flags, 3)
     if e is not None:
         give("steady-hand", dts[e], "Points on 3 matchdays running")
 
-    # â”€â”€ wooden spoon (current standing) â”€â”€
+    # ── wooden spoon (current standing) ──
     if worst_rank is not None and d.get("rank") == worst_rank:
-        give("wooden-spoon", _refresh_date, f'Last place â€” rank {d.get("rank")}')
+        give("wooden-spoon", _refresh_date, f'Last place — rank {d.get("rank")}')
 
     return awards
 
@@ -973,13 +973,13 @@ with open(ACH_OUTPUT, "w", encoding="utf-8") as f:
 _total_badges = sum(len(v) for v in by_player.values())
 print(f"Exported {_total_badges} badges across {len(by_player)} players -> {ACH_OUTPUT}")
 
-# â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ bracket.json: knockout bracket â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
-# Reads the Backend KO match list (M73..M104, cols I-N) â€” the fixed FIFA 2026
+# ───────────────── bracket.json: knockout bracket ─────────────────
+# Reads the Backend KO match list (M73..M104, cols I-N) — the fixed FIFA 2026
 # bracket. M73-M88 = R32, M89-M96 = R16, M97-M100 = QF, M101-M102 = SF,
 # M103 = third-place (Bronze), M104 = Final. The tree is wired by sequential
 # pairing (winners of M73,M74 -> M89, etc.), which is the standard bracket order.
 # Home/Away are "TBD"/0 until the R32 draw is made, so before the draw this
-# feed is the empty structure (every slot a placeholder) â€” rendered as such.
+# feed is the empty structure (every slot a placeholder) — rendered as such.
 
 # Map each match to its round and its left/right half (Final/Bronze are centre).
 KO_LAYOUT = {}   # num -> (round, side)
@@ -1055,7 +1055,7 @@ with open(BRACKET_OUTPUT, "w", encoding="utf-8") as f:
               f, ensure_ascii=False, indent=2)
 print(f"Exported {len(ko_matches)} knockout matches (drawn={drawn}) -> {BRACKET_OUTPUT}")
 
-# â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ self-check vs official leaderboard â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ───────────────── self-check vs official leaderboard ─────────────────
 
 for lbrow in rows:
     p = lbrow["player"]
@@ -1081,13 +1081,13 @@ for lbrow in rows:
     if lbrow["ko"] is not None and kpts != lbrow["ko"]:
         print(f"WARNING: {p} computed KO pts {kpts} != leaderboard {lbrow['ko']}")
 
-# â”€â”€ OG social-preview image (og-image.png) â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€
+# ── OG social-preview image (og-image.png) ───────────────────────────────────
 OG_OUTPUT = "og-image.png"
 try:
     from PIL import Image, ImageDraw, ImageFont as _IF
     # Brand the share image from config.json so each pool gets its own name,
     # colours and URL (falls back to OPX navy if config is missing). Keeps a
-    # single export.py syncable across all 4 pools â€” only WORKBOOK differs.
+    # single export.py syncable across all 4 pools — only WORKBOOK differs.
     def _hex_rgb(_h, _default):
         try:
             _h = _h.lstrip("#")
@@ -1142,6 +1142,6 @@ try:
     img.save(OG_OUTPUT, "PNG")
     print(f"Generated {OG_OUTPUT}")
 except ImportError:
-    print(f"Pillow not found â€” skipping {OG_OUTPUT}  (pip install Pillow to enable)")
+    print(f"Pillow not found — skipping {OG_OUTPUT}  (pip install Pillow to enable)")
 except Exception as _og_err:
     print(f"OG image skipped: {_og_err}")
