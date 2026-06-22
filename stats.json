@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-21 09:52",
+    "lastRefresh": "2026-06-22 08:36",
     "maxPoints": 729,
     "participants": 17,
-    "maxAvailable": 108
+    "maxAvailable": 120
   },
   "players": [
     "Hjalmar Sörensen",
@@ -15,11 +15,11 @@
     "Harald Johansson",
     "Jakob Hägglund",
     "Calle Milebratt",
+    "Andreas Panagos",
+    "Axel Dillner",
     "Eddie Williamson",
     "Love Hardeberg",
-    "Andreas Panagos",
     "Markus Ransved Nilsson",
-    "Axel Dillner",
     "Jonathan Segelman",
     "Kasper Oldmark",
     "Oscar Holmbergh"
@@ -819,9 +819,9 @@
         "Harald Johansson",
         "Jakob Hägglund",
         "Calle Milebratt",
+        "Axel Dillner",
         "Eddie Williamson",
         "Love Hardeberg",
-        "Axel Dillner",
         "Kasper Oldmark"
       ]
     },
@@ -1400,7 +1400,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "109",
+      "current": "121",
       "status": "provisional",
       "answers": [
         {
@@ -1431,9 +1431,9 @@
           "players": [
             "Gustaf de la Motte",
             "Calle Milebratt",
+            "Axel Dillner",
             "Love Hardeberg",
-            "Markus Ransved Nilsson",
-            "Axel Dillner"
+            "Markus Ransved Nilsson"
           ],
           "hit": null
         },
@@ -1574,8 +1574,8 @@
           "pct": 24,
           "players": [
             "Fabian Boberg",
-            "Eddie Williamson",
             "Axel Dillner",
+            "Eddie Williamson",
             "Oscar Holmbergh"
           ],
           "hit": null
@@ -1626,9 +1626,9 @@
             "Gustaf de la Motte",
             "Harald Johansson",
             "Calle Milebratt",
+            "Andreas Panagos",
             "Eddie Williamson",
             "Love Hardeberg",
-            "Andreas Panagos",
             "Kasper Oldmark"
           ],
           "hit": null
@@ -1717,8 +1717,8 @@
             "Erik Rystedt",
             "Gustaf de la Motte",
             "Harald Johansson",
-            "Eddie Williamson",
             "Andreas Panagos",
+            "Eddie Williamson",
             "Jonathan Segelman",
             "Kasper Oldmark",
             "Oscar Holmbergh"
@@ -1845,9 +1845,9 @@
           "pct": 24,
           "players": [
             "Erik Rystedt",
+            "Axel Dillner",
             "Eddie Williamson",
-            "Markus Ransved Nilsson",
-            "Axel Dillner"
+            "Markus Ransved Nilsson"
           ],
           "hit": null
         },
@@ -1962,8 +1962,8 @@
             "Jakob Hägglund",
             "Calle Milebratt",
             "Andreas Panagos",
-            "Markus Ransved Nilsson",
             "Axel Dillner",
+            "Markus Ransved Nilsson",
             "Jonathan Segelman",
             "Kasper Oldmark",
             "Oscar Holmbergh"
@@ -2009,10 +2009,10 @@
             "Harald Johansson",
             "Jakob Hägglund",
             "Calle Milebratt",
-            "Eddie Williamson",
-            "Love Hardeberg",
             "Andreas Panagos",
             "Axel Dillner",
+            "Eddie Williamson",
+            "Love Hardeberg",
             "Jonathan Segelman",
             "Kasper Oldmark",
             "Oscar Holmbergh"
@@ -2051,9 +2051,9 @@
             "Harald Johansson",
             "Jakob Hägglund",
             "Calle Milebratt",
+            "Andreas Panagos",
             "Eddie Williamson",
             "Love Hardeberg",
-            "Andreas Panagos",
             "Markus Ransved Nilsson",
             "Kasper Oldmark",
             "Oscar Holmbergh"
@@ -2174,10 +2174,10 @@
             "Harald Johansson",
             "Jakob Hägglund",
             "Calle Milebratt",
-            "Eddie Williamson",
-            "Love Hardeberg",
             "Andreas Panagos",
             "Axel Dillner",
+            "Eddie Williamson",
+            "Love Hardeberg",
             "Jonathan Segelman",
             "Kasper Oldmark",
             "Oscar Holmbergh"
@@ -2223,10 +2223,10 @@
             "Harald Johansson",
             "Jakob Hägglund",
             "Calle Milebratt",
+            "Axel Dillner",
             "Eddie Williamson",
             "Love Hardeberg",
             "Markus Ransved Nilsson",
-            "Axel Dillner",
             "Jonathan Segelman",
             "Kasper Oldmark",
             "Oscar Holmbergh"

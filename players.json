@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-21 09:52",
+    "lastRefresh": "2026-06-22 08:36",
     "maxPoints": 729,
     "participants": 17,
-    "maxAvailable": 108
+    "maxAvailable": 120
   },
   "players": [
     "Hjalmar Sörensen",
@@ -15,11 +15,11 @@
     "Harald Johansson",
     "Jakob Hägglund",
     "Calle Milebratt",
+    "Andreas Panagos",
+    "Axel Dillner",
     "Eddie Williamson",
     "Love Hardeberg",
-    "Andreas Panagos",
     "Markus Ransved Nilsson",
-    "Axel Dillner",
     "Jonathan Segelman",
     "Kasper Oldmark",
     "Oscar Holmbergh"
@@ -27,12 +27,12 @@
   "detail": {
     "Hjalmar Sörensen": {
       "rank": 1,
-      "total": 36,
-      "group": 36,
+      "total": 37,
+      "group": 37,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.3333,
-      "pointsToday": 2,
+      "pctMax": 0.3083,
+      "pointsToday": 1,
       "games": [
         {
           "group": "A",
@@ -648,15 +648,15 @@
           "away": "Iran",
           "ph": 3,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 0,
+          "ag": 0,
+          "pts": 0,
           "kickoff": "2026-06-21 21:00",
           "pct": 29,
           "isTopPick": false,
           "sameCount": 5,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "G",
@@ -664,15 +664,15 @@
           "away": "Egypt",
           "ph": 0,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 3,
+          "pts": 0,
           "kickoff": "2026-06-22 03:00",
           "pct": 6,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 11
         },
         {
           "group": "G",
@@ -744,15 +744,15 @@
           "away": "Saudi Arabia",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 4,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-21 18:00",
           "pct": 53,
           "isTopPick": true,
           "sameCount": 9,
-          "gameScorers": null
+          "gameScorers": 17
         },
         {
           "group": "H",
@@ -760,15 +760,15 @@
           "away": "Cabo Verde",
           "ph": 2,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 2,
+          "ag": 2,
+          "pts": 0,
           "kickoff": "2026-06-22 00:00",
           "pct": 18,
           "isTopPick": false,
           "sameCount": 3,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "H",
@@ -1690,13 +1690,13 @@
       ]
     },
     "Lucas Johnson": {
-      "rank": 4,
-      "total": 31,
-      "group": 31,
+      "rank": 3,
+      "total": 33,
+      "group": 33,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.287,
-      "pointsToday": 4,
+      "pctMax": 0.275,
+      "pointsToday": 2,
       "games": [
         {
           "group": "A",
@@ -2312,15 +2312,15 @@
           "away": "Iran",
           "ph": 2,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 0,
+          "ag": 0,
+          "pts": 0,
           "kickoff": "2026-06-21 21:00",
           "pct": 35,
           "isTopPick": true,
           "sameCount": 6,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "G",
@@ -2328,15 +2328,15 @@
           "away": "Egypt",
           "ph": 1,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 3,
+          "pts": 1,
           "kickoff": "2026-06-22 03:00",
           "pct": 18,
           "isTopPick": false,
           "sameCount": 3,
-          "gameScorers": null
+          "gameScorers": 11
         },
         {
           "group": "G",
@@ -2408,15 +2408,15 @@
           "away": "Saudi Arabia",
           "ph": 3,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 4,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-21 18:00",
           "pct": 29,
           "isTopPick": false,
           "sameCount": 5,
-          "gameScorers": null
+          "gameScorers": 17
         },
         {
           "group": "H",
@@ -2424,15 +2424,15 @@
           "away": "Cabo Verde",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 2,
+          "ag": 2,
+          "pts": 0,
           "kickoff": "2026-06-22 00:00",
           "pct": 47,
           "isTopPick": true,
           "sameCount": 8,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "H",
@@ -3355,12 +3355,12 @@
     },
     "Fabian Boberg": {
       "rank": 2,
-      "total": 33,
-      "group": 33,
+      "total": 35,
+      "group": 35,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.3056,
-      "pointsToday": 4,
+      "pctMax": 0.2917,
+      "pointsToday": 2,
       "games": [
         {
           "group": "A",
@@ -3976,15 +3976,15 @@
           "away": "Iran",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 0,
+          "ag": 0,
+          "pts": 0,
           "kickoff": "2026-06-21 21:00",
           "pct": 24,
           "isTopPick": false,
           "sameCount": 4,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "G",
@@ -3992,15 +3992,15 @@
           "away": "Egypt",
           "ph": 0,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 3,
+          "pts": 1,
           "kickoff": "2026-06-22 03:00",
           "pct": 12,
           "isTopPick": false,
           "sameCount": 2,
-          "gameScorers": null
+          "gameScorers": 11
         },
         {
           "group": "G",
@@ -4072,15 +4072,15 @@
           "away": "Saudi Arabia",
           "ph": 3,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 4,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-21 18:00",
           "pct": 29,
           "isTopPick": false,
           "sameCount": 5,
-          "gameScorers": null
+          "gameScorers": 17
         },
         {
           "group": "H",
@@ -4088,15 +4088,15 @@
           "away": "Cabo Verde",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 2,
+          "ag": 2,
+          "pts": 0,
           "kickoff": "2026-06-22 00:00",
           "pct": 47,
           "isTopPick": true,
           "sameCount": 8,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "H",
@@ -5019,12 +5019,12 @@
     },
     "Erik Rystedt": {
       "rank": 3,
-      "total": 32,
-      "group": 32,
+      "total": 33,
+      "group": 33,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2963,
-      "pointsToday": 2,
+      "pctMax": 0.275,
+      "pointsToday": 1,
       "games": [
         {
           "group": "A",
@@ -5640,15 +5640,15 @@
           "away": "Iran",
           "ph": 2,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 0,
+          "ag": 0,
+          "pts": 0,
           "kickoff": "2026-06-21 21:00",
           "pct": 35,
           "isTopPick": true,
           "sameCount": 6,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "G",
@@ -5656,15 +5656,15 @@
           "away": "Egypt",
           "ph": 1,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 3,
+          "pts": 0,
           "kickoff": "2026-06-22 03:00",
           "pct": 24,
           "isTopPick": false,
           "sameCount": 4,
-          "gameScorers": null
+          "gameScorers": 11
         },
         {
           "group": "G",
@@ -5736,15 +5736,15 @@
           "away": "Saudi Arabia",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 4,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-21 18:00",
           "pct": 53,
           "isTopPick": true,
           "sameCount": 9,
-          "gameScorers": null
+          "gameScorers": 17
         },
         {
           "group": "H",
@@ -5752,15 +5752,15 @@
           "away": "Cabo Verde",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 2,
+          "ag": 2,
+          "pts": 0,
           "kickoff": "2026-06-22 00:00",
           "pct": 47,
           "isTopPick": true,
           "sameCount": 8,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "H",
@@ -6682,12 +6682,12 @@
       ]
     },
     "Wilmer": {
-      "rank": 4,
-      "total": 31,
-      "group": 31,
+      "rank": 5,
+      "total": 32,
+      "group": 32,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.287,
+      "pctMax": 0.2667,
       "pointsToday": 1,
       "games": [
         {
@@ -7304,15 +7304,15 @@
           "away": "Iran",
           "ph": 2,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 0,
+          "ag": 0,
+          "pts": 0,
           "kickoff": "2026-06-21 21:00",
           "pct": 35,
           "isTopPick": true,
           "sameCount": 6,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "G",
@@ -7320,15 +7320,15 @@
           "away": "Egypt",
           "ph": 2,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 3,
+          "pts": 0,
           "kickoff": "2026-06-22 03:00",
           "pct": 6,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 11
         },
         {
           "group": "G",
@@ -7400,15 +7400,15 @@
           "away": "Saudi Arabia",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 4,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-21 18:00",
           "pct": 53,
           "isTopPick": true,
           "sameCount": 9,
-          "gameScorers": null
+          "gameScorers": 17
         },
         {
           "group": "H",
@@ -7416,15 +7416,15 @@
           "away": "Cabo Verde",
           "ph": 1,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 2,
+          "ag": 2,
+          "pts": 0,
           "kickoff": "2026-06-22 00:00",
           "pct": 12,
           "isTopPick": false,
           "sameCount": 2,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "H",
@@ -8346,13 +8346,13 @@
       ]
     },
     "Gustaf de la Motte": {
-      "rank": 6,
-      "total": 29,
-      "group": 29,
+      "rank": 5,
+      "total": 32,
+      "group": 32,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2685,
-      "pointsToday": 2,
+      "pctMax": 0.2667,
+      "pointsToday": 3,
       "games": [
         {
           "group": "A",
@@ -8968,15 +8968,15 @@
           "away": "Iran",
           "ph": 2,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 0,
+          "ag": 0,
+          "pts": 0,
           "kickoff": "2026-06-21 21:00",
           "pct": 35,
           "isTopPick": true,
           "sameCount": 6,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "G",
@@ -8984,15 +8984,15 @@
           "away": "Egypt",
           "ph": 1,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 3,
+          "pts": 0,
           "kickoff": "2026-06-22 03:00",
           "pct": 24,
           "isTopPick": false,
           "sameCount": 4,
-          "gameScorers": null
+          "gameScorers": 11
         },
         {
           "group": "G",
@@ -9064,15 +9064,15 @@
           "away": "Saudi Arabia",
           "ph": 4,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 4,
+          "ag": 0,
+          "pts": 3,
           "kickoff": "2026-06-21 18:00",
           "pct": 12,
           "isTopPick": false,
           "sameCount": 2,
-          "gameScorers": null
+          "gameScorers": 17
         },
         {
           "group": "H",
@@ -9080,15 +9080,15 @@
           "away": "Cabo Verde",
           "ph": 2,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 2,
+          "ag": 2,
+          "pts": 0,
           "kickoff": "2026-06-22 00:00",
           "pct": 18,
           "isTopPick": false,
           "sameCount": 3,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "H",
@@ -10011,11 +10011,11 @@
     },
     "Harald Johansson": {
       "rank": 7,
-      "total": 28,
-      "group": 28,
+      "total": 30,
+      "group": 30,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2593,
+      "pctMax": 0.25,
       "pointsToday": 2,
       "games": [
         {
@@ -10632,15 +10632,15 @@
           "away": "Iran",
           "ph": 3,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 0,
+          "ag": 0,
+          "pts": 0,
           "kickoff": "2026-06-21 21:00",
           "pct": 29,
           "isTopPick": false,
           "sameCount": 5,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "G",
@@ -10648,15 +10648,15 @@
           "away": "Egypt",
           "ph": 0,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 3,
+          "pts": 1,
           "kickoff": "2026-06-22 03:00",
           "pct": 35,
           "isTopPick": true,
           "sameCount": 6,
-          "gameScorers": null
+          "gameScorers": 11
         },
         {
           "group": "G",
@@ -10728,15 +10728,15 @@
           "away": "Saudi Arabia",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 4,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-21 18:00",
           "pct": 53,
           "isTopPick": true,
           "sameCount": 9,
-          "gameScorers": null
+          "gameScorers": 17
         },
         {
           "group": "H",
@@ -10744,15 +10744,15 @@
           "away": "Cabo Verde",
           "ph": 3,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 2,
+          "ag": 2,
+          "pts": 0,
           "kickoff": "2026-06-22 00:00",
           "pct": 18,
           "isTopPick": false,
           "sameCount": 3,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "H",
@@ -11675,12 +11675,12 @@
     },
     "Jakob Hägglund": {
       "rank": 7,
-      "total": 28,
-      "group": 28,
+      "total": 30,
+      "group": 30,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2593,
-      "pointsToday": 4,
+      "pctMax": 0.25,
+      "pointsToday": 2,
       "games": [
         {
           "group": "A",
@@ -12296,15 +12296,15 @@
           "away": "Iran",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 0,
+          "ag": 0,
+          "pts": 0,
           "kickoff": "2026-06-21 21:00",
           "pct": 24,
           "isTopPick": false,
           "sameCount": 4,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "G",
@@ -12312,15 +12312,15 @@
           "away": "Egypt",
           "ph": 0,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 3,
+          "pts": 1,
           "kickoff": "2026-06-22 03:00",
           "pct": 35,
           "isTopPick": true,
           "sameCount": 6,
-          "gameScorers": null
+          "gameScorers": 11
         },
         {
           "group": "G",
@@ -12392,15 +12392,15 @@
           "away": "Saudi Arabia",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 4,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-21 18:00",
           "pct": 53,
           "isTopPick": true,
           "sameCount": 9,
-          "gameScorers": null
+          "gameScorers": 17
         },
         {
           "group": "H",
@@ -12408,15 +12408,15 @@
           "away": "Cabo Verde",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 2,
+          "ag": 2,
+          "pts": 0,
           "kickoff": "2026-06-22 00:00",
           "pct": 47,
           "isTopPick": true,
           "sameCount": 8,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "H",
@@ -13339,11 +13339,11 @@
     },
     "Calle Milebratt": {
       "rank": 7,
-      "total": 28,
-      "group": 28,
+      "total": 30,
+      "group": 30,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2593,
+      "pctMax": 0.25,
       "pointsToday": 2,
       "games": [
         {
@@ -13960,15 +13960,15 @@
           "away": "Iran",
           "ph": 2,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 0,
+          "ag": 0,
+          "pts": 0,
           "kickoff": "2026-06-21 21:00",
           "pct": 35,
           "isTopPick": true,
           "sameCount": 6,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "G",
@@ -13976,15 +13976,15 @@
           "away": "Egypt",
           "ph": 0,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 3,
+          "pts": 1,
           "kickoff": "2026-06-22 03:00",
           "pct": 12,
           "isTopPick": false,
           "sameCount": 2,
-          "gameScorers": null
+          "gameScorers": 11
         },
         {
           "group": "G",
@@ -14056,15 +14056,15 @@
           "away": "Saudi Arabia",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 4,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-21 18:00",
           "pct": 53,
           "isTopPick": true,
           "sameCount": 9,
-          "gameScorers": null
+          "gameScorers": 17
         },
         {
           "group": "H",
@@ -14072,15 +14072,15 @@
           "away": "Cabo Verde",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 2,
+          "ag": 2,
+          "pts": 0,
           "kickoff": "2026-06-22 00:00",
           "pct": 47,
           "isTopPick": true,
           "sameCount": 8,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "H",
@@ -15001,14 +15001,3342 @@
         }
       ]
     },
-    "Eddie Williamson": {
+    "Andreas Panagos": {
       "rank": 10,
-      "total": 27,
-      "group": 27,
+      "total": 28,
+      "group": 28,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.25,
+      "pctMax": 0.2333,
       "pointsToday": 2,
+      "games": [
+        {
+          "group": "A",
+          "home": "Mexico",
+          "away": "South Africa",
+          "ph": 3,
+          "pa": 0,
+          "played": true,
+          "hg": 2,
+          "ag": 0,
+          "pts": 1,
+          "kickoff": "2026-06-11 21:00",
+          "pct": 18,
+          "isTopPick": false,
+          "sameCount": 3,
+          "gameScorers": 17
+        },
+        {
+          "group": "A",
+          "home": "Korea Republic",
+          "away": "Czechia",
+          "ph": 3,
+          "pa": 1,
+          "played": true,
+          "hg": 2,
+          "ag": 1,
+          "pts": 1,
+          "kickoff": "2026-06-12 04:00",
+          "pct": 6,
+          "isTopPick": false,
+          "sameCount": 1,
+          "gameScorers": 6
+        },
+        {
+          "group": "A",
+          "home": "Czechia",
+          "away": "South Africa",
+          "ph": 1,
+          "pa": 0,
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0,
+          "kickoff": "2026-06-18 18:00",
+          "pct": 24,
+          "isTopPick": false,
+          "sameCount": 4,
+          "gameScorers": 3
+        },
+        {
+          "group": "A",
+          "home": "Mexico",
+          "away": "Korea Republic",
+          "ph": 1,
+          "pa": 1,
+          "played": true,
+          "hg": 1,
+          "ag": 0,
+          "pts": 0,
+          "kickoff": "2026-06-19 03:00",
+          "pct": 29,
+          "isTopPick": false,
+          "sameCount": 5,
+          "gameScorers": 11
+        },
+        {
+          "group": "A",
+          "home": "Czechia",
+          "away": "Mexico",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-25 03:00",
+          "pct": 18,
+          "isTopPick": false,
+          "sameCount": 3,
+          "gameScorers": null
+        },
+        {
+          "group": "A",
+          "home": "South Africa",
+          "away": "Korea Republic",
+          "ph": 0,
+          "pa": 3,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-25 03:00",
+          "pct": 6,
+          "isTopPick": false,
+          "sameCount": 1,
+          "gameScorers": null
+        },
+        {
+          "group": "B",
+          "home": "Canada",
+          "away": "Bosnia & Herzegovina",
+          "ph": 0,
+          "pa": 2,
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0,
+          "kickoff": "2026-06-12 21:00",
+          "pct": 12,
+          "isTopPick": false,
+          "sameCount": 2,
+          "gameScorers": 4
+        },
+        {
+          "group": "B",
+          "home": "Qatar",
+          "away": "Switzerland",
+          "ph": 0,
+          "pa": 1,
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0,
+          "kickoff": "2026-06-13 21:00",
+          "pct": 12,
+          "isTopPick": false,
+          "sameCount": 2,
+          "gameScorers": 0
+        },
+        {
+          "group": "B",
+          "home": "Switzerland",
+          "away": "Bosnia & Herzegovina",
+          "ph": 3,
+          "pa": 2,
+          "played": true,
+          "hg": 4,
+          "ag": 1,
+          "pts": 1,
+          "kickoff": "2026-06-18 21:00",
+          "pct": 6,
+          "isTopPick": false,
+          "sameCount": 1,
+          "gameScorers": 17
+        },
+        {
+          "group": "B",
+          "home": "Canada",
+          "away": "Qatar",
+          "ph": 2,
+          "pa": 1,
+          "played": true,
+          "hg": 6,
+          "ag": 0,
+          "pts": 1,
+          "kickoff": "2026-06-19 00:00",
+          "pct": 18,
+          "isTopPick": false,
+          "sameCount": 3,
+          "gameScorers": 16
+        },
+        {
+          "group": "B",
+          "home": "Switzerland",
+          "away": "Canada",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-24 21:00",
+          "pct": 35,
+          "isTopPick": true,
+          "sameCount": 6,
+          "gameScorers": null
+        },
+        {
+          "group": "B",
+          "home": "Bosnia & Herzegovina",
+          "away": "Qatar",
+          "ph": 1,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-24 21:00",
+          "pct": 12,
+          "isTopPick": false,
+          "sameCount": 2,
+          "gameScorers": null
+        },
+        {
+          "group": "C",
+          "home": "Brazil",
+          "away": "Morocco",
+          "ph": 4,
+          "pa": 2,
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0,
+          "kickoff": "2026-06-14 00:00",
+          "pct": 6,
+          "isTopPick": false,
+          "sameCount": 1,
+          "gameScorers": 3
+        },
+        {
+          "group": "C",
+          "home": "Haiti",
+          "away": "Scotland",
+          "ph": 0,
+          "pa": 1,
+          "played": true,
+          "hg": 0,
+          "ag": 1,
+          "pts": 3,
+          "kickoff": "2026-06-14 03:00",
+          "pct": 18,
+          "isTopPick": false,
+          "sameCount": 3,
+          "gameScorers": 16
+        },
+        {
+          "group": "C",
+          "home": "Scotland",
+          "away": "Morocco",
+          "ph": 1,
+          "pa": 3,
+          "played": true,
+          "hg": 0,
+          "ag": 1,
+          "pts": 1,
+          "kickoff": "2026-06-20 00:00",
+          "pct": 12,
+          "isTopPick": false,
+          "sameCount": 2,
+          "gameScorers": 13
+        },
+        {
+          "group": "C",
+          "home": "Brazil",
+          "away": "Haiti",
+          "ph": 5,
+          "pa": 0,
+          "played": true,
+          "hg": 3,
+          "ag": 0,
+          "pts": 1,
+          "kickoff": "2026-06-20 02:30",
+          "pct": 24,
+          "isTopPick": false,
+          "sameCount": 4,
+          "gameScorers": 17
+        },
+        {
+          "group": "C",
+          "home": "Scotland",
+          "away": "Brazil",
+          "ph": 1,
+          "pa": 3,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-25 00:00",
+          "pct": 12,
+          "isTopPick": false,
+          "sameCount": 2,
+          "gameScorers": null
+        },
+        {
+          "group": "C",
+          "home": "Morocco",
+          "away": "Haiti",
+          "ph": 3,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-25 00:00",
+          "pct": 35,
+          "isTopPick": false,
+          "sameCount": 6,
+          "gameScorers": null
+        },
+        {
+          "group": "D",
+          "home": "USA",
+          "away": "Paraguay",
+          "ph": 1,
+          "pa": 1,
+          "played": true,
+          "hg": 4,
+          "ag": 1,
+          "pts": 0,
+          "kickoff": "2026-06-13 03:00",
+          "pct": 12,
+          "isTopPick": false,
+          "sameCount": 2,
+          "gameScorers": 14
+        },
+        {
+          "group": "D",
+          "home": "Australia",
+          "away": "Turkey",
+          "ph": 0,
+          "pa": 4,
+          "played": true,
+          "hg": 2,
+          "ag": 0,
+          "pts": 0,
+          "kickoff": "2026-06-14 06:00",
+          "pct": 6,
+          "isTopPick": false,
+          "sameCount": 1,
+          "gameScorers": 1
+        },
+        {
+          "group": "D",
+          "home": "USA",
+          "away": "Australia",
+          "ph": 2,
+          "pa": 0,
+          "played": true,
+          "hg": 2,
+          "ag": 0,
+          "pts": 3,
+          "kickoff": "2026-06-19 21:00",
+          "pct": 24,
+          "isTopPick": false,
+          "sameCount": 4,
+          "gameScorers": 14
+        },
+        {
+          "group": "D",
+          "home": "Turkey",
+          "away": "Paraguay",
+          "ph": 3,
+          "pa": 1,
+          "played": true,
+          "hg": 0,
+          "ag": 1,
+          "pts": 0,
+          "kickoff": "2026-06-20 05:00",
+          "pct": 6,
+          "isTopPick": false,
+          "sameCount": 1,
+          "gameScorers": 1
+        },
+        {
+          "group": "D",
+          "home": "Turkey",
+          "away": "USA",
+          "ph": 1,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-26 04:00",
+          "pct": 6,
+          "isTopPick": false,
+          "sameCount": 1,
+          "gameScorers": null
+        },
+        {
+          "group": "D",
+          "home": "Paraguay",
+          "away": "Australia",
+          "ph": 2,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-26 04:00",
+          "pct": 12,
+          "isTopPick": false,
+          "sameCount": 2,
+          "gameScorers": null
+        },
+        {
+          "group": "E",
+          "home": "Germany",
+          "away": "Curaçao",
+          "ph": 4,
+          "pa": 0,
+          "played": true,
+          "hg": 7,
+          "ag": 1,
+          "pts": 1,
+          "kickoff": "2026-06-14 19:00",
+          "pct": 41,
+          "isTopPick": true,
+          "sameCount": 7,
+          "gameScorers": 17
+        },
+        {
+          "group": "E",
+          "home": "Côte d'Ivoire",
+          "away": "Ecuador",
+          "ph": 2,
+          "pa": 3,
+          "played": true,
+          "hg": 1,
+          "ag": 0,
+          "pts": 0,
+          "kickoff": "2026-06-15 01:00",
+          "pct": 6,
+          "isTopPick": false,
+          "sameCount": 1,
+          "gameScorers": 2
+        },
+        {
+          "group": "E",
+          "home": "Germany",
+          "away": "Côte d'Ivoire",
+          "ph": 2,
+          "pa": 0,
+          "played": true,
+          "hg": 2,
+          "ag": 1,
+          "pts": 1,
+          "kickoff": "2026-06-20 22:00",
+          "pct": 29,
+          "isTopPick": true,
+          "sameCount": 5,
+          "gameScorers": 15
+        },
+        {
+          "group": "E",
+          "home": "Ecuador",
+          "away": "Curaçao",
+          "ph": 3,
+          "pa": 0,
+          "played": true,
+          "hg": 0,
+          "ag": 0,
+          "pts": 0,
+          "kickoff": "2026-06-21 02:00",
+          "pct": 35,
+          "isTopPick": false,
+          "sameCount": 6,
+          "gameScorers": 0
+        },
+        {
+          "group": "E",
+          "home": "Curaçao",
+          "away": "Côte d'Ivoire",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-25 22:00",
+          "pct": 12,
+          "isTopPick": false,
+          "sameCount": 2,
+          "gameScorers": null
+        },
+        {
+          "group": "E",
+          "home": "Ecuador",
+          "away": "Germany",
+          "ph": 1,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-25 22:00",
+          "pct": 18,
+          "isTopPick": false,
+          "sameCount": 3,
+          "gameScorers": null
+        },
+        {
+          "group": "F",
+          "home": "Netherlands",
+          "away": "Japan",
+          "ph": 1,
+          "pa": 2,
+          "played": true,
+          "hg": 2,
+          "ag": 2,
+          "pts": 0,
+          "kickoff": "2026-06-14 22:00",
+          "pct": 6,
+          "isTopPick": false,
+          "sameCount": 1,
+          "gameScorers": 3
+        },
+        {
+          "group": "F",
+          "home": "Sweden",
+          "away": "Tunisia",
+          "ph": 1,
+          "pa": 0,
+          "played": true,
+          "hg": 5,
+          "ag": 1,
+          "pts": 1,
+          "kickoff": "2026-06-15 04:00",
+          "pct": 24,
+          "isTopPick": false,
+          "sameCount": 4,
+          "gameScorers": 16
+        },
+        {
+          "group": "F",
+          "home": "Netherlands",
+          "away": "Sweden",
+          "ph": 3,
+          "pa": 1,
+          "played": true,
+          "hg": 5,
+          "ag": 1,
+          "pts": 1,
+          "kickoff": "2026-06-20 19:00",
+          "pct": 18,
+          "isTopPick": false,
+          "sameCount": 3,
+          "gameScorers": 13
+        },
+        {
+          "group": "F",
+          "home": "Tunisia",
+          "away": "Japan",
+          "ph": 1,
+          "pa": 3,
+          "played": true,
+          "hg": 0,
+          "ag": 4,
+          "pts": 1,
+          "kickoff": "2026-06-21 06:00",
+          "pct": 12,
+          "isTopPick": false,
+          "sameCount": 2,
+          "gameScorers": 15
+        },
+        {
+          "group": "F",
+          "home": "Japan",
+          "away": "Sweden",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-26 01:00",
+          "pct": 29,
+          "isTopPick": false,
+          "sameCount": 5,
+          "gameScorers": null
+        },
+        {
+          "group": "F",
+          "home": "Tunisia",
+          "away": "Netherlands",
+          "ph": 0,
+          "pa": 3,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-26 01:00",
+          "pct": 53,
+          "isTopPick": true,
+          "sameCount": 9,
+          "gameScorers": null
+        },
+        {
+          "group": "G",
+          "home": "Belgium",
+          "away": "Egypt",
+          "ph": 2,
+          "pa": 0,
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0,
+          "kickoff": "2026-06-15 21:00",
+          "pct": 41,
+          "isTopPick": true,
+          "sameCount": 7,
+          "gameScorers": 0
+        },
+        {
+          "group": "G",
+          "home": "Iran",
+          "away": "New Zealand",
+          "ph": 0,
+          "pa": 1,
+          "played": true,
+          "hg": 2,
+          "ag": 2,
+          "pts": 0,
+          "kickoff": "2026-06-16 03:00",
+          "pct": 12,
+          "isTopPick": false,
+          "sameCount": 2,
+          "gameScorers": 2
+        },
+        {
+          "group": "G",
+          "home": "Belgium",
+          "away": "Iran",
+          "ph": 3,
+          "pa": 0,
+          "played": true,
+          "hg": 0,
+          "ag": 0,
+          "pts": 0,
+          "kickoff": "2026-06-21 21:00",
+          "pct": 29,
+          "isTopPick": false,
+          "sameCount": 5,
+          "gameScorers": 0
+        },
+        {
+          "group": "G",
+          "home": "New Zealand",
+          "away": "Egypt",
+          "ph": 0,
+          "pa": 1,
+          "played": true,
+          "hg": 1,
+          "ag": 3,
+          "pts": 1,
+          "kickoff": "2026-06-22 03:00",
+          "pct": 35,
+          "isTopPick": true,
+          "sameCount": 6,
+          "gameScorers": 11
+        },
+        {
+          "group": "G",
+          "home": "Egypt",
+          "away": "Iran",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-27 05:00",
+          "pct": 18,
+          "isTopPick": false,
+          "sameCount": 3,
+          "gameScorers": null
+        },
+        {
+          "group": "G",
+          "home": "New Zealand",
+          "away": "Belgium",
+          "ph": 0,
+          "pa": 4,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-27 05:00",
+          "pct": 12,
+          "isTopPick": false,
+          "sameCount": 2,
+          "gameScorers": null
+        },
+        {
+          "group": "H",
+          "home": "Spain",
+          "away": "Cabo Verde",
+          "ph": 4,
+          "pa": 1,
+          "played": true,
+          "hg": 0,
+          "ag": 0,
+          "pts": 0,
+          "kickoff": "2026-06-15 18:00",
+          "pct": 6,
+          "isTopPick": false,
+          "sameCount": 1,
+          "gameScorers": 0
+        },
+        {
+          "group": "H",
+          "home": "Saudi Arabia",
+          "away": "Uruguay",
+          "ph": 1,
+          "pa": 3,
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0,
+          "kickoff": "2026-06-16 00:00",
+          "pct": 6,
+          "isTopPick": false,
+          "sameCount": 1,
+          "gameScorers": 1
+        },
+        {
+          "group": "H",
+          "home": "Spain",
+          "away": "Saudi Arabia",
+          "ph": 3,
+          "pa": 0,
+          "played": true,
+          "hg": 4,
+          "ag": 0,
+          "pts": 1,
+          "kickoff": "2026-06-21 18:00",
+          "pct": 29,
+          "isTopPick": false,
+          "sameCount": 5,
+          "gameScorers": 17
+        },
+        {
+          "group": "H",
+          "home": "Uruguay",
+          "away": "Cabo Verde",
+          "ph": 2,
+          "pa": 0,
+          "played": true,
+          "hg": 2,
+          "ag": 2,
+          "pts": 0,
+          "kickoff": "2026-06-22 00:00",
+          "pct": 47,
+          "isTopPick": true,
+          "sameCount": 8,
+          "gameScorers": 0
+        },
+        {
+          "group": "H",
+          "home": "Cabo Verde",
+          "away": "Saudi Arabia",
+          "ph": 0,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-27 02:00",
+          "pct": 6,
+          "isTopPick": false,
+          "sameCount": 1,
+          "gameScorers": null
+        },
+        {
+          "group": "H",
+          "home": "Uruguay",
+          "away": "Spain",
+          "ph": 2,
+          "pa": 4,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-27 02:00",
+          "pct": 6,
+          "isTopPick": false,
+          "sameCount": 1,
+          "gameScorers": null
+        },
+        {
+          "group": "I",
+          "home": "France",
+          "away": "Senegal",
+          "ph": 3,
+          "pa": 0,
+          "played": true,
+          "hg": 3,
+          "ag": 1,
+          "pts": 1,
+          "kickoff": "2026-06-16 21:00",
+          "pct": 12,
+          "isTopPick": false,
+          "sameCount": 2,
+          "gameScorers": 15
+        },
+        {
+          "group": "I",
+          "home": "Iraq",
+          "away": "Norway",
+          "ph": 0,
+          "pa": 4,
+          "played": true,
+          "hg": 1,
+          "ag": 4,
+          "pts": 1,
+          "kickoff": "2026-06-17 00:00",
+          "pct": 18,
+          "isTopPick": false,
+          "sameCount": 3,
+          "gameScorers": 16
+        },
+        {
+          "group": "I",
+          "home": "France",
+          "away": "Iraq",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-22 23:00",
+          "pct": 18,
+          "isTopPick": false,
+          "sameCount": 3,
+          "gameScorers": null
+        },
+        {
+          "group": "I",
+          "home": "Norway",
+          "away": "Senegal",
+          "ph": 4,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-23 02:00",
+          "pct": 6,
+          "isTopPick": false,
+          "sameCount": 1,
+          "gameScorers": null
+        },
+        {
+          "group": "I",
+          "home": "Norway",
+          "away": "France",
+          "ph": 2,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-26 21:00",
+          "pct": 18,
+          "isTopPick": false,
+          "sameCount": 3,
+          "gameScorers": null
+        },
+        {
+          "group": "I",
+          "home": "Senegal",
+          "away": "Iraq",
+          "ph": 3,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-26 21:00",
+          "pct": 6,
+          "isTopPick": false,
+          "sameCount": 1,
+          "gameScorers": null
+        },
+        {
+          "group": "J",
+          "home": "Argentina",
+          "away": "Algeria",
+          "ph": 3,
+          "pa": 0,
+          "played": true,
+          "hg": 3,
+          "ag": 0,
+          "pts": 3,
+          "kickoff": "2026-06-17 03:00",
+          "pct": 24,
+          "isTopPick": false,
+          "sameCount": 4,
+          "gameScorers": 17
+        },
+        {
+          "group": "J",
+          "home": "Austria",
+          "away": "Jordan",
+          "ph": 2,
+          "pa": 0,
+          "played": true,
+          "hg": 3,
+          "ag": 1,
+          "pts": 1,
+          "kickoff": "2026-06-17 06:00",
+          "pct": 53,
+          "isTopPick": true,
+          "sameCount": 9,
+          "gameScorers": 17
+        },
+        {
+          "group": "J",
+          "home": "Argentina",
+          "away": "Austria",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-22 19:00",
+          "pct": 71,
+          "isTopPick": true,
+          "sameCount": 12,
+          "gameScorers": null
+        },
+        {
+          "group": "J",
+          "home": "Jordan",
+          "away": "Algeria",
+          "ph": 0,
+          "pa": 3,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-23 05:00",
+          "pct": 6,
+          "isTopPick": false,
+          "sameCount": 1,
+          "gameScorers": null
+        },
+        {
+          "group": "J",
+          "home": "Algeria",
+          "away": "Austria",
+          "ph": 0,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-28 04:00",
+          "pct": 6,
+          "isTopPick": false,
+          "sameCount": 1,
+          "gameScorers": null
+        },
+        {
+          "group": "J",
+          "home": "Jordan",
+          "away": "Argentina",
+          "ph": 0,
+          "pa": 4,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-28 04:00",
+          "pct": 18,
+          "isTopPick": false,
+          "sameCount": 3,
+          "gameScorers": null
+        },
+        {
+          "group": "K",
+          "home": "Portugal",
+          "away": "Congo DR",
+          "ph": 2,
+          "pa": 1,
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0,
+          "kickoff": "2026-06-17 19:00",
+          "pct": 6,
+          "isTopPick": false,
+          "sameCount": 1,
+          "gameScorers": 0
+        },
+        {
+          "group": "K",
+          "home": "Uzbekistan",
+          "away": "Colombia",
+          "ph": 0,
+          "pa": 3,
+          "played": true,
+          "hg": 1,
+          "ag": 3,
+          "pts": 1,
+          "kickoff": "2026-06-18 04:00",
+          "pct": 18,
+          "isTopPick": false,
+          "sameCount": 3,
+          "gameScorers": 16
+        },
+        {
+          "group": "K",
+          "home": "Portugal",
+          "away": "Uzbekistan",
+          "ph": 4,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-23 19:00",
+          "pct": 12,
+          "isTopPick": false,
+          "sameCount": 2,
+          "gameScorers": null
+        },
+        {
+          "group": "K",
+          "home": "Colombia",
+          "away": "Congo DR",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-24 04:00",
+          "pct": 35,
+          "isTopPick": true,
+          "sameCount": 6,
+          "gameScorers": null
+        },
+        {
+          "group": "K",
+          "home": "Colombia",
+          "away": "Portugal",
+          "ph": 1,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-28 01:30",
+          "pct": 29,
+          "isTopPick": true,
+          "sameCount": 5,
+          "gameScorers": null
+        },
+        {
+          "group": "K",
+          "home": "Congo DR",
+          "away": "Uzbekistan",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-28 01:30",
+          "pct": 18,
+          "isTopPick": false,
+          "sameCount": 3,
+          "gameScorers": null
+        },
+        {
+          "group": "L",
+          "home": "England",
+          "away": "Croatia",
+          "ph": 2,
+          "pa": 0,
+          "played": true,
+          "hg": 4,
+          "ag": 2,
+          "pts": 1,
+          "kickoff": "2026-06-17 22:00",
+          "pct": 24,
+          "isTopPick": false,
+          "sameCount": 4,
+          "gameScorers": 16
+        },
+        {
+          "group": "L",
+          "home": "Ghana",
+          "away": "Panama",
+          "ph": 2,
+          "pa": 0,
+          "played": true,
+          "hg": 1,
+          "ag": 0,
+          "pts": 1,
+          "kickoff": "2026-06-18 01:00",
+          "pct": 35,
+          "isTopPick": true,
+          "sameCount": 6,
+          "gameScorers": 14
+        },
+        {
+          "group": "L",
+          "home": "England",
+          "away": "Ghana",
+          "ph": 4,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-23 22:00",
+          "pct": 6,
+          "isTopPick": false,
+          "sameCount": 1,
+          "gameScorers": null
+        },
+        {
+          "group": "L",
+          "home": "Panama",
+          "away": "Croatia",
+          "ph": 0,
+          "pa": 3,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-24 01:00",
+          "pct": 12,
+          "isTopPick": false,
+          "sameCount": 2,
+          "gameScorers": null
+        },
+        {
+          "group": "L",
+          "home": "Panama",
+          "away": "England",
+          "ph": 0,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-27 23:00",
+          "pct": 12,
+          "isTopPick": false,
+          "sameCount": 2,
+          "gameScorers": null
+        },
+        {
+          "group": "L",
+          "home": "Croatia",
+          "away": "Ghana",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-27 23:00",
+          "pct": 29,
+          "isTopPick": true,
+          "sameCount": 5,
+          "gameScorers": null
+        }
+      ],
+      "gw": [
+        {
+          "group": "A",
+          "team": "Korea Republic",
+          "correct": null
+        },
+        {
+          "group": "B",
+          "team": "Switzerland",
+          "correct": null
+        },
+        {
+          "group": "C",
+          "team": "Brazil",
+          "correct": null
+        },
+        {
+          "group": "D",
+          "team": "Turkey",
+          "correct": null
+        },
+        {
+          "group": "E",
+          "team": "Germany",
+          "correct": null
+        },
+        {
+          "group": "F",
+          "team": "Japan",
+          "correct": null
+        },
+        {
+          "group": "G",
+          "team": "Belgium",
+          "correct": null
+        },
+        {
+          "group": "H",
+          "team": "Spain",
+          "correct": null
+        },
+        {
+          "group": "I",
+          "team": "Norway",
+          "correct": null
+        },
+        {
+          "group": "J",
+          "team": "Argentina",
+          "correct": null
+        },
+        {
+          "group": "K",
+          "team": "Portugal",
+          "correct": null
+        },
+        {
+          "group": "L",
+          "team": "England",
+          "correct": null
+        }
+      ],
+      "bracket": {
+        "R32": [
+          {
+            "team": "Algeria",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Argentina",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Austria",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Belgium",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Bosnia & Herzegovina",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Brazil",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Canada",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Colombia",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Congo DR",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Croatia",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Czechia",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Côte d'Ivoire",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Ecuador",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Egypt",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "England",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "France",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Germany",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Ghana",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Japan",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Korea Republic",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Mexico",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Morocco",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Netherlands",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Norway",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Portugal",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Scotland",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Spain",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Sweden",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Switzerland",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Turkey",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "USA",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Uruguay",
+            "hit": false,
+            "pts": 0
+          }
+        ],
+        "R16": [
+          {
+            "team": "Argentina",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Belgium",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Brazil",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Colombia",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Egypt",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "England",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "France",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Germany",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Japan",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Korea Republic",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Mexico",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Norway",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Portugal",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Spain",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Switzerland",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Turkey",
+            "hit": false,
+            "pts": 0
+          }
+        ],
+        "QF": [
+          {
+            "team": "Argentina",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Belgium",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "England",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "France",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Japan",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Norway",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Portugal",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Spain",
+            "hit": false,
+            "pts": 0
+          }
+        ],
+        "SF": [
+          {
+            "team": "Argentina",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "France",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Norway",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Spain",
+            "hit": false,
+            "pts": 0
+          }
+        ],
+        "Final": [
+          {
+            "team": "France",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Spain",
+            "hit": false,
+            "pts": 0
+          }
+        ],
+        "winner": {
+          "team": "France",
+          "hit": false,
+          "pts": 0
+        },
+        "third": {
+          "team": "Norway",
+          "hit": false,
+          "pts": 0
+        }
+      },
+      "bonusAns": [
+        {
+          "id": "B01",
+          "q": "Most goals scored, team (group stage only)",
+          "answer": "Brazil",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B02",
+          "q": "Most goals conceded, team (group stage only)",
+          "answer": "Haiti",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B03",
+          "q": "Total number of goals (all tournament)",
+          "answer": "303",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B04",
+          "q": "Golden Ball (Player of the tournament)",
+          "answer": "Kylian Mbappé",
+          "hit": null,
+          "pts": 10
+        },
+        {
+          "id": "B05",
+          "q": "Golden Boot (Most goals, player)",
+          "answer": "Erling Haaland",
+          "hit": null,
+          "pts": 10
+        },
+        {
+          "id": "B06",
+          "q": "Most yellow cards, team",
+          "answer": "Argentina",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B07",
+          "q": "Fastest goal, minute",
+          "answer": "2",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B08",
+          "q": "Highest scoring single match (goals)",
+          "answer": "6",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B09",
+          "q": "Number of extra-time or penalty shoot-outs in knockout stage",
+          "answer": "4",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B10",
+          "q": "Final goes to extra time? (Yes/No)",
+          "answer": "No",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B11",
+          "q": "Host nation reaches R16? (Yes/No)",
+          "answer": "Yes",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B12",
+          "q": "First-timer reaches R32? (Yes/No)",
+          "answer": "No",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B13",
+          "q": "Most yellow cards, single match",
+          "answer": "8",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B15",
+          "q": "How far does Sweden go? (auto from bracket picks)",
+          "answer": "R32",
+          "hit": null,
+          "pts": 10
+        },
+        {
+          "id": "B16",
+          "q": "Sweden's top scorer (manual)",
+          "answer": "Alexander Isak",
+          "hit": null,
+          "pts": 5
+        }
+      ]
+    },
+    "Axel Dillner": {
+      "rank": 10,
+      "total": 28,
+      "group": 28,
+      "ko": 0,
+      "bonus": 0,
+      "pctMax": 0.2333,
+      "pointsToday": 4,
+      "games": [
+        {
+          "group": "A",
+          "home": "Mexico",
+          "away": "South Africa",
+          "ph": 3,
+          "pa": 0,
+          "played": true,
+          "hg": 2,
+          "ag": 0,
+          "pts": 1,
+          "kickoff": "2026-06-11 21:00",
+          "pct": 18,
+          "isTopPick": false,
+          "sameCount": 3,
+          "gameScorers": 17
+        },
+        {
+          "group": "A",
+          "home": "Korea Republic",
+          "away": "Czechia",
+          "ph": 1,
+          "pa": 1,
+          "played": true,
+          "hg": 2,
+          "ag": 1,
+          "pts": 0,
+          "kickoff": "2026-06-12 04:00",
+          "pct": 47,
+          "isTopPick": true,
+          "sameCount": 8,
+          "gameScorers": 6
+        },
+        {
+          "group": "A",
+          "home": "Czechia",
+          "away": "South Africa",
+          "ph": 2,
+          "pa": 0,
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0,
+          "kickoff": "2026-06-18 18:00",
+          "pct": 29,
+          "isTopPick": true,
+          "sameCount": 5,
+          "gameScorers": 3
+        },
+        {
+          "group": "A",
+          "home": "Mexico",
+          "away": "Korea Republic",
+          "ph": 1,
+          "pa": 1,
+          "played": true,
+          "hg": 1,
+          "ag": 0,
+          "pts": 0,
+          "kickoff": "2026-06-19 03:00",
+          "pct": 29,
+          "isTopPick": false,
+          "sameCount": 5,
+          "gameScorers": 11
+        },
+        {
+          "group": "A",
+          "home": "Czechia",
+          "away": "Mexico",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-25 03:00",
+          "pct": 18,
+          "isTopPick": false,
+          "sameCount": 3,
+          "gameScorers": null
+        },
+        {
+          "group": "A",
+          "home": "South Africa",
+          "away": "Korea Republic",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-25 03:00",
+          "pct": 24,
+          "isTopPick": false,
+          "sameCount": 4,
+          "gameScorers": null
+        },
+        {
+          "group": "B",
+          "home": "Canada",
+          "away": "Bosnia & Herzegovina",
+          "ph": 2,
+          "pa": 1,
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0,
+          "kickoff": "2026-06-12 21:00",
+          "pct": 24,
+          "isTopPick": true,
+          "sameCount": 4,
+          "gameScorers": 4
+        },
+        {
+          "group": "B",
+          "home": "Qatar",
+          "away": "Switzerland",
+          "ph": 0,
+          "pa": 2,
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0,
+          "kickoff": "2026-06-13 21:00",
+          "pct": 47,
+          "isTopPick": true,
+          "sameCount": 8,
+          "gameScorers": 0
+        },
+        {
+          "group": "B",
+          "home": "Switzerland",
+          "away": "Bosnia & Herzegovina",
+          "ph": 1,
+          "pa": 0,
+          "played": true,
+          "hg": 4,
+          "ag": 1,
+          "pts": 1,
+          "kickoff": "2026-06-18 21:00",
+          "pct": 18,
+          "isTopPick": false,
+          "sameCount": 3,
+          "gameScorers": 17
+        },
+        {
+          "group": "B",
+          "home": "Canada",
+          "away": "Qatar",
+          "ph": 3,
+          "pa": 0,
+          "played": true,
+          "hg": 6,
+          "ag": 0,
+          "pts": 1,
+          "kickoff": "2026-06-19 00:00",
+          "pct": 12,
+          "isTopPick": false,
+          "sameCount": 2,
+          "gameScorers": 16
+        },
+        {
+          "group": "B",
+          "home": "Switzerland",
+          "away": "Canada",
+          "ph": 1,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-24 21:00",
+          "pct": 35,
+          "isTopPick": true,
+          "sameCount": 6,
+          "gameScorers": null
+        },
+        {
+          "group": "B",
+          "home": "Bosnia & Herzegovina",
+          "away": "Qatar",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-24 21:00",
+          "pct": 29,
+          "isTopPick": true,
+          "sameCount": 5,
+          "gameScorers": null
+        },
+        {
+          "group": "C",
+          "home": "Brazil",
+          "away": "Morocco",
+          "ph": 1,
+          "pa": 1,
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 3,
+          "kickoff": "2026-06-14 00:00",
+          "pct": 18,
+          "isTopPick": false,
+          "sameCount": 3,
+          "gameScorers": 3
+        },
+        {
+          "group": "C",
+          "home": "Haiti",
+          "away": "Scotland",
+          "ph": 0,
+          "pa": 1,
+          "played": true,
+          "hg": 0,
+          "ag": 1,
+          "pts": 3,
+          "kickoff": "2026-06-14 03:00",
+          "pct": 18,
+          "isTopPick": false,
+          "sameCount": 3,
+          "gameScorers": 16
+        },
+        {
+          "group": "C",
+          "home": "Scotland",
+          "away": "Morocco",
+          "ph": 0,
+          "pa": 2,
+          "played": true,
+          "hg": 0,
+          "ag": 1,
+          "pts": 1,
+          "kickoff": "2026-06-20 00:00",
+          "pct": 24,
+          "isTopPick": true,
+          "sameCount": 4,
+          "gameScorers": 13
+        },
+        {
+          "group": "C",
+          "home": "Brazil",
+          "away": "Haiti",
+          "ph": 4,
+          "pa": 0,
+          "played": true,
+          "hg": 3,
+          "ag": 0,
+          "pts": 1,
+          "kickoff": "2026-06-20 02:30",
+          "pct": 35,
+          "isTopPick": true,
+          "sameCount": 6,
+          "gameScorers": 17
+        },
+        {
+          "group": "C",
+          "home": "Scotland",
+          "away": "Brazil",
+          "ph": 0,
+          "pa": 3,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-25 00:00",
+          "pct": 6,
+          "isTopPick": false,
+          "sameCount": 1,
+          "gameScorers": null
+        },
+        {
+          "group": "C",
+          "home": "Morocco",
+          "away": "Haiti",
+          "ph": 3,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-25 00:00",
+          "pct": 35,
+          "isTopPick": false,
+          "sameCount": 6,
+          "gameScorers": null
+        },
+        {
+          "group": "D",
+          "home": "USA",
+          "away": "Paraguay",
+          "ph": 2,
+          "pa": 1,
+          "played": true,
+          "hg": 4,
+          "ag": 1,
+          "pts": 1,
+          "kickoff": "2026-06-13 03:00",
+          "pct": 24,
+          "isTopPick": false,
+          "sameCount": 4,
+          "gameScorers": 14
+        },
+        {
+          "group": "D",
+          "home": "Australia",
+          "away": "Turkey",
+          "ph": 1,
+          "pa": 2,
+          "played": true,
+          "hg": 2,
+          "ag": 0,
+          "pts": 0,
+          "kickoff": "2026-06-14 06:00",
+          "pct": 47,
+          "isTopPick": true,
+          "sameCount": 8,
+          "gameScorers": 1
+        },
+        {
+          "group": "D",
+          "home": "USA",
+          "away": "Australia",
+          "ph": 3,
+          "pa": 1,
+          "played": true,
+          "hg": 2,
+          "ag": 0,
+          "pts": 1,
+          "kickoff": "2026-06-19 21:00",
+          "pct": 6,
+          "isTopPick": false,
+          "sameCount": 1,
+          "gameScorers": 14
+        },
+        {
+          "group": "D",
+          "home": "Turkey",
+          "away": "Paraguay",
+          "ph": 1,
+          "pa": 1,
+          "played": true,
+          "hg": 0,
+          "ag": 1,
+          "pts": 0,
+          "kickoff": "2026-06-20 05:00",
+          "pct": 24,
+          "isTopPick": false,
+          "sameCount": 4,
+          "gameScorers": 1
+        },
+        {
+          "group": "D",
+          "home": "Turkey",
+          "away": "USA",
+          "ph": 1,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-26 04:00",
+          "pct": 29,
+          "isTopPick": false,
+          "sameCount": 5,
+          "gameScorers": null
+        },
+        {
+          "group": "D",
+          "home": "Paraguay",
+          "away": "Australia",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-26 04:00",
+          "pct": 18,
+          "isTopPick": false,
+          "sameCount": 3,
+          "gameScorers": null
+        },
+        {
+          "group": "E",
+          "home": "Germany",
+          "away": "Curaçao",
+          "ph": 4,
+          "pa": 0,
+          "played": true,
+          "hg": 7,
+          "ag": 1,
+          "pts": 1,
+          "kickoff": "2026-06-14 19:00",
+          "pct": 41,
+          "isTopPick": true,
+          "sameCount": 7,
+          "gameScorers": 17
+        },
+        {
+          "group": "E",
+          "home": "Côte d'Ivoire",
+          "away": "Ecuador",
+          "ph": 1,
+          "pa": 1,
+          "played": true,
+          "hg": 1,
+          "ag": 0,
+          "pts": 0,
+          "kickoff": "2026-06-15 01:00",
+          "pct": 41,
+          "isTopPick": true,
+          "sameCount": 7,
+          "gameScorers": 2
+        },
+        {
+          "group": "E",
+          "home": "Germany",
+          "away": "Côte d'Ivoire",
+          "ph": 1,
+          "pa": 1,
+          "played": true,
+          "hg": 2,
+          "ag": 1,
+          "pts": 0,
+          "kickoff": "2026-06-20 22:00",
+          "pct": 12,
+          "isTopPick": false,
+          "sameCount": 2,
+          "gameScorers": 15
+        },
+        {
+          "group": "E",
+          "home": "Ecuador",
+          "away": "Curaçao",
+          "ph": 2,
+          "pa": 0,
+          "played": true,
+          "hg": 0,
+          "ag": 0,
+          "pts": 0,
+          "kickoff": "2026-06-21 02:00",
+          "pct": 65,
+          "isTopPick": true,
+          "sameCount": 11,
+          "gameScorers": 0
+        },
+        {
+          "group": "E",
+          "home": "Curaçao",
+          "away": "Côte d'Ivoire",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-25 22:00",
+          "pct": 47,
+          "isTopPick": true,
+          "sameCount": 8,
+          "gameScorers": null
+        },
+        {
+          "group": "E",
+          "home": "Ecuador",
+          "away": "Germany",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-25 22:00",
+          "pct": 12,
+          "isTopPick": false,
+          "sameCount": 2,
+          "gameScorers": null
+        },
+        {
+          "group": "F",
+          "home": "Netherlands",
+          "away": "Japan",
+          "ph": 1,
+          "pa": 1,
+          "played": true,
+          "hg": 2,
+          "ag": 2,
+          "pts": 1,
+          "kickoff": "2026-06-14 22:00",
+          "pct": 18,
+          "isTopPick": false,
+          "sameCount": 3,
+          "gameScorers": 3
+        },
+        {
+          "group": "F",
+          "home": "Sweden",
+          "away": "Tunisia",
+          "ph": 2,
+          "pa": 0,
+          "played": true,
+          "hg": 5,
+          "ag": 1,
+          "pts": 1,
+          "kickoff": "2026-06-15 04:00",
+          "pct": 29,
+          "isTopPick": true,
+          "sameCount": 5,
+          "gameScorers": 16
+        },
+        {
+          "group": "F",
+          "home": "Netherlands",
+          "away": "Sweden",
+          "ph": 2,
+          "pa": 0,
+          "played": true,
+          "hg": 5,
+          "ag": 1,
+          "pts": 1,
+          "kickoff": "2026-06-20 19:00",
+          "pct": 18,
+          "isTopPick": false,
+          "sameCount": 3,
+          "gameScorers": 13
+        },
+        {
+          "group": "F",
+          "home": "Tunisia",
+          "away": "Japan",
+          "ph": 0,
+          "pa": 1,
+          "played": true,
+          "hg": 0,
+          "ag": 4,
+          "pts": 1,
+          "kickoff": "2026-06-21 06:00",
+          "pct": 29,
+          "isTopPick": true,
+          "sameCount": 5,
+          "gameScorers": 15
+        },
+        {
+          "group": "F",
+          "home": "Japan",
+          "away": "Sweden",
+          "ph": 1,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-26 01:00",
+          "pct": 29,
+          "isTopPick": false,
+          "sameCount": 5,
+          "gameScorers": null
+        },
+        {
+          "group": "F",
+          "home": "Tunisia",
+          "away": "Netherlands",
+          "ph": 0,
+          "pa": 3,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-26 01:00",
+          "pct": 53,
+          "isTopPick": true,
+          "sameCount": 9,
+          "gameScorers": null
+        },
+        {
+          "group": "G",
+          "home": "Belgium",
+          "away": "Egypt",
+          "ph": 2,
+          "pa": 1,
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0,
+          "kickoff": "2026-06-15 21:00",
+          "pct": 29,
+          "isTopPick": false,
+          "sameCount": 5,
+          "gameScorers": 0
+        },
+        {
+          "group": "G",
+          "home": "Iran",
+          "away": "New Zealand",
+          "ph": 1,
+          "pa": 0,
+          "played": true,
+          "hg": 2,
+          "ag": 2,
+          "pts": 0,
+          "kickoff": "2026-06-16 03:00",
+          "pct": 47,
+          "isTopPick": true,
+          "sameCount": 8,
+          "gameScorers": 2
+        },
+        {
+          "group": "G",
+          "home": "Belgium",
+          "away": "Iran",
+          "ph": 3,
+          "pa": 0,
+          "played": true,
+          "hg": 0,
+          "ag": 0,
+          "pts": 0,
+          "kickoff": "2026-06-21 21:00",
+          "pct": 29,
+          "isTopPick": false,
+          "sameCount": 5,
+          "gameScorers": 0
+        },
+        {
+          "group": "G",
+          "home": "New Zealand",
+          "away": "Egypt",
+          "ph": 0,
+          "pa": 1,
+          "played": true,
+          "hg": 1,
+          "ag": 3,
+          "pts": 1,
+          "kickoff": "2026-06-22 03:00",
+          "pct": 35,
+          "isTopPick": true,
+          "sameCount": 6,
+          "gameScorers": 11
+        },
+        {
+          "group": "G",
+          "home": "Egypt",
+          "away": "Iran",
+          "ph": 1,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-27 05:00",
+          "pct": 41,
+          "isTopPick": true,
+          "sameCount": 7,
+          "gameScorers": null
+        },
+        {
+          "group": "G",
+          "home": "New Zealand",
+          "away": "Belgium",
+          "ph": 0,
+          "pa": 4,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-27 05:00",
+          "pct": 12,
+          "isTopPick": false,
+          "sameCount": 2,
+          "gameScorers": null
+        },
+        {
+          "group": "H",
+          "home": "Spain",
+          "away": "Cabo Verde",
+          "ph": 4,
+          "pa": 0,
+          "played": true,
+          "hg": 0,
+          "ag": 0,
+          "pts": 0,
+          "kickoff": "2026-06-15 18:00",
+          "pct": 29,
+          "isTopPick": false,
+          "sameCount": 5,
+          "gameScorers": 0
+        },
+        {
+          "group": "H",
+          "home": "Saudi Arabia",
+          "away": "Uruguay",
+          "ph": 0,
+          "pa": 2,
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0,
+          "kickoff": "2026-06-16 00:00",
+          "pct": 59,
+          "isTopPick": true,
+          "sameCount": 10,
+          "gameScorers": 1
+        },
+        {
+          "group": "H",
+          "home": "Spain",
+          "away": "Saudi Arabia",
+          "ph": 4,
+          "pa": 0,
+          "played": true,
+          "hg": 4,
+          "ag": 0,
+          "pts": 3,
+          "kickoff": "2026-06-21 18:00",
+          "pct": 12,
+          "isTopPick": false,
+          "sameCount": 2,
+          "gameScorers": 17
+        },
+        {
+          "group": "H",
+          "home": "Uruguay",
+          "away": "Cabo Verde",
+          "ph": 3,
+          "pa": 0,
+          "played": true,
+          "hg": 2,
+          "ag": 2,
+          "pts": 0,
+          "kickoff": "2026-06-22 00:00",
+          "pct": 18,
+          "isTopPick": false,
+          "sameCount": 3,
+          "gameScorers": 0
+        },
+        {
+          "group": "H",
+          "home": "Cabo Verde",
+          "away": "Saudi Arabia",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-27 02:00",
+          "pct": 12,
+          "isTopPick": false,
+          "sameCount": 2,
+          "gameScorers": null
+        },
+        {
+          "group": "H",
+          "home": "Uruguay",
+          "away": "Spain",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-27 02:00",
+          "pct": 53,
+          "isTopPick": true,
+          "sameCount": 9,
+          "gameScorers": null
+        },
+        {
+          "group": "I",
+          "home": "France",
+          "away": "Senegal",
+          "ph": 2,
+          "pa": 1,
+          "played": true,
+          "hg": 3,
+          "ag": 1,
+          "pts": 1,
+          "kickoff": "2026-06-16 21:00",
+          "pct": 41,
+          "isTopPick": true,
+          "sameCount": 7,
+          "gameScorers": 15
+        },
+        {
+          "group": "I",
+          "home": "Iraq",
+          "away": "Norway",
+          "ph": 0,
+          "pa": 3,
+          "played": true,
+          "hg": 1,
+          "ag": 4,
+          "pts": 1,
+          "kickoff": "2026-06-17 00:00",
+          "pct": 41,
+          "isTopPick": true,
+          "sameCount": 7,
+          "gameScorers": 16
+        },
+        {
+          "group": "I",
+          "home": "France",
+          "away": "Iraq",
+          "ph": 4,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-22 23:00",
+          "pct": 12,
+          "isTopPick": false,
+          "sameCount": 2,
+          "gameScorers": null
+        },
+        {
+          "group": "I",
+          "home": "Norway",
+          "away": "Senegal",
+          "ph": 2,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-23 02:00",
+          "pct": 12,
+          "isTopPick": false,
+          "sameCount": 2,
+          "gameScorers": null
+        },
+        {
+          "group": "I",
+          "home": "Norway",
+          "away": "France",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-26 21:00",
+          "pct": 35,
+          "isTopPick": true,
+          "sameCount": 6,
+          "gameScorers": null
+        },
+        {
+          "group": "I",
+          "home": "Senegal",
+          "away": "Iraq",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-26 21:00",
+          "pct": 53,
+          "isTopPick": true,
+          "sameCount": 9,
+          "gameScorers": null
+        },
+        {
+          "group": "J",
+          "home": "Argentina",
+          "away": "Algeria",
+          "ph": 2,
+          "pa": 0,
+          "played": true,
+          "hg": 3,
+          "ag": 0,
+          "pts": 1,
+          "kickoff": "2026-06-17 03:00",
+          "pct": 59,
+          "isTopPick": true,
+          "sameCount": 10,
+          "gameScorers": 17
+        },
+        {
+          "group": "J",
+          "home": "Austria",
+          "away": "Jordan",
+          "ph": 3,
+          "pa": 0,
+          "played": true,
+          "hg": 3,
+          "ag": 1,
+          "pts": 1,
+          "kickoff": "2026-06-17 06:00",
+          "pct": 12,
+          "isTopPick": false,
+          "sameCount": 2,
+          "gameScorers": 17
+        },
+        {
+          "group": "J",
+          "home": "Argentina",
+          "away": "Austria",
+          "ph": 2,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-22 19:00",
+          "pct": 71,
+          "isTopPick": true,
+          "sameCount": 12,
+          "gameScorers": null
+        },
+        {
+          "group": "J",
+          "home": "Jordan",
+          "away": "Algeria",
+          "ph": 1,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-23 05:00",
+          "pct": 18,
+          "isTopPick": false,
+          "sameCount": 3,
+          "gameScorers": null
+        },
+        {
+          "group": "J",
+          "home": "Algeria",
+          "away": "Austria",
+          "ph": 1,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-28 04:00",
+          "pct": 12,
+          "isTopPick": false,
+          "sameCount": 2,
+          "gameScorers": null
+        },
+        {
+          "group": "J",
+          "home": "Jordan",
+          "away": "Argentina",
+          "ph": 0,
+          "pa": 4,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-28 04:00",
+          "pct": 18,
+          "isTopPick": false,
+          "sameCount": 3,
+          "gameScorers": null
+        },
+        {
+          "group": "K",
+          "home": "Portugal",
+          "away": "Congo DR",
+          "ph": 3,
+          "pa": 0,
+          "played": true,
+          "hg": 1,
+          "ag": 1,
+          "pts": 0,
+          "kickoff": "2026-06-17 19:00",
+          "pct": 53,
+          "isTopPick": true,
+          "sameCount": 9,
+          "gameScorers": 0
+        },
+        {
+          "group": "K",
+          "home": "Uzbekistan",
+          "away": "Colombia",
+          "ph": 1,
+          "pa": 1,
+          "played": true,
+          "hg": 1,
+          "ag": 3,
+          "pts": 0,
+          "kickoff": "2026-06-18 04:00",
+          "pct": 6,
+          "isTopPick": false,
+          "sameCount": 1,
+          "gameScorers": 16
+        },
+        {
+          "group": "K",
+          "home": "Portugal",
+          "away": "Uzbekistan",
+          "ph": 2,
+          "pa": 0,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-23 19:00",
+          "pct": 47,
+          "isTopPick": true,
+          "sameCount": 8,
+          "gameScorers": null
+        },
+        {
+          "group": "K",
+          "home": "Colombia",
+          "away": "Congo DR",
+          "ph": 3,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-24 04:00",
+          "pct": 12,
+          "isTopPick": false,
+          "sameCount": 2,
+          "gameScorers": null
+        },
+        {
+          "group": "K",
+          "home": "Colombia",
+          "away": "Portugal",
+          "ph": 1,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-28 01:30",
+          "pct": 29,
+          "isTopPick": true,
+          "sameCount": 5,
+          "gameScorers": null
+        },
+        {
+          "group": "K",
+          "home": "Congo DR",
+          "away": "Uzbekistan",
+          "ph": 0,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-28 01:30",
+          "pct": 12,
+          "isTopPick": false,
+          "sameCount": 2,
+          "gameScorers": null
+        },
+        {
+          "group": "L",
+          "home": "England",
+          "away": "Croatia",
+          "ph": 3,
+          "pa": 1,
+          "played": true,
+          "hg": 4,
+          "ag": 2,
+          "pts": 1,
+          "kickoff": "2026-06-17 22:00",
+          "pct": 6,
+          "isTopPick": false,
+          "sameCount": 1,
+          "gameScorers": 16
+        },
+        {
+          "group": "L",
+          "home": "Ghana",
+          "away": "Panama",
+          "ph": 2,
+          "pa": 0,
+          "played": true,
+          "hg": 1,
+          "ag": 0,
+          "pts": 1,
+          "kickoff": "2026-06-18 01:00",
+          "pct": 35,
+          "isTopPick": true,
+          "sameCount": 6,
+          "gameScorers": 14
+        },
+        {
+          "group": "L",
+          "home": "England",
+          "away": "Ghana",
+          "ph": 3,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-23 22:00",
+          "pct": 18,
+          "isTopPick": false,
+          "sameCount": 3,
+          "gameScorers": null
+        },
+        {
+          "group": "L",
+          "home": "Panama",
+          "away": "Croatia",
+          "ph": 0,
+          "pa": 2,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-24 01:00",
+          "pct": 53,
+          "isTopPick": true,
+          "sameCount": 9,
+          "gameScorers": null
+        },
+        {
+          "group": "L",
+          "home": "Panama",
+          "away": "England",
+          "ph": 1,
+          "pa": 6,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-27 23:00",
+          "pct": 6,
+          "isTopPick": false,
+          "sameCount": 1,
+          "gameScorers": null
+        },
+        {
+          "group": "L",
+          "home": "Croatia",
+          "away": "Ghana",
+          "ph": 1,
+          "pa": 1,
+          "played": false,
+          "hg": null,
+          "ag": null,
+          "pts": null,
+          "kickoff": "2026-06-27 23:00",
+          "pct": 12,
+          "isTopPick": false,
+          "sameCount": 2,
+          "gameScorers": null
+        }
+      ],
+      "gw": [
+        {
+          "group": "A",
+          "team": "Mexico",
+          "correct": null
+        },
+        {
+          "group": "B",
+          "team": "Canada",
+          "correct": null
+        },
+        {
+          "group": "C",
+          "team": "Brazil",
+          "correct": null
+        },
+        {
+          "group": "D",
+          "team": "USA",
+          "correct": null
+        },
+        {
+          "group": "E",
+          "team": "Germany",
+          "correct": null
+        },
+        {
+          "group": "F",
+          "team": "Netherlands",
+          "correct": null
+        },
+        {
+          "group": "G",
+          "team": "Belgium",
+          "correct": null
+        },
+        {
+          "group": "H",
+          "team": "Spain",
+          "correct": null
+        },
+        {
+          "group": "I",
+          "team": "France",
+          "correct": null
+        },
+        {
+          "group": "J",
+          "team": "Argentina",
+          "correct": null
+        },
+        {
+          "group": "K",
+          "team": "Portugal",
+          "correct": null
+        },
+        {
+          "group": "L",
+          "team": "England",
+          "correct": null
+        }
+      ],
+      "bracket": {
+        "R32": [
+          {
+            "team": "Algeria",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Argentina",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Austria",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Belgium",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Brazil",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Canada",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Colombia",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Croatia",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Czechia",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Côte d'Ivoire",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Ecuador",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Egypt",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "England",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "France",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Germany",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Ghana",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Japan",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Korea Republic",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Mexico",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Morocco",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Netherlands",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Norway",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Paraguay",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Portugal",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Senegal",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Spain",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Sweden",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Switzerland",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Turkey",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "USA",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Uruguay",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Uzbekistan",
+            "hit": false,
+            "pts": 0
+          }
+        ],
+        "R16": [
+          {
+            "team": "Argentina",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Belgium",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Brazil",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Canada",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Colombia",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Croatia",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Ecuador",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "England",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "France",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Germany",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Netherlands",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Norway",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Spain",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Switzerland",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Turkey",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "USA",
+            "hit": false,
+            "pts": 0
+          }
+        ],
+        "QF": [
+          {
+            "team": "Argentina",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Belgium",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Brazil",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Croatia",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "England",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "France",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Netherlands",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Spain",
+            "hit": false,
+            "pts": 0
+          }
+        ],
+        "SF": [
+          {
+            "team": "Argentina",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Brazil",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "France",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Spain",
+            "hit": false,
+            "pts": 0
+          }
+        ],
+        "Final": [
+          {
+            "team": "Brazil",
+            "hit": false,
+            "pts": 0
+          },
+          {
+            "team": "Spain",
+            "hit": false,
+            "pts": 0
+          }
+        ],
+        "winner": {
+          "team": "Spain",
+          "hit": false,
+          "pts": 0
+        },
+        "third": {
+          "team": "France",
+          "hit": false,
+          "pts": 0
+        }
+      },
+      "bonusAns": [
+        {
+          "id": "B01",
+          "q": "Most goals scored, team (group stage only)",
+          "answer": "England",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B02",
+          "q": "Most goals conceded, team (group stage only)",
+          "answer": "Panama",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B03",
+          "q": "Total number of goals (all tournament)",
+          "answer": "268",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B04",
+          "q": "Golden Ball (Player of the tournament)",
+          "answer": "Lamine Yamal",
+          "hit": null,
+          "pts": 10
+        },
+        {
+          "id": "B05",
+          "q": "Golden Boot (Most goals, player)",
+          "answer": "Harry Kane",
+          "hit": null,
+          "pts": 10
+        },
+        {
+          "id": "B06",
+          "q": "Most yellow cards, team",
+          "answer": "Uruguay",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B07",
+          "q": "Fastest goal, minute",
+          "answer": "3",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B08",
+          "q": "Highest scoring single match (goals)",
+          "answer": "7",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B09",
+          "q": "Number of extra-time or penalty shoot-outs in knockout stage",
+          "answer": "8",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B10",
+          "q": "Final goes to extra time? (Yes/No)",
+          "answer": "No",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B11",
+          "q": "Host nation reaches R16? (Yes/No)",
+          "answer": "Yes",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B12",
+          "q": "First-timer reaches R32? (Yes/No)",
+          "answer": "Yes",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B13",
+          "q": "Most yellow cards, single match",
+          "answer": "8",
+          "hit": null,
+          "pts": 5
+        },
+        {
+          "id": "B15",
+          "q": "How far does Sweden go? (auto from bracket picks)",
+          "answer": "R32",
+          "hit": null,
+          "pts": 10
+        },
+        {
+          "id": "B16",
+          "q": "Sweden's top scorer (manual)",
+          "answer": "Viktor Gyökeres",
+          "hit": null,
+          "pts": 5
+        }
+      ]
+    },
+    "Eddie Williamson": {
+      "rank": 10,
+      "total": 28,
+      "group": 28,
+      "ko": 0,
+      "bonus": 0,
+      "pctMax": 0.2333,
+      "pointsToday": 1,
       "games": [
         {
           "group": "A",
@@ -15624,15 +18952,15 @@
           "away": "Iran",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 0,
+          "ag": 0,
+          "pts": 0,
           "kickoff": "2026-06-21 21:00",
           "pct": 24,
           "isTopPick": false,
           "sameCount": 4,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "G",
@@ -15640,15 +18968,15 @@
           "away": "Egypt",
           "ph": 1,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 3,
+          "pts": 0,
           "kickoff": "2026-06-22 03:00",
           "pct": 24,
           "isTopPick": false,
           "sameCount": 4,
-          "gameScorers": null
+          "gameScorers": 11
         },
         {
           "group": "G",
@@ -15720,15 +19048,15 @@
           "away": "Saudi Arabia",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 4,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-21 18:00",
           "pct": 53,
           "isTopPick": true,
           "sameCount": 9,
-          "gameScorers": null
+          "gameScorers": 17
         },
         {
           "group": "H",
@@ -15736,15 +19064,15 @@
           "away": "Cabo Verde",
           "ph": 1,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 2,
+          "ag": 2,
+          "pts": 0,
           "kickoff": "2026-06-22 00:00",
           "pct": 12,
           "isTopPick": false,
           "sameCount": 2,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "H",
@@ -16667,12 +19995,12 @@
     },
     "Love Hardeberg": {
       "rank": 10,
-      "total": 27,
-      "group": 27,
+      "total": 28,
+      "group": 28,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.25,
-      "pointsToday": 2,
+      "pctMax": 0.2333,
+      "pointsToday": 1,
       "games": [
         {
           "group": "A",
@@ -17288,15 +20616,15 @@
           "away": "Iran",
           "ph": 3,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 0,
+          "ag": 0,
+          "pts": 0,
           "kickoff": "2026-06-21 21:00",
           "pct": 29,
           "isTopPick": false,
           "sameCount": 5,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "G",
@@ -17304,15 +20632,15 @@
           "away": "Egypt",
           "ph": 1,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 3,
+          "pts": 0,
           "kickoff": "2026-06-22 03:00",
           "pct": 24,
           "isTopPick": false,
           "sameCount": 4,
-          "gameScorers": null
+          "gameScorers": 11
         },
         {
           "group": "G",
@@ -17384,15 +20712,15 @@
           "away": "Saudi Arabia",
           "ph": 3,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 4,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-21 18:00",
           "pct": 29,
           "isTopPick": false,
           "sameCount": 5,
-          "gameScorers": null
+          "gameScorers": 17
         },
         {
           "group": "H",
@@ -17400,15 +20728,15 @@
           "away": "Cabo Verde",
           "ph": 3,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 2,
+          "ag": 2,
+          "pts": 0,
           "kickoff": "2026-06-22 00:00",
           "pct": 18,
           "isTopPick": false,
           "sameCount": 3,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "H",
@@ -18329,1677 +21657,13 @@
         }
       ]
     },
-    "Andreas Panagos": {
-      "rank": 12,
-      "total": 26,
-      "group": 26,
-      "ko": 0,
-      "bonus": 0,
-      "pctMax": 0.2407,
-      "pointsToday": 2,
-      "games": [
-        {
-          "group": "A",
-          "home": "Mexico",
-          "away": "South Africa",
-          "ph": 3,
-          "pa": 0,
-          "played": true,
-          "hg": 2,
-          "ag": 0,
-          "pts": 1,
-          "kickoff": "2026-06-11 21:00",
-          "pct": 18,
-          "isTopPick": false,
-          "sameCount": 3,
-          "gameScorers": 17
-        },
-        {
-          "group": "A",
-          "home": "Korea Republic",
-          "away": "Czechia",
-          "ph": 3,
-          "pa": 1,
-          "played": true,
-          "hg": 2,
-          "ag": 1,
-          "pts": 1,
-          "kickoff": "2026-06-12 04:00",
-          "pct": 6,
-          "isTopPick": false,
-          "sameCount": 1,
-          "gameScorers": 6
-        },
-        {
-          "group": "A",
-          "home": "Czechia",
-          "away": "South Africa",
-          "ph": 1,
-          "pa": 0,
-          "played": true,
-          "hg": 1,
-          "ag": 1,
-          "pts": 0,
-          "kickoff": "2026-06-18 18:00",
-          "pct": 24,
-          "isTopPick": false,
-          "sameCount": 4,
-          "gameScorers": 3
-        },
-        {
-          "group": "A",
-          "home": "Mexico",
-          "away": "Korea Republic",
-          "ph": 1,
-          "pa": 1,
-          "played": true,
-          "hg": 1,
-          "ag": 0,
-          "pts": 0,
-          "kickoff": "2026-06-19 03:00",
-          "pct": 29,
-          "isTopPick": false,
-          "sameCount": 5,
-          "gameScorers": 11
-        },
-        {
-          "group": "A",
-          "home": "Czechia",
-          "away": "Mexico",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-25 03:00",
-          "pct": 18,
-          "isTopPick": false,
-          "sameCount": 3,
-          "gameScorers": null
-        },
-        {
-          "group": "A",
-          "home": "South Africa",
-          "away": "Korea Republic",
-          "ph": 0,
-          "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-25 03:00",
-          "pct": 6,
-          "isTopPick": false,
-          "sameCount": 1,
-          "gameScorers": null
-        },
-        {
-          "group": "B",
-          "home": "Canada",
-          "away": "Bosnia & Herzegovina",
-          "ph": 0,
-          "pa": 2,
-          "played": true,
-          "hg": 1,
-          "ag": 1,
-          "pts": 0,
-          "kickoff": "2026-06-12 21:00",
-          "pct": 12,
-          "isTopPick": false,
-          "sameCount": 2,
-          "gameScorers": 4
-        },
-        {
-          "group": "B",
-          "home": "Qatar",
-          "away": "Switzerland",
-          "ph": 0,
-          "pa": 1,
-          "played": true,
-          "hg": 1,
-          "ag": 1,
-          "pts": 0,
-          "kickoff": "2026-06-13 21:00",
-          "pct": 12,
-          "isTopPick": false,
-          "sameCount": 2,
-          "gameScorers": 0
-        },
-        {
-          "group": "B",
-          "home": "Switzerland",
-          "away": "Bosnia & Herzegovina",
-          "ph": 3,
-          "pa": 2,
-          "played": true,
-          "hg": 4,
-          "ag": 1,
-          "pts": 1,
-          "kickoff": "2026-06-18 21:00",
-          "pct": 6,
-          "isTopPick": false,
-          "sameCount": 1,
-          "gameScorers": 17
-        },
-        {
-          "group": "B",
-          "home": "Canada",
-          "away": "Qatar",
-          "ph": 2,
-          "pa": 1,
-          "played": true,
-          "hg": 6,
-          "ag": 0,
-          "pts": 1,
-          "kickoff": "2026-06-19 00:00",
-          "pct": 18,
-          "isTopPick": false,
-          "sameCount": 3,
-          "gameScorers": 16
-        },
-        {
-          "group": "B",
-          "home": "Switzerland",
-          "away": "Canada",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-24 21:00",
-          "pct": 35,
-          "isTopPick": true,
-          "sameCount": 6,
-          "gameScorers": null
-        },
-        {
-          "group": "B",
-          "home": "Bosnia & Herzegovina",
-          "away": "Qatar",
-          "ph": 1,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-24 21:00",
-          "pct": 12,
-          "isTopPick": false,
-          "sameCount": 2,
-          "gameScorers": null
-        },
-        {
-          "group": "C",
-          "home": "Brazil",
-          "away": "Morocco",
-          "ph": 4,
-          "pa": 2,
-          "played": true,
-          "hg": 1,
-          "ag": 1,
-          "pts": 0,
-          "kickoff": "2026-06-14 00:00",
-          "pct": 6,
-          "isTopPick": false,
-          "sameCount": 1,
-          "gameScorers": 3
-        },
-        {
-          "group": "C",
-          "home": "Haiti",
-          "away": "Scotland",
-          "ph": 0,
-          "pa": 1,
-          "played": true,
-          "hg": 0,
-          "ag": 1,
-          "pts": 3,
-          "kickoff": "2026-06-14 03:00",
-          "pct": 18,
-          "isTopPick": false,
-          "sameCount": 3,
-          "gameScorers": 16
-        },
-        {
-          "group": "C",
-          "home": "Scotland",
-          "away": "Morocco",
-          "ph": 1,
-          "pa": 3,
-          "played": true,
-          "hg": 0,
-          "ag": 1,
-          "pts": 1,
-          "kickoff": "2026-06-20 00:00",
-          "pct": 12,
-          "isTopPick": false,
-          "sameCount": 2,
-          "gameScorers": 13
-        },
-        {
-          "group": "C",
-          "home": "Brazil",
-          "away": "Haiti",
-          "ph": 5,
-          "pa": 0,
-          "played": true,
-          "hg": 3,
-          "ag": 0,
-          "pts": 1,
-          "kickoff": "2026-06-20 02:30",
-          "pct": 24,
-          "isTopPick": false,
-          "sameCount": 4,
-          "gameScorers": 17
-        },
-        {
-          "group": "C",
-          "home": "Scotland",
-          "away": "Brazil",
-          "ph": 1,
-          "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-25 00:00",
-          "pct": 12,
-          "isTopPick": false,
-          "sameCount": 2,
-          "gameScorers": null
-        },
-        {
-          "group": "C",
-          "home": "Morocco",
-          "away": "Haiti",
-          "ph": 3,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-25 00:00",
-          "pct": 35,
-          "isTopPick": false,
-          "sameCount": 6,
-          "gameScorers": null
-        },
-        {
-          "group": "D",
-          "home": "USA",
-          "away": "Paraguay",
-          "ph": 1,
-          "pa": 1,
-          "played": true,
-          "hg": 4,
-          "ag": 1,
-          "pts": 0,
-          "kickoff": "2026-06-13 03:00",
-          "pct": 12,
-          "isTopPick": false,
-          "sameCount": 2,
-          "gameScorers": 14
-        },
-        {
-          "group": "D",
-          "home": "Australia",
-          "away": "Turkey",
-          "ph": 0,
-          "pa": 4,
-          "played": true,
-          "hg": 2,
-          "ag": 0,
-          "pts": 0,
-          "kickoff": "2026-06-14 06:00",
-          "pct": 6,
-          "isTopPick": false,
-          "sameCount": 1,
-          "gameScorers": 1
-        },
-        {
-          "group": "D",
-          "home": "USA",
-          "away": "Australia",
-          "ph": 2,
-          "pa": 0,
-          "played": true,
-          "hg": 2,
-          "ag": 0,
-          "pts": 3,
-          "kickoff": "2026-06-19 21:00",
-          "pct": 24,
-          "isTopPick": false,
-          "sameCount": 4,
-          "gameScorers": 14
-        },
-        {
-          "group": "D",
-          "home": "Turkey",
-          "away": "Paraguay",
-          "ph": 3,
-          "pa": 1,
-          "played": true,
-          "hg": 0,
-          "ag": 1,
-          "pts": 0,
-          "kickoff": "2026-06-20 05:00",
-          "pct": 6,
-          "isTopPick": false,
-          "sameCount": 1,
-          "gameScorers": 1
-        },
-        {
-          "group": "D",
-          "home": "Turkey",
-          "away": "USA",
-          "ph": 1,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-26 04:00",
-          "pct": 6,
-          "isTopPick": false,
-          "sameCount": 1,
-          "gameScorers": null
-        },
-        {
-          "group": "D",
-          "home": "Paraguay",
-          "away": "Australia",
-          "ph": 2,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-26 04:00",
-          "pct": 12,
-          "isTopPick": false,
-          "sameCount": 2,
-          "gameScorers": null
-        },
-        {
-          "group": "E",
-          "home": "Germany",
-          "away": "Curaçao",
-          "ph": 4,
-          "pa": 0,
-          "played": true,
-          "hg": 7,
-          "ag": 1,
-          "pts": 1,
-          "kickoff": "2026-06-14 19:00",
-          "pct": 41,
-          "isTopPick": true,
-          "sameCount": 7,
-          "gameScorers": 17
-        },
-        {
-          "group": "E",
-          "home": "Côte d'Ivoire",
-          "away": "Ecuador",
-          "ph": 2,
-          "pa": 3,
-          "played": true,
-          "hg": 1,
-          "ag": 0,
-          "pts": 0,
-          "kickoff": "2026-06-15 01:00",
-          "pct": 6,
-          "isTopPick": false,
-          "sameCount": 1,
-          "gameScorers": 2
-        },
-        {
-          "group": "E",
-          "home": "Germany",
-          "away": "Côte d'Ivoire",
-          "ph": 2,
-          "pa": 0,
-          "played": true,
-          "hg": 2,
-          "ag": 1,
-          "pts": 1,
-          "kickoff": "2026-06-20 22:00",
-          "pct": 29,
-          "isTopPick": true,
-          "sameCount": 5,
-          "gameScorers": 15
-        },
-        {
-          "group": "E",
-          "home": "Ecuador",
-          "away": "Curaçao",
-          "ph": 3,
-          "pa": 0,
-          "played": true,
-          "hg": 0,
-          "ag": 0,
-          "pts": 0,
-          "kickoff": "2026-06-21 02:00",
-          "pct": 35,
-          "isTopPick": false,
-          "sameCount": 6,
-          "gameScorers": 0
-        },
-        {
-          "group": "E",
-          "home": "Curaçao",
-          "away": "Côte d'Ivoire",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-25 22:00",
-          "pct": 12,
-          "isTopPick": false,
-          "sameCount": 2,
-          "gameScorers": null
-        },
-        {
-          "group": "E",
-          "home": "Ecuador",
-          "away": "Germany",
-          "ph": 1,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-25 22:00",
-          "pct": 18,
-          "isTopPick": false,
-          "sameCount": 3,
-          "gameScorers": null
-        },
-        {
-          "group": "F",
-          "home": "Netherlands",
-          "away": "Japan",
-          "ph": 1,
-          "pa": 2,
-          "played": true,
-          "hg": 2,
-          "ag": 2,
-          "pts": 0,
-          "kickoff": "2026-06-14 22:00",
-          "pct": 6,
-          "isTopPick": false,
-          "sameCount": 1,
-          "gameScorers": 3
-        },
-        {
-          "group": "F",
-          "home": "Sweden",
-          "away": "Tunisia",
-          "ph": 1,
-          "pa": 0,
-          "played": true,
-          "hg": 5,
-          "ag": 1,
-          "pts": 1,
-          "kickoff": "2026-06-15 04:00",
-          "pct": 24,
-          "isTopPick": false,
-          "sameCount": 4,
-          "gameScorers": 16
-        },
-        {
-          "group": "F",
-          "home": "Netherlands",
-          "away": "Sweden",
-          "ph": 3,
-          "pa": 1,
-          "played": true,
-          "hg": 5,
-          "ag": 1,
-          "pts": 1,
-          "kickoff": "2026-06-20 19:00",
-          "pct": 18,
-          "isTopPick": false,
-          "sameCount": 3,
-          "gameScorers": 13
-        },
-        {
-          "group": "F",
-          "home": "Tunisia",
-          "away": "Japan",
-          "ph": 1,
-          "pa": 3,
-          "played": true,
-          "hg": 0,
-          "ag": 4,
-          "pts": 1,
-          "kickoff": "2026-06-21 06:00",
-          "pct": 12,
-          "isTopPick": false,
-          "sameCount": 2,
-          "gameScorers": 15
-        },
-        {
-          "group": "F",
-          "home": "Japan",
-          "away": "Sweden",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-26 01:00",
-          "pct": 29,
-          "isTopPick": false,
-          "sameCount": 5,
-          "gameScorers": null
-        },
-        {
-          "group": "F",
-          "home": "Tunisia",
-          "away": "Netherlands",
-          "ph": 0,
-          "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-26 01:00",
-          "pct": 53,
-          "isTopPick": true,
-          "sameCount": 9,
-          "gameScorers": null
-        },
-        {
-          "group": "G",
-          "home": "Belgium",
-          "away": "Egypt",
-          "ph": 2,
-          "pa": 0,
-          "played": true,
-          "hg": 1,
-          "ag": 1,
-          "pts": 0,
-          "kickoff": "2026-06-15 21:00",
-          "pct": 41,
-          "isTopPick": true,
-          "sameCount": 7,
-          "gameScorers": 0
-        },
-        {
-          "group": "G",
-          "home": "Iran",
-          "away": "New Zealand",
-          "ph": 0,
-          "pa": 1,
-          "played": true,
-          "hg": 2,
-          "ag": 2,
-          "pts": 0,
-          "kickoff": "2026-06-16 03:00",
-          "pct": 12,
-          "isTopPick": false,
-          "sameCount": 2,
-          "gameScorers": 2
-        },
-        {
-          "group": "G",
-          "home": "Belgium",
-          "away": "Iran",
-          "ph": 3,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-21 21:00",
-          "pct": 29,
-          "isTopPick": false,
-          "sameCount": 5,
-          "gameScorers": null
-        },
-        {
-          "group": "G",
-          "home": "New Zealand",
-          "away": "Egypt",
-          "ph": 0,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-22 03:00",
-          "pct": 35,
-          "isTopPick": true,
-          "sameCount": 6,
-          "gameScorers": null
-        },
-        {
-          "group": "G",
-          "home": "Egypt",
-          "away": "Iran",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-27 05:00",
-          "pct": 18,
-          "isTopPick": false,
-          "sameCount": 3,
-          "gameScorers": null
-        },
-        {
-          "group": "G",
-          "home": "New Zealand",
-          "away": "Belgium",
-          "ph": 0,
-          "pa": 4,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-27 05:00",
-          "pct": 12,
-          "isTopPick": false,
-          "sameCount": 2,
-          "gameScorers": null
-        },
-        {
-          "group": "H",
-          "home": "Spain",
-          "away": "Cabo Verde",
-          "ph": 4,
-          "pa": 1,
-          "played": true,
-          "hg": 0,
-          "ag": 0,
-          "pts": 0,
-          "kickoff": "2026-06-15 18:00",
-          "pct": 6,
-          "isTopPick": false,
-          "sameCount": 1,
-          "gameScorers": 0
-        },
-        {
-          "group": "H",
-          "home": "Saudi Arabia",
-          "away": "Uruguay",
-          "ph": 1,
-          "pa": 3,
-          "played": true,
-          "hg": 1,
-          "ag": 1,
-          "pts": 0,
-          "kickoff": "2026-06-16 00:00",
-          "pct": 6,
-          "isTopPick": false,
-          "sameCount": 1,
-          "gameScorers": 1
-        },
-        {
-          "group": "H",
-          "home": "Spain",
-          "away": "Saudi Arabia",
-          "ph": 3,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-21 18:00",
-          "pct": 29,
-          "isTopPick": false,
-          "sameCount": 5,
-          "gameScorers": null
-        },
-        {
-          "group": "H",
-          "home": "Uruguay",
-          "away": "Cabo Verde",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-22 00:00",
-          "pct": 47,
-          "isTopPick": true,
-          "sameCount": 8,
-          "gameScorers": null
-        },
-        {
-          "group": "H",
-          "home": "Cabo Verde",
-          "away": "Saudi Arabia",
-          "ph": 0,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-27 02:00",
-          "pct": 6,
-          "isTopPick": false,
-          "sameCount": 1,
-          "gameScorers": null
-        },
-        {
-          "group": "H",
-          "home": "Uruguay",
-          "away": "Spain",
-          "ph": 2,
-          "pa": 4,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-27 02:00",
-          "pct": 6,
-          "isTopPick": false,
-          "sameCount": 1,
-          "gameScorers": null
-        },
-        {
-          "group": "I",
-          "home": "France",
-          "away": "Senegal",
-          "ph": 3,
-          "pa": 0,
-          "played": true,
-          "hg": 3,
-          "ag": 1,
-          "pts": 1,
-          "kickoff": "2026-06-16 21:00",
-          "pct": 12,
-          "isTopPick": false,
-          "sameCount": 2,
-          "gameScorers": 15
-        },
-        {
-          "group": "I",
-          "home": "Iraq",
-          "away": "Norway",
-          "ph": 0,
-          "pa": 4,
-          "played": true,
-          "hg": 1,
-          "ag": 4,
-          "pts": 1,
-          "kickoff": "2026-06-17 00:00",
-          "pct": 18,
-          "isTopPick": false,
-          "sameCount": 3,
-          "gameScorers": 16
-        },
-        {
-          "group": "I",
-          "home": "France",
-          "away": "Iraq",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-22 23:00",
-          "pct": 18,
-          "isTopPick": false,
-          "sameCount": 3,
-          "gameScorers": null
-        },
-        {
-          "group": "I",
-          "home": "Norway",
-          "away": "Senegal",
-          "ph": 4,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-23 02:00",
-          "pct": 6,
-          "isTopPick": false,
-          "sameCount": 1,
-          "gameScorers": null
-        },
-        {
-          "group": "I",
-          "home": "Norway",
-          "away": "France",
-          "ph": 2,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-26 21:00",
-          "pct": 18,
-          "isTopPick": false,
-          "sameCount": 3,
-          "gameScorers": null
-        },
-        {
-          "group": "I",
-          "home": "Senegal",
-          "away": "Iraq",
-          "ph": 3,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-26 21:00",
-          "pct": 6,
-          "isTopPick": false,
-          "sameCount": 1,
-          "gameScorers": null
-        },
-        {
-          "group": "J",
-          "home": "Argentina",
-          "away": "Algeria",
-          "ph": 3,
-          "pa": 0,
-          "played": true,
-          "hg": 3,
-          "ag": 0,
-          "pts": 3,
-          "kickoff": "2026-06-17 03:00",
-          "pct": 24,
-          "isTopPick": false,
-          "sameCount": 4,
-          "gameScorers": 17
-        },
-        {
-          "group": "J",
-          "home": "Austria",
-          "away": "Jordan",
-          "ph": 2,
-          "pa": 0,
-          "played": true,
-          "hg": 3,
-          "ag": 1,
-          "pts": 1,
-          "kickoff": "2026-06-17 06:00",
-          "pct": 53,
-          "isTopPick": true,
-          "sameCount": 9,
-          "gameScorers": 17
-        },
-        {
-          "group": "J",
-          "home": "Argentina",
-          "away": "Austria",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-22 19:00",
-          "pct": 71,
-          "isTopPick": true,
-          "sameCount": 12,
-          "gameScorers": null
-        },
-        {
-          "group": "J",
-          "home": "Jordan",
-          "away": "Algeria",
-          "ph": 0,
-          "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-23 05:00",
-          "pct": 6,
-          "isTopPick": false,
-          "sameCount": 1,
-          "gameScorers": null
-        },
-        {
-          "group": "J",
-          "home": "Algeria",
-          "away": "Austria",
-          "ph": 0,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-28 04:00",
-          "pct": 6,
-          "isTopPick": false,
-          "sameCount": 1,
-          "gameScorers": null
-        },
-        {
-          "group": "J",
-          "home": "Jordan",
-          "away": "Argentina",
-          "ph": 0,
-          "pa": 4,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-28 04:00",
-          "pct": 18,
-          "isTopPick": false,
-          "sameCount": 3,
-          "gameScorers": null
-        },
-        {
-          "group": "K",
-          "home": "Portugal",
-          "away": "Congo DR",
-          "ph": 2,
-          "pa": 1,
-          "played": true,
-          "hg": 1,
-          "ag": 1,
-          "pts": 0,
-          "kickoff": "2026-06-17 19:00",
-          "pct": 6,
-          "isTopPick": false,
-          "sameCount": 1,
-          "gameScorers": 0
-        },
-        {
-          "group": "K",
-          "home": "Uzbekistan",
-          "away": "Colombia",
-          "ph": 0,
-          "pa": 3,
-          "played": true,
-          "hg": 1,
-          "ag": 3,
-          "pts": 1,
-          "kickoff": "2026-06-18 04:00",
-          "pct": 18,
-          "isTopPick": false,
-          "sameCount": 3,
-          "gameScorers": 16
-        },
-        {
-          "group": "K",
-          "home": "Portugal",
-          "away": "Uzbekistan",
-          "ph": 4,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-23 19:00",
-          "pct": 12,
-          "isTopPick": false,
-          "sameCount": 2,
-          "gameScorers": null
-        },
-        {
-          "group": "K",
-          "home": "Colombia",
-          "away": "Congo DR",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-24 04:00",
-          "pct": 35,
-          "isTopPick": true,
-          "sameCount": 6,
-          "gameScorers": null
-        },
-        {
-          "group": "K",
-          "home": "Colombia",
-          "away": "Portugal",
-          "ph": 1,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-28 01:30",
-          "pct": 29,
-          "isTopPick": true,
-          "sameCount": 5,
-          "gameScorers": null
-        },
-        {
-          "group": "K",
-          "home": "Congo DR",
-          "away": "Uzbekistan",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-28 01:30",
-          "pct": 18,
-          "isTopPick": false,
-          "sameCount": 3,
-          "gameScorers": null
-        },
-        {
-          "group": "L",
-          "home": "England",
-          "away": "Croatia",
-          "ph": 2,
-          "pa": 0,
-          "played": true,
-          "hg": 4,
-          "ag": 2,
-          "pts": 1,
-          "kickoff": "2026-06-17 22:00",
-          "pct": 24,
-          "isTopPick": false,
-          "sameCount": 4,
-          "gameScorers": 16
-        },
-        {
-          "group": "L",
-          "home": "Ghana",
-          "away": "Panama",
-          "ph": 2,
-          "pa": 0,
-          "played": true,
-          "hg": 1,
-          "ag": 0,
-          "pts": 1,
-          "kickoff": "2026-06-18 01:00",
-          "pct": 35,
-          "isTopPick": true,
-          "sameCount": 6,
-          "gameScorers": 14
-        },
-        {
-          "group": "L",
-          "home": "England",
-          "away": "Ghana",
-          "ph": 4,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-23 22:00",
-          "pct": 6,
-          "isTopPick": false,
-          "sameCount": 1,
-          "gameScorers": null
-        },
-        {
-          "group": "L",
-          "home": "Panama",
-          "away": "Croatia",
-          "ph": 0,
-          "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-24 01:00",
-          "pct": 12,
-          "isTopPick": false,
-          "sameCount": 2,
-          "gameScorers": null
-        },
-        {
-          "group": "L",
-          "home": "Panama",
-          "away": "England",
-          "ph": 0,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-27 23:00",
-          "pct": 12,
-          "isTopPick": false,
-          "sameCount": 2,
-          "gameScorers": null
-        },
-        {
-          "group": "L",
-          "home": "Croatia",
-          "away": "Ghana",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-27 23:00",
-          "pct": 29,
-          "isTopPick": true,
-          "sameCount": 5,
-          "gameScorers": null
-        }
-      ],
-      "gw": [
-        {
-          "group": "A",
-          "team": "Korea Republic",
-          "correct": null
-        },
-        {
-          "group": "B",
-          "team": "Switzerland",
-          "correct": null
-        },
-        {
-          "group": "C",
-          "team": "Brazil",
-          "correct": null
-        },
-        {
-          "group": "D",
-          "team": "Turkey",
-          "correct": null
-        },
-        {
-          "group": "E",
-          "team": "Germany",
-          "correct": null
-        },
-        {
-          "group": "F",
-          "team": "Japan",
-          "correct": null
-        },
-        {
-          "group": "G",
-          "team": "Belgium",
-          "correct": null
-        },
-        {
-          "group": "H",
-          "team": "Spain",
-          "correct": null
-        },
-        {
-          "group": "I",
-          "team": "Norway",
-          "correct": null
-        },
-        {
-          "group": "J",
-          "team": "Argentina",
-          "correct": null
-        },
-        {
-          "group": "K",
-          "team": "Portugal",
-          "correct": null
-        },
-        {
-          "group": "L",
-          "team": "England",
-          "correct": null
-        }
-      ],
-      "bracket": {
-        "R32": [
-          {
-            "team": "Algeria",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Argentina",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Austria",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Belgium",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Bosnia & Herzegovina",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Brazil",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Canada",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Colombia",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Congo DR",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Croatia",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Czechia",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Côte d'Ivoire",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Ecuador",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Egypt",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "England",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "France",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Germany",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Ghana",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Japan",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Korea Republic",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Mexico",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Morocco",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Netherlands",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Norway",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Portugal",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Scotland",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Spain",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Sweden",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Switzerland",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Turkey",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "USA",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Uruguay",
-            "hit": false,
-            "pts": 0
-          }
-        ],
-        "R16": [
-          {
-            "team": "Argentina",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Belgium",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Brazil",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Colombia",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Egypt",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "England",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "France",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Germany",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Japan",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Korea Republic",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Mexico",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Norway",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Portugal",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Spain",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Switzerland",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Turkey",
-            "hit": false,
-            "pts": 0
-          }
-        ],
-        "QF": [
-          {
-            "team": "Argentina",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Belgium",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "England",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "France",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Japan",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Norway",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Portugal",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Spain",
-            "hit": false,
-            "pts": 0
-          }
-        ],
-        "SF": [
-          {
-            "team": "Argentina",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "France",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Norway",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Spain",
-            "hit": false,
-            "pts": 0
-          }
-        ],
-        "Final": [
-          {
-            "team": "France",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Spain",
-            "hit": false,
-            "pts": 0
-          }
-        ],
-        "winner": {
-          "team": "France",
-          "hit": false,
-          "pts": 0
-        },
-        "third": {
-          "team": "Norway",
-          "hit": false,
-          "pts": 0
-        }
-      },
-      "bonusAns": [
-        {
-          "id": "B01",
-          "q": "Most goals scored, team (group stage only)",
-          "answer": "Brazil",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B02",
-          "q": "Most goals conceded, team (group stage only)",
-          "answer": "Haiti",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B03",
-          "q": "Total number of goals (all tournament)",
-          "answer": "303",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B04",
-          "q": "Golden Ball (Player of the tournament)",
-          "answer": "Kylian Mbappé",
-          "hit": null,
-          "pts": 10
-        },
-        {
-          "id": "B05",
-          "q": "Golden Boot (Most goals, player)",
-          "answer": "Erling Haaland",
-          "hit": null,
-          "pts": 10
-        },
-        {
-          "id": "B06",
-          "q": "Most yellow cards, team",
-          "answer": "Argentina",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B07",
-          "q": "Fastest goal, minute",
-          "answer": "2",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B08",
-          "q": "Highest scoring single match (goals)",
-          "answer": "6",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B09",
-          "q": "Number of extra-time or penalty shoot-outs in knockout stage",
-          "answer": "4",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B10",
-          "q": "Final goes to extra time? (Yes/No)",
-          "answer": "No",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B11",
-          "q": "Host nation reaches R16? (Yes/No)",
-          "answer": "Yes",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B12",
-          "q": "First-timer reaches R32? (Yes/No)",
-          "answer": "No",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B13",
-          "q": "Most yellow cards, single match",
-          "answer": "8",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B15",
-          "q": "How far does Sweden go? (auto from bracket picks)",
-          "answer": "R32",
-          "hit": null,
-          "pts": 10
-        },
-        {
-          "id": "B16",
-          "q": "Sweden's top scorer (manual)",
-          "answer": "Alexander Isak",
-          "hit": null,
-          "pts": 5
-        }
-      ]
-    },
     "Markus Ransved Nilsson": {
-      "rank": 12,
-      "total": 26,
-      "group": 26,
+      "rank": 10,
+      "total": 28,
+      "group": 28,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.2407,
+      "pctMax": 0.2333,
       "pointsToday": 2,
       "games": [
         {
@@ -20616,15 +22280,15 @@
           "away": "Iran",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 0,
+          "ag": 0,
+          "pts": 0,
           "kickoff": "2026-06-21 21:00",
           "pct": 24,
           "isTopPick": false,
           "sameCount": 4,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "G",
@@ -20632,15 +22296,15 @@
           "away": "Egypt",
           "ph": 0,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 3,
+          "pts": 1,
           "kickoff": "2026-06-22 03:00",
           "pct": 35,
           "isTopPick": true,
           "sameCount": 6,
-          "gameScorers": null
+          "gameScorers": 11
         },
         {
           "group": "G",
@@ -20712,15 +22376,15 @@
           "away": "Saudi Arabia",
           "ph": 3,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 4,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-21 18:00",
           "pct": 29,
           "isTopPick": false,
           "sameCount": 5,
-          "gameScorers": null
+          "gameScorers": 17
         },
         {
           "group": "H",
@@ -20728,15 +22392,15 @@
           "away": "Cabo Verde",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 2,
+          "ag": 2,
+          "pts": 0,
           "kickoff": "2026-06-22 00:00",
           "pct": 47,
           "isTopPick": true,
           "sameCount": 8,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "H",
@@ -21657,1678 +23321,14 @@
         }
       ]
     },
-    "Axel Dillner": {
-      "rank": 14,
-      "total": 24,
-      "group": 24,
-      "ko": 0,
-      "bonus": 0,
-      "pctMax": 0.2222,
-      "pointsToday": 1,
-      "games": [
-        {
-          "group": "A",
-          "home": "Mexico",
-          "away": "South Africa",
-          "ph": 3,
-          "pa": 0,
-          "played": true,
-          "hg": 2,
-          "ag": 0,
-          "pts": 1,
-          "kickoff": "2026-06-11 21:00",
-          "pct": 18,
-          "isTopPick": false,
-          "sameCount": 3,
-          "gameScorers": 17
-        },
-        {
-          "group": "A",
-          "home": "Korea Republic",
-          "away": "Czechia",
-          "ph": 1,
-          "pa": 1,
-          "played": true,
-          "hg": 2,
-          "ag": 1,
-          "pts": 0,
-          "kickoff": "2026-06-12 04:00",
-          "pct": 47,
-          "isTopPick": true,
-          "sameCount": 8,
-          "gameScorers": 6
-        },
-        {
-          "group": "A",
-          "home": "Czechia",
-          "away": "South Africa",
-          "ph": 2,
-          "pa": 0,
-          "played": true,
-          "hg": 1,
-          "ag": 1,
-          "pts": 0,
-          "kickoff": "2026-06-18 18:00",
-          "pct": 29,
-          "isTopPick": true,
-          "sameCount": 5,
-          "gameScorers": 3
-        },
-        {
-          "group": "A",
-          "home": "Mexico",
-          "away": "Korea Republic",
-          "ph": 1,
-          "pa": 1,
-          "played": true,
-          "hg": 1,
-          "ag": 0,
-          "pts": 0,
-          "kickoff": "2026-06-19 03:00",
-          "pct": 29,
-          "isTopPick": false,
-          "sameCount": 5,
-          "gameScorers": 11
-        },
-        {
-          "group": "A",
-          "home": "Czechia",
-          "away": "Mexico",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-25 03:00",
-          "pct": 18,
-          "isTopPick": false,
-          "sameCount": 3,
-          "gameScorers": null
-        },
-        {
-          "group": "A",
-          "home": "South Africa",
-          "away": "Korea Republic",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-25 03:00",
-          "pct": 24,
-          "isTopPick": false,
-          "sameCount": 4,
-          "gameScorers": null
-        },
-        {
-          "group": "B",
-          "home": "Canada",
-          "away": "Bosnia & Herzegovina",
-          "ph": 2,
-          "pa": 1,
-          "played": true,
-          "hg": 1,
-          "ag": 1,
-          "pts": 0,
-          "kickoff": "2026-06-12 21:00",
-          "pct": 24,
-          "isTopPick": true,
-          "sameCount": 4,
-          "gameScorers": 4
-        },
-        {
-          "group": "B",
-          "home": "Qatar",
-          "away": "Switzerland",
-          "ph": 0,
-          "pa": 2,
-          "played": true,
-          "hg": 1,
-          "ag": 1,
-          "pts": 0,
-          "kickoff": "2026-06-13 21:00",
-          "pct": 47,
-          "isTopPick": true,
-          "sameCount": 8,
-          "gameScorers": 0
-        },
-        {
-          "group": "B",
-          "home": "Switzerland",
-          "away": "Bosnia & Herzegovina",
-          "ph": 1,
-          "pa": 0,
-          "played": true,
-          "hg": 4,
-          "ag": 1,
-          "pts": 1,
-          "kickoff": "2026-06-18 21:00",
-          "pct": 18,
-          "isTopPick": false,
-          "sameCount": 3,
-          "gameScorers": 17
-        },
-        {
-          "group": "B",
-          "home": "Canada",
-          "away": "Qatar",
-          "ph": 3,
-          "pa": 0,
-          "played": true,
-          "hg": 6,
-          "ag": 0,
-          "pts": 1,
-          "kickoff": "2026-06-19 00:00",
-          "pct": 12,
-          "isTopPick": false,
-          "sameCount": 2,
-          "gameScorers": 16
-        },
-        {
-          "group": "B",
-          "home": "Switzerland",
-          "away": "Canada",
-          "ph": 1,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-24 21:00",
-          "pct": 35,
-          "isTopPick": true,
-          "sameCount": 6,
-          "gameScorers": null
-        },
-        {
-          "group": "B",
-          "home": "Bosnia & Herzegovina",
-          "away": "Qatar",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-24 21:00",
-          "pct": 29,
-          "isTopPick": true,
-          "sameCount": 5,
-          "gameScorers": null
-        },
-        {
-          "group": "C",
-          "home": "Brazil",
-          "away": "Morocco",
-          "ph": 1,
-          "pa": 1,
-          "played": true,
-          "hg": 1,
-          "ag": 1,
-          "pts": 3,
-          "kickoff": "2026-06-14 00:00",
-          "pct": 18,
-          "isTopPick": false,
-          "sameCount": 3,
-          "gameScorers": 3
-        },
-        {
-          "group": "C",
-          "home": "Haiti",
-          "away": "Scotland",
-          "ph": 0,
-          "pa": 1,
-          "played": true,
-          "hg": 0,
-          "ag": 1,
-          "pts": 3,
-          "kickoff": "2026-06-14 03:00",
-          "pct": 18,
-          "isTopPick": false,
-          "sameCount": 3,
-          "gameScorers": 16
-        },
-        {
-          "group": "C",
-          "home": "Scotland",
-          "away": "Morocco",
-          "ph": 0,
-          "pa": 2,
-          "played": true,
-          "hg": 0,
-          "ag": 1,
-          "pts": 1,
-          "kickoff": "2026-06-20 00:00",
-          "pct": 24,
-          "isTopPick": true,
-          "sameCount": 4,
-          "gameScorers": 13
-        },
-        {
-          "group": "C",
-          "home": "Brazil",
-          "away": "Haiti",
-          "ph": 4,
-          "pa": 0,
-          "played": true,
-          "hg": 3,
-          "ag": 0,
-          "pts": 1,
-          "kickoff": "2026-06-20 02:30",
-          "pct": 35,
-          "isTopPick": true,
-          "sameCount": 6,
-          "gameScorers": 17
-        },
-        {
-          "group": "C",
-          "home": "Scotland",
-          "away": "Brazil",
-          "ph": 0,
-          "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-25 00:00",
-          "pct": 6,
-          "isTopPick": false,
-          "sameCount": 1,
-          "gameScorers": null
-        },
-        {
-          "group": "C",
-          "home": "Morocco",
-          "away": "Haiti",
-          "ph": 3,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-25 00:00",
-          "pct": 35,
-          "isTopPick": false,
-          "sameCount": 6,
-          "gameScorers": null
-        },
-        {
-          "group": "D",
-          "home": "USA",
-          "away": "Paraguay",
-          "ph": 2,
-          "pa": 1,
-          "played": true,
-          "hg": 4,
-          "ag": 1,
-          "pts": 1,
-          "kickoff": "2026-06-13 03:00",
-          "pct": 24,
-          "isTopPick": false,
-          "sameCount": 4,
-          "gameScorers": 14
-        },
-        {
-          "group": "D",
-          "home": "Australia",
-          "away": "Turkey",
-          "ph": 1,
-          "pa": 2,
-          "played": true,
-          "hg": 2,
-          "ag": 0,
-          "pts": 0,
-          "kickoff": "2026-06-14 06:00",
-          "pct": 47,
-          "isTopPick": true,
-          "sameCount": 8,
-          "gameScorers": 1
-        },
-        {
-          "group": "D",
-          "home": "USA",
-          "away": "Australia",
-          "ph": 3,
-          "pa": 1,
-          "played": true,
-          "hg": 2,
-          "ag": 0,
-          "pts": 1,
-          "kickoff": "2026-06-19 21:00",
-          "pct": 6,
-          "isTopPick": false,
-          "sameCount": 1,
-          "gameScorers": 14
-        },
-        {
-          "group": "D",
-          "home": "Turkey",
-          "away": "Paraguay",
-          "ph": 1,
-          "pa": 1,
-          "played": true,
-          "hg": 0,
-          "ag": 1,
-          "pts": 0,
-          "kickoff": "2026-06-20 05:00",
-          "pct": 24,
-          "isTopPick": false,
-          "sameCount": 4,
-          "gameScorers": 1
-        },
-        {
-          "group": "D",
-          "home": "Turkey",
-          "away": "USA",
-          "ph": 1,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-26 04:00",
-          "pct": 29,
-          "isTopPick": false,
-          "sameCount": 5,
-          "gameScorers": null
-        },
-        {
-          "group": "D",
-          "home": "Paraguay",
-          "away": "Australia",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-26 04:00",
-          "pct": 18,
-          "isTopPick": false,
-          "sameCount": 3,
-          "gameScorers": null
-        },
-        {
-          "group": "E",
-          "home": "Germany",
-          "away": "Curaçao",
-          "ph": 4,
-          "pa": 0,
-          "played": true,
-          "hg": 7,
-          "ag": 1,
-          "pts": 1,
-          "kickoff": "2026-06-14 19:00",
-          "pct": 41,
-          "isTopPick": true,
-          "sameCount": 7,
-          "gameScorers": 17
-        },
-        {
-          "group": "E",
-          "home": "Côte d'Ivoire",
-          "away": "Ecuador",
-          "ph": 1,
-          "pa": 1,
-          "played": true,
-          "hg": 1,
-          "ag": 0,
-          "pts": 0,
-          "kickoff": "2026-06-15 01:00",
-          "pct": 41,
-          "isTopPick": true,
-          "sameCount": 7,
-          "gameScorers": 2
-        },
-        {
-          "group": "E",
-          "home": "Germany",
-          "away": "Côte d'Ivoire",
-          "ph": 1,
-          "pa": 1,
-          "played": true,
-          "hg": 2,
-          "ag": 1,
-          "pts": 0,
-          "kickoff": "2026-06-20 22:00",
-          "pct": 12,
-          "isTopPick": false,
-          "sameCount": 2,
-          "gameScorers": 15
-        },
-        {
-          "group": "E",
-          "home": "Ecuador",
-          "away": "Curaçao",
-          "ph": 2,
-          "pa": 0,
-          "played": true,
-          "hg": 0,
-          "ag": 0,
-          "pts": 0,
-          "kickoff": "2026-06-21 02:00",
-          "pct": 65,
-          "isTopPick": true,
-          "sameCount": 11,
-          "gameScorers": 0
-        },
-        {
-          "group": "E",
-          "home": "Curaçao",
-          "away": "Côte d'Ivoire",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-25 22:00",
-          "pct": 47,
-          "isTopPick": true,
-          "sameCount": 8,
-          "gameScorers": null
-        },
-        {
-          "group": "E",
-          "home": "Ecuador",
-          "away": "Germany",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-25 22:00",
-          "pct": 12,
-          "isTopPick": false,
-          "sameCount": 2,
-          "gameScorers": null
-        },
-        {
-          "group": "F",
-          "home": "Netherlands",
-          "away": "Japan",
-          "ph": 1,
-          "pa": 1,
-          "played": true,
-          "hg": 2,
-          "ag": 2,
-          "pts": 1,
-          "kickoff": "2026-06-14 22:00",
-          "pct": 18,
-          "isTopPick": false,
-          "sameCount": 3,
-          "gameScorers": 3
-        },
-        {
-          "group": "F",
-          "home": "Sweden",
-          "away": "Tunisia",
-          "ph": 2,
-          "pa": 0,
-          "played": true,
-          "hg": 5,
-          "ag": 1,
-          "pts": 1,
-          "kickoff": "2026-06-15 04:00",
-          "pct": 29,
-          "isTopPick": true,
-          "sameCount": 5,
-          "gameScorers": 16
-        },
-        {
-          "group": "F",
-          "home": "Netherlands",
-          "away": "Sweden",
-          "ph": 2,
-          "pa": 0,
-          "played": true,
-          "hg": 5,
-          "ag": 1,
-          "pts": 1,
-          "kickoff": "2026-06-20 19:00",
-          "pct": 18,
-          "isTopPick": false,
-          "sameCount": 3,
-          "gameScorers": 13
-        },
-        {
-          "group": "F",
-          "home": "Tunisia",
-          "away": "Japan",
-          "ph": 0,
-          "pa": 1,
-          "played": true,
-          "hg": 0,
-          "ag": 4,
-          "pts": 1,
-          "kickoff": "2026-06-21 06:00",
-          "pct": 29,
-          "isTopPick": true,
-          "sameCount": 5,
-          "gameScorers": 15
-        },
-        {
-          "group": "F",
-          "home": "Japan",
-          "away": "Sweden",
-          "ph": 1,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-26 01:00",
-          "pct": 29,
-          "isTopPick": false,
-          "sameCount": 5,
-          "gameScorers": null
-        },
-        {
-          "group": "F",
-          "home": "Tunisia",
-          "away": "Netherlands",
-          "ph": 0,
-          "pa": 3,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-26 01:00",
-          "pct": 53,
-          "isTopPick": true,
-          "sameCount": 9,
-          "gameScorers": null
-        },
-        {
-          "group": "G",
-          "home": "Belgium",
-          "away": "Egypt",
-          "ph": 2,
-          "pa": 1,
-          "played": true,
-          "hg": 1,
-          "ag": 1,
-          "pts": 0,
-          "kickoff": "2026-06-15 21:00",
-          "pct": 29,
-          "isTopPick": false,
-          "sameCount": 5,
-          "gameScorers": 0
-        },
-        {
-          "group": "G",
-          "home": "Iran",
-          "away": "New Zealand",
-          "ph": 1,
-          "pa": 0,
-          "played": true,
-          "hg": 2,
-          "ag": 2,
-          "pts": 0,
-          "kickoff": "2026-06-16 03:00",
-          "pct": 47,
-          "isTopPick": true,
-          "sameCount": 8,
-          "gameScorers": 2
-        },
-        {
-          "group": "G",
-          "home": "Belgium",
-          "away": "Iran",
-          "ph": 3,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-21 21:00",
-          "pct": 29,
-          "isTopPick": false,
-          "sameCount": 5,
-          "gameScorers": null
-        },
-        {
-          "group": "G",
-          "home": "New Zealand",
-          "away": "Egypt",
-          "ph": 0,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-22 03:00",
-          "pct": 35,
-          "isTopPick": true,
-          "sameCount": 6,
-          "gameScorers": null
-        },
-        {
-          "group": "G",
-          "home": "Egypt",
-          "away": "Iran",
-          "ph": 1,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-27 05:00",
-          "pct": 41,
-          "isTopPick": true,
-          "sameCount": 7,
-          "gameScorers": null
-        },
-        {
-          "group": "G",
-          "home": "New Zealand",
-          "away": "Belgium",
-          "ph": 0,
-          "pa": 4,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-27 05:00",
-          "pct": 12,
-          "isTopPick": false,
-          "sameCount": 2,
-          "gameScorers": null
-        },
-        {
-          "group": "H",
-          "home": "Spain",
-          "away": "Cabo Verde",
-          "ph": 4,
-          "pa": 0,
-          "played": true,
-          "hg": 0,
-          "ag": 0,
-          "pts": 0,
-          "kickoff": "2026-06-15 18:00",
-          "pct": 29,
-          "isTopPick": false,
-          "sameCount": 5,
-          "gameScorers": 0
-        },
-        {
-          "group": "H",
-          "home": "Saudi Arabia",
-          "away": "Uruguay",
-          "ph": 0,
-          "pa": 2,
-          "played": true,
-          "hg": 1,
-          "ag": 1,
-          "pts": 0,
-          "kickoff": "2026-06-16 00:00",
-          "pct": 59,
-          "isTopPick": true,
-          "sameCount": 10,
-          "gameScorers": 1
-        },
-        {
-          "group": "H",
-          "home": "Spain",
-          "away": "Saudi Arabia",
-          "ph": 4,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-21 18:00",
-          "pct": 12,
-          "isTopPick": false,
-          "sameCount": 2,
-          "gameScorers": null
-        },
-        {
-          "group": "H",
-          "home": "Uruguay",
-          "away": "Cabo Verde",
-          "ph": 3,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-22 00:00",
-          "pct": 18,
-          "isTopPick": false,
-          "sameCount": 3,
-          "gameScorers": null
-        },
-        {
-          "group": "H",
-          "home": "Cabo Verde",
-          "away": "Saudi Arabia",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-27 02:00",
-          "pct": 12,
-          "isTopPick": false,
-          "sameCount": 2,
-          "gameScorers": null
-        },
-        {
-          "group": "H",
-          "home": "Uruguay",
-          "away": "Spain",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-27 02:00",
-          "pct": 53,
-          "isTopPick": true,
-          "sameCount": 9,
-          "gameScorers": null
-        },
-        {
-          "group": "I",
-          "home": "France",
-          "away": "Senegal",
-          "ph": 2,
-          "pa": 1,
-          "played": true,
-          "hg": 3,
-          "ag": 1,
-          "pts": 1,
-          "kickoff": "2026-06-16 21:00",
-          "pct": 41,
-          "isTopPick": true,
-          "sameCount": 7,
-          "gameScorers": 15
-        },
-        {
-          "group": "I",
-          "home": "Iraq",
-          "away": "Norway",
-          "ph": 0,
-          "pa": 3,
-          "played": true,
-          "hg": 1,
-          "ag": 4,
-          "pts": 1,
-          "kickoff": "2026-06-17 00:00",
-          "pct": 41,
-          "isTopPick": true,
-          "sameCount": 7,
-          "gameScorers": 16
-        },
-        {
-          "group": "I",
-          "home": "France",
-          "away": "Iraq",
-          "ph": 4,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-22 23:00",
-          "pct": 12,
-          "isTopPick": false,
-          "sameCount": 2,
-          "gameScorers": null
-        },
-        {
-          "group": "I",
-          "home": "Norway",
-          "away": "Senegal",
-          "ph": 2,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-23 02:00",
-          "pct": 12,
-          "isTopPick": false,
-          "sameCount": 2,
-          "gameScorers": null
-        },
-        {
-          "group": "I",
-          "home": "Norway",
-          "away": "France",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-26 21:00",
-          "pct": 35,
-          "isTopPick": true,
-          "sameCount": 6,
-          "gameScorers": null
-        },
-        {
-          "group": "I",
-          "home": "Senegal",
-          "away": "Iraq",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-26 21:00",
-          "pct": 53,
-          "isTopPick": true,
-          "sameCount": 9,
-          "gameScorers": null
-        },
-        {
-          "group": "J",
-          "home": "Argentina",
-          "away": "Algeria",
-          "ph": 2,
-          "pa": 0,
-          "played": true,
-          "hg": 3,
-          "ag": 0,
-          "pts": 1,
-          "kickoff": "2026-06-17 03:00",
-          "pct": 59,
-          "isTopPick": true,
-          "sameCount": 10,
-          "gameScorers": 17
-        },
-        {
-          "group": "J",
-          "home": "Austria",
-          "away": "Jordan",
-          "ph": 3,
-          "pa": 0,
-          "played": true,
-          "hg": 3,
-          "ag": 1,
-          "pts": 1,
-          "kickoff": "2026-06-17 06:00",
-          "pct": 12,
-          "isTopPick": false,
-          "sameCount": 2,
-          "gameScorers": 17
-        },
-        {
-          "group": "J",
-          "home": "Argentina",
-          "away": "Austria",
-          "ph": 2,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-22 19:00",
-          "pct": 71,
-          "isTopPick": true,
-          "sameCount": 12,
-          "gameScorers": null
-        },
-        {
-          "group": "J",
-          "home": "Jordan",
-          "away": "Algeria",
-          "ph": 1,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-23 05:00",
-          "pct": 18,
-          "isTopPick": false,
-          "sameCount": 3,
-          "gameScorers": null
-        },
-        {
-          "group": "J",
-          "home": "Algeria",
-          "away": "Austria",
-          "ph": 1,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-28 04:00",
-          "pct": 12,
-          "isTopPick": false,
-          "sameCount": 2,
-          "gameScorers": null
-        },
-        {
-          "group": "J",
-          "home": "Jordan",
-          "away": "Argentina",
-          "ph": 0,
-          "pa": 4,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-28 04:00",
-          "pct": 18,
-          "isTopPick": false,
-          "sameCount": 3,
-          "gameScorers": null
-        },
-        {
-          "group": "K",
-          "home": "Portugal",
-          "away": "Congo DR",
-          "ph": 3,
-          "pa": 0,
-          "played": true,
-          "hg": 1,
-          "ag": 1,
-          "pts": 0,
-          "kickoff": "2026-06-17 19:00",
-          "pct": 53,
-          "isTopPick": true,
-          "sameCount": 9,
-          "gameScorers": 0
-        },
-        {
-          "group": "K",
-          "home": "Uzbekistan",
-          "away": "Colombia",
-          "ph": 1,
-          "pa": 1,
-          "played": true,
-          "hg": 1,
-          "ag": 3,
-          "pts": 0,
-          "kickoff": "2026-06-18 04:00",
-          "pct": 6,
-          "isTopPick": false,
-          "sameCount": 1,
-          "gameScorers": 16
-        },
-        {
-          "group": "K",
-          "home": "Portugal",
-          "away": "Uzbekistan",
-          "ph": 2,
-          "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-23 19:00",
-          "pct": 47,
-          "isTopPick": true,
-          "sameCount": 8,
-          "gameScorers": null
-        },
-        {
-          "group": "K",
-          "home": "Colombia",
-          "away": "Congo DR",
-          "ph": 3,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-24 04:00",
-          "pct": 12,
-          "isTopPick": false,
-          "sameCount": 2,
-          "gameScorers": null
-        },
-        {
-          "group": "K",
-          "home": "Colombia",
-          "away": "Portugal",
-          "ph": 1,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-28 01:30",
-          "pct": 29,
-          "isTopPick": true,
-          "sameCount": 5,
-          "gameScorers": null
-        },
-        {
-          "group": "K",
-          "home": "Congo DR",
-          "away": "Uzbekistan",
-          "ph": 0,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-28 01:30",
-          "pct": 12,
-          "isTopPick": false,
-          "sameCount": 2,
-          "gameScorers": null
-        },
-        {
-          "group": "L",
-          "home": "England",
-          "away": "Croatia",
-          "ph": 3,
-          "pa": 1,
-          "played": true,
-          "hg": 4,
-          "ag": 2,
-          "pts": 1,
-          "kickoff": "2026-06-17 22:00",
-          "pct": 6,
-          "isTopPick": false,
-          "sameCount": 1,
-          "gameScorers": 16
-        },
-        {
-          "group": "L",
-          "home": "Ghana",
-          "away": "Panama",
-          "ph": 2,
-          "pa": 0,
-          "played": true,
-          "hg": 1,
-          "ag": 0,
-          "pts": 1,
-          "kickoff": "2026-06-18 01:00",
-          "pct": 35,
-          "isTopPick": true,
-          "sameCount": 6,
-          "gameScorers": 14
-        },
-        {
-          "group": "L",
-          "home": "England",
-          "away": "Ghana",
-          "ph": 3,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-23 22:00",
-          "pct": 18,
-          "isTopPick": false,
-          "sameCount": 3,
-          "gameScorers": null
-        },
-        {
-          "group": "L",
-          "home": "Panama",
-          "away": "Croatia",
-          "ph": 0,
-          "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-24 01:00",
-          "pct": 53,
-          "isTopPick": true,
-          "sameCount": 9,
-          "gameScorers": null
-        },
-        {
-          "group": "L",
-          "home": "Panama",
-          "away": "England",
-          "ph": 1,
-          "pa": 6,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-27 23:00",
-          "pct": 6,
-          "isTopPick": false,
-          "sameCount": 1,
-          "gameScorers": null
-        },
-        {
-          "group": "L",
-          "home": "Croatia",
-          "away": "Ghana",
-          "ph": 1,
-          "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
-          "kickoff": "2026-06-27 23:00",
-          "pct": 12,
-          "isTopPick": false,
-          "sameCount": 2,
-          "gameScorers": null
-        }
-      ],
-      "gw": [
-        {
-          "group": "A",
-          "team": "Mexico",
-          "correct": null
-        },
-        {
-          "group": "B",
-          "team": "Canada",
-          "correct": null
-        },
-        {
-          "group": "C",
-          "team": "Brazil",
-          "correct": null
-        },
-        {
-          "group": "D",
-          "team": "USA",
-          "correct": null
-        },
-        {
-          "group": "E",
-          "team": "Germany",
-          "correct": null
-        },
-        {
-          "group": "F",
-          "team": "Netherlands",
-          "correct": null
-        },
-        {
-          "group": "G",
-          "team": "Belgium",
-          "correct": null
-        },
-        {
-          "group": "H",
-          "team": "Spain",
-          "correct": null
-        },
-        {
-          "group": "I",
-          "team": "France",
-          "correct": null
-        },
-        {
-          "group": "J",
-          "team": "Argentina",
-          "correct": null
-        },
-        {
-          "group": "K",
-          "team": "Portugal",
-          "correct": null
-        },
-        {
-          "group": "L",
-          "team": "England",
-          "correct": null
-        }
-      ],
-      "bracket": {
-        "R32": [
-          {
-            "team": "Algeria",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Argentina",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Austria",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Belgium",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Brazil",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Canada",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Colombia",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Croatia",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Czechia",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Côte d'Ivoire",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Ecuador",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Egypt",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "England",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "France",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Germany",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Ghana",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Japan",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Korea Republic",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Mexico",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Morocco",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Netherlands",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Norway",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Paraguay",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Portugal",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Senegal",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Spain",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Sweden",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Switzerland",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Turkey",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "USA",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Uruguay",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Uzbekistan",
-            "hit": false,
-            "pts": 0
-          }
-        ],
-        "R16": [
-          {
-            "team": "Argentina",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Belgium",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Brazil",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Canada",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Colombia",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Croatia",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Ecuador",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "England",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "France",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Germany",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Netherlands",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Norway",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Spain",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Switzerland",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Turkey",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "USA",
-            "hit": false,
-            "pts": 0
-          }
-        ],
-        "QF": [
-          {
-            "team": "Argentina",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Belgium",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Brazil",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Croatia",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "England",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "France",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Netherlands",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Spain",
-            "hit": false,
-            "pts": 0
-          }
-        ],
-        "SF": [
-          {
-            "team": "Argentina",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Brazil",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "France",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Spain",
-            "hit": false,
-            "pts": 0
-          }
-        ],
-        "Final": [
-          {
-            "team": "Brazil",
-            "hit": false,
-            "pts": 0
-          },
-          {
-            "team": "Spain",
-            "hit": false,
-            "pts": 0
-          }
-        ],
-        "winner": {
-          "team": "Spain",
-          "hit": false,
-          "pts": 0
-        },
-        "third": {
-          "team": "France",
-          "hit": false,
-          "pts": 0
-        }
-      },
-      "bonusAns": [
-        {
-          "id": "B01",
-          "q": "Most goals scored, team (group stage only)",
-          "answer": "England",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B02",
-          "q": "Most goals conceded, team (group stage only)",
-          "answer": "Panama",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B03",
-          "q": "Total number of goals (all tournament)",
-          "answer": "268",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B04",
-          "q": "Golden Ball (Player of the tournament)",
-          "answer": "Lamine Yamal",
-          "hit": null,
-          "pts": 10
-        },
-        {
-          "id": "B05",
-          "q": "Golden Boot (Most goals, player)",
-          "answer": "Harry Kane",
-          "hit": null,
-          "pts": 10
-        },
-        {
-          "id": "B06",
-          "q": "Most yellow cards, team",
-          "answer": "Uruguay",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B07",
-          "q": "Fastest goal, minute",
-          "answer": "3",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B08",
-          "q": "Highest scoring single match (goals)",
-          "answer": "7",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B09",
-          "q": "Number of extra-time or penalty shoot-outs in knockout stage",
-          "answer": "8",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B10",
-          "q": "Final goes to extra time? (Yes/No)",
-          "answer": "No",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B11",
-          "q": "Host nation reaches R16? (Yes/No)",
-          "answer": "Yes",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B12",
-          "q": "First-timer reaches R32? (Yes/No)",
-          "answer": "Yes",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B13",
-          "q": "Most yellow cards, single match",
-          "answer": "8",
-          "hit": null,
-          "pts": 5
-        },
-        {
-          "id": "B15",
-          "q": "How far does Sweden go? (auto from bracket picks)",
-          "answer": "R32",
-          "hit": null,
-          "pts": 10
-        },
-        {
-          "id": "B16",
-          "q": "Sweden's top scorer (manual)",
-          "answer": "Viktor Gyökeres",
-          "hit": null,
-          "pts": 5
-        }
-      ]
-    },
     "Jonathan Segelman": {
       "rank": 15,
-      "total": 23,
-      "group": 23,
+      "total": 25,
+      "group": 25,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.213,
-      "pointsToday": 1,
+      "pctMax": 0.2083,
+      "pointsToday": 2,
       "games": [
         {
           "group": "A",
@@ -23944,15 +23944,15 @@
           "away": "Iran",
           "ph": 3,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 0,
+          "ag": 0,
+          "pts": 0,
           "kickoff": "2026-06-21 21:00",
           "pct": 6,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "G",
@@ -23960,15 +23960,15 @@
           "away": "Egypt",
           "ph": 1,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 3,
+          "pts": 1,
           "kickoff": "2026-06-22 03:00",
           "pct": 18,
           "isTopPick": false,
           "sameCount": 3,
-          "gameScorers": null
+          "gameScorers": 11
         },
         {
           "group": "G",
@@ -24040,15 +24040,15 @@
           "away": "Saudi Arabia",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 4,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-21 18:00",
           "pct": 53,
           "isTopPick": true,
           "sameCount": 9,
-          "gameScorers": null
+          "gameScorers": 17
         },
         {
           "group": "H",
@@ -24056,15 +24056,15 @@
           "away": "Cabo Verde",
           "ph": 2,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 2,
+          "ag": 2,
+          "pts": 0,
           "kickoff": "2026-06-22 00:00",
           "pct": 18,
           "isTopPick": false,
           "sameCount": 3,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "H",
@@ -24987,12 +24987,12 @@
     },
     "Kasper Oldmark": {
       "rank": 15,
-      "total": 23,
-      "group": 23,
+      "total": 25,
+      "group": 25,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.213,
-      "pointsToday": 4,
+      "pctMax": 0.2083,
+      "pointsToday": 2,
       "games": [
         {
           "group": "A",
@@ -25608,15 +25608,15 @@
           "away": "Iran",
           "ph": 2,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 0,
+          "ag": 0,
+          "pts": 0,
           "kickoff": "2026-06-21 21:00",
           "pct": 35,
           "isTopPick": true,
           "sameCount": 6,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "G",
@@ -25624,15 +25624,15 @@
           "away": "Egypt",
           "ph": 0,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 3,
+          "pts": 1,
           "kickoff": "2026-06-22 03:00",
           "pct": 35,
           "isTopPick": true,
           "sameCount": 6,
-          "gameScorers": null
+          "gameScorers": 11
         },
         {
           "group": "G",
@@ -25704,15 +25704,15 @@
           "away": "Saudi Arabia",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 4,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-21 18:00",
           "pct": 53,
           "isTopPick": true,
           "sameCount": 9,
-          "gameScorers": null
+          "gameScorers": 17
         },
         {
           "group": "H",
@@ -25720,15 +25720,15 @@
           "away": "Cabo Verde",
           "ph": 2,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 2,
+          "ag": 2,
+          "pts": 0,
           "kickoff": "2026-06-22 00:00",
           "pct": 47,
           "isTopPick": true,
           "sameCount": 8,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "H",
@@ -26651,12 +26651,12 @@
     },
     "Oscar Holmbergh": {
       "rank": 17,
-      "total": 20,
-      "group": 20,
+      "total": 22,
+      "group": 22,
       "ko": 0,
       "bonus": 0,
-      "pctMax": 0.1852,
-      "pointsToday": 3,
+      "pctMax": 0.1833,
+      "pointsToday": 2,
       "games": [
         {
           "group": "A",
@@ -27272,15 +27272,15 @@
           "away": "Iran",
           "ph": 3,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 0,
+          "ag": 0,
+          "pts": 0,
           "kickoff": "2026-06-21 21:00",
           "pct": 6,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "G",
@@ -27288,15 +27288,15 @@
           "away": "Egypt",
           "ph": 1,
           "pa": 2,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 1,
+          "ag": 3,
+          "pts": 1,
           "kickoff": "2026-06-22 03:00",
           "pct": 18,
           "isTopPick": false,
           "sameCount": 3,
-          "gameScorers": null
+          "gameScorers": 11
         },
         {
           "group": "G",
@@ -27368,15 +27368,15 @@
           "away": "Saudi Arabia",
           "ph": 1,
           "pa": 0,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 4,
+          "ag": 0,
+          "pts": 1,
           "kickoff": "2026-06-21 18:00",
           "pct": 6,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 17
         },
         {
           "group": "H",
@@ -27384,15 +27384,15 @@
           "away": "Cabo Verde",
           "ph": 5,
           "pa": 1,
-          "played": false,
-          "hg": null,
-          "ag": null,
-          "pts": null,
+          "played": true,
+          "hg": 2,
+          "ag": 2,
+          "pts": 0,
           "kickoff": "2026-06-22 00:00",
           "pct": 6,
           "isTopPick": false,
           "sameCount": 1,
-          "gameScorers": null
+          "gameScorers": 0
         },
         {
           "group": "H",
