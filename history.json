@@ -942,71 +942,71 @@
       "standings": {
         "Hjalmar Sörensen": {
           "rank": 1,
-          "total": 73
+          "total": 82
         },
         "Gustaf de la Motte": {
           "rank": 2,
-          "total": 67
+          "total": 76
         },
         "Lucas Johnson": {
           "rank": 3,
-          "total": 67
+          "total": 76
         },
         "Fabian Boberg": {
           "rank": 4,
-          "total": 66
+          "total": 75
         },
         "Jakob Hägglund": {
           "rank": 5,
-          "total": 61
+          "total": 70
         },
         "Calle Milebratt": {
           "rank": 6,
-          "total": 60
-        },
-        "Erik Rystedt": {
-          "rank": 7,
-          "total": 58
-        },
-        "Axel Dillner": {
-          "rank": 8,
-          "total": 57
+          "total": 69
         },
         "Eddie Williamson": {
-          "rank": 9,
-          "total": 57
+          "rank": 7,
+          "total": 66
         },
         "Love Hardeberg": {
-          "rank": 10,
-          "total": 57
-        },
-        "Andreas Panagos": {
-          "rank": 11,
-          "total": 56
+          "rank": 8,
+          "total": 66
         },
         "Harald Johansson": {
-          "rank": 12,
-          "total": 56
+          "rank": 9,
+          "total": 65
         },
         "Wilmer": {
+          "rank": 10,
+          "total": 65
+        },
+        "Erik Rystedt": {
+          "rank": 11,
+          "total": 64
+        },
+        "Axel Dillner": {
+          "rank": 12,
+          "total": 63
+        },
+        "Andreas Panagos": {
           "rank": 13,
-          "total": 56
+          "total": 62
         },
         "Markus Ransved Nilsson": {
           "rank": 14,
-          "total": 56
-        },
-        "Kasper Oldmark": {
-          "rank": 15,
-          "total": 52
+          "total": 62
         },
         "Jonathan Segelman": {
+          "rank": 15,
+          "total": 60
+        },
+        "Kasper Oldmark": {
           "rank": 16,
-          "total": 51
+          "total": 58
         },
         "Oscar Holmbergh": {
           "rank": 17,
-          "total": 48
+          "total": 57
         }
       }
     }
