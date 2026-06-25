@@ -1413,7 +1413,7 @@
             "Kasper Oldmark",
             "Jonathan Segelman"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "250–259",
@@ -1422,7 +1422,7 @@
           "players": [
             "Erik Rystedt"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "260–269",
@@ -1435,7 +1435,7 @@
             "Love Hardeberg",
             "Markus Ransved Nilsson"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "270–279",
@@ -1446,7 +1446,7 @@
             "Jakob Hägglund",
             "Harald Johansson"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "280–289",
@@ -1456,7 +1456,7 @@
             "Hjalmar Sörensen",
             "Wilmer"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "300–309",
@@ -1465,7 +1465,7 @@
           "players": [
             "Andreas Panagos"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "320–329",
@@ -1474,7 +1474,7 @@
           "players": [
             "Oscar Holmbergh"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     },
@@ -1793,7 +1793,7 @@
             "Harald Johansson",
             "Kasper Oldmark"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "4",
@@ -1806,7 +1806,7 @@
             "Erik Rystedt",
             "Jonathan Segelman"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "6",
@@ -1818,7 +1818,7 @@
             "Wilmer",
             "Markus Ransved Nilsson"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "7",
@@ -1828,7 +1828,7 @@
             "Axel Dillner",
             "Oscar Holmbergh"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     },
@@ -1849,7 +1849,7 @@
             "Eddie Williamson",
             "Markus Ransved Nilsson"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "0",
@@ -1859,7 +1859,7 @@
             "Hjalmar Sörensen",
             "Lucas Johnson"
           ],
-          "hit": null
+          "hit": true
         },
         {
           "answer": "1",
@@ -1869,7 +1869,7 @@
             "Kasper Oldmark",
             "Jonathan Segelman"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "6",
@@ -1879,7 +1879,7 @@
             "Harald Johansson",
             "Oscar Holmbergh"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "11",
@@ -1888,7 +1888,7 @@
           "players": [
             "Gustaf de la Motte"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "2",
@@ -1897,7 +1897,7 @@
           "players": [
             "Calle Milebratt"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "3",
@@ -1906,7 +1906,7 @@
           "players": [
             "Fabian Boberg"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "4",
@@ -1915,7 +1915,7 @@
           "players": [
             "Andreas Panagos"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "5",
@@ -1924,7 +1924,7 @@
           "players": [
             "Jakob Hägglund"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "7",
@@ -1933,7 +1933,7 @@
           "players": [
             "Love Hardeberg"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "9",
@@ -1942,7 +1942,7 @@
           "players": [
             "Wilmer"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     },
@@ -2017,7 +2017,7 @@
             "Jonathan Segelman",
             "Oscar Holmbergh"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "No",
@@ -2026,7 +2026,7 @@
           "players": [
             "Markus Ransved Nilsson"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     },
@@ -2058,7 +2058,7 @@
             "Kasper Oldmark",
             "Oscar Holmbergh"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "Yes",
@@ -2068,7 +2068,7 @@
             "Axel Dillner",
             "Jonathan Segelman"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     },
