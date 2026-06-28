@@ -26,6 +26,14 @@
       "awayPick": {
         "pct": 35,
         "count": 6
+      },
+      "homeReach": {
+        "pct": 0,
+        "count": 0
+      },
+      "awayReach": {
+        "pct": 100,
+        "count": 17
       }
     },
     {
@@ -47,6 +55,14 @@
       "awayPick": {
         "pct": 0,
         "count": 0
+      },
+      "homeReach": {
+        "pct": 100,
+        "count": 17
+      },
+      "awayReach": {
+        "pct": 47,
+        "count": 8
       }
     },
     {
@@ -68,6 +84,14 @@
       "awayPick": {
         "pct": 12,
         "count": 2
+      },
+      "homeReach": {
+        "pct": 100,
+        "count": 17
+      },
+      "awayReach": {
+        "pct": 100,
+        "count": 17
       }
     },
     {
@@ -89,6 +113,14 @@
       "awayPick": {
         "pct": 6,
         "count": 1
+      },
+      "homeReach": {
+        "pct": 100,
+        "count": 17
+      },
+      "awayReach": {
+        "pct": 88,
+        "count": 15
       }
     },
     {
@@ -110,6 +142,14 @@
       "awayPick": {
         "pct": 12,
         "count": 2
+      },
+      "homeReach": {
+        "pct": 100,
+        "count": 17
+      },
+      "awayReach": {
+        "pct": 100,
+        "count": 17
       }
     },
     {
@@ -131,6 +171,14 @@
       "awayPick": {
         "pct": 82,
         "count": 14
+      },
+      "homeReach": {
+        "pct": 88,
+        "count": 15
+      },
+      "awayReach": {
+        "pct": 94,
+        "count": 16
       }
     },
     {
@@ -152,6 +200,14 @@
       "awayPick": {
         "pct": 12,
         "count": 2
+      },
+      "homeReach": {
+        "pct": 100,
+        "count": 17
+      },
+      "awayReach": {
+        "pct": 100,
+        "count": 17
       }
     },
     {
@@ -173,6 +229,14 @@
       "awayPick": {
         "pct": 0,
         "count": 0
+      },
+      "homeReach": {
+        "pct": 100,
+        "count": 17
+      },
+      "awayReach": {
+        "pct": 18,
+        "count": 3
       }
     },
     {
@@ -194,6 +258,14 @@
       "awayPick": {
         "pct": 12,
         "count": 2
+      },
+      "homeReach": {
+        "pct": 94,
+        "count": 16
+      },
+      "awayReach": {
+        "pct": 82,
+        "count": 14
       }
     },
     {
@@ -215,6 +287,14 @@
       "awayPick": {
         "pct": 24,
         "count": 4
+      },
+      "homeReach": {
+        "pct": 100,
+        "count": 17
+      },
+      "awayReach": {
+        "pct": 88,
+        "count": 15
       }
     },
     {
@@ -236,6 +316,14 @@
       "awayPick": {
         "pct": 53,
         "count": 9
+      },
+      "homeReach": {
+        "pct": 100,
+        "count": 17
+      },
+      "awayReach": {
+        "pct": 100,
+        "count": 17
       }
     },
     {
@@ -257,6 +345,14 @@
       "awayPick": {
         "pct": 0,
         "count": 0
+      },
+      "homeReach": {
+        "pct": 100,
+        "count": 17
+      },
+      "awayReach": {
+        "pct": 100,
+        "count": 17
       }
     },
     {
@@ -278,6 +374,14 @@
       "awayPick": {
         "pct": 0,
         "count": 0
+      },
+      "homeReach": {
+        "pct": 100,
+        "count": 17
+      },
+      "awayReach": {
+        "pct": 59,
+        "count": 10
       }
     },
     {
@@ -299,6 +403,14 @@
       "awayPick": {
         "pct": 0,
         "count": 0
+      },
+      "homeReach": {
+        "pct": 100,
+        "count": 17
+      },
+      "awayReach": {
+        "pct": 6,
+        "count": 1
       }
     },
     {
@@ -320,6 +432,14 @@
       "awayPick": {
         "pct": 0,
         "count": 0
+      },
+      "homeReach": {
+        "pct": 100,
+        "count": 17
+      },
+      "awayReach": {
+        "pct": 71,
+        "count": 12
       }
     },
     {
@@ -341,6 +461,14 @@
       "awayPick": {
         "pct": 18,
         "count": 3
+      },
+      "homeReach": {
+        "pct": 24,
+        "count": 4
+      },
+      "awayReach": {
+        "pct": 76,
+        "count": 13
       }
     },
     {
@@ -359,7 +487,9 @@
       "ag": null,
       "winner": null,
       "homePick": null,
-      "awayPick": null
+      "awayPick": null,
+      "homeReach": null,
+      "awayReach": null
     },
     {
       "id": "M90",
@@ -377,7 +507,9 @@
       "ag": null,
       "winner": null,
       "homePick": null,
-      "awayPick": null
+      "awayPick": null,
+      "homeReach": null,
+      "awayReach": null
     },
     {
       "id": "M91",
@@ -395,7 +527,9 @@
       "ag": null,
       "winner": null,
       "homePick": null,
-      "awayPick": null
+      "awayPick": null,
+      "homeReach": null,
+      "awayReach": null
     },
     {
       "id": "M92",
@@ -413,7 +547,9 @@
       "ag": null,
       "winner": null,
       "homePick": null,
-      "awayPick": null
+      "awayPick": null,
+      "homeReach": null,
+      "awayReach": null
     },
     {
       "id": "M93",
@@ -431,7 +567,9 @@
       "ag": null,
       "winner": null,
       "homePick": null,
-      "awayPick": null
+      "awayPick": null,
+      "homeReach": null,
+      "awayReach": null
     },
     {
       "id": "M94",
@@ -449,7 +587,9 @@
       "ag": null,
       "winner": null,
       "homePick": null,
-      "awayPick": null
+      "awayPick": null,
+      "homeReach": null,
+      "awayReach": null
     },
     {
       "id": "M95",
@@ -467,7 +607,9 @@
       "ag": null,
       "winner": null,
       "homePick": null,
-      "awayPick": null
+      "awayPick": null,
+      "homeReach": null,
+      "awayReach": null
     },
     {
       "id": "M96",
@@ -485,7 +627,9 @@
       "ag": null,
       "winner": null,
       "homePick": null,
-      "awayPick": null
+      "awayPick": null,
+      "homeReach": null,
+      "awayReach": null
     },
     {
       "id": "M97",
@@ -503,7 +647,9 @@
       "ag": null,
       "winner": null,
       "homePick": null,
-      "awayPick": null
+      "awayPick": null,
+      "homeReach": null,
+      "awayReach": null
     },
     {
       "id": "M98",
@@ -521,7 +667,9 @@
       "ag": null,
       "winner": null,
       "homePick": null,
-      "awayPick": null
+      "awayPick": null,
+      "homeReach": null,
+      "awayReach": null
     },
     {
       "id": "M99",
@@ -539,7 +687,9 @@
       "ag": null,
       "winner": null,
       "homePick": null,
-      "awayPick": null
+      "awayPick": null,
+      "homeReach": null,
+      "awayReach": null
     },
     {
       "id": "M100",
@@ -557,7 +707,9 @@
       "ag": null,
       "winner": null,
       "homePick": null,
-      "awayPick": null
+      "awayPick": null,
+      "homeReach": null,
+      "awayReach": null
     },
     {
       "id": "M101",
@@ -575,7 +727,9 @@
       "ag": null,
       "winner": null,
       "homePick": null,
-      "awayPick": null
+      "awayPick": null,
+      "homeReach": null,
+      "awayReach": null
     },
     {
       "id": "M102",
@@ -593,7 +747,9 @@
       "ag": null,
       "winner": null,
       "homePick": null,
-      "awayPick": null
+      "awayPick": null,
+      "homeReach": null,
+      "awayReach": null
     },
     {
       "id": "M103",
@@ -611,7 +767,9 @@
       "ag": null,
       "winner": null,
       "homePick": null,
-      "awayPick": null
+      "awayPick": null,
+      "homeReach": null,
+      "awayReach": null
     },
     {
       "id": "M104",
@@ -629,7 +787,9 @@
       "ag": null,
       "winner": null,
       "homePick": null,
-      "awayPick": null
+      "awayPick": null,
+      "homeReach": null,
+      "awayReach": null
     }
   ]
 }
