@@ -1,27 +1,27 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-26 16:54",
+    "lastRefresh": "2026-06-28 20:34",
     "maxPoints": 729,
     "participants": 17
   },
   "players": [
-    "Hjalmar Sörensen",
     "Fabian Boberg",
-    "Lucas Johnson",
-    "Calle Milebratt",
+    "Hjalmar Sörensen",
     "Jakob Hägglund",
     "Gustaf de la Motte",
-    "Erik Rystedt",
-    "Wilmer",
     "Axel Dillner",
     "Harald Johansson",
+    "Lucas Johnson",
     "Eddie Williamson",
-    "Love Hardeberg",
-    "Kasper Oldmark",
+    "Erik Rystedt",
     "Jonathan Segelman",
+    "Love Hardeberg",
+    "Wilmer",
+    "Calle Milebratt",
     "Markus Ransved Nilsson",
+    "Oscar Holmbergh",
     "Andreas Panagos",
-    "Oscar Holmbergh"
+    "Kasper Oldmark"
   ],
   "groups": [
     {
@@ -34,21 +34,21 @@
           "count": 15,
           "pct": 88,
           "players": [
-            "Hjalmar Sörensen",
             "Fabian Boberg",
-            "Lucas Johnson",
-            "Calle Milebratt",
+            "Hjalmar Sörensen",
             "Jakob Hägglund",
             "Gustaf de la Motte",
-            "Erik Rystedt",
-            "Wilmer",
             "Axel Dillner",
             "Harald Johansson",
+            "Lucas Johnson",
             "Eddie Williamson",
-            "Love Hardeberg",
-            "Kasper Oldmark",
+            "Erik Rystedt",
             "Jonathan Segelman",
-            "Oscar Holmbergh"
+            "Love Hardeberg",
+            "Wilmer",
+            "Calle Milebratt",
+            "Oscar Holmbergh",
+            "Kasper Oldmark"
           ],
           "correct": true
         },
@@ -138,19 +138,19 @@
               "pct": 76,
               "pts": 3,
               "players": [
-                "Hjalmar Sörensen",
                 "Fabian Boberg",
-                "Lucas Johnson",
-                "Calle Milebratt",
+                "Hjalmar Sörensen",
                 "Jakob Hägglund",
                 "Gustaf de la Motte",
                 "Harald Johansson",
+                "Lucas Johnson",
                 "Eddie Williamson",
-                "Love Hardeberg",
-                "Kasper Oldmark",
                 "Jonathan Segelman",
+                "Love Hardeberg",
+                "Calle Milebratt",
                 "Markus Ransved Nilsson",
-                "Oscar Holmbergh"
+                "Oscar Holmbergh",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -159,8 +159,8 @@
               "pct": 18,
               "pts": 1,
               "players": [
-                "Wilmer",
                 "Axel Dillner",
+                "Wilmer",
                 "Andreas Panagos"
               ]
             },
@@ -193,13 +193,13 @@
               "pts": 0,
               "players": [
                 "Fabian Boberg",
-                "Lucas Johnson",
                 "Jakob Hägglund",
-                "Wilmer",
                 "Axel Dillner",
+                "Lucas Johnson",
                 "Eddie Williamson",
+                "Jonathan Segelman",
                 "Love Hardeberg",
-                "Jonathan Segelman"
+                "Wilmer"
               ]
             },
             {
@@ -209,9 +209,9 @@
               "pts": 3,
               "players": [
                 "Hjalmar Sörensen",
-                "Calle Milebratt",
+                "Harald Johansson",
                 "Erik Rystedt",
-                "Harald Johansson"
+                "Calle Milebratt"
               ]
             },
             {
@@ -278,10 +278,10 @@
               "pct": 29,
               "pts": 0,
               "players": [
-                "Calle Milebratt",
-                "Erik Rystedt",
                 "Axel Dillner",
                 "Eddie Williamson",
+                "Erik Rystedt",
+                "Calle Milebratt",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -293,8 +293,8 @@
               "players": [
                 "Harald Johansson",
                 "Love Hardeberg",
-                "Kasper Oldmark",
-                "Andreas Panagos"
+                "Andreas Panagos",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -304,8 +304,8 @@
               "pts": 0,
               "players": [
                 "Fabian Boberg",
-                "Lucas Johnson",
                 "Jakob Hägglund",
+                "Lucas Johnson",
                 "Wilmer"
               ]
             },
@@ -356,14 +356,14 @@
               "pct": 47,
               "pts": 1,
               "players": [
-                "Calle Milebratt",
                 "Jakob Hägglund",
                 "Gustaf de la Motte",
-                "Erik Rystedt",
-                "Wilmer",
                 "Harald Johansson",
-                "Kasper Oldmark",
-                "Jonathan Segelman"
+                "Erik Rystedt",
+                "Jonathan Segelman",
+                "Wilmer",
+                "Calle Milebratt",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -375,8 +375,8 @@
                 "Axel Dillner",
                 "Love Hardeberg",
                 "Markus Ransved Nilsson",
-                "Andreas Panagos",
-                "Oscar Holmbergh"
+                "Oscar Holmbergh",
+                "Andreas Panagos"
               ]
             },
             {
@@ -427,9 +427,9 @@
               "pts": 0,
               "players": [
                 "Jakob Hägglund",
-                "Wilmer",
                 "Harald Johansson",
                 "Eddie Williamson",
+                "Wilmer",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -440,9 +440,9 @@
               "pts": 1,
               "players": [
                 "Fabian Boberg",
-                "Calle Milebratt",
                 "Erik Rystedt",
-                "Love Hardeberg"
+                "Love Hardeberg",
+                "Calle Milebratt"
               ]
             },
             {
@@ -451,8 +451,8 @@
               "pct": 18,
               "pts": 1,
               "players": [
-                "Lucas Johnson",
                 "Gustaf de la Motte",
+                "Lucas Johnson",
                 "Kasper Oldmark"
               ]
             },
@@ -505,13 +505,13 @@
               "pts": 0,
               "players": [
                 "Hjalmar Sörensen",
-                "Lucas Johnson",
-                "Calle Milebratt",
                 "Jakob Hägglund",
                 "Harald Johansson",
+                "Lucas Johnson",
                 "Eddie Williamson",
-                "Kasper Oldmark",
-                "Oscar Holmbergh"
+                "Calle Milebratt",
+                "Oscar Holmbergh",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -521,8 +521,8 @@
               "pts": 0,
               "players": [
                 "Gustaf de la Motte",
-                "Love Hardeberg",
                 "Jonathan Segelman",
+                "Love Hardeberg",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -533,9 +533,9 @@
               "pts": 0,
               "players": [
                 "Fabian Boberg",
+                "Axel Dillner",
                 "Erik Rystedt",
-                "Wilmer",
-                "Axel Dillner"
+                "Wilmer"
               ]
             },
             {
@@ -562,20 +562,20 @@
           "count": 14,
           "pct": 82,
           "players": [
-            "Hjalmar Sörensen",
             "Fabian Boberg",
-            "Lucas Johnson",
-            "Calle Milebratt",
+            "Hjalmar Sörensen",
             "Jakob Hägglund",
             "Gustaf de la Motte",
-            "Wilmer",
             "Harald Johansson",
+            "Lucas Johnson",
             "Eddie Williamson",
-            "Love Hardeberg",
             "Jonathan Segelman",
+            "Love Hardeberg",
+            "Wilmer",
+            "Calle Milebratt",
             "Markus Ransved Nilsson",
-            "Andreas Panagos",
-            "Oscar Holmbergh"
+            "Oscar Holmbergh",
+            "Andreas Panagos"
           ],
           "correct": true
         },
@@ -584,8 +584,8 @@
           "count": 3,
           "pct": 18,
           "players": [
-            "Erik Rystedt",
             "Axel Dillner",
+            "Erik Rystedt",
             "Kasper Oldmark"
           ],
           "correct": false
@@ -671,9 +671,9 @@
               "pts": 0,
               "players": [
                 "Fabian Boberg",
-                "Calle Milebratt",
                 "Axel Dillner",
-                "Harald Johansson"
+                "Harald Johansson",
+                "Calle Milebratt"
               ]
             },
             {
@@ -682,8 +682,8 @@
               "pct": 18,
               "pts": 0,
               "players": [
-                "Lucas Johnson",
                 "Gustaf de la Motte",
+                "Lucas Johnson",
                 "Eddie Williamson"
               ]
             },
@@ -703,8 +703,8 @@
               "pct": 12,
               "pts": 0,
               "players": [
-                "Kasper Oldmark",
-                "Jonathan Segelman"
+                "Jonathan Segelman",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -745,13 +745,13 @@
               "pts": 0,
               "players": [
                 "Fabian Boberg",
-                "Calle Milebratt",
                 "Gustaf de la Motte",
-                "Erik Rystedt",
                 "Axel Dillner",
+                "Erik Rystedt",
+                "Jonathan Segelman",
                 "Love Hardeberg",
-                "Kasper Oldmark",
-                "Jonathan Segelman"
+                "Calle Milebratt",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -760,9 +760,9 @@
               "pct": 29,
               "pts": 0,
               "players": [
-                "Lucas Johnson",
                 "Jakob Hägglund",
                 "Harald Johansson",
+                "Lucas Johnson",
                 "Eddie Williamson",
                 "Markus Ransved Nilsson"
               ]
@@ -814,12 +814,12 @@
               "pct": 41,
               "pts": 1,
               "players": [
-                "Hjalmar Sörensen",
                 "Fabian Boberg",
-                "Calle Milebratt",
+                "Hjalmar Sörensen",
                 "Harald Johansson",
                 "Eddie Williamson",
                 "Jonathan Segelman",
+                "Calle Milebratt",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -831,8 +831,8 @@
               "players": [
                 "Lucas Johnson",
                 "Erik Rystedt",
-                "Wilmer",
                 "Love Hardeberg",
+                "Wilmer",
                 "Kasper Oldmark"
               ]
             },
@@ -885,11 +885,11 @@
               "pts": 1,
               "players": [
                 "Fabian Boberg",
-                "Lucas Johnson",
-                "Calle Milebratt",
                 "Jakob Hägglund",
                 "Gustaf de la Motte",
-                "Harald Johansson"
+                "Harald Johansson",
+                "Lucas Johnson",
+                "Calle Milebratt"
               ]
             },
             {
@@ -962,12 +962,12 @@
               "pct": 35,
               "pts": 0,
               "players": [
-                "Wilmer",
                 "Axel Dillner",
-                "Love Hardeberg",
-                "Kasper Oldmark",
                 "Jonathan Segelman",
-                "Oscar Holmbergh"
+                "Love Hardeberg",
+                "Wilmer",
+                "Oscar Holmbergh",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -977,10 +977,10 @@
               "pts": 3,
               "players": [
                 "Fabian Boberg",
-                "Calle Milebratt",
                 "Jakob Hägglund",
                 "Gustaf de la Motte",
                 "Eddie Williamson",
+                "Calle Milebratt",
                 "Andreas Panagos"
               ]
             },
@@ -990,8 +990,8 @@
               "pct": 12,
               "pts": 1,
               "players": [
-                "Lucas Johnson",
-                "Harald Johansson"
+                "Harald Johansson",
+                "Lucas Johnson"
               ]
             },
             {
@@ -1035,8 +1035,8 @@
                 "Jakob Hägglund",
                 "Harald Johansson",
                 "Eddie Williamson",
-                "Kasper Oldmark",
-                "Markus Ransved Nilsson"
+                "Markus Ransved Nilsson",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -1046,9 +1046,9 @@
               "pts": 1,
               "players": [
                 "Fabian Boberg",
+                "Axel Dillner",
                 "Lucas Johnson",
                 "Calle Milebratt",
-                "Axel Dillner",
                 "Oscar Holmbergh"
               ]
             },
@@ -1059,8 +1059,8 @@
               "pts": 1,
               "players": [
                 "Gustaf de la Motte",
-                "Wilmer",
-                "Love Hardeberg"
+                "Love Hardeberg",
+                "Wilmer"
               ]
             },
             {
@@ -1106,23 +1106,23 @@
           "count": 17,
           "pct": 100,
           "players": [
-            "Hjalmar Sörensen",
             "Fabian Boberg",
-            "Lucas Johnson",
-            "Calle Milebratt",
+            "Hjalmar Sörensen",
             "Jakob Hägglund",
             "Gustaf de la Motte",
-            "Erik Rystedt",
-            "Wilmer",
             "Axel Dillner",
             "Harald Johansson",
+            "Lucas Johnson",
             "Eddie Williamson",
-            "Love Hardeberg",
-            "Kasper Oldmark",
+            "Erik Rystedt",
             "Jonathan Segelman",
+            "Love Hardeberg",
+            "Wilmer",
+            "Calle Milebratt",
             "Markus Ransved Nilsson",
+            "Oscar Holmbergh",
             "Andreas Panagos",
-            "Oscar Holmbergh"
+            "Kasper Oldmark"
           ],
           "correct": true
         }
@@ -1194,12 +1194,12 @@
               "pct": 35,
               "pts": 0,
               "players": [
-                "Lucas Johnson",
                 "Jakob Hägglund",
                 "Harald Johansson",
-                "Kasper Oldmark",
+                "Lucas Johnson",
                 "Markus Ransved Nilsson",
-                "Oscar Holmbergh"
+                "Oscar Holmbergh",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -1208,9 +1208,9 @@
               "pct": 18,
               "pts": 3,
               "players": [
-                "Wilmer",
                 "Axel Dillner",
-                "Eddie Williamson"
+                "Eddie Williamson",
+                "Wilmer"
               ]
             },
             {
@@ -1281,12 +1281,12 @@
               "pts": 1,
               "players": [
                 "Fabian Boberg",
-                "Lucas Johnson",
                 "Jakob Hägglund",
                 "Gustaf de la Motte",
-                "Erik Rystedt",
                 "Harald Johansson",
+                "Lucas Johnson",
                 "Eddie Williamson",
+                "Erik Rystedt",
                 "Love Hardeberg",
                 "Kasper Oldmark"
               ]
@@ -1358,10 +1358,10 @@
               "pct": 24,
               "pts": 1,
               "players": [
-                "Wilmer",
                 "Axel Dillner",
-                "Kasper Oldmark",
-                "Oscar Holmbergh"
+                "Wilmer",
+                "Oscar Holmbergh",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -1383,8 +1383,8 @@
               "pts": 3,
               "players": [
                 "Lucas Johnson",
-                "Calle Milebratt",
-                "Erik Rystedt"
+                "Erik Rystedt",
+                "Calle Milebratt"
               ]
             },
             {
@@ -1437,11 +1437,11 @@
               "pts": 1,
               "players": [
                 "Hjalmar Sörensen",
-                "Calle Milebratt",
                 "Jakob Hägglund",
-                "Erik Rystedt",
                 "Axel Dillner",
-                "Harald Johansson"
+                "Harald Johansson",
+                "Erik Rystedt",
+                "Calle Milebratt"
               ]
             },
             {
@@ -1453,8 +1453,8 @@
                 "Fabian Boberg",
                 "Lucas Johnson",
                 "Eddie Williamson",
-                "Love Hardeberg",
-                "Jonathan Segelman"
+                "Jonathan Segelman",
+                "Love Hardeberg"
               ]
             },
             {
@@ -1465,8 +1465,8 @@
               "players": [
                 "Gustaf de la Motte",
                 "Markus Ransved Nilsson",
-                "Andreas Panagos",
-                "Oscar Holmbergh"
+                "Oscar Holmbergh",
+                "Andreas Panagos"
               ]
             },
             {
@@ -1506,14 +1506,14 @@
               "pct": 47,
               "pts": 1,
               "players": [
-                "Lucas Johnson",
-                "Calle Milebratt",
                 "Jakob Hägglund",
-                "Wilmer",
-                "Love Hardeberg",
-                "Kasper Oldmark",
+                "Lucas Johnson",
                 "Jonathan Segelman",
-                "Oscar Holmbergh"
+                "Love Hardeberg",
+                "Wilmer",
+                "Calle Milebratt",
+                "Oscar Holmbergh",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -1522,11 +1522,11 @@
               "pct": 35,
               "pts": 1,
               "players": [
-                "Hjalmar Sörensen",
                 "Fabian Boberg",
+                "Hjalmar Sörensen",
                 "Gustaf de la Motte",
-                "Erik Rystedt",
                 "Eddie Williamson",
+                "Erik Rystedt",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -1569,14 +1569,14 @@
               "pts": 1,
               "players": [
                 "Fabian Boberg",
-                "Calle Milebratt",
                 "Jakob Hägglund",
                 "Gustaf de la Motte",
-                "Erik Rystedt",
                 "Harald Johansson",
                 "Eddie Williamson",
+                "Erik Rystedt",
+                "Jonathan Segelman",
                 "Love Hardeberg",
-                "Jonathan Segelman"
+                "Calle Milebratt"
               ]
             },
             {
@@ -1585,12 +1585,12 @@
               "pct": 35,
               "pts": 1,
               "players": [
+                "Axel Dillner",
                 "Lucas Johnson",
                 "Wilmer",
-                "Axel Dillner",
-                "Kasper Oldmark",
                 "Markus Ransved Nilsson",
-                "Andreas Panagos"
+                "Andreas Panagos",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -1626,17 +1626,17 @@
           "count": 11,
           "pct": 65,
           "players": [
-            "Hjalmar Sörensen",
             "Fabian Boberg",
-            "Lucas Johnson",
-            "Calle Milebratt",
+            "Hjalmar Sörensen",
             "Gustaf de la Motte",
-            "Erik Rystedt",
-            "Wilmer",
             "Axel Dillner",
             "Harald Johansson",
-            "Kasper Oldmark",
-            "Jonathan Segelman"
+            "Lucas Johnson",
+            "Erik Rystedt",
+            "Jonathan Segelman",
+            "Wilmer",
+            "Calle Milebratt",
+            "Kasper Oldmark"
           ],
           "correct": true
         },
@@ -1731,11 +1731,11 @@
               "pts": 1,
               "players": [
                 "Fabian Boberg",
-                "Calle Milebratt",
                 "Gustaf de la Motte",
                 "Harald Johansson",
                 "Eddie Williamson",
                 "Love Hardeberg",
+                "Calle Milebratt",
                 "Kasper Oldmark"
               ]
             },
@@ -1746,9 +1746,9 @@
               "pts": 1,
               "players": [
                 "Hjalmar Sörensen",
+                "Axel Dillner",
                 "Erik Rystedt",
-                "Wilmer",
-                "Axel Dillner"
+                "Wilmer"
               ]
             },
             {
@@ -1757,8 +1757,8 @@
               "pct": 18,
               "pts": 1,
               "players": [
-                "Lucas Johnson",
                 "Jakob Hägglund",
+                "Lucas Johnson",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -1801,13 +1801,13 @@
               "pts": 0,
               "players": [
                 "Hjalmar Sörensen",
-                "Lucas Johnson",
-                "Erik Rystedt",
                 "Axel Dillner",
                 "Harald Johansson",
+                "Lucas Johnson",
                 "Eddie Williamson",
-                "Kasper Oldmark",
-                "Oscar Holmbergh"
+                "Erik Rystedt",
+                "Oscar Holmbergh",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -1886,11 +1886,11 @@
               "pct": 29,
               "pts": 1,
               "players": [
-                "Lucas Johnson",
-                "Calle Milebratt",
                 "Gustaf de la Motte",
                 "Harald Johansson",
-                "Jonathan Segelman"
+                "Lucas Johnson",
+                "Jonathan Segelman",
+                "Calle Milebratt"
               ]
             },
             {
@@ -1975,8 +1975,8 @@
                 "Hjalmar Sörensen",
                 "Jakob Hägglund",
                 "Harald Johansson",
-                "Love Hardeberg",
-                "Jonathan Segelman"
+                "Jonathan Segelman",
+                "Love Hardeberg"
               ]
             },
             {
@@ -1985,10 +1985,10 @@
               "pct": 24,
               "pts": 0,
               "players": [
-                "Erik Rystedt",
                 "Axel Dillner",
-                "Kasper Oldmark",
-                "Oscar Holmbergh"
+                "Erik Rystedt",
+                "Oscar Holmbergh",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -1998,9 +1998,9 @@
               "pts": 0,
               "players": [
                 "Fabian Boberg",
-                "Calle Milebratt",
                 "Gustaf de la Motte",
-                "Eddie Williamson"
+                "Eddie Williamson",
+                "Calle Milebratt"
               ]
             },
             {
@@ -2058,11 +2058,11 @@
               "pct": 35,
               "pts": 0,
               "players": [
-                "Hjalmar Sörensen",
                 "Fabian Boberg",
-                "Calle Milebratt",
+                "Hjalmar Sörensen",
                 "Gustaf de la Motte",
                 "Erik Rystedt",
+                "Calle Milebratt",
                 "Kasper Oldmark"
               ]
             },
@@ -2072,10 +2072,10 @@
               "pct": 29,
               "pts": 0,
               "players": [
-                "Lucas Johnson",
                 "Jakob Hägglund",
                 "Axel Dillner",
                 "Harald Johansson",
+                "Lucas Johnson",
                 "Love Hardeberg"
               ]
             },
@@ -2085,8 +2085,8 @@
               "pct": 12,
               "pts": 0,
               "players": [
-                "Wilmer",
-                "Jonathan Segelman"
+                "Jonathan Segelman",
+                "Wilmer"
               ]
             },
             {
@@ -2136,10 +2136,10 @@
               "pct": 29,
               "pts": 0,
               "players": [
-                "Lucas Johnson",
                 "Jakob Hägglund",
                 "Gustaf de la Motte",
                 "Harald Johansson",
+                "Lucas Johnson",
                 "Kasper Oldmark"
               ]
             },
@@ -2149,8 +2149,8 @@
               "pct": 18,
               "pts": 0,
               "players": [
-                "Erik Rystedt",
                 "Axel Dillner",
+                "Erik Rystedt",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -2234,23 +2234,23 @@
           "count": 17,
           "pct": 100,
           "players": [
-            "Hjalmar Sörensen",
             "Fabian Boberg",
-            "Lucas Johnson",
-            "Calle Milebratt",
+            "Hjalmar Sörensen",
             "Jakob Hägglund",
             "Gustaf de la Motte",
-            "Erik Rystedt",
-            "Wilmer",
             "Axel Dillner",
             "Harald Johansson",
+            "Lucas Johnson",
             "Eddie Williamson",
-            "Love Hardeberg",
-            "Kasper Oldmark",
+            "Erik Rystedt",
             "Jonathan Segelman",
+            "Love Hardeberg",
+            "Wilmer",
+            "Calle Milebratt",
             "Markus Ransved Nilsson",
+            "Oscar Holmbergh",
             "Andreas Panagos",
-            "Oscar Holmbergh"
+            "Kasper Oldmark"
           ],
           "correct": true
         }
@@ -2323,11 +2323,11 @@
               "pts": 1,
               "players": [
                 "Fabian Boberg",
-                "Erik Rystedt",
-                "Wilmer",
                 "Axel Dillner",
                 "Harald Johansson",
+                "Erik Rystedt",
                 "Jonathan Segelman",
+                "Wilmer",
                 "Andreas Panagos"
               ]
             },
@@ -2349,9 +2349,9 @@
               "pct": 18,
               "pts": 1,
               "players": [
+                "Gustaf de la Motte",
                 "Lucas Johnson",
-                "Calle Milebratt",
-                "Gustaf de la Motte"
+                "Calle Milebratt"
               ]
             },
             {
@@ -2393,12 +2393,12 @@
               "pts": 0,
               "players": [
                 "Jakob Hägglund",
-                "Erik Rystedt",
                 "Axel Dillner",
                 "Eddie Williamson",
-                "Kasper Oldmark",
+                "Erik Rystedt",
                 "Jonathan Segelman",
-                "Oscar Holmbergh"
+                "Oscar Holmbergh",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -2407,10 +2407,10 @@
               "pct": 24,
               "pts": 0,
               "players": [
-                "Lucas Johnson",
-                "Calle Milebratt",
                 "Gustaf de la Motte",
-                "Love Hardeberg"
+                "Lucas Johnson",
+                "Love Hardeberg",
+                "Calle Milebratt"
               ]
             },
             {
@@ -2478,10 +2478,10 @@
               "pct": 29,
               "pts": 1,
               "players": [
-                "Calle Milebratt",
-                "Erik Rystedt",
                 "Eddie Williamson",
+                "Erik Rystedt",
                 "Jonathan Segelman",
+                "Calle Milebratt",
                 "Andreas Panagos"
               ]
             },
@@ -2492,10 +2492,10 @@
               "pts": 3,
               "players": [
                 "Fabian Boberg",
-                "Lucas Johnson",
                 "Jakob Hägglund",
-                "Kasper Oldmark",
-                "Oscar Holmbergh"
+                "Lucas Johnson",
+                "Oscar Holmbergh",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -2515,8 +2515,8 @@
               "pct": 12,
               "pts": 0,
               "players": [
-                "Wilmer",
-                "Axel Dillner"
+                "Axel Dillner",
+                "Wilmer"
               ]
             },
             {
@@ -2548,17 +2548,17 @@
               "pct": 65,
               "pts": 0,
               "players": [
-                "Hjalmar Sörensen",
                 "Fabian Boberg",
-                "Calle Milebratt",
+                "Hjalmar Sörensen",
                 "Gustaf de la Motte",
-                "Erik Rystedt",
-                "Wilmer",
                 "Axel Dillner",
                 "Eddie Williamson",
+                "Erik Rystedt",
                 "Love Hardeberg",
-                "Kasper Oldmark",
-                "Markus Ransved Nilsson"
+                "Wilmer",
+                "Calle Milebratt",
+                "Markus Ransved Nilsson",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -2567,12 +2567,12 @@
               "pct": 35,
               "pts": 0,
               "players": [
-                "Lucas Johnson",
                 "Jakob Hägglund",
                 "Harald Johansson",
+                "Lucas Johnson",
                 "Jonathan Segelman",
-                "Andreas Panagos",
-                "Oscar Holmbergh"
+                "Oscar Holmbergh",
+                "Andreas Panagos"
               ]
             }
           ],
@@ -2595,13 +2595,13 @@
               "pts": 3,
               "players": [
                 "Fabian Boberg",
-                "Calle Milebratt",
                 "Jakob Hägglund",
-                "Erik Rystedt",
                 "Axel Dillner",
                 "Harald Johansson",
-                "Kasper Oldmark",
-                "Jonathan Segelman"
+                "Erik Rystedt",
+                "Jonathan Segelman",
+                "Calle Milebratt",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -2665,13 +2665,13 @@
               "pts": 0,
               "players": [
                 "Hjalmar Sörensen",
-                "Lucas Johnson",
-                "Calle Milebratt",
                 "Jakob Hägglund",
                 "Gustaf de la Motte",
-                "Erik Rystedt",
                 "Harald Johansson",
-                "Love Hardeberg"
+                "Lucas Johnson",
+                "Erik Rystedt",
+                "Love Hardeberg",
+                "Calle Milebratt"
               ]
             },
             {
@@ -2681,8 +2681,8 @@
               "pts": 0,
               "players": [
                 "Eddie Williamson",
-                "Kasper Oldmark",
-                "Andreas Panagos"
+                "Andreas Panagos",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -2746,22 +2746,22 @@
           "count": 16,
           "pct": 94,
           "players": [
-            "Hjalmar Sörensen",
             "Fabian Boberg",
-            "Lucas Johnson",
-            "Calle Milebratt",
+            "Hjalmar Sörensen",
             "Jakob Hägglund",
             "Gustaf de la Motte",
-            "Erik Rystedt",
-            "Wilmer",
             "Axel Dillner",
             "Harald Johansson",
+            "Lucas Johnson",
             "Eddie Williamson",
-            "Love Hardeberg",
-            "Kasper Oldmark",
+            "Erik Rystedt",
             "Jonathan Segelman",
+            "Love Hardeberg",
+            "Wilmer",
+            "Calle Milebratt",
             "Markus Ransved Nilsson",
-            "Oscar Holmbergh"
+            "Oscar Holmbergh",
+            "Kasper Oldmark"
           ],
           "correct": true
         },
@@ -2843,11 +2843,11 @@
               "pts": 0,
               "players": [
                 "Hjalmar Sörensen",
-                "Calle Milebratt",
                 "Gustaf de la Motte",
-                "Erik Rystedt",
                 "Harald Johansson",
-                "Eddie Williamson"
+                "Eddie Williamson",
+                "Erik Rystedt",
+                "Calle Milebratt"
               ]
             },
             {
@@ -2858,8 +2858,8 @@
               "players": [
                 "Fabian Boberg",
                 "Jakob Hägglund",
-                "Kasper Oldmark",
-                "Markus Ransved Nilsson"
+                "Markus Ransved Nilsson",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -2868,9 +2868,9 @@
               "pct": 18,
               "pts": 1,
               "players": [
-                "Wilmer",
                 "Axel Dillner",
-                "Love Hardeberg"
+                "Love Hardeberg",
+                "Wilmer"
               ]
             },
             {
@@ -2928,11 +2928,11 @@
               "pct": 29,
               "pts": 1,
               "players": [
-                "Calle Milebratt",
-                "Erik Rystedt",
                 "Axel Dillner",
-                "Kasper Oldmark",
-                "Jonathan Segelman"
+                "Erik Rystedt",
+                "Jonathan Segelman",
+                "Calle Milebratt",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -2956,8 +2956,8 @@
               "players": [
                 "Hjalmar Sörensen",
                 "Lucas Johnson",
-                "Andreas Panagos",
-                "Oscar Holmbergh"
+                "Oscar Holmbergh",
+                "Andreas Panagos"
               ]
             },
             {
@@ -2998,10 +2998,10 @@
               "pct": 29,
               "pts": 1,
               "players": [
-                "Lucas Johnson",
                 "Harald Johansson",
-                "Love Hardeberg",
+                "Lucas Johnson",
                 "Jonathan Segelman",
+                "Love Hardeberg",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -3011,8 +3011,8 @@
               "pct": 18,
               "pts": 0,
               "players": [
-                "Erik Rystedt",
                 "Eddie Williamson",
+                "Erik Rystedt",
                 "Kasper Oldmark"
               ]
             },
@@ -3022,9 +3022,9 @@
               "pct": 18,
               "pts": 1,
               "players": [
-                "Calle Milebratt",
+                "Axel Dillner",
                 "Wilmer",
-                "Axel Dillner"
+                "Calle Milebratt"
               ]
             },
             {
@@ -3034,8 +3034,8 @@
               "pts": 1,
               "players": [
                 "Fabian Boberg",
-                "Andreas Panagos",
-                "Oscar Holmbergh"
+                "Oscar Holmbergh",
+                "Andreas Panagos"
               ]
             },
             {
@@ -3098,8 +3098,8 @@
               "pts": 1,
               "players": [
                 "Fabian Boberg",
-                "Lucas Johnson",
                 "Harald Johansson",
+                "Lucas Johnson",
                 "Eddie Williamson"
               ]
             },
@@ -3109,8 +3109,8 @@
               "pct": 18,
               "pts": 1,
               "players": [
-                "Calle Milebratt",
                 "Erik Rystedt",
+                "Calle Milebratt",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -3171,10 +3171,10 @@
               "pts": 0,
               "players": [
                 "Hjalmar Sörensen",
-                "Wilmer",
                 "Harald Johansson",
-                "Love Hardeberg",
                 "Jonathan Segelman",
+                "Love Hardeberg",
+                "Wilmer",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -3185,10 +3185,10 @@
               "pts": 3,
               "players": [
                 "Jakob Hägglund",
-                "Erik Rystedt",
                 "Axel Dillner",
-                "Kasper Oldmark",
-                "Oscar Holmbergh"
+                "Erik Rystedt",
+                "Oscar Holmbergh",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -3198,9 +3198,9 @@
               "pts": 0,
               "players": [
                 "Fabian Boberg",
-                "Calle Milebratt",
                 "Gustaf de la Motte",
                 "Eddie Williamson",
+                "Calle Milebratt",
                 "Andreas Panagos"
               ]
             },
@@ -3234,13 +3234,13 @@
               "players": [
                 "Jakob Hägglund",
                 "Gustaf de la Motte",
-                "Erik Rystedt",
-                "Wilmer",
                 "Axel Dillner",
+                "Erik Rystedt",
                 "Love Hardeberg",
+                "Wilmer",
                 "Markus Ransved Nilsson",
-                "Andreas Panagos",
-                "Oscar Holmbergh"
+                "Oscar Holmbergh",
+                "Andreas Panagos"
               ]
             },
             {
@@ -3250,11 +3250,11 @@
               "pts": 1,
               "players": [
                 "Hjalmar Sörensen",
-                "Lucas Johnson",
-                "Calle Milebratt",
                 "Harald Johansson",
-                "Kasper Oldmark",
-                "Jonathan Segelman"
+                "Lucas Johnson",
+                "Jonathan Segelman",
+                "Calle Milebratt",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -3282,81 +3282,81 @@
     },
     {
       "group": "G",
-      "complete": false,
-      "actualWinner": null,
+      "complete": true,
+      "actualWinner": "Belgium",
       "winnerPicks": [
         {
           "team": "Belgium",
           "count": 17,
           "pct": 100,
           "players": [
-            "Hjalmar Sörensen",
             "Fabian Boberg",
-            "Lucas Johnson",
-            "Calle Milebratt",
+            "Hjalmar Sörensen",
             "Jakob Hägglund",
             "Gustaf de la Motte",
-            "Erik Rystedt",
-            "Wilmer",
             "Axel Dillner",
             "Harald Johansson",
+            "Lucas Johnson",
             "Eddie Williamson",
-            "Love Hardeberg",
-            "Kasper Oldmark",
+            "Erik Rystedt",
             "Jonathan Segelman",
+            "Love Hardeberg",
+            "Wilmer",
+            "Calle Milebratt",
             "Markus Ransved Nilsson",
+            "Oscar Holmbergh",
             "Andreas Panagos",
-            "Oscar Holmbergh"
+            "Kasper Oldmark"
           ],
-          "correct": null
+          "correct": true
         }
       ],
       "standings": [
         {
-          "team": "Egypt",
-          "P": 2,
+          "team": "Belgium",
+          "P": 3,
           "W": 1,
-          "D": 1,
+          "D": 2,
           "L": 0,
-          "GF": 4,
+          "GF": 6,
           "GA": 2,
-          "GD": 2,
-          "Pts": 4,
+          "GD": 4,
+          "Pts": 5,
           "pos": 1
         },
         {
-          "team": "Iran",
-          "P": 2,
-          "W": 0,
+          "team": "Egypt",
+          "P": 3,
+          "W": 1,
           "D": 2,
           "L": 0,
-          "GF": 2,
-          "GA": 2,
-          "GD": 0,
-          "Pts": 2,
+          "GF": 5,
+          "GA": 3,
+          "GD": 2,
+          "Pts": 5,
           "pos": 2
         },
         {
-          "team": "Belgium",
-          "P": 2,
+          "team": "Iran",
+          "P": 3,
           "W": 0,
-          "D": 2,
+          "D": 3,
           "L": 0,
-          "GF": 1,
-          "GA": 1,
+          "GF": 3,
+          "GA": 3,
           "GD": 0,
-          "Pts": 2,
+          "Pts": 3,
           "pos": 3
         },
         {
           "team": "New Zealand",
-          "P": 2,
+          "P": 3,
           "W": 0,
           "D": 1,
-          "L": 1,
-          "GF": 3,
-          "GA": 5,
-          "GD": -2,
+          "L": 2,
+          "GF": 4,
+          "GA": 10,
+          "GD": -6,
           "Pts": 1,
           "pos": 4
         }
@@ -3382,9 +3382,9 @@
                 "Jakob Hägglund",
                 "Gustaf de la Motte",
                 "Erik Rystedt",
-                "Kasper Oldmark",
                 "Jonathan Segelman",
-                "Andreas Panagos"
+                "Andreas Panagos",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -3394,9 +3394,9 @@
               "pts": 0,
               "players": [
                 "Fabian Boberg",
+                "Axel Dillner",
                 "Lucas Johnson",
                 "Calle Milebratt",
-                "Axel Dillner",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -3406,10 +3406,10 @@
               "pct": 29,
               "pts": 0,
               "players": [
-                "Wilmer",
                 "Harald Johansson",
                 "Eddie Williamson",
                 "Love Hardeberg",
+                "Wilmer",
                 "Oscar Holmbergh"
               ]
             }
@@ -3435,11 +3435,11 @@
                 "Fabian Boberg",
                 "Jakob Hägglund",
                 "Gustaf de la Motte",
-                "Erik Rystedt",
                 "Axel Dillner",
+                "Erik Rystedt",
+                "Jonathan Segelman",
                 "Love Hardeberg",
-                "Kasper Oldmark",
-                "Jonathan Segelman"
+                "Kasper Oldmark"
               ]
             },
             {
@@ -3448,8 +3448,8 @@
               "pct": 18,
               "pts": 0,
               "players": [
-                "Calle Milebratt",
                 "Wilmer",
+                "Calle Milebratt",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -3510,11 +3510,11 @@
               "pct": 35,
               "pts": 0,
               "players": [
-                "Lucas Johnson",
-                "Calle Milebratt",
                 "Gustaf de la Motte",
+                "Lucas Johnson",
                 "Erik Rystedt",
                 "Wilmer",
+                "Calle Milebratt",
                 "Kasper Oldmark"
               ]
             },
@@ -3583,9 +3583,9 @@
                 "Jakob Hägglund",
                 "Axel Dillner",
                 "Harald Johansson",
-                "Kasper Oldmark",
                 "Markus Ransved Nilsson",
-                "Andreas Panagos"
+                "Andreas Panagos",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -3595,8 +3595,8 @@
               "pts": 0,
               "players": [
                 "Gustaf de la Motte",
-                "Erik Rystedt",
                 "Eddie Williamson",
+                "Erik Rystedt",
                 "Love Hardeberg"
               ]
             },
@@ -3646,32 +3646,35 @@
           "kickoff": "2026-06-27 05:00",
           "home": "Egypt",
           "away": "Iran",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 1,
+            "ag": 1
+          },
           "scorelines": [
             {
               "score": "1–1",
               "count": 7,
               "pct": 41,
-              "pts": null,
+              "pts": 3,
               "players": [
-                "Erik Rystedt",
-                "Wilmer",
                 "Axel Dillner",
                 "Harald Johansson",
                 "Eddie Williamson",
-                "Kasper Oldmark",
-                "Jonathan Segelman"
+                "Erik Rystedt",
+                "Jonathan Segelman",
+                "Wilmer",
+                "Kasper Oldmark"
               ]
             },
             {
               "score": "1–0",
               "count": 4,
               "pct": 24,
-              "pts": null,
+              "pts": 0,
               "players": [
-                "Lucas Johnson",
                 "Gustaf de la Motte",
+                "Lucas Johnson",
                 "Love Hardeberg",
                 "Markus Ransved Nilsson"
               ]
@@ -3680,7 +3683,7 @@
               "score": "2–1",
               "count": 3,
               "pct": 18,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Fabian Boberg",
                 "Jakob Hägglund",
@@ -3691,7 +3694,7 @@
               "score": "1–2",
               "count": 2,
               "pct": 12,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Hjalmar Sörensen",
                 "Calle Milebratt"
@@ -3701,7 +3704,7 @@
               "score": "3–1",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Oscar Holmbergh"
               ]
@@ -3713,22 +3716,25 @@
           "kickoff": "2026-06-27 05:00",
           "home": "New Zealand",
           "away": "Belgium",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 1,
+            "ag": 5
+          },
           "scorelines": [
             {
               "score": "0–3",
               "count": 8,
               "pct": 47,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Fabian Boberg",
-                "Lucas Johnson",
                 "Jakob Hägglund",
                 "Gustaf de la Motte",
                 "Harald Johansson",
-                "Love Hardeberg",
+                "Lucas Johnson",
                 "Jonathan Segelman",
+                "Love Hardeberg",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -3736,10 +3742,10 @@
               "score": "0–2",
               "count": 3,
               "pct": 18,
-              "pts": null,
+              "pts": 1,
               "players": [
-                "Calle Milebratt",
                 "Erik Rystedt",
+                "Calle Milebratt",
                 "Kasper Oldmark"
               ]
             },
@@ -3747,7 +3753,7 @@
               "score": "0–4",
               "count": 2,
               "pct": 12,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Axel Dillner",
                 "Andreas Panagos"
@@ -3757,7 +3763,7 @@
               "score": "0–0",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Eddie Williamson"
               ]
@@ -3766,7 +3772,7 @@
               "score": "1–2",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Hjalmar Sörensen"
               ]
@@ -3775,7 +3781,7 @@
               "score": "1–3",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Wilmer"
               ]
@@ -3784,7 +3790,7 @@
               "score": "2–3",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Oscar Holmbergh"
               ]
@@ -3796,82 +3802,82 @@
     },
     {
       "group": "H",
-      "complete": false,
-      "actualWinner": null,
+      "complete": true,
+      "actualWinner": "Spain",
       "winnerPicks": [
         {
           "team": "Spain",
           "count": 17,
           "pct": 100,
           "players": [
-            "Hjalmar Sörensen",
             "Fabian Boberg",
-            "Lucas Johnson",
-            "Calle Milebratt",
+            "Hjalmar Sörensen",
             "Jakob Hägglund",
             "Gustaf de la Motte",
-            "Erik Rystedt",
-            "Wilmer",
             "Axel Dillner",
             "Harald Johansson",
+            "Lucas Johnson",
             "Eddie Williamson",
-            "Love Hardeberg",
-            "Kasper Oldmark",
+            "Erik Rystedt",
             "Jonathan Segelman",
+            "Love Hardeberg",
+            "Wilmer",
+            "Calle Milebratt",
             "Markus Ransved Nilsson",
+            "Oscar Holmbergh",
             "Andreas Panagos",
-            "Oscar Holmbergh"
+            "Kasper Oldmark"
           ],
-          "correct": null
+          "correct": true
         }
       ],
       "standings": [
         {
           "team": "Spain",
-          "P": 2,
-          "W": 1,
+          "P": 3,
+          "W": 2,
           "D": 1,
           "L": 0,
-          "GF": 4,
+          "GF": 5,
           "GA": 0,
-          "GD": 4,
-          "Pts": 4,
+          "GD": 5,
+          "Pts": 7,
           "pos": 1
         },
         {
-          "team": "Uruguay",
-          "P": 2,
-          "W": 0,
-          "D": 2,
-          "L": 0,
-          "GF": 3,
-          "GA": 3,
-          "GD": 0,
-          "Pts": 2,
-          "pos": 2
-        },
-        {
           "team": "Cabo Verde",
-          "P": 2,
+          "P": 3,
           "W": 0,
-          "D": 2,
+          "D": 3,
           "L": 0,
           "GF": 2,
           "GA": 2,
           "GD": 0,
+          "Pts": 3,
+          "pos": 2
+        },
+        {
+          "team": "Uruguay",
+          "P": 3,
+          "W": 0,
+          "D": 2,
+          "L": 1,
+          "GF": 3,
+          "GA": 4,
+          "GD": -1,
           "Pts": 2,
           "pos": 3
         },
         {
           "team": "Saudi Arabia",
-          "P": 2,
+          "P": 3,
           "W": 0,
-          "D": 1,
+          "D": 2,
           "L": 1,
           "GF": 1,
           "GA": 5,
           "GD": -4,
-          "Pts": 1,
+          "Pts": 2,
           "pos": 4
         }
       ],
@@ -3893,12 +3899,12 @@
               "pts": 0,
               "players": [
                 "Hjalmar Sörensen",
-                "Lucas Johnson",
-                "Calle Milebratt",
                 "Jakob Hägglund",
+                "Lucas Johnson",
                 "Erik Rystedt",
+                "Jonathan Segelman",
                 "Wilmer",
-                "Jonathan Segelman"
+                "Calle Milebratt"
               ]
             },
             {
@@ -3962,16 +3968,16 @@
               "pct": 59,
               "pts": 0,
               "players": [
-                "Hjalmar Sörensen",
                 "Fabian Boberg",
-                "Lucas Johnson",
-                "Calle Milebratt",
+                "Hjalmar Sörensen",
                 "Gustaf de la Motte",
-                "Erik Rystedt",
                 "Axel Dillner",
                 "Harald Johansson",
-                "Kasper Oldmark",
-                "Markus Ransved Nilsson"
+                "Lucas Johnson",
+                "Erik Rystedt",
+                "Calle Milebratt",
+                "Markus Ransved Nilsson",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -3980,8 +3986,8 @@
               "pct": 18,
               "pts": 0,
               "players": [
-                "Wilmer",
                 "Eddie Williamson",
+                "Wilmer",
                 "Oscar Holmbergh"
               ]
             },
@@ -4041,14 +4047,14 @@
               "pts": 1,
               "players": [
                 "Hjalmar Sörensen",
-                "Calle Milebratt",
                 "Jakob Hägglund",
-                "Erik Rystedt",
-                "Wilmer",
                 "Harald Johansson",
                 "Eddie Williamson",
-                "Kasper Oldmark",
-                "Jonathan Segelman"
+                "Erik Rystedt",
+                "Jonathan Segelman",
+                "Wilmer",
+                "Calle Milebratt",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -4103,13 +4109,13 @@
               "pts": 0,
               "players": [
                 "Fabian Boberg",
-                "Lucas Johnson",
-                "Calle Milebratt",
                 "Jakob Hägglund",
+                "Lucas Johnson",
                 "Erik Rystedt",
-                "Kasper Oldmark",
+                "Calle Milebratt",
                 "Markus Ransved Nilsson",
-                "Andreas Panagos"
+                "Andreas Panagos",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -4140,8 +4146,8 @@
               "pct": 12,
               "pts": 0,
               "players": [
-                "Wilmer",
-                "Eddie Williamson"
+                "Eddie Williamson",
+                "Wilmer"
               ]
             },
             {
@@ -4160,29 +4166,32 @@
           "kickoff": "2026-06-27 02:00",
           "home": "Cabo Verde",
           "away": "Saudi Arabia",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 0,
+            "ag": 0
+          },
           "scorelines": [
             {
               "score": "0–1",
               "count": 7,
               "pct": 41,
-              "pts": null,
+              "pts": 0,
               "players": [
-                "Lucas Johnson",
-                "Calle Milebratt",
                 "Jakob Hägglund",
                 "Harald Johansson",
+                "Lucas Johnson",
                 "Eddie Williamson",
-                "Kasper Oldmark",
-                "Markus Ransved Nilsson"
+                "Calle Milebratt",
+                "Markus Ransved Nilsson",
+                "Kasper Oldmark"
               ]
             },
             {
               "score": "1–1",
               "count": 4,
               "pct": 24,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Hjalmar Sörensen",
                 "Gustaf de la Motte",
@@ -4194,7 +4203,7 @@
               "score": "1–2",
               "count": 2,
               "pct": 12,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Fabian Boberg",
                 "Axel Dillner"
@@ -4204,7 +4213,7 @@
               "score": "0–0",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 3,
               "players": [
                 "Andreas Panagos"
               ]
@@ -4213,7 +4222,7 @@
               "score": "0–3",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Wilmer"
               ]
@@ -4222,7 +4231,7 @@
               "score": "1–0",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Jonathan Segelman"
               ]
@@ -4231,7 +4240,7 @@
               "score": "2–2",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Oscar Holmbergh"
               ]
@@ -4243,23 +4252,26 @@
           "kickoff": "2026-06-27 02:00",
           "home": "Uruguay",
           "away": "Spain",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 0,
+            "ag": 1
+          },
           "scorelines": [
             {
               "score": "1–2",
               "count": 9,
               "pct": 53,
-              "pts": null,
+              "pts": 1,
               "players": [
-                "Hjalmar Sörensen",
                 "Fabian Boberg",
-                "Lucas Johnson",
-                "Calle Milebratt",
+                "Hjalmar Sörensen",
                 "Jakob Hägglund",
-                "Wilmer",
                 "Axel Dillner",
+                "Lucas Johnson",
                 "Love Hardeberg",
+                "Wilmer",
+                "Calle Milebratt",
                 "Kasper Oldmark"
               ]
             },
@@ -4267,7 +4279,7 @@
               "score": "1–3",
               "count": 3,
               "pct": 18,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Gustaf de la Motte",
                 "Harald Johansson",
@@ -4278,7 +4290,7 @@
               "score": "0–0",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Oscar Holmbergh"
               ]
@@ -4287,7 +4299,7 @@
               "score": "0–2",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Jonathan Segelman"
               ]
@@ -4296,7 +4308,7 @@
               "score": "1–1",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Erik Rystedt"
               ]
@@ -4305,7 +4317,7 @@
               "score": "2–2",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Eddie Williamson"
               ]
@@ -4314,7 +4326,7 @@
               "score": "2–4",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Andreas Panagos"
               ]
@@ -4326,30 +4338,30 @@
     },
     {
       "group": "I",
-      "complete": false,
-      "actualWinner": null,
+      "complete": true,
+      "actualWinner": "France",
       "winnerPicks": [
         {
           "team": "France",
           "count": 14,
           "pct": 82,
           "players": [
-            "Hjalmar Sörensen",
             "Fabian Boberg",
-            "Lucas Johnson",
-            "Calle Milebratt",
+            "Hjalmar Sörensen",
             "Jakob Hägglund",
             "Gustaf de la Motte",
-            "Erik Rystedt",
             "Axel Dillner",
             "Harald Johansson",
+            "Lucas Johnson",
             "Eddie Williamson",
-            "Love Hardeberg",
+            "Erik Rystedt",
             "Jonathan Segelman",
+            "Love Hardeberg",
+            "Calle Milebratt",
             "Markus Ransved Nilsson",
             "Oscar Holmbergh"
           ],
-          "correct": null
+          "correct": true
         },
         {
           "team": "Norway",
@@ -4357,58 +4369,58 @@
           "pct": 18,
           "players": [
             "Wilmer",
-            "Kasper Oldmark",
-            "Andreas Panagos"
+            "Andreas Panagos",
+            "Kasper Oldmark"
           ],
-          "correct": null
+          "correct": false
         }
       ],
       "standings": [
         {
           "team": "France",
-          "P": 2,
-          "W": 2,
+          "P": 3,
+          "W": 3,
           "D": 0,
           "L": 0,
-          "GF": 6,
-          "GA": 1,
-          "GD": 5,
-          "Pts": 6,
+          "GF": 10,
+          "GA": 2,
+          "GD": 8,
+          "Pts": 9,
           "pos": 1
         },
         {
           "team": "Norway",
-          "P": 2,
+          "P": 3,
           "W": 2,
           "D": 0,
-          "L": 0,
-          "GF": 7,
-          "GA": 3,
-          "GD": 4,
+          "L": 1,
+          "GF": 8,
+          "GA": 7,
+          "GD": 1,
           "Pts": 6,
           "pos": 2
         },
         {
           "team": "Senegal",
-          "P": 2,
-          "W": 0,
+          "P": 3,
+          "W": 1,
           "D": 0,
           "L": 2,
-          "GF": 3,
+          "GF": 8,
           "GA": 6,
-          "GD": -3,
-          "Pts": 0,
+          "GD": 2,
+          "Pts": 3,
           "pos": 3
         },
         {
           "team": "Iraq",
-          "P": 2,
+          "P": 3,
           "W": 0,
           "D": 0,
-          "L": 2,
+          "L": 3,
           "GF": 1,
-          "GA": 7,
-          "GD": -6,
+          "GA": 12,
+          "GD": -11,
           "Pts": 0,
           "pos": 4
         }
@@ -4431,12 +4443,12 @@
               "pts": 1,
               "players": [
                 "Hjalmar Sörensen",
-                "Calle Milebratt",
                 "Jakob Hägglund",
                 "Axel Dillner",
                 "Eddie Williamson",
-                "Kasper Oldmark",
-                "Markus Ransved Nilsson"
+                "Calle Milebratt",
+                "Markus Ransved Nilsson",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -4447,8 +4459,8 @@
               "players": [
                 "Lucas Johnson",
                 "Erik Rystedt",
-                "Love Hardeberg",
-                "Jonathan Segelman"
+                "Jonathan Segelman",
+                "Love Hardeberg"
               ]
             },
             {
@@ -4509,10 +4521,10 @@
               "pts": 1,
               "players": [
                 "Hjalmar Sörensen",
-                "Lucas Johnson",
                 "Gustaf de la Motte",
                 "Axel Dillner",
                 "Harald Johansson",
+                "Lucas Johnson",
                 "Love Hardeberg",
                 "Kasper Oldmark"
               ]
@@ -4524,10 +4536,10 @@
               "pts": 1,
               "players": [
                 "Fabian Boberg",
-                "Calle Milebratt",
                 "Jakob Hägglund",
+                "Eddie Williamson",
                 "Erik Rystedt",
-                "Eddie Williamson"
+                "Calle Milebratt"
               ]
             },
             {
@@ -4578,14 +4590,14 @@
               "pct": 53,
               "pts": 3,
               "players": [
-                "Hjalmar Sörensen",
                 "Fabian Boberg",
-                "Lucas Johnson",
-                "Calle Milebratt",
+                "Hjalmar Sörensen",
                 "Jakob Hägglund",
+                "Lucas Johnson",
                 "Erik Rystedt",
-                "Love Hardeberg",
                 "Jonathan Segelman",
+                "Love Hardeberg",
+                "Calle Milebratt",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -4596,8 +4608,8 @@
               "pts": 1,
               "players": [
                 "Eddie Williamson",
-                "Kasper Oldmark",
-                "Andreas Panagos"
+                "Andreas Panagos",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -4668,8 +4680,8 @@
               "pct": 24,
               "pts": 1,
               "players": [
-                "Hjalmar Sörensen",
                 "Fabian Boberg",
+                "Hjalmar Sörensen",
                 "Eddie Williamson",
                 "Markus Ransved Nilsson"
               ]
@@ -4738,19 +4750,22 @@
           "kickoff": "2026-06-26 21:00",
           "home": "Norway",
           "away": "France",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 1,
+            "ag": 4
+          },
           "scorelines": [
             {
               "score": "1–2",
               "count": 6,
               "pct": 35,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Gustaf de la Motte",
-                "Erik Rystedt",
                 "Axel Dillner",
                 "Eddie Williamson",
+                "Erik Rystedt",
                 "Love Hardeberg",
                 "Markus Ransved Nilsson"
               ]
@@ -4759,7 +4774,7 @@
               "score": "2–2",
               "count": 3,
               "pct": 18,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Hjalmar Sörensen",
                 "Wilmer",
@@ -4770,27 +4785,27 @@
               "score": "0–1",
               "count": 2,
               "pct": 12,
-              "pts": null,
+              "pts": 1,
               "players": [
-                "Lucas Johnson",
-                "Jakob Hägglund"
+                "Jakob Hägglund",
+                "Lucas Johnson"
               ]
             },
             {
               "score": "0–2",
               "count": 2,
               "pct": 12,
-              "pts": null,
+              "pts": 1,
               "players": [
-                "Calle Milebratt",
-                "Jonathan Segelman"
+                "Jonathan Segelman",
+                "Calle Milebratt"
               ]
             },
             {
               "score": "1–3",
               "count": 2,
               "pct": 12,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Fabian Boberg",
                 "Harald Johansson"
@@ -4800,7 +4815,7 @@
               "score": "0–3",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Oscar Holmbergh"
               ]
@@ -4809,7 +4824,7 @@
               "score": "2–1",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Kasper Oldmark"
               ]
@@ -4821,43 +4836,46 @@
           "kickoff": "2026-06-26 21:00",
           "home": "Senegal",
           "away": "Iraq",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 5,
+            "ag": 0
+          },
           "scorelines": [
             {
               "score": "2–0",
               "count": 9,
               "pct": 53,
-              "pts": null,
+              "pts": 1,
               "players": [
-                "Hjalmar Sörensen",
                 "Fabian Boberg",
-                "Lucas Johnson",
-                "Calle Milebratt",
+                "Hjalmar Sörensen",
                 "Jakob Hägglund",
                 "Gustaf de la Motte",
-                "Erik Rystedt",
                 "Axel Dillner",
-                "Love Hardeberg"
+                "Lucas Johnson",
+                "Erik Rystedt",
+                "Love Hardeberg",
+                "Calle Milebratt"
               ]
             },
             {
               "score": "1–0",
               "count": 4,
               "pct": 24,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Harald Johansson",
                 "Eddie Williamson",
-                "Kasper Oldmark",
-                "Markus Ransved Nilsson"
+                "Markus Ransved Nilsson",
+                "Kasper Oldmark"
               ]
             },
             {
               "score": "2–1",
               "count": 2,
               "pct": 12,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Jonathan Segelman",
                 "Oscar Holmbergh"
@@ -4867,7 +4885,7 @@
               "score": "0–0",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Wilmer"
               ]
@@ -4876,7 +4894,7 @@
               "score": "3–1",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Andreas Panagos"
               ]
@@ -4888,81 +4906,81 @@
     },
     {
       "group": "J",
-      "complete": false,
-      "actualWinner": null,
+      "complete": true,
+      "actualWinner": "Argentina",
       "winnerPicks": [
         {
           "team": "Argentina",
           "count": 17,
           "pct": 100,
           "players": [
-            "Hjalmar Sörensen",
             "Fabian Boberg",
-            "Lucas Johnson",
-            "Calle Milebratt",
+            "Hjalmar Sörensen",
             "Jakob Hägglund",
             "Gustaf de la Motte",
-            "Erik Rystedt",
-            "Wilmer",
             "Axel Dillner",
             "Harald Johansson",
+            "Lucas Johnson",
             "Eddie Williamson",
-            "Love Hardeberg",
-            "Kasper Oldmark",
+            "Erik Rystedt",
             "Jonathan Segelman",
+            "Love Hardeberg",
+            "Wilmer",
+            "Calle Milebratt",
             "Markus Ransved Nilsson",
+            "Oscar Holmbergh",
             "Andreas Panagos",
-            "Oscar Holmbergh"
+            "Kasper Oldmark"
           ],
-          "correct": null
+          "correct": true
         }
       ],
       "standings": [
         {
           "team": "Argentina",
-          "P": 2,
-          "W": 2,
+          "P": 3,
+          "W": 3,
           "D": 0,
           "L": 0,
-          "GF": 5,
-          "GA": 0,
-          "GD": 5,
-          "Pts": 6,
+          "GF": 8,
+          "GA": 1,
+          "GD": 7,
+          "Pts": 9,
           "pos": 1
         },
         {
           "team": "Austria",
-          "P": 2,
+          "P": 3,
           "W": 1,
-          "D": 0,
+          "D": 1,
           "L": 1,
-          "GF": 3,
-          "GA": 3,
+          "GF": 6,
+          "GA": 6,
           "GD": 0,
-          "Pts": 3,
+          "Pts": 4,
           "pos": 2
         },
         {
           "team": "Algeria",
-          "P": 2,
+          "P": 3,
           "W": 1,
-          "D": 0,
+          "D": 1,
           "L": 1,
-          "GF": 2,
-          "GA": 4,
+          "GF": 5,
+          "GA": 7,
           "GD": -2,
-          "Pts": 3,
+          "Pts": 4,
           "pos": 3
         },
         {
           "team": "Jordan",
-          "P": 2,
+          "P": 3,
           "W": 0,
           "D": 0,
-          "L": 2,
-          "GF": 2,
-          "GA": 5,
-          "GD": -3,
+          "L": 3,
+          "GF": 3,
+          "GA": 8,
+          "GD": -5,
           "Pts": 0,
           "pos": 4
         }
@@ -4985,15 +5003,15 @@
               "pts": 1,
               "players": [
                 "Hjalmar Sörensen",
-                "Lucas Johnson",
-                "Calle Milebratt",
                 "Jakob Hägglund",
                 "Gustaf de la Motte",
-                "Wilmer",
                 "Axel Dillner",
                 "Harald Johansson",
+                "Lucas Johnson",
+                "Jonathan Segelman",
                 "Love Hardeberg",
-                "Jonathan Segelman"
+                "Wilmer",
+                "Calle Milebratt"
               ]
             },
             {
@@ -5055,14 +5073,14 @@
               "pts": 1,
               "players": [
                 "Fabian Boberg",
-                "Lucas Johnson",
-                "Calle Milebratt",
                 "Jakob Hägglund",
-                "Erik Rystedt",
                 "Harald Johansson",
-                "Kasper Oldmark",
+                "Lucas Johnson",
+                "Erik Rystedt",
+                "Calle Milebratt",
                 "Markus Ransved Nilsson",
-                "Andreas Panagos"
+                "Andreas Panagos",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -5073,8 +5091,8 @@
               "players": [
                 "Hjalmar Sörensen",
                 "Gustaf de la Motte",
-                "Wilmer",
-                "Eddie Williamson"
+                "Eddie Williamson",
+                "Wilmer"
               ]
             },
             {
@@ -5124,16 +5142,16 @@
               "pct": 71,
               "pts": 1,
               "players": [
-                "Hjalmar Sörensen",
                 "Fabian Boberg",
-                "Lucas Johnson",
-                "Calle Milebratt",
+                "Hjalmar Sörensen",
                 "Jakob Hägglund",
-                "Erik Rystedt",
                 "Axel Dillner",
                 "Harald Johansson",
+                "Lucas Johnson",
                 "Eddie Williamson",
+                "Erik Rystedt",
                 "Love Hardeberg",
+                "Calle Milebratt",
                 "Markus Ransved Nilsson",
                 "Andreas Panagos"
               ]
@@ -5186,12 +5204,12 @@
               "pct": 35,
               "pts": 1,
               "players": [
-                "Calle Milebratt",
                 "Jakob Hägglund",
                 "Harald Johansson",
-                "Kasper Oldmark",
+                "Calle Milebratt",
                 "Markus Ransved Nilsson",
-                "Oscar Holmbergh"
+                "Oscar Holmbergh",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -5201,8 +5219,8 @@
               "pts": 0,
               "players": [
                 "Erik Rystedt",
-                "Wilmer",
-                "Jonathan Segelman"
+                "Jonathan Segelman",
+                "Wilmer"
               ]
             },
             {
@@ -5252,21 +5270,24 @@
           "kickoff": "2026-06-28 04:00",
           "home": "Algeria",
           "away": "Austria",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 3,
+            "ag": 3
+          },
           "scorelines": [
             {
               "score": "1–2",
               "count": 7,
               "pct": 41,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Fabian Boberg",
-                "Calle Milebratt",
                 "Jakob Hägglund",
                 "Gustaf de la Motte",
                 "Erik Rystedt",
                 "Love Hardeberg",
+                "Calle Milebratt",
                 "Oscar Holmbergh"
               ]
             },
@@ -5274,7 +5295,7 @@
               "score": "0–1",
               "count": 3,
               "pct": 18,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Lucas Johnson",
                 "Wilmer",
@@ -5285,7 +5306,7 @@
               "score": "1–1",
               "count": 2,
               "pct": 12,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Axel Dillner",
                 "Harald Johansson"
@@ -5295,7 +5316,7 @@
               "score": "0–0",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Andreas Panagos"
               ]
@@ -5304,7 +5325,7 @@
               "score": "0–2",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Kasper Oldmark"
               ]
@@ -5313,7 +5334,7 @@
               "score": "2–0",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Jonathan Segelman"
               ]
@@ -5322,7 +5343,7 @@
               "score": "2–1",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Hjalmar Sörensen"
               ]
@@ -5331,7 +5352,7 @@
               "score": "2–3",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Eddie Williamson"
               ]
@@ -5343,34 +5364,37 @@
           "kickoff": "2026-06-28 04:00",
           "home": "Jordan",
           "away": "Argentina",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 1,
+            "ag": 3
+          },
           "scorelines": [
             {
               "score": "0–3",
               "count": 8,
               "pct": 47,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Fabian Boberg",
-                "Lucas Johnson",
                 "Gustaf de la Motte",
                 "Harald Johansson",
+                "Lucas Johnson",
                 "Eddie Williamson",
                 "Love Hardeberg",
-                "Kasper Oldmark",
-                "Oscar Holmbergh"
+                "Oscar Holmbergh",
+                "Kasper Oldmark"
               ]
             },
             {
               "score": "0–2",
               "count": 4,
               "pct": 24,
-              "pts": null,
+              "pts": 1,
               "players": [
-                "Calle Milebratt",
                 "Erik Rystedt",
                 "Jonathan Segelman",
+                "Calle Milebratt",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -5378,7 +5402,7 @@
               "score": "0–4",
               "count": 3,
               "pct": 18,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Jakob Hägglund",
                 "Axel Dillner",
@@ -5389,7 +5413,7 @@
               "score": "1–3",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 3,
               "players": [
                 "Hjalmar Sörensen"
               ]
@@ -5398,7 +5422,7 @@
               "score": "2–4",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Wilmer"
               ]
@@ -5410,32 +5434,32 @@
     },
     {
       "group": "K",
-      "complete": false,
-      "actualWinner": null,
+      "complete": true,
+      "actualWinner": "Colombia",
       "winnerPicks": [
         {
           "team": "Portugal",
           "count": 16,
           "pct": 94,
           "players": [
-            "Hjalmar Sörensen",
             "Fabian Boberg",
-            "Lucas Johnson",
-            "Calle Milebratt",
+            "Hjalmar Sörensen",
             "Jakob Hägglund",
             "Gustaf de la Motte",
-            "Erik Rystedt",
             "Axel Dillner",
             "Harald Johansson",
+            "Lucas Johnson",
             "Eddie Williamson",
-            "Love Hardeberg",
-            "Kasper Oldmark",
+            "Erik Rystedt",
             "Jonathan Segelman",
+            "Love Hardeberg",
+            "Calle Milebratt",
             "Markus Ransved Nilsson",
+            "Oscar Holmbergh",
             "Andreas Panagos",
-            "Oscar Holmbergh"
+            "Kasper Oldmark"
           ],
-          "correct": null
+          "correct": false
         },
         {
           "team": "Colombia",
@@ -5444,55 +5468,55 @@
           "players": [
             "Wilmer"
           ],
-          "correct": null
+          "correct": true
         }
       ],
       "standings": [
         {
           "team": "Colombia",
-          "P": 2,
+          "P": 3,
           "W": 2,
-          "D": 0,
+          "D": 1,
           "L": 0,
           "GF": 4,
           "GA": 1,
           "GD": 3,
-          "Pts": 6,
+          "Pts": 7,
           "pos": 1
         },
         {
           "team": "Portugal",
-          "P": 2,
+          "P": 3,
           "W": 1,
-          "D": 1,
+          "D": 2,
           "L": 0,
           "GF": 6,
           "GA": 1,
           "GD": 5,
-          "Pts": 4,
+          "Pts": 5,
           "pos": 2
         },
         {
           "team": "Congo DR",
-          "P": 2,
-          "W": 0,
+          "P": 3,
+          "W": 1,
           "D": 1,
           "L": 1,
-          "GF": 1,
-          "GA": 2,
-          "GD": -1,
-          "Pts": 1,
+          "GF": 4,
+          "GA": 3,
+          "GD": 1,
+          "Pts": 4,
           "pos": 3
         },
         {
           "team": "Uzbekistan",
-          "P": 2,
+          "P": 3,
           "W": 0,
           "D": 0,
-          "L": 2,
-          "GF": 1,
-          "GA": 8,
-          "GD": -7,
+          "L": 3,
+          "GF": 2,
+          "GA": 11,
+          "GD": -9,
           "Pts": 0,
           "pos": 4
         }
@@ -5514,14 +5538,14 @@
               "pct": 53,
               "pts": 0,
               "players": [
-                "Calle Milebratt",
                 "Gustaf de la Motte",
-                "Erik Rystedt",
-                "Wilmer",
                 "Axel Dillner",
                 "Harald Johansson",
-                "Love Hardeberg",
+                "Erik Rystedt",
                 "Jonathan Segelman",
+                "Love Hardeberg",
+                "Wilmer",
+                "Calle Milebratt",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -5532,11 +5556,11 @@
               "pts": 0,
               "players": [
                 "Fabian Boberg",
-                "Lucas Johnson",
                 "Jakob Hägglund",
+                "Lucas Johnson",
                 "Eddie Williamson",
-                "Kasper Oldmark",
-                "Oscar Holmbergh"
+                "Oscar Holmbergh",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -5576,14 +5600,14 @@
               "pct": 47,
               "pts": 1,
               "players": [
-                "Hjalmar Sörensen",
                 "Fabian Boberg",
-                "Lucas Johnson",
-                "Calle Milebratt",
+                "Hjalmar Sörensen",
                 "Jakob Hägglund",
+                "Lucas Johnson",
+                "Jonathan Segelman",
                 "Love Hardeberg",
-                "Kasper Oldmark",
-                "Jonathan Segelman"
+                "Calle Milebratt",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -5593,8 +5617,8 @@
               "pts": 1,
               "players": [
                 "Eddie Williamson",
-                "Andreas Panagos",
-                "Oscar Holmbergh"
+                "Oscar Holmbergh",
+                "Andreas Panagos"
               ]
             },
             {
@@ -5654,14 +5678,14 @@
               "pct": 47,
               "pts": 1,
               "players": [
-                "Calle Milebratt",
                 "Gustaf de la Motte",
-                "Erik Rystedt",
                 "Axel Dillner",
-                "Love Hardeberg",
-                "Kasper Oldmark",
+                "Erik Rystedt",
                 "Jonathan Segelman",
-                "Markus Ransved Nilsson"
+                "Love Hardeberg",
+                "Calle Milebratt",
+                "Markus Ransved Nilsson",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -5670,11 +5694,11 @@
               "pct": 29,
               "pts": 1,
               "players": [
-                "Hjalmar Sörensen",
                 "Fabian Boberg",
-                "Lucas Johnson",
+                "Hjalmar Sörensen",
                 "Jakob Hägglund",
-                "Harald Johansson"
+                "Harald Johansson",
+                "Lucas Johnson"
               ]
             },
             {
@@ -5683,8 +5707,8 @@
               "pct": 12,
               "pts": 1,
               "players": [
-                "Wilmer",
-                "Eddie Williamson"
+                "Eddie Williamson",
+                "Wilmer"
               ]
             },
             {
@@ -5693,8 +5717,8 @@
               "pct": 12,
               "pts": 1,
               "players": [
-                "Andreas Panagos",
-                "Oscar Holmbergh"
+                "Oscar Holmbergh",
+                "Andreas Panagos"
               ]
             }
           ],
@@ -5717,11 +5741,11 @@
               "pts": 1,
               "players": [
                 "Lucas Johnson",
-                "Kasper Oldmark",
                 "Jonathan Segelman",
                 "Markus Ransved Nilsson",
+                "Oscar Holmbergh",
                 "Andreas Panagos",
-                "Oscar Holmbergh"
+                "Kasper Oldmark"
               ]
             },
             {
@@ -5731,10 +5755,10 @@
               "pts": 1,
               "players": [
                 "Fabian Boberg",
-                "Calle Milebratt",
-                "Erik Rystedt",
                 "Harald Johansson",
-                "Love Hardeberg"
+                "Erik Rystedt",
+                "Love Hardeberg",
+                "Calle Milebratt"
               ]
             },
             {
@@ -5782,32 +5806,35 @@
           "kickoff": "2026-06-28 01:30",
           "home": "Colombia",
           "away": "Portugal",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 0,
+            "ag": 0
+          },
           "scorelines": [
             {
               "score": "1–1",
               "count": 5,
               "pct": 29,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Hjalmar Sörensen",
-                "Erik Rystedt",
                 "Axel Dillner",
-                "Kasper Oldmark",
-                "Andreas Panagos"
+                "Erik Rystedt",
+                "Andreas Panagos",
+                "Kasper Oldmark"
               ]
             },
             {
               "score": "1–2",
               "count": 5,
               "pct": 29,
-              "pts": null,
+              "pts": 0,
               "players": [
-                "Calle Milebratt",
                 "Jakob Hägglund",
                 "Gustaf de la Motte",
                 "Love Hardeberg",
+                "Calle Milebratt",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -5815,7 +5842,7 @@
               "score": "0–1",
               "count": 2,
               "pct": 12,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Lucas Johnson",
                 "Jonathan Segelman"
@@ -5825,7 +5852,7 @@
               "score": "0–2",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Fabian Boberg"
               ]
@@ -5834,7 +5861,7 @@
               "score": "1–0",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Wilmer"
               ]
@@ -5843,7 +5870,7 @@
               "score": "1–3",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Harald Johansson"
               ]
@@ -5852,7 +5879,7 @@
               "score": "2–2",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Oscar Holmbergh"
               ]
@@ -5861,7 +5888,7 @@
               "score": "2–3",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Eddie Williamson"
               ]
@@ -5873,19 +5900,22 @@
           "kickoff": "2026-06-28 01:30",
           "home": "Congo DR",
           "away": "Uzbekistan",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 3,
+            "ag": 1
+          },
           "scorelines": [
             {
               "score": "1–1",
               "count": 5,
               "pct": 29,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Gustaf de la Motte",
                 "Erik Rystedt",
-                "Wilmer",
                 "Love Hardeberg",
+                "Wilmer",
                 "Kasper Oldmark"
               ]
             },
@@ -5893,10 +5923,10 @@
               "score": "1–0",
               "count": 3,
               "pct": 18,
-              "pts": null,
+              "pts": 1,
               "players": [
-                "Lucas Johnson",
                 "Jakob Hägglund",
+                "Lucas Johnson",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -5904,7 +5934,7 @@
               "score": "2–1",
               "count": 3,
               "pct": 18,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Hjalmar Sörensen",
                 "Eddie Williamson",
@@ -5915,7 +5945,7 @@
               "score": "0–0",
               "count": 2,
               "pct": 12,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Harald Johansson",
                 "Jonathan Segelman"
@@ -5925,17 +5955,17 @@
               "score": "0–1",
               "count": 2,
               "pct": 12,
-              "pts": null,
+              "pts": 0,
               "players": [
-                "Calle Milebratt",
-                "Axel Dillner"
+                "Axel Dillner",
+                "Calle Milebratt"
               ]
             },
             {
               "score": "2–0",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Fabian Boberg"
               ]
@@ -5944,7 +5974,7 @@
               "score": "3–1",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 3,
               "players": [
                 "Oscar Holmbergh"
               ]
@@ -5956,32 +5986,32 @@
     },
     {
       "group": "L",
-      "complete": false,
-      "actualWinner": null,
+      "complete": true,
+      "actualWinner": "England",
       "winnerPicks": [
         {
           "team": "England",
           "count": 16,
           "pct": 94,
           "players": [
-            "Hjalmar Sörensen",
             "Fabian Boberg",
-            "Lucas Johnson",
-            "Calle Milebratt",
+            "Hjalmar Sörensen",
             "Jakob Hägglund",
             "Gustaf de la Motte",
-            "Erik Rystedt",
-            "Wilmer",
             "Axel Dillner",
+            "Lucas Johnson",
             "Eddie Williamson",
-            "Love Hardeberg",
-            "Kasper Oldmark",
+            "Erik Rystedt",
             "Jonathan Segelman",
+            "Love Hardeberg",
+            "Wilmer",
+            "Calle Milebratt",
             "Markus Ransved Nilsson",
+            "Oscar Holmbergh",
             "Andreas Panagos",
-            "Oscar Holmbergh"
+            "Kasper Oldmark"
           ],
-          "correct": null
+          "correct": true
         },
         {
           "team": "Croatia",
@@ -5990,55 +6020,55 @@
           "players": [
             "Harald Johansson"
           ],
-          "correct": null
+          "correct": false
         }
       ],
       "standings": [
         {
           "team": "England",
-          "P": 2,
-          "W": 1,
+          "P": 3,
+          "W": 2,
           "D": 1,
           "L": 0,
-          "GF": 4,
+          "GF": 6,
           "GA": 2,
-          "GD": 2,
-          "Pts": 4,
+          "GD": 4,
+          "Pts": 7,
           "pos": 1
         },
         {
-          "team": "Ghana",
-          "P": 2,
-          "W": 1,
-          "D": 1,
-          "L": 0,
-          "GF": 1,
-          "GA": 0,
-          "GD": 1,
-          "Pts": 4,
+          "team": "Croatia",
+          "P": 3,
+          "W": 2,
+          "D": 0,
+          "L": 1,
+          "GF": 5,
+          "GA": 5,
+          "GD": 0,
+          "Pts": 6,
           "pos": 2
         },
         {
-          "team": "Croatia",
-          "P": 2,
+          "team": "Ghana",
+          "P": 3,
           "W": 1,
-          "D": 0,
+          "D": 1,
           "L": 1,
-          "GF": 3,
-          "GA": 4,
-          "GD": -1,
-          "Pts": 3,
+          "GF": 2,
+          "GA": 2,
+          "GD": 0,
+          "Pts": 4,
           "pos": 3
         },
         {
           "team": "Panama",
-          "P": 2,
+          "P": 3,
           "W": 0,
           "D": 0,
-          "L": 2,
+          "L": 3,
           "GF": 0,
-          "GA": 2,
-          "GD": -2,
+          "GA": 4,
+          "GD": -4,
           "Pts": 0,
           "pos": 4
         }
@@ -6060,14 +6090,14 @@
               "pct": 59,
               "pts": 1,
               "players": [
-                "Hjalmar Sörensen",
                 "Fabian Boberg",
-                "Lucas Johnson",
-                "Calle Milebratt",
+                "Hjalmar Sörensen",
                 "Gustaf de la Motte",
-                "Erik Rystedt",
+                "Lucas Johnson",
                 "Eddie Williamson",
+                "Erik Rystedt",
                 "Love Hardeberg",
+                "Calle Milebratt",
                 "Markus Ransved Nilsson",
                 "Oscar Holmbergh"
               ]
@@ -6079,8 +6109,8 @@
               "pts": 1,
               "players": [
                 "Jakob Hägglund",
-                "Wilmer",
                 "Jonathan Segelman",
+                "Wilmer",
                 "Andreas Panagos"
               ]
             },
@@ -6132,8 +6162,8 @@
               "players": [
                 "Fabian Boberg",
                 "Jakob Hägglund",
-                "Erik Rystedt",
                 "Axel Dillner",
+                "Erik Rystedt",
                 "Markus Ransved Nilsson",
                 "Andreas Panagos"
               ]
@@ -6144,9 +6174,9 @@
               "pct": 24,
               "pts": 1,
               "players": [
+                "Gustaf de la Motte",
                 "Lucas Johnson",
                 "Calle Milebratt",
-                "Gustaf de la Motte",
                 "Oscar Holmbergh"
               ]
             },
@@ -6167,9 +6197,9 @@
               "pct": 18,
               "pts": 0,
               "players": [
+                "Jonathan Segelman",
                 "Love Hardeberg",
-                "Kasper Oldmark",
-                "Jonathan Segelman"
+                "Kasper Oldmark"
               ]
             },
             {
@@ -6201,9 +6231,9 @@
               "pts": 0,
               "players": [
                 "Fabian Boberg",
+                "Harald Johansson",
                 "Lucas Johnson",
                 "Erik Rystedt",
-                "Harald Johansson",
                 "Kasper Oldmark"
               ]
             },
@@ -6225,8 +6255,8 @@
               "pts": 0,
               "players": [
                 "Gustaf de la Motte",
-                "Love Hardeberg",
-                "Jonathan Segelman"
+                "Jonathan Segelman",
+                "Love Hardeberg"
               ]
             },
             {
@@ -6236,8 +6266,8 @@
               "pts": 0,
               "players": [
                 "Hjalmar Sörensen",
-                "Calle Milebratt",
-                "Axel Dillner"
+                "Axel Dillner",
+                "Calle Milebratt"
               ]
             },
             {
@@ -6287,14 +6317,14 @@
               "pts": 1,
               "players": [
                 "Fabian Boberg",
-                "Lucas Johnson",
                 "Jakob Hägglund",
-                "Erik Rystedt",
                 "Axel Dillner",
                 "Harald Johansson",
-                "Kasper Oldmark",
+                "Lucas Johnson",
+                "Erik Rystedt",
                 "Jonathan Segelman",
-                "Markus Ransved Nilsson"
+                "Markus Ransved Nilsson",
+                "Kasper Oldmark"
               ]
             },
             {
@@ -6303,8 +6333,8 @@
               "pct": 18,
               "pts": 3,
               "players": [
-                "Wilmer",
                 "Eddie Williamson",
+                "Wilmer",
                 "Oscar Holmbergh"
               ]
             },
@@ -6336,30 +6366,33 @@
           "kickoff": "2026-06-27 23:00",
           "home": "Panama",
           "away": "England",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 0,
+            "ag": 2
+          },
           "scorelines": [
             {
               "score": "0–3",
               "count": 8,
               "pct": 47,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Fabian Boberg",
-                "Lucas Johnson",
                 "Jakob Hägglund",
-                "Erik Rystedt",
                 "Harald Johansson",
+                "Lucas Johnson",
+                "Erik Rystedt",
                 "Love Hardeberg",
-                "Kasper Oldmark",
-                "Markus Ransved Nilsson"
+                "Markus Ransved Nilsson",
+                "Kasper Oldmark"
               ]
             },
             {
               "score": "0–2",
               "count": 3,
               "pct": 18,
-              "pts": null,
+              "pts": 3,
               "players": [
                 "Gustaf de la Motte",
                 "Eddie Williamson",
@@ -6370,7 +6403,7 @@
               "score": "0–1",
               "count": 2,
               "pct": 12,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Hjalmar Sörensen",
                 "Andreas Panagos"
@@ -6380,7 +6413,7 @@
               "score": "0–4",
               "count": 2,
               "pct": 12,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Calle Milebratt",
                 "Oscar Holmbergh"
@@ -6390,7 +6423,7 @@
               "score": "1–2",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Wilmer"
               ]
@@ -6399,7 +6432,7 @@
               "score": "1–6",
               "count": 1,
               "pct": 6,
-              "pts": null,
+              "pts": 1,
               "players": [
                 "Axel Dillner"
               ]
@@ -6411,32 +6444,35 @@
           "kickoff": "2026-06-27 23:00",
           "home": "Croatia",
           "away": "Ghana",
-          "played": false,
-          "actual": null,
+          "played": true,
+          "actual": {
+            "hg": 2,
+            "ag": 1
+          },
           "scorelines": [
             {
               "score": "2–0",
               "count": 5,
               "pct": 29,
-              "pts": null,
+              "pts": 1,
               "players": [
-                "Calle Milebratt",
                 "Gustaf de la Motte",
-                "Kasper Oldmark",
                 "Jonathan Segelman",
-                "Andreas Panagos"
+                "Calle Milebratt",
+                "Andreas Panagos",
+                "Kasper Oldmark"
               ]
             },
             {
               "score": "2–1",
               "count": 5,
               "pct": 29,
-              "pts": null,
+              "pts": 3,
               "players": [
                 "Fabian Boberg",
-                "Wilmer",
                 "Harald Johansson",
                 "Love Hardeberg",
+                "Wilmer",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -6444,10 +6480,10 @@
               "score": "1–0",
               "count": 3,
               "pct": 18,
-              "pts": null,
+              "pts": 1,
               "players": [
-                "Lucas Johnson",
                 "Jakob Hägglund",
+                "Lucas Johnson",
                 "Eddie Williamson"
               ]
             },
@@ -6455,17 +6491,17 @@
               "score": "1–1",
               "count": 2,
               "pct": 12,
-              "pts": null,
+              "pts": 0,
               "players": [
-                "Erik Rystedt",
-                "Axel Dillner"
+                "Axel Dillner",
+                "Erik Rystedt"
               ]
             },
             {
               "score": "2–2",
               "count": 2,
               "pct": 12,
-              "pts": null,
+              "pts": 0,
               "players": [
                 "Hjalmar Sörensen",
                 "Oscar Holmbergh"
