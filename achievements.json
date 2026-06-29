@@ -164,7 +164,7 @@
     "crowd-surfer": 17,
     "reading-the-game": 17,
     "steady-hand": 17,
-    "wooden-spoon": 1,
+    "wooden-spoon": 2,
     "snake-eyes": 3,
     "cold-snap": 10,
     "free-fall": 1
@@ -836,7 +836,7 @@
       {
         "id": "on-the-rise",
         "date": "2026-06-29",
-        "how": "#17 → #15 → #12"
+        "how": "#17 → #15 → #11"
       },
       {
         "id": "off-the-mark",
@@ -1097,6 +1097,11 @@
         "how": "Points on 3 matchdays running"
       },
       {
+        "id": "wooden-spoon",
+        "date": "2026-06-29",
+        "how": "Last place — rank 16"
+      },
+      {
         "id": "cold-snap",
         "date": "2026-06-13",
         "how": "Blanked all 2 games that day"
@@ -1151,7 +1156,7 @@
       {
         "id": "wooden-spoon",
         "date": "2026-06-29",
-        "how": "Last place — rank 17"
+        "how": "Last place — rank 16"
       },
       {
         "id": "cold-snap",
