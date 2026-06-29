@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-28 20:34",
+    "lastRefresh": "2026-06-29 07:34",
     "maxPoints": 729,
     "participants": 17,
     "maxAvailable": 261,
@@ -17,9 +17,9 @@
       "home": "South Africa",
       "away": "Canada",
       "kickoff": "2026-06-28 21:00",
-      "hg": null,
-      "ag": null,
-      "winner": null,
+      "hg": 0,
+      "ag": 1,
+      "winner": "Canada",
       "homePick": {
         "pct": 0,
         "count": 0
@@ -518,15 +518,21 @@
         "M73",
         "M75"
       ],
-      "home": null,
+      "home": "Canada",
       "away": null,
       "kickoff": "",
       "hg": null,
       "ag": null,
       "winner": null,
-      "homePick": null,
+      "homePick": {
+        "pct": 0,
+        "count": 0
+      },
       "awayPick": null,
-      "homeReach": null,
+      "homeReach": {
+        "pct": 35,
+        "count": 6
+      },
       "awayReach": null
     },
     {
