@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-06-29 07:34",
+    "lastRefresh": "2026-06-30 09:11",
     "maxPoints": 729,
     "participants": 17,
     "maxAvailable": 261
@@ -149,7 +149,7 @@
   ],
   "rarityCount": {
     "crystal-ball": 9,
-    "untouchable": 1,
+    "untouchable": 2,
     "the-sweep": 9,
     "perfect-day": 14,
     "giant-slayer": 10,
@@ -157,20 +157,25 @@
     "the-comeback": 2,
     "day-winner": 6,
     "contrarian-king": 4,
-    "on-the-rise": 11,
+    "on-the-rise": 12,
     "bullseye": 11,
     "off-the-mark": 17,
     "first-blood": 17,
     "crowd-surfer": 17,
     "reading-the-game": 17,
     "steady-hand": 17,
-    "wooden-spoon": 2,
+    "wooden-spoon": 1,
     "snake-eyes": 3,
     "cold-snap": 10,
     "free-fall": 1
   },
   "byPlayer": {
     "Fabian Boberg": [
+      {
+        "id": "untouchable",
+        "date": "2026-06-30",
+        "how": "Held #1 three update days running"
+      },
       {
         "id": "the-sweep",
         "date": "2026-06-26",
@@ -423,68 +428,6 @@
         "how": "Points on 3 matchdays running"
       }
     ],
-    "Hjalmar Sörensen": [
-      {
-        "id": "crystal-ball",
-        "date": "2026-06-25",
-        "how": "Czechia 0–3 Mexico — the only exact call"
-      },
-      {
-        "id": "untouchable",
-        "date": "2026-06-14",
-        "how": "Held #1 three update days running"
-      },
-      {
-        "id": "perfect-day",
-        "date": "2026-06-12",
-        "how": "Scored on all 2 games that day"
-      },
-      {
-        "id": "giant-slayer",
-        "date": "2026-06-18",
-        "how": "Czechia v South Africa — only 3 players scored"
-      },
-      {
-        "id": "hot-streak",
-        "date": "2026-06-18",
-        "how": "Points in 5 straight matches"
-      },
-      {
-        "id": "day-winner",
-        "date": "2026-06-18",
-        "how": "Outright top scorer (+8)"
-      },
-      {
-        "id": "bullseye",
-        "date": "2026-06-12",
-        "how": "2 exact scorelines in a day"
-      },
-      {
-        "id": "off-the-mark",
-        "date": "2026-06-11",
-        "how": "First points: Mexico v South Africa (+3)"
-      },
-      {
-        "id": "first-blood",
-        "date": "2026-06-11",
-        "how": "Mexico 2–0 South Africa — exact!"
-      },
-      {
-        "id": "crowd-surfer",
-        "date": "2026-06-11",
-        "how": "Mexico v South Africa — rode the 2–0 consensus"
-      },
-      {
-        "id": "reading-the-game",
-        "date": "2026-06-17",
-        "how": "4 correct results in a day"
-      },
-      {
-        "id": "steady-hand",
-        "date": "2026-06-13",
-        "how": "Points on 3 matchdays running"
-      }
-    ],
     "Harald Johansson": [
       {
         "id": "the-sweep",
@@ -656,6 +599,88 @@
         "how": "Blanked all 2 games that day"
       }
     ],
+    "Wilmer": [
+      {
+        "id": "crystal-ball",
+        "date": "2026-06-15",
+        "how": "Côte d'Ivoire 1–0 Ecuador — the only exact call"
+      },
+      {
+        "id": "the-sweep",
+        "date": "2026-06-25",
+        "how": "All 6 Group C results correct"
+      },
+      {
+        "id": "perfect-day",
+        "date": "2026-06-14",
+        "how": "Scored on all 5 games that day"
+      },
+      {
+        "id": "giant-slayer",
+        "date": "2026-06-14",
+        "how": "Brazil v Morocco — only 3 players scored"
+      },
+      {
+        "id": "hot-streak",
+        "date": "2026-06-14",
+        "how": "Points in 5 straight matches"
+      },
+      {
+        "id": "day-winner",
+        "date": "2026-06-15",
+        "how": "Outright top scorer (+3)"
+      },
+      {
+        "id": "contrarian-king",
+        "date": "2026-06-15",
+        "how": "Top scorer on a 6%-popularity card"
+      },
+      {
+        "id": "on-the-rise",
+        "date": "2026-06-14",
+        "how": "#15 → #14 → #9"
+      },
+      {
+        "id": "bullseye",
+        "date": "2026-06-27",
+        "how": "2 exact scorelines in a day"
+      },
+      {
+        "id": "off-the-mark",
+        "date": "2026-06-11",
+        "how": "First points: Mexico v South Africa (+1)"
+      },
+      {
+        "id": "first-blood",
+        "date": "2026-06-14",
+        "how": "Brazil 1–1 Morocco — exact!"
+      },
+      {
+        "id": "crowd-surfer",
+        "date": "2026-06-14",
+        "how": "Germany v Curaçao — rode the 4–0 consensus"
+      },
+      {
+        "id": "reading-the-game",
+        "date": "2026-06-14",
+        "how": "5 correct results in a day"
+      },
+      {
+        "id": "steady-hand",
+        "date": "2026-06-15",
+        "how": "Points on 3 matchdays running"
+      },
+      {
+        "id": "snake-eyes",
+        "date": "2026-06-16",
+        "how": "0 points in 5 straight matches"
+      },
+      {
+        "id": "cold-snap",
+        "date": "2026-06-12",
+        "how": "Blanked all 2 games that day"
+      }
+    ],
     "Lucas Johnson": [
       {
         "id": "the-sweep",
@@ -691,6 +716,53 @@
         "id": "bullseye",
         "date": "2026-06-20",
         "how": "3 exact scorelines in a day"
+      },
+      {
+        "id": "off-the-mark",
+        "date": "2026-06-11",
+        "how": "First points: Mexico v South Africa (+3)"
+      },
+      {
+        "id": "first-blood",
+        "date": "2026-06-11",
+        "how": "Mexico 2–0 South Africa — exact!"
+      },
+      {
+        "id": "crowd-surfer",
+        "date": "2026-06-11",
+        "how": "Mexico v South Africa — rode the 2–0 consensus"
+      },
+      {
+        "id": "reading-the-game",
+        "date": "2026-06-17",
+        "how": "4 correct results in a day"
+      },
+      {
+        "id": "steady-hand",
+        "date": "2026-06-15",
+        "how": "Points on 3 matchdays running"
+      },
+      {
+        "id": "cold-snap",
+        "date": "2026-06-12",
+        "how": "Blanked all 2 games that day"
+      }
+    ],
+    "Kasper Oldmark": [
+      {
+        "id": "perfect-day",
+        "date": "2026-06-19",
+        "how": "Scored on all 3 games that day"
+      },
+      {
+        "id": "hot-streak",
+        "date": "2026-06-20",
+        "how": "Points in 5 straight matches"
+      },
+      {
+        "id": "on-the-rise",
+        "date": "2026-06-30",
+        "how": "#17 → #15 → #11"
       },
       {
         "id": "off-the-mark",
@@ -790,6 +862,68 @@
         "how": "Blanked all 2 games that day"
       }
     ],
+    "Hjalmar Sörensen": [
+      {
+        "id": "crystal-ball",
+        "date": "2026-06-25",
+        "how": "Czechia 0–3 Mexico — the only exact call"
+      },
+      {
+        "id": "untouchable",
+        "date": "2026-06-14",
+        "how": "Held #1 three update days running"
+      },
+      {
+        "id": "perfect-day",
+        "date": "2026-06-12",
+        "how": "Scored on all 2 games that day"
+      },
+      {
+        "id": "giant-slayer",
+        "date": "2026-06-18",
+        "how": "Czechia v South Africa — only 3 players scored"
+      },
+      {
+        "id": "hot-streak",
+        "date": "2026-06-18",
+        "how": "Points in 5 straight matches"
+      },
+      {
+        "id": "day-winner",
+        "date": "2026-06-18",
+        "how": "Outright top scorer (+8)"
+      },
+      {
+        "id": "bullseye",
+        "date": "2026-06-12",
+        "how": "2 exact scorelines in a day"
+      },
+      {
+        "id": "off-the-mark",
+        "date": "2026-06-11",
+        "how": "First points: Mexico v South Africa (+3)"
+      },
+      {
+        "id": "first-blood",
+        "date": "2026-06-11",
+        "how": "Mexico 2–0 South Africa — exact!"
+      },
+      {
+        "id": "crowd-surfer",
+        "date": "2026-06-11",
+        "how": "Mexico v South Africa — rode the 2–0 consensus"
+      },
+      {
+        "id": "reading-the-game",
+        "date": "2026-06-17",
+        "how": "4 correct results in a day"
+      },
+      {
+        "id": "steady-hand",
+        "date": "2026-06-13",
+        "how": "Points on 3 matchdays running"
+      }
+    ],
     "Love Hardeberg": [
       {
         "id": "crystal-ball",
@@ -874,88 +1008,6 @@
         "how": "Blanked all 2 games that day"
       }
     ],
-    "Wilmer": [
-      {
-        "id": "crystal-ball",
-        "date": "2026-06-15",
-        "how": "Côte d'Ivoire 1–0 Ecuador — the only exact call"
-      },
-      {
-        "id": "the-sweep",
-        "date": "2026-06-25",
-        "how": "All 6 Group C results correct"
-      },
-      {
-        "id": "perfect-day",
-        "date": "2026-06-14",
-        "how": "Scored on all 5 games that day"
-      },
-      {
-        "id": "giant-slayer",
-        "date": "2026-06-14",
-        "how": "Brazil v Morocco — only 3 players scored"
-      },
-      {
-        "id": "hot-streak",
-        "date": "2026-06-14",
-        "how": "Points in 5 straight matches"
-      },
-      {
-        "id": "day-winner",
-        "date": "2026-06-15",
-        "how": "Outright top scorer (+3)"
-      },
-      {
-        "id": "contrarian-king",
-        "date": "2026-06-15",
-        "how": "Top scorer on a 6%-popularity card"
-      },
-      {
-        "id": "on-the-rise",
-        "date": "2026-06-14",
-        "how": "#15 → #14 → #9"
-      },
-      {
-        "id": "bullseye",
-        "date": "2026-06-27",
-        "how": "2 exact scorelines in a day"
-      },
-      {
-        "id": "off-the-mark",
-        "date": "2026-06-11",
-        "how": "First points: Mexico v South Africa (+1)"
-      },
-      {
-        "id": "first-blood",
-        "date": "2026-06-14",
-        "how": "Brazil 1–1 Morocco — exact!"
-      },
-      {
-        "id": "crowd-surfer",
-        "date": "2026-06-14",
-        "how": "Germany v Curaçao — rode the 4–0 consensus"
-      },
-      {
-        "id": "reading-the-game",
-        "date": "2026-06-14",
-        "how": "5 correct results in a day"
-      },
-      {
-        "id": "steady-hand",
-        "date": "2026-06-15",
-        "how": "Points on 3 matchdays running"
-      },
-      {
-        "id": "snake-eyes",
-        "date": "2026-06-16",
-        "how": "0 points in 5 straight matches"
-      },
-      {
-        "id": "cold-snap",
-        "date": "2026-06-12",
-        "how": "Blanked all 2 games that day"
-      }
-    ],
     "Calle Milebratt": [
       {
         "id": "perfect-day",
@@ -1001,48 +1053,6 @@
         "id": "free-fall",
         "date": "2026-06-28",
         "how": "#4 → #13 in a day"
-      }
-    ],
-    "Kasper Oldmark": [
-      {
-        "id": "perfect-day",
-        "date": "2026-06-19",
-        "how": "Scored on all 3 games that day"
-      },
-      {
-        "id": "hot-streak",
-        "date": "2026-06-20",
-        "how": "Points in 5 straight matches"
-      },
-      {
-        "id": "off-the-mark",
-        "date": "2026-06-11",
-        "how": "First points: Mexico v South Africa (+3)"
-      },
-      {
-        "id": "first-blood",
-        "date": "2026-06-11",
-        "how": "Mexico 2–0 South Africa — exact!"
-      },
-      {
-        "id": "crowd-surfer",
-        "date": "2026-06-11",
-        "how": "Mexico v South Africa — rode the 2–0 consensus"
-      },
-      {
-        "id": "reading-the-game",
-        "date": "2026-06-17",
-        "how": "4 correct results in a day"
-      },
-      {
-        "id": "steady-hand",
-        "date": "2026-06-15",
-        "how": "Points on 3 matchdays running"
-      },
-      {
-        "id": "cold-snap",
-        "date": "2026-06-12",
-        "how": "Blanked all 2 games that day"
       }
     ],
     "Andreas Panagos": [
@@ -1095,11 +1105,6 @@
         "id": "steady-hand",
         "date": "2026-06-16",
         "how": "Points on 3 matchdays running"
-      },
-      {
-        "id": "wooden-spoon",
-        "date": "2026-06-29",
-        "how": "Last place — rank 16"
       },
       {
         "id": "cold-snap",
@@ -1155,8 +1160,8 @@
       },
       {
         "id": "wooden-spoon",
-        "date": "2026-06-29",
-        "how": "Last place — rank 16"
+        "date": "2026-06-30",
+        "how": "Last place — rank 17"
       },
       {
         "id": "cold-snap",
