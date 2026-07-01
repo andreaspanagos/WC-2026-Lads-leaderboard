@@ -1781,7 +1781,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     },
     "Gustaf de la Motte": {
       "rank": 2,
@@ -3539,7 +3546,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     },
     "Jonathan Segelman": {
       "rank": 3,
@@ -5297,7 +5311,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     },
     "Lucas Johnson": {
       "rank": 4,
@@ -7055,7 +7076,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     },
     "Axel Dillner": {
       "rank": 5,
@@ -8813,7 +8841,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     },
     "Kasper Oldmark": {
       "rank": 5,
@@ -10571,7 +10606,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     },
     "Eddie Williamson": {
       "rank": 7,
@@ -12329,7 +12371,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     },
     "Erik Rystedt": {
       "rank": 7,
@@ -14087,7 +14136,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     },
     "Jakob Hägglund": {
       "rank": 9,
@@ -15845,7 +15901,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     },
     "Hjalmar Sörensen": {
       "rank": 10,
@@ -17603,7 +17666,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     },
     "Harald Johansson": {
       "rank": 11,
@@ -19361,7 +19431,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     },
     "Love Hardeberg": {
       "rank": 11,
@@ -21119,7 +21196,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     },
     "Wilmer": {
       "rank": 13,
@@ -22877,7 +22961,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     },
     "Calle Milebratt": {
       "rank": 14,
@@ -24635,7 +24726,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     },
     "Andreas Panagos": {
       "rank": 15,
@@ -26393,7 +26491,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     },
     "Oscar Holmbergh": {
       "rank": 16,
@@ -28151,7 +28256,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     },
     "Markus Ransved Nilsson": {
       "rank": 17,
@@ -29909,7 +30021,14 @@
           "status": "tbd",
           "earned": 0
         }
-      ]
+      ],
+      "today": {
+        "total": 0,
+        "group": 0,
+        "ko": 0,
+        "bonus": 0,
+        "items": []
+      }
     }
   }
 }
