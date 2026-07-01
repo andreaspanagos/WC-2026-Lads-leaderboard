@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-01 15:17",
+    "lastRefresh": "2026-07-01 21:36",
     "maxPoints": 729,
     "participants": 17,
     "maxAvailable": 261
@@ -27,12 +27,12 @@
   "detail": {
     "Fabian Boberg": {
       "rank": 1,
-      "total": 224,
+      "total": 230,
       "group": 99,
-      "ko": 105,
+      "ko": 111,
       "bonus": 20,
-      "pctMax": 0.8582,
-      "pointsToday": 0,
+      "pctMax": 0.8812,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -1483,9 +1483,9 @@
           },
           {
             "team": "England",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "France",
@@ -1783,21 +1783,27 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 6,
         "group": 0,
-        "ko": 0,
+        "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "England → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Gustaf de la Motte": {
       "rank": 2,
-      "total": 222,
+      "total": 228,
       "group": 96,
-      "ko": 111,
+      "ko": 117,
       "bonus": 15,
-      "pctMax": 0.8506,
-      "pointsToday": 0,
+      "pctMax": 0.8736,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -3242,9 +3248,9 @@
           },
           {
             "team": "England",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "France",
@@ -3548,21 +3554,27 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 6,
         "group": 0,
-        "ko": 0,
+        "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "England → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Axel Dillner": {
       "rank": 3,
-      "total": 215,
+      "total": 221,
       "group": 90,
-      "ko": 105,
+      "ko": 111,
       "bonus": 20,
-      "pctMax": 0.8238,
-      "pointsToday": 0,
+      "pctMax": 0.8467,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -5019,9 +5031,9 @@
           },
           {
             "team": "England",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "France",
@@ -5313,21 +5325,27 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 6,
         "group": 0,
-        "ko": 0,
+        "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "England → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Erik Rystedt": {
       "rank": 4,
-      "total": 213,
+      "total": 219,
       "group": 90,
-      "ko": 108,
+      "ko": 114,
       "bonus": 15,
-      "pctMax": 0.8161,
-      "pointsToday": 0,
+      "pctMax": 0.8391,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -6772,9 +6790,9 @@
           },
           {
             "team": "England",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "France",
@@ -7078,21 +7096,27 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 6,
         "group": 0,
-        "ko": 0,
+        "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "England → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Jonathan Segelman": {
       "rank": 4,
-      "total": 213,
+      "total": 219,
       "group": 85,
-      "ko": 108,
+      "ko": 114,
       "bonus": 20,
-      "pctMax": 0.8161,
-      "pointsToday": 0,
+      "pctMax": 0.8391,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -8543,9 +8567,9 @@
           },
           {
             "team": "England",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "France",
@@ -8843,21 +8867,27 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 6,
         "group": 0,
-        "ko": 0,
+        "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "England → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Jakob Hägglund": {
       "rank": 6,
-      "total": 210,
+      "total": 216,
       "group": 91,
-      "ko": 99,
+      "ko": 105,
       "bonus": 20,
-      "pctMax": 0.8046,
-      "pointsToday": 0,
+      "pctMax": 0.8276,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -10302,9 +10332,9 @@
           },
           {
             "team": "England",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "France",
@@ -10608,21 +10638,27 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 6,
         "group": 0,
-        "ko": 0,
+        "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "England → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Kasper Oldmark": {
       "rank": 6,
-      "total": 210,
+      "total": 216,
       "group": 81,
-      "ko": 114,
+      "ko": 120,
       "bonus": 15,
-      "pctMax": 0.8046,
-      "pointsToday": 0,
+      "pctMax": 0.8276,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -12067,9 +12103,9 @@
           },
           {
             "team": "England",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "France",
@@ -12373,21 +12409,27 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 6,
         "group": 0,
-        "ko": 0,
+        "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "England → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Eddie Williamson": {
       "rank": 8,
-      "total": 208,
+      "total": 214,
       "group": 89,
-      "ko": 99,
+      "ko": 105,
       "bonus": 20,
-      "pctMax": 0.7969,
-      "pointsToday": 0,
+      "pctMax": 0.8199,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -13826,9 +13868,9 @@
           },
           {
             "team": "England",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "France",
@@ -14138,21 +14180,27 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 6,
         "group": 0,
-        "ko": 0,
+        "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "England → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Harald Johansson": {
       "rank": 9,
-      "total": 207,
+      "total": 213,
       "group": 88,
-      "ko": 99,
+      "ko": 105,
       "bonus": 20,
-      "pctMax": 0.7931,
-      "pointsToday": 0,
+      "pctMax": 0.8161,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -15591,9 +15639,9 @@
           },
           {
             "team": "England",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "France",
@@ -15903,21 +15951,27 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 6,
         "group": 0,
-        "ko": 0,
+        "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "England → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Love Hardeberg": {
       "rank": 9,
-      "total": 207,
+      "total": 213,
       "group": 85,
-      "ko": 102,
+      "ko": 108,
       "bonus": 20,
-      "pctMax": 0.7931,
-      "pointsToday": 0,
+      "pctMax": 0.8161,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -17356,9 +17410,9 @@
           },
           {
             "team": "England",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "France",
@@ -17668,21 +17722,27 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 6,
         "group": 0,
-        "ko": 0,
+        "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "England → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Lucas Johnson": {
       "rank": 9,
-      "total": 207,
+      "total": 213,
       "group": 90,
-      "ko": 102,
+      "ko": 108,
       "bonus": 15,
-      "pctMax": 0.7931,
-      "pointsToday": 0,
+      "pctMax": 0.8161,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -19127,9 +19187,9 @@
           },
           {
             "team": "England",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "France",
@@ -19433,21 +19493,27 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 6,
         "group": 0,
-        "ko": 0,
+        "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "England → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Wilmer": {
       "rank": 12,
-      "total": 206,
+      "total": 212,
       "group": 86,
-      "ko": 105,
+      "ko": 111,
       "bonus": 15,
-      "pctMax": 0.7893,
-      "pointsToday": 0,
+      "pctMax": 0.8123,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -20904,9 +20970,9 @@
           },
           {
             "team": "England",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "Germany",
@@ -21198,21 +21264,27 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 6,
         "group": 0,
-        "ko": 0,
+        "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "England → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Calle Milebratt": {
       "rank": 13,
-      "total": 205,
+      "total": 211,
       "group": 89,
-      "ko": 96,
+      "ko": 102,
       "bonus": 20,
-      "pctMax": 0.7854,
-      "pointsToday": 0,
+      "pctMax": 0.8084,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -22651,9 +22723,9 @@
           },
           {
             "team": "England",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "France",
@@ -22963,21 +23035,27 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 6,
         "group": 0,
-        "ko": 0,
+        "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "England → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Hjalmar Sörensen": {
       "rank": 14,
-      "total": 203,
+      "total": 209,
       "group": 97,
-      "ko": 96,
+      "ko": 102,
       "bonus": 10,
-      "pctMax": 0.7778,
-      "pointsToday": 0,
+      "pctMax": 0.8008,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -24410,9 +24488,9 @@
           },
           {
             "team": "England",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "France",
@@ -24728,21 +24806,27 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 6,
         "group": 0,
-        "ko": 0,
+        "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "England → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Andreas Panagos": {
       "rank": 15,
-      "total": 198,
+      "total": 204,
       "group": 78,
-      "ko": 105,
+      "ko": 111,
       "bonus": 15,
-      "pctMax": 0.7586,
-      "pointsToday": 0,
+      "pctMax": 0.7816,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -26187,9 +26271,9 @@
           },
           {
             "team": "England",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "France",
@@ -26493,21 +26577,27 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 6,
         "group": 0,
-        "ko": 0,
+        "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "England → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Oscar Holmbergh": {
       "rank": 16,
-      "total": 195,
+      "total": 201,
       "group": 79,
-      "ko": 96,
+      "ko": 102,
       "bonus": 20,
-      "pctMax": 0.7471,
-      "pointsToday": 0,
+      "pctMax": 0.7701,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -27964,9 +28054,9 @@
           },
           {
             "team": "England",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "France",
@@ -28258,21 +28348,27 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 6,
         "group": 0,
-        "ko": 0,
+        "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "England → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Markus Ransved Nilsson": {
       "rank": 17,
-      "total": 176,
+      "total": 182,
       "group": 81,
-      "ko": 90,
+      "ko": 96,
       "bonus": 5,
-      "pctMax": 0.6743,
-      "pointsToday": 0,
+      "pctMax": 0.6973,
+      "pointsToday": 6,
       "games": [
         {
           "group": "A",
@@ -29723,9 +29819,9 @@
           },
           {
             "team": "England",
-            "hit": false,
-            "pts": 0,
-            "status": "pending"
+            "hit": true,
+            "pts": 6,
+            "status": "hit"
           },
           {
             "team": "France",
@@ -30023,11 +30119,17 @@
         }
       ],
       "today": {
-        "total": 0,
+        "total": 6,
         "group": 0,
-        "ko": 0,
+        "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "England → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     }
   }
