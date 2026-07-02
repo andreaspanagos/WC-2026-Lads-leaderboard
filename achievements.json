@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-02 07:25",
+    "lastRefresh": "2026-07-02 23:20",
     "maxPoints": 729,
     "participants": 17,
-    "maxAvailable": 453
+    "maxAvailable": 459
   },
   "catalog": [
     {
@@ -458,6 +458,53 @@
         "how": "Blanked all 2 games that day"
       }
     ],
+    "Kasper Oldmark": [
+      {
+        "id": "perfect-day",
+        "date": "2026-06-19",
+        "how": "Scored on all 3 games that day"
+      },
+      {
+        "id": "hot-streak",
+        "date": "2026-06-20",
+        "how": "Points in 5 straight matches"
+      },
+      {
+        "id": "on-the-rise",
+        "date": "2026-06-30",
+        "how": "#17 → #15 → #11"
+      },
+      {
+        "id": "off-the-mark",
+        "date": "2026-06-11",
+        "how": "First points: Mexico v South Africa (+3)"
+      },
+      {
+        "id": "first-blood",
+        "date": "2026-06-11",
+        "how": "Mexico 2–0 South Africa — exact!"
+      },
+      {
+        "id": "crowd-surfer",
+        "date": "2026-06-11",
+        "how": "Mexico v South Africa — rode the 2–0 consensus"
+      },
+      {
+        "id": "reading-the-game",
+        "date": "2026-06-17",
+        "how": "4 correct results in a day"
+      },
+      {
+        "id": "steady-hand",
+        "date": "2026-06-15",
+        "how": "Points on 3 matchdays running"
+      },
+      {
+        "id": "cold-snap",
+        "date": "2026-06-12",
+        "how": "Blanked all 2 games that day"
+      }
+    ],
     "Eddie Williamson": [
       {
         "id": "crystal-ball",
@@ -679,53 +726,6 @@
         "id": "steady-hand",
         "date": "2026-06-13",
         "how": "Points on 3 matchdays running"
-      }
-    ],
-    "Kasper Oldmark": [
-      {
-        "id": "perfect-day",
-        "date": "2026-06-19",
-        "how": "Scored on all 3 games that day"
-      },
-      {
-        "id": "hot-streak",
-        "date": "2026-06-20",
-        "how": "Points in 5 straight matches"
-      },
-      {
-        "id": "on-the-rise",
-        "date": "2026-06-30",
-        "how": "#17 → #15 → #11"
-      },
-      {
-        "id": "off-the-mark",
-        "date": "2026-06-11",
-        "how": "First points: Mexico v South Africa (+3)"
-      },
-      {
-        "id": "first-blood",
-        "date": "2026-06-11",
-        "how": "Mexico 2–0 South Africa — exact!"
-      },
-      {
-        "id": "crowd-surfer",
-        "date": "2026-06-11",
-        "how": "Mexico v South Africa — rode the 2–0 consensus"
-      },
-      {
-        "id": "reading-the-game",
-        "date": "2026-06-17",
-        "how": "4 correct results in a day"
-      },
-      {
-        "id": "steady-hand",
-        "date": "2026-06-15",
-        "how": "Points on 3 matchdays running"
-      },
-      {
-        "id": "cold-snap",
-        "date": "2026-06-12",
-        "how": "Blanked all 2 games that day"
       }
     ],
     "Harald Johansson": [
