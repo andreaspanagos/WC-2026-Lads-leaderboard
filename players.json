@@ -1787,7 +1787,23 @@
         "group": 0,
         "ko": 12,
         "bonus": 5,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          },
+          {
+            "type": "ko",
+            "label": "USA → Round of 16",
+            "pts": 6
+          },
+          {
+            "type": "bonus",
+            "label": "B09: Number of extra-time or penalty shoot-outs in knockout stage",
+            "pts": 5
+          }
+        ]
       }
     },
     "Gustaf de la Motte": {
@@ -3552,7 +3568,18 @@
         "group": 0,
         "ko": 12,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          },
+          {
+            "type": "ko",
+            "label": "USA → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Jonathan Segelman": {
@@ -5317,7 +5344,23 @@
         "group": 0,
         "ko": 12,
         "bonus": 5,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          },
+          {
+            "type": "ko",
+            "label": "USA → Round of 16",
+            "pts": 6
+          },
+          {
+            "type": "bonus",
+            "label": "B03: Total number of goals (all tournament)",
+            "pts": 5
+          }
+        ]
       }
     },
     "Axel Dillner": {
@@ -7082,7 +7125,18 @@
         "group": 0,
         "ko": 12,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          },
+          {
+            "type": "ko",
+            "label": "USA → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Eddie Williamson": {
@@ -8847,7 +8901,23 @@
         "group": 0,
         "ko": 12,
         "bonus": 5,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          },
+          {
+            "type": "ko",
+            "label": "USA → Round of 16",
+            "pts": 6
+          },
+          {
+            "type": "bonus",
+            "label": "B03: Total number of goals (all tournament)",
+            "pts": 5
+          }
+        ]
       }
     },
     "Erik Rystedt": {
@@ -10612,7 +10682,18 @@
         "group": 0,
         "ko": 12,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          },
+          {
+            "type": "ko",
+            "label": "USA → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Lucas Johnson": {
@@ -12377,7 +12458,23 @@
         "group": 0,
         "ko": 12,
         "bonus": 5,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          },
+          {
+            "type": "ko",
+            "label": "USA → Round of 16",
+            "pts": 6
+          },
+          {
+            "type": "bonus",
+            "label": "B03: Total number of goals (all tournament)",
+            "pts": 5
+          }
+        ]
       }
     },
     "Jakob Hägglund": {
@@ -14142,7 +14239,18 @@
         "group": 0,
         "ko": 12,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          },
+          {
+            "type": "ko",
+            "label": "USA → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Kasper Oldmark": {
@@ -15907,7 +16015,18 @@
         "group": 0,
         "ko": 12,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          },
+          {
+            "type": "ko",
+            "label": "USA → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Harald Johansson": {
@@ -17672,7 +17791,18 @@
         "group": 0,
         "ko": 12,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          },
+          {
+            "type": "ko",
+            "label": "USA → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Love Hardeberg": {
@@ -19437,7 +19567,18 @@
         "group": 0,
         "ko": 12,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          },
+          {
+            "type": "ko",
+            "label": "USA → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Wilmer": {
@@ -21202,7 +21343,18 @@
         "group": 0,
         "ko": 12,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          },
+          {
+            "type": "ko",
+            "label": "USA → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Calle Milebratt": {
@@ -22967,7 +23119,23 @@
         "group": 0,
         "ko": 12,
         "bonus": -5,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          },
+          {
+            "type": "ko",
+            "label": "USA → Round of 16",
+            "pts": 6
+          },
+          {
+            "type": "bonus",
+            "label": "B09: Number of extra-time or penalty shoot-outs in knockout stage",
+            "pts": -5
+          }
+        ]
       }
     },
     "Hjalmar Sörensen": {
@@ -24732,7 +24900,18 @@
         "group": 0,
         "ko": 12,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          },
+          {
+            "type": "ko",
+            "label": "USA → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Andreas Panagos": {
@@ -26497,7 +26676,13 @@
         "group": 0,
         "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Oscar Holmbergh": {
@@ -28262,7 +28447,13 @@
         "group": 0,
         "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     },
     "Markus Ransved Nilsson": {
@@ -30027,7 +30218,13 @@
         "group": 0,
         "ko": 6,
         "bonus": 0,
-        "items": []
+        "items": [
+          {
+            "type": "ko",
+            "label": "Belgium → Round of 16",
+            "pts": 6
+          }
+        ]
       }
     }
   }
