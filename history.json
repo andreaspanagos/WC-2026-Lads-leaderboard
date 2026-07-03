@@ -1453,71 +1453,71 @@
       "standings": {
         "Fabian Boberg": {
           "rank": 1,
-          "total": 259
+          "total": 265
         },
         "Gustaf de la Motte": {
           "rank": 2,
-          "total": 252
+          "total": 258
         },
         "Kasper Oldmark": {
           "rank": 3,
-          "total": 245
-        },
-        "Eddie Williamson": {
-          "rank": 4,
-          "total": 243
+          "total": 251
         },
         "Erik Rystedt": {
           "rank": 4,
-          "total": 243
+          "total": 249
         },
         "Jonathan Segelman": {
           "rank": 4,
+          "total": 249
+        },
+        "Jakob Hägglund": {
+          "rank": 6,
+          "total": 246
+        },
+        "Axel Dillner": {
+          "rank": 7,
+          "total": 245
+        },
+        "Eddie Williamson": {
+          "rank": 8,
+          "total": 244
+        },
+        "Harald Johansson": {
+          "rank": 9,
+          "total": 243
+        },
+        "Love Hardeberg": {
+          "rank": 9,
           "total": 243
         },
         "Lucas Johnson": {
-          "rank": 7,
-          "total": 242
-        },
-        "Jakob Hägglund": {
-          "rank": 8,
-          "total": 240
-        },
-        "Axel Dillner": {
           "rank": 9,
-          "total": 239
-        },
-        "Harald Johansson": {
-          "rank": 10,
-          "total": 237
-        },
-        "Love Hardeberg": {
-          "rank": 10,
-          "total": 237
+          "total": 243
         },
         "Hjalmar Sörensen": {
           "rank": 12,
-          "total": 233
+          "total": 239
         },
         "Calle Milebratt": {
           "rank": 13,
-          "total": 230
+          "total": 236
         },
         "Wilmer": {
-          "rank": 13,
+          "rank": 14,
           "total": 230
         },
         "Andreas Panagos": {
           "rank": 15,
-          "total": 222
+          "total": 228
         },
         "Oscar Holmbergh": {
           "rank": 16,
-          "total": 219
+          "total": 225
         },
         "Markus Ransved Nilsson": {
           "rank": 17,
-          "total": 200
+          "total": 206
         }
       }
     }
