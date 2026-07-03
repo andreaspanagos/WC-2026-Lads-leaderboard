@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-02 23:20",
+    "lastRefresh": "2026-07-03 03:50",
     "maxPoints": 729,
     "participants": 17,
-    "maxAvailable": 459,
+    "maxAvailable": 465,
     "drawn": true
   },
   "matches": [
@@ -327,9 +327,9 @@
       "home": "Portugal",
       "away": "Croatia",
       "kickoff": "2026-07-03 01:00",
-      "hg": null,
-      "ag": null,
-      "winner": null,
+      "hg": 2,
+      "ag": 1,
+      "winner": "Portugal",
       "pens": false,
       "homePick": {
         "pct": 88,
@@ -649,19 +649,25 @@
         "M83",
         "M84"
       ],
-      "home": null,
+      "home": "Portugal",
       "away": "Spain",
       "kickoff": "",
       "hg": null,
       "ag": null,
       "winner": null,
       "pens": false,
-      "homePick": null,
+      "homePick": {
+        "pct": 88,
+        "count": 15
+      },
       "awayPick": {
         "pct": 100,
         "count": 17
       },
-      "homeReach": null,
+      "homeReach": {
+        "pct": 88,
+        "count": 15
+      },
       "awayReach": {
         "pct": 100,
         "count": 17
