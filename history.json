@@ -1745,71 +1745,71 @@
       "standings": {
         "Fabian Boberg": {
           "rank": 1,
-          "total": 313
+          "total": 322
         },
         "Gustaf de la Motte": {
           "rank": 2,
-          "total": 306
+          "total": 315
         },
         "Kasper Oldmark": {
           "rank": 3,
-          "total": 303
+          "total": 312
         },
         "Jakob Hägglund": {
           "rank": 4,
-          "total": 298
+          "total": 307
         },
         "Axel Dillner": {
           "rank": 5,
-          "total": 293
-        },
-        "Andreas Panagos": {
-          "rank": 6,
-          "total": 291
-        },
-        "Erik Rystedt": {
-          "rank": 6,
-          "total": 291
-        },
-        "Jonathan Segelman": {
-          "rank": 6,
-          "total": 291
-        },
-        "Love Hardeberg": {
-          "rank": 6,
-          "total": 291
-        },
-        "Lucas Johnson": {
-          "rank": 6,
-          "total": 291
-        },
-        "Hjalmar Sörensen": {
-          "rank": 11,
-          "total": 287
+          "total": 302
         },
         "Wilmer": {
-          "rank": 11,
-          "total": 287
+          "rank": 6,
+          "total": 301
+        },
+        "Andreas Panagos": {
+          "rank": 7,
+          "total": 300
+        },
+        "Erik Rystedt": {
+          "rank": 7,
+          "total": 300
+        },
+        "Jonathan Segelman": {
+          "rank": 7,
+          "total": 300
+        },
+        "Love Hardeberg": {
+          "rank": 7,
+          "total": 300
+        },
+        "Lucas Johnson": {
+          "rank": 7,
+          "total": 300
+        },
+        "Hjalmar Sörensen": {
+          "rank": 12,
+          "total": 296
         },
         "Calle Milebratt": {
           "rank": 13,
-          "total": 284
-        },
-        "Harald Johansson": {
-          "rank": 14,
-          "total": 281
+          "total": 293
         },
         "Eddie Williamson": {
+          "rank": 14,
+          "total": 286
+        },
+        "Harald Johansson": {
           "rank": 15,
-          "total": 277
+          "total": 285
         },
         "Oscar Holmbergh": {
           "rank": 16,
-          "total": 273
+          "total": 282
         },
         "Markus Ransved Nilsson": {
           "rank": 17,
-          "total": 263
+          "total": 272
         }
       }
     }
