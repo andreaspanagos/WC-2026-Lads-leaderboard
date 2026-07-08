@@ -1,18 +1,18 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-07 20:50",
+    "lastRefresh": "2026-07-08 09:46",
     "maxPoints": 729,
     "participants": 17,
-    "maxAvailable": 552
+    "maxAvailable": 561
   },
   "players": [
     "Fabian Boberg",
     "Gustaf de la Motte",
     "Kasper Oldmark",
+    "Andreas Panagos",
     "Jakob Hägglund",
     "Axel Dillner",
     "Wilmer",
-    "Andreas Panagos",
     "Erik Rystedt",
     "Jonathan Segelman",
     "Love Hardeberg",
@@ -160,9 +160,9 @@
               "pct": 18,
               "pts": 1,
               "players": [
+                "Andreas Panagos",
                 "Axel Dillner",
-                "Wilmer",
-                "Andreas Panagos"
+                "Wilmer"
               ]
             },
             {
@@ -373,8 +373,8 @@
               "pct": 29,
               "pts": 0,
               "players": [
-                "Axel Dillner",
                 "Andreas Panagos",
+                "Axel Dillner",
                 "Love Hardeberg",
                 "Oscar Holmbergh",
                 "Markus Ransved Nilsson"
@@ -463,8 +463,8 @@
               "pct": 18,
               "pts": 1,
               "players": [
-                "Axel Dillner",
                 "Andreas Panagos",
+                "Axel Dillner",
                 "Jonathan Segelman"
               ]
             },
@@ -565,9 +565,9 @@
           "players": [
             "Fabian Boberg",
             "Gustaf de la Motte",
+            "Andreas Panagos",
             "Jakob Hägglund",
             "Wilmer",
-            "Andreas Panagos",
             "Jonathan Segelman",
             "Love Hardeberg",
             "Lucas Johnson",
@@ -694,8 +694,8 @@
               "pct": 12,
               "pts": 0,
               "players": [
-                "Wilmer",
-                "Andreas Panagos"
+                "Andreas Panagos",
+                "Wilmer"
               ]
             },
             {
@@ -774,8 +774,8 @@
               "pct": 12,
               "pts": 0,
               "players": [
-                "Wilmer",
-                "Andreas Panagos"
+                "Andreas Panagos",
+                "Wilmer"
               ]
             },
             {
@@ -979,8 +979,8 @@
               "players": [
                 "Fabian Boberg",
                 "Gustaf de la Motte",
-                "Jakob Hägglund",
                 "Andreas Panagos",
+                "Jakob Hägglund",
                 "Calle Milebratt",
                 "Eddie Williamson"
               ]
@@ -1110,10 +1110,10 @@
             "Fabian Boberg",
             "Gustaf de la Motte",
             "Kasper Oldmark",
+            "Andreas Panagos",
             "Jakob Hägglund",
             "Axel Dillner",
             "Wilmer",
-            "Andreas Panagos",
             "Erik Rystedt",
             "Jonathan Segelman",
             "Love Hardeberg",
@@ -1298,8 +1298,8 @@
               "pct": 18,
               "pts": 3,
               "players": [
-                "Axel Dillner",
                 "Andreas Panagos",
+                "Axel Dillner",
                 "Hjalmar Sörensen"
               ]
             },
@@ -1587,9 +1587,9 @@
               "pts": 1,
               "players": [
                 "Kasper Oldmark",
+                "Andreas Panagos",
                 "Axel Dillner",
                 "Wilmer",
-                "Andreas Panagos",
                 "Lucas Johnson",
                 "Markus Ransved Nilsson"
               ]
@@ -1646,8 +1646,8 @@
           "count": 5,
           "pct": 29,
           "players": [
-            "Jakob Hägglund",
             "Andreas Panagos",
+            "Jakob Hägglund",
             "Love Hardeberg",
             "Eddie Williamson",
             "Markus Ransved Nilsson"
@@ -2171,8 +2171,8 @@
               "pct": 12,
               "pts": 1,
               "players": [
-                "Wilmer",
-                "Andreas Panagos"
+                "Andreas Panagos",
+                "Wilmer"
               ]
             },
             {
@@ -2238,10 +2238,10 @@
             "Fabian Boberg",
             "Gustaf de la Motte",
             "Kasper Oldmark",
+            "Andreas Panagos",
             "Jakob Hägglund",
             "Axel Dillner",
             "Wilmer",
-            "Andreas Panagos",
             "Erik Rystedt",
             "Jonathan Segelman",
             "Love Hardeberg",
@@ -2324,9 +2324,9 @@
               "pts": 1,
               "players": [
                 "Fabian Boberg",
+                "Andreas Panagos",
                 "Axel Dillner",
                 "Wilmer",
-                "Andreas Panagos",
                 "Erik Rystedt",
                 "Jonathan Segelman",
                 "Harald Johansson"
@@ -2568,8 +2568,8 @@
               "pct": 35,
               "pts": 0,
               "players": [
-                "Jakob Hägglund",
                 "Andreas Panagos",
+                "Jakob Hägglund",
                 "Jonathan Segelman",
                 "Lucas Johnson",
                 "Harald Johansson",
@@ -3234,10 +3234,10 @@
               "pts": 1,
               "players": [
                 "Gustaf de la Motte",
+                "Andreas Panagos",
                 "Jakob Hägglund",
                 "Axel Dillner",
                 "Wilmer",
-                "Andreas Panagos",
                 "Erik Rystedt",
                 "Love Hardeberg",
                 "Oscar Holmbergh",
@@ -3294,10 +3294,10 @@
             "Fabian Boberg",
             "Gustaf de la Motte",
             "Kasper Oldmark",
+            "Andreas Panagos",
             "Jakob Hägglund",
             "Axel Dillner",
             "Wilmer",
-            "Andreas Panagos",
             "Erik Rystedt",
             "Jonathan Segelman",
             "Love Hardeberg",
@@ -3381,8 +3381,8 @@
               "players": [
                 "Gustaf de la Motte",
                 "Kasper Oldmark",
-                "Jakob Hägglund",
                 "Andreas Panagos",
+                "Jakob Hägglund",
                 "Erik Rystedt",
                 "Jonathan Segelman",
                 "Hjalmar Sörensen"
@@ -3525,8 +3525,8 @@
               "pct": 29,
               "pts": 0,
               "players": [
-                "Axel Dillner",
                 "Andreas Panagos",
+                "Axel Dillner",
                 "Love Hardeberg",
                 "Hjalmar Sörensen",
                 "Harald Johansson"
@@ -3582,9 +3582,9 @@
               "pts": 1,
               "players": [
                 "Kasper Oldmark",
+                "Andreas Panagos",
                 "Jakob Hägglund",
                 "Axel Dillner",
-                "Andreas Panagos",
                 "Harald Johansson",
                 "Markus Ransved Nilsson"
               ]
@@ -3687,8 +3687,8 @@
               "pts": 0,
               "players": [
                 "Fabian Boberg",
-                "Jakob Hägglund",
-                "Andreas Panagos"
+                "Andreas Panagos",
+                "Jakob Hägglund"
               ]
             },
             {
@@ -3756,8 +3756,8 @@
               "pct": 12,
               "pts": 1,
               "players": [
-                "Axel Dillner",
-                "Andreas Panagos"
+                "Andreas Panagos",
+                "Axel Dillner"
               ]
             },
             {
@@ -3814,10 +3814,10 @@
             "Fabian Boberg",
             "Gustaf de la Motte",
             "Kasper Oldmark",
+            "Andreas Panagos",
             "Jakob Hägglund",
             "Axel Dillner",
             "Wilmer",
-            "Andreas Panagos",
             "Erik Rystedt",
             "Jonathan Segelman",
             "Love Hardeberg",
@@ -4111,8 +4111,8 @@
               "players": [
                 "Fabian Boberg",
                 "Kasper Oldmark",
-                "Jakob Hägglund",
                 "Andreas Panagos",
+                "Jakob Hägglund",
                 "Erik Rystedt",
                 "Lucas Johnson",
                 "Calle Milebratt",
@@ -4370,8 +4370,8 @@
           "pct": 18,
           "players": [
             "Kasper Oldmark",
-            "Wilmer",
-            "Andreas Panagos"
+            "Andreas Panagos",
+            "Wilmer"
           ],
           "correct": false
         }
@@ -4549,8 +4549,8 @@
               "pct": 18,
               "pts": 1,
               "players": [
-                "Wilmer",
                 "Andreas Panagos",
+                "Wilmer",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -4777,8 +4777,8 @@
               "pct": 18,
               "pts": 0,
               "players": [
-                "Wilmer",
                 "Andreas Panagos",
+                "Wilmer",
                 "Hjalmar Sörensen"
               ]
             },
@@ -4918,10 +4918,10 @@
             "Fabian Boberg",
             "Gustaf de la Motte",
             "Kasper Oldmark",
+            "Andreas Panagos",
             "Jakob Hägglund",
             "Axel Dillner",
             "Wilmer",
-            "Andreas Panagos",
             "Erik Rystedt",
             "Jonathan Segelman",
             "Love Hardeberg",
@@ -5075,8 +5075,8 @@
               "players": [
                 "Fabian Boberg",
                 "Kasper Oldmark",
-                "Jakob Hägglund",
                 "Andreas Panagos",
+                "Jakob Hägglund",
                 "Erik Rystedt",
                 "Lucas Johnson",
                 "Calle Milebratt",
@@ -5144,9 +5144,9 @@
               "pts": 1,
               "players": [
                 "Fabian Boberg",
+                "Andreas Panagos",
                 "Jakob Hägglund",
                 "Axel Dillner",
-                "Andreas Panagos",
                 "Erik Rystedt",
                 "Love Hardeberg",
                 "Lucas Johnson",
@@ -5405,9 +5405,9 @@
               "pct": 18,
               "pts": 1,
               "players": [
+                "Andreas Panagos",
                 "Jakob Hägglund",
-                "Axel Dillner",
-                "Andreas Panagos"
+                "Axel Dillner"
               ]
             },
             {
@@ -5446,9 +5446,9 @@
             "Fabian Boberg",
             "Gustaf de la Motte",
             "Kasper Oldmark",
+            "Andreas Panagos",
             "Jakob Hägglund",
             "Axel Dillner",
-            "Andreas Panagos",
             "Erik Rystedt",
             "Jonathan Segelman",
             "Love Hardeberg",
@@ -5820,8 +5820,8 @@
               "pts": 1,
               "players": [
                 "Kasper Oldmark",
-                "Axel Dillner",
                 "Andreas Panagos",
+                "Axel Dillner",
                 "Erik Rystedt",
                 "Hjalmar Sörensen"
               ]
@@ -5998,10 +5998,10 @@
             "Fabian Boberg",
             "Gustaf de la Motte",
             "Kasper Oldmark",
+            "Andreas Panagos",
             "Jakob Hägglund",
             "Axel Dillner",
             "Wilmer",
-            "Andreas Panagos",
             "Erik Rystedt",
             "Jonathan Segelman",
             "Love Hardeberg",
@@ -6109,9 +6109,9 @@
               "pct": 24,
               "pts": 1,
               "players": [
+                "Andreas Panagos",
                 "Jakob Hägglund",
                 "Wilmer",
-                "Andreas Panagos",
                 "Jonathan Segelman"
               ]
             },
@@ -6162,9 +6162,9 @@
               "pts": 1,
               "players": [
                 "Fabian Boberg",
+                "Andreas Panagos",
                 "Jakob Hägglund",
                 "Axel Dillner",
-                "Andreas Panagos",
                 "Erik Rystedt",
                 "Markus Ransved Nilsson"
               ]
@@ -7239,7 +7239,7 @@
       "played": false,
       "hg": null,
       "ag": null,
-      "winner": null,
+      "winner": "Switzerland",
       "pens": false,
       "homePick": {
         "pct": 0,
@@ -7358,8 +7358,8 @@
       "round": "QF",
       "label": "Quarter-final",
       "home": "Argentina",
-      "away": null,
-      "kickoff": "",
+      "away": "Switzerland",
+      "kickoff": "2026-07-12 03:00",
       "played": false,
       "hg": null,
       "ag": null,
@@ -7369,13 +7369,19 @@
         "pct": 88,
         "count": 15
       },
-      "awayPick": null,
+      "awayPick": {
+        "pct": 0,
+        "count": 0
+      },
       "homeReach": {
         "pct": 100,
         "count": 17
       },
-      "awayReach": null,
-      "status": "pending"
+      "awayReach": {
+        "pct": 0,
+        "count": 0
+      },
+      "status": "scheduled"
     },
     {
       "id": "M101",

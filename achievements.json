@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-07 20:50",
+    "lastRefresh": "2026-07-08 09:46",
     "maxPoints": 729,
     "participants": 17,
-    "maxAvailable": 552
+    "maxAvailable": 561
   },
   "catalog": [
     {
@@ -356,6 +356,68 @@
         "how": "Blanked all 2 games that day"
       }
     ],
+    "Andreas Panagos": [
+      {
+        "id": "crystal-ball",
+        "date": "2026-06-27",
+        "how": "Cabo Verde 0–0 Saudi Arabia — the only exact call"
+      },
+      {
+        "id": "the-sweep",
+        "date": "2026-06-28",
+        "how": "All 6 Group J results correct"
+      },
+      {
+        "id": "perfect-day",
+        "date": "2026-06-28",
+        "how": "Scored on all 4 games that day"
+      },
+      {
+        "id": "giant-slayer",
+        "date": "2026-06-28",
+        "how": "Algeria v Austria — only 3 players scored"
+      },
+      {
+        "id": "hot-streak",
+        "date": "2026-06-23",
+        "how": "Points in 5 straight matches"
+      },
+      {
+        "id": "the-comeback",
+        "date": "2026-07-06",
+        "how": "#14 → #6 in a day"
+      },
+      {
+        "id": "off-the-mark",
+        "date": "2026-06-11",
+        "how": "First points: Mexico v South Africa (+1)"
+      },
+      {
+        "id": "first-blood",
+        "date": "2026-06-14",
+        "how": "Haiti 0–1 Scotland — exact!"
+      },
+      {
+        "id": "crowd-surfer",
+        "date": "2026-06-14",
+        "how": "Germany v Curaçao — rode the 4–0 consensus"
+      },
+      {
+        "id": "reading-the-game",
+        "date": "2026-06-17",
+        "how": "4 correct results in a day"
+      },
+      {
+        "id": "steady-hand",
+        "date": "2026-06-16",
+        "how": "Points on 3 matchdays running"
+      },
+      {
+        "id": "cold-snap",
+        "date": "2026-06-13",
+        "how": "Blanked all 2 games that day"
+      }
+    ],
     "Jakob Hägglund": [
       {
         "id": "perfect-day",
@@ -554,68 +616,6 @@
       {
         "id": "cold-snap",
         "date": "2026-06-12",
-        "how": "Blanked all 2 games that day"
-      }
-    ],
-    "Andreas Panagos": [
-      {
-        "id": "crystal-ball",
-        "date": "2026-06-27",
-        "how": "Cabo Verde 0–0 Saudi Arabia — the only exact call"
-      },
-      {
-        "id": "the-sweep",
-        "date": "2026-06-28",
-        "how": "All 6 Group J results correct"
-      },
-      {
-        "id": "perfect-day",
-        "date": "2026-06-28",
-        "how": "Scored on all 4 games that day"
-      },
-      {
-        "id": "giant-slayer",
-        "date": "2026-06-28",
-        "how": "Algeria v Austria — only 3 players scored"
-      },
-      {
-        "id": "hot-streak",
-        "date": "2026-06-23",
-        "how": "Points in 5 straight matches"
-      },
-      {
-        "id": "the-comeback",
-        "date": "2026-07-06",
-        "how": "#14 → #6 in a day"
-      },
-      {
-        "id": "off-the-mark",
-        "date": "2026-06-11",
-        "how": "First points: Mexico v South Africa (+1)"
-      },
-      {
-        "id": "first-blood",
-        "date": "2026-06-14",
-        "how": "Haiti 0–1 Scotland — exact!"
-      },
-      {
-        "id": "crowd-surfer",
-        "date": "2026-06-14",
-        "how": "Germany v Curaçao — rode the 4–0 consensus"
-      },
-      {
-        "id": "reading-the-game",
-        "date": "2026-06-17",
-        "how": "4 correct results in a day"
-      },
-      {
-        "id": "steady-hand",
-        "date": "2026-06-16",
-        "how": "Points on 3 matchdays running"
-      },
-      {
-        "id": "cold-snap",
-        "date": "2026-06-13",
         "how": "Blanked all 2 games that day"
       }
     ],
@@ -1185,7 +1185,7 @@
       },
       {
         "id": "wooden-spoon",
-        "date": "2026-07-07",
+        "date": "2026-07-08",
         "how": "Last place — rank 17"
       },
       {
