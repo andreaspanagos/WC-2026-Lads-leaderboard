@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-10 10:31",
+    "lastRefresh": "2026-07-10 23:22",
     "maxPoints": 729,
     "participants": 17,
-    "maxAvailable": 573
+    "maxAvailable": 585
   },
   "players": [
     "Fabian Boberg",
@@ -18,9 +18,9 @@
     "Jakob Hägglund",
     "Calle Milebratt",
     "Wilmer",
+    "Hjalmar Sörensen",
     "Eddie Williamson",
     "Harald Johansson",
-    "Hjalmar Sörensen",
     "Markus Ransved Nilsson",
     "Oscar Holmbergh"
   ],
@@ -46,9 +46,9 @@
             "Jakob Hägglund",
             "Calle Milebratt",
             "Wilmer",
+            "Hjalmar Sörensen",
             "Eddie Williamson",
             "Harald Johansson",
-            "Hjalmar Sörensen",
             "Oscar Holmbergh"
           ],
           "correct": true
@@ -147,9 +147,9 @@
                 "Lucas Johnson",
                 "Jakob Hägglund",
                 "Calle Milebratt",
+                "Hjalmar Sörensen",
                 "Eddie Williamson",
                 "Harald Johansson",
-                "Hjalmar Sörensen",
                 "Markus Ransved Nilsson",
                 "Oscar Holmbergh"
               ]
@@ -211,8 +211,8 @@
               "players": [
                 "Erik Rystedt",
                 "Calle Milebratt",
-                "Harald Johansson",
-                "Hjalmar Sörensen"
+                "Hjalmar Sörensen",
+                "Harald Johansson"
               ]
             },
             {
@@ -509,9 +509,9 @@
                 "Lucas Johnson",
                 "Jakob Hägglund",
                 "Calle Milebratt",
+                "Hjalmar Sörensen",
                 "Eddie Williamson",
                 "Harald Johansson",
-                "Hjalmar Sörensen",
                 "Oscar Holmbergh"
               ]
             },
@@ -572,9 +572,9 @@
             "Jakob Hägglund",
             "Calle Milebratt",
             "Wilmer",
+            "Hjalmar Sörensen",
             "Eddie Williamson",
             "Harald Johansson",
-            "Hjalmar Sörensen",
             "Markus Ransved Nilsson",
             "Oscar Holmbergh"
           ],
@@ -818,9 +818,9 @@
                 "Fabian Boberg",
                 "Jonathan Segelman",
                 "Calle Milebratt",
+                "Hjalmar Sörensen",
                 "Eddie Williamson",
                 "Harald Johansson",
-                "Hjalmar Sörensen",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -1119,9 +1119,9 @@
             "Jakob Hägglund",
             "Calle Milebratt",
             "Wilmer",
+            "Hjalmar Sörensen",
             "Eddie Williamson",
             "Harald Johansson",
-            "Hjalmar Sörensen",
             "Markus Ransved Nilsson",
             "Oscar Holmbergh"
           ],
@@ -1441,8 +1441,8 @@
                 "Erik Rystedt",
                 "Jakob Hägglund",
                 "Calle Milebratt",
-                "Harald Johansson",
-                "Hjalmar Sörensen"
+                "Hjalmar Sörensen",
+                "Harald Johansson"
               ]
             },
             {
@@ -1526,8 +1526,8 @@
                 "Fabian Boberg",
                 "Gustaf de la Motte",
                 "Erik Rystedt",
-                "Eddie Williamson",
                 "Hjalmar Sörensen",
+                "Eddie Williamson",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -1636,8 +1636,8 @@
             "Lucas Johnson",
             "Calle Milebratt",
             "Wilmer",
-            "Harald Johansson",
-            "Hjalmar Sörensen"
+            "Hjalmar Sörensen",
+            "Harald Johansson"
           ],
           "correct": true
         },
@@ -1805,9 +1805,9 @@
                 "Axel Dillner",
                 "Erik Rystedt",
                 "Lucas Johnson",
+                "Hjalmar Sörensen",
                 "Eddie Williamson",
                 "Harald Johansson",
-                "Hjalmar Sörensen",
                 "Oscar Holmbergh"
               ]
             },
@@ -1976,8 +1976,8 @@
                 "Jonathan Segelman",
                 "Love Hardeberg",
                 "Jakob Hägglund",
-                "Harald Johansson",
-                "Hjalmar Sörensen"
+                "Hjalmar Sörensen",
+                "Harald Johansson"
               ]
             },
             {
@@ -2247,9 +2247,9 @@
             "Jakob Hägglund",
             "Calle Milebratt",
             "Wilmer",
+            "Hjalmar Sörensen",
             "Eddie Williamson",
             "Harald Johansson",
-            "Hjalmar Sörensen",
             "Markus Ransved Nilsson",
             "Oscar Holmbergh"
           ],
@@ -2420,8 +2420,8 @@
               "pct": 12,
               "pts": 0,
               "players": [
-                "Harald Johansson",
-                "Hjalmar Sörensen"
+                "Hjalmar Sörensen",
+                "Harald Johansson"
               ]
             },
             {
@@ -2557,8 +2557,8 @@
                 "Love Hardeberg",
                 "Calle Milebratt",
                 "Wilmer",
-                "Eddie Williamson",
                 "Hjalmar Sörensen",
+                "Eddie Williamson",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -2671,8 +2671,8 @@
                 "Lucas Johnson",
                 "Jakob Hägglund",
                 "Calle Milebratt",
-                "Harald Johansson",
-                "Hjalmar Sörensen"
+                "Hjalmar Sörensen",
+                "Harald Johansson"
               ]
             },
             {
@@ -2758,9 +2758,9 @@
             "Jakob Hägglund",
             "Calle Milebratt",
             "Wilmer",
+            "Hjalmar Sörensen",
             "Eddie Williamson",
             "Harald Johansson",
-            "Hjalmar Sörensen",
             "Markus Ransved Nilsson",
             "Oscar Holmbergh"
           ],
@@ -2846,9 +2846,9 @@
                 "Gustaf de la Motte",
                 "Erik Rystedt",
                 "Calle Milebratt",
+                "Hjalmar Sörensen",
                 "Eddie Williamson",
-                "Harald Johansson",
-                "Hjalmar Sörensen"
+                "Harald Johansson"
               ]
             },
             {
@@ -3174,8 +3174,8 @@
                 "Jonathan Segelman",
                 "Love Hardeberg",
                 "Wilmer",
-                "Harald Johansson",
                 "Hjalmar Sörensen",
+                "Harald Johansson",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -3254,8 +3254,8 @@
                 "Jonathan Segelman",
                 "Lucas Johnson",
                 "Calle Milebratt",
-                "Harald Johansson",
-                "Hjalmar Sörensen"
+                "Hjalmar Sörensen",
+                "Harald Johansson"
               ]
             },
             {
@@ -3303,9 +3303,9 @@
             "Jakob Hägglund",
             "Calle Milebratt",
             "Wilmer",
+            "Hjalmar Sörensen",
             "Eddie Williamson",
             "Harald Johansson",
-            "Hjalmar Sörensen",
             "Markus Ransved Nilsson",
             "Oscar Holmbergh"
           ],
@@ -3528,8 +3528,8 @@
                 "Andreas Panagos",
                 "Axel Dillner",
                 "Love Hardeberg",
-                "Harald Johansson",
-                "Hjalmar Sörensen"
+                "Hjalmar Sörensen",
+                "Harald Johansson"
               ]
             },
             {
@@ -3823,9 +3823,9 @@
             "Jakob Hägglund",
             "Calle Milebratt",
             "Wilmer",
+            "Hjalmar Sörensen",
             "Eddie Williamson",
             "Harald Johansson",
-            "Hjalmar Sörensen",
             "Markus Ransved Nilsson",
             "Oscar Holmbergh"
           ],
@@ -3976,8 +3976,8 @@
                 "Erik Rystedt",
                 "Lucas Johnson",
                 "Calle Milebratt",
-                "Harald Johansson",
                 "Hjalmar Sörensen",
+                "Harald Johansson",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -4053,9 +4053,9 @@
                 "Jakob Hägglund",
                 "Calle Milebratt",
                 "Wilmer",
+                "Hjalmar Sörensen",
                 "Eddie Williamson",
-                "Harald Johansson",
-                "Hjalmar Sörensen"
+                "Harald Johansson"
               ]
             },
             {
@@ -4356,9 +4356,9 @@
             "Lucas Johnson",
             "Jakob Hägglund",
             "Calle Milebratt",
+            "Hjalmar Sörensen",
             "Eddie Williamson",
             "Harald Johansson",
-            "Hjalmar Sörensen",
             "Markus Ransved Nilsson",
             "Oscar Holmbergh"
           ],
@@ -4447,8 +4447,8 @@
                 "Axel Dillner",
                 "Jakob Hägglund",
                 "Calle Milebratt",
-                "Eddie Williamson",
                 "Hjalmar Sörensen",
+                "Eddie Williamson",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -4526,8 +4526,8 @@
                 "Axel Dillner",
                 "Love Hardeberg",
                 "Lucas Johnson",
-                "Harald Johansson",
-                "Hjalmar Sörensen"
+                "Hjalmar Sörensen",
+                "Harald Johansson"
               ]
             },
             {
@@ -4682,8 +4682,8 @@
               "pts": 1,
               "players": [
                 "Fabian Boberg",
-                "Eddie Williamson",
                 "Hjalmar Sörensen",
+                "Eddie Williamson",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -4927,9 +4927,9 @@
             "Jakob Hägglund",
             "Calle Milebratt",
             "Wilmer",
+            "Hjalmar Sörensen",
             "Eddie Williamson",
             "Harald Johansson",
-            "Hjalmar Sörensen",
             "Markus Ransved Nilsson",
             "Oscar Holmbergh"
           ],
@@ -5011,8 +5011,8 @@
                 "Jakob Hägglund",
                 "Calle Milebratt",
                 "Wilmer",
-                "Harald Johansson",
-                "Hjalmar Sörensen"
+                "Hjalmar Sörensen",
+                "Harald Johansson"
               ]
             },
             {
@@ -5092,8 +5092,8 @@
               "players": [
                 "Gustaf de la Motte",
                 "Wilmer",
-                "Eddie Williamson",
-                "Hjalmar Sörensen"
+                "Hjalmar Sörensen",
+                "Eddie Williamson"
               ]
             },
             {
@@ -5151,9 +5151,9 @@
                 "Lucas Johnson",
                 "Jakob Hägglund",
                 "Calle Milebratt",
+                "Hjalmar Sörensen",
                 "Eddie Williamson",
                 "Harald Johansson",
-                "Hjalmar Sörensen",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -5251,8 +5251,8 @@
               "pct": 12,
               "pts": 0,
               "players": [
-                "Eddie Williamson",
-                "Hjalmar Sörensen"
+                "Hjalmar Sörensen",
+                "Eddie Williamson"
               ]
             },
             {
@@ -5454,9 +5454,9 @@
             "Lucas Johnson",
             "Jakob Hägglund",
             "Calle Milebratt",
+            "Hjalmar Sörensen",
             "Eddie Williamson",
             "Harald Johansson",
-            "Hjalmar Sörensen",
             "Markus Ransved Nilsson",
             "Oscar Holmbergh"
           ],
@@ -5698,8 +5698,8 @@
                 "Fabian Boberg",
                 "Lucas Johnson",
                 "Jakob Hägglund",
-                "Harald Johansson",
-                "Hjalmar Sörensen"
+                "Hjalmar Sörensen",
+                "Harald Johansson"
               ]
             },
             {
@@ -5938,8 +5938,8 @@
               "pts": 1,
               "players": [
                 "Andreas Panagos",
-                "Eddie Williamson",
-                "Hjalmar Sörensen"
+                "Hjalmar Sörensen",
+                "Eddie Williamson"
               ]
             },
             {
@@ -6007,8 +6007,8 @@
             "Jakob Hägglund",
             "Calle Milebratt",
             "Wilmer",
-            "Eddie Williamson",
             "Hjalmar Sörensen",
+            "Eddie Williamson",
             "Markus Ransved Nilsson",
             "Oscar Holmbergh"
           ],
@@ -6097,8 +6097,8 @@
                 "Love Hardeberg",
                 "Lucas Johnson",
                 "Calle Milebratt",
-                "Eddie Williamson",
                 "Hjalmar Sörensen",
+                "Eddie Williamson",
                 "Markus Ransved Nilsson",
                 "Oscar Holmbergh"
               ]
@@ -6187,9 +6187,9 @@
               "pct": 18,
               "pts": 3,
               "players": [
+                "Hjalmar Sörensen",
                 "Eddie Williamson",
-                "Harald Johansson",
-                "Hjalmar Sörensen"
+                "Harald Johansson"
               ]
             },
             {
@@ -7298,10 +7298,10 @@
       "home": "Spain",
       "away": "Belgium",
       "kickoff": "2026-07-10 21:00",
-      "played": false,
-      "hg": null,
-      "ag": null,
-      "winner": null,
+      "played": true,
+      "hg": 2,
+      "ag": 1,
+      "winner": "Spain",
       "pens": false,
       "homePick": {
         "pct": 100,
@@ -7319,7 +7319,7 @@
         "pct": 94,
         "count": 16
       },
-      "status": "scheduled"
+      "status": "FT"
     },
     {
       "id": "M99",
@@ -7389,7 +7389,7 @@
       "round": "SF",
       "label": "Semi-final",
       "home": "France",
-      "away": null,
+      "away": "Spain",
       "kickoff": "",
       "played": false,
       "hg": null,
@@ -7400,13 +7400,19 @@
         "pct": 24,
         "count": 4
       },
-      "awayPick": null,
+      "awayPick": {
+        "pct": 82,
+        "count": 14
+      },
       "homeReach": {
         "pct": 82,
         "count": 14
       },
-      "awayReach": null,
-      "status": "pending"
+      "awayReach": {
+        "pct": 100,
+        "count": 17
+      },
+      "status": "scheduled"
     },
     {
       "id": "M102",

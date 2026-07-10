@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-10 10:31",
+    "lastRefresh": "2026-07-10 23:22",
     "maxPoints": 729,
     "participants": 17,
-    "maxAvailable": 573
+    "maxAvailable": 585
   },
   "players": [
     "Fabian Boberg",
@@ -18,9 +18,9 @@
     "Jakob Hägglund",
     "Calle Milebratt",
     "Wilmer",
+    "Hjalmar Sörensen",
     "Eddie Williamson",
     "Harald Johansson",
-    "Hjalmar Sörensen",
     "Markus Ransved Nilsson",
     "Oscar Holmbergh"
   ],
@@ -789,7 +789,7 @@
     {
       "team": "Spain",
       "group": "H",
-      "actual": "QF",
+      "actual": "SF",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -820,9 +820,9 @@
         "Jakob Hägglund",
         "Calle Milebratt",
         "Wilmer",
+        "Hjalmar Sörensen",
         "Eddie Williamson",
-        "Harald Johansson",
-        "Hjalmar Sörensen"
+        "Harald Johansson"
       ]
     },
     {
@@ -1271,8 +1271,8 @@
             "Fabian Boberg",
             "Love Hardeberg",
             "Jakob Hägglund",
-            "Eddie Williamson",
             "Hjalmar Sörensen",
+            "Eddie Williamson",
             "Markus Ransved Nilsson",
             "Oscar Holmbergh"
           ],
@@ -1400,7 +1400,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "282",
+      "current": "285",
       "status": "provisional",
       "answers": [
         {
@@ -1446,7 +1446,7 @@
             "Jakob Hägglund",
             "Harald Johansson"
           ],
-          "hit": true
+          "hit": false
         },
         {
           "answer": "280–289",
@@ -1497,8 +1497,8 @@
             "Lucas Johnson",
             "Calle Milebratt",
             "Wilmer",
-            "Harald Johansson",
-            "Hjalmar Sörensen"
+            "Hjalmar Sörensen",
+            "Harald Johansson"
           ],
           "hit": null
         },
@@ -1627,9 +1627,9 @@
             "Andreas Panagos",
             "Love Hardeberg",
             "Calle Milebratt",
+            "Hjalmar Sörensen",
             "Eddie Williamson",
-            "Harald Johansson",
-            "Hjalmar Sörensen"
+            "Harald Johansson"
           ],
           "hit": null
         },
@@ -1718,9 +1718,9 @@
             "Erik Rystedt",
             "Jonathan Segelman",
             "Lucas Johnson",
+            "Hjalmar Sörensen",
             "Eddie Williamson",
             "Harald Johansson",
-            "Hjalmar Sörensen",
             "Oscar Holmbergh"
           ],
           "hit": null
@@ -1980,9 +1980,9 @@
             "Erik Rystedt",
             "Love Hardeberg",
             "Wilmer",
+            "Hjalmar Sörensen",
             "Eddie Williamson",
-            "Harald Johansson",
-            "Hjalmar Sörensen"
+            "Harald Johansson"
           ],
           "hit": null
         }
@@ -2012,9 +2012,9 @@
             "Jakob Hägglund",
             "Calle Milebratt",
             "Wilmer",
+            "Hjalmar Sörensen",
             "Eddie Williamson",
             "Harald Johansson",
-            "Hjalmar Sörensen",
             "Oscar Holmbergh"
           ],
           "hit": true
@@ -2052,9 +2052,9 @@
             "Jakob Hägglund",
             "Calle Milebratt",
             "Wilmer",
+            "Hjalmar Sörensen",
             "Eddie Williamson",
             "Harald Johansson",
-            "Hjalmar Sörensen",
             "Markus Ransved Nilsson",
             "Oscar Holmbergh"
           ],
@@ -2225,9 +2225,9 @@
             "Lucas Johnson",
             "Jakob Hägglund",
             "Calle Milebratt",
+            "Hjalmar Sörensen",
             "Eddie Williamson",
             "Harald Johansson",
-            "Hjalmar Sörensen",
             "Markus Ransved Nilsson",
             "Oscar Holmbergh"
           ],

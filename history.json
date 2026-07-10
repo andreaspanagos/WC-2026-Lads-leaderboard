@@ -1891,71 +1891,71 @@
       "standings": {
         "Fabian Boberg": {
           "rank": 1,
-          "total": 334
+          "total": 341
         },
         "Gustaf de la Motte": {
           "rank": 2,
-          "total": 327
+          "total": 339
         },
         "Kasper Oldmark": {
           "rank": 3,
-          "total": 324
+          "total": 336
         },
         "Axel Dillner": {
           "rank": 4,
-          "total": 314
+          "total": 326
         },
         "Andreas Panagos": {
           "rank": 5,
-          "total": 312
+          "total": 324
         },
         "Erik Rystedt": {
           "rank": 5,
-          "total": 312
+          "total": 324
         },
         "Jonathan Segelman": {
           "rank": 5,
-          "total": 312
+          "total": 324
         },
         "Love Hardeberg": {
           "rank": 5,
-          "total": 312
+          "total": 324
         },
         "Lucas Johnson": {
           "rank": 5,
-          "total": 312
+          "total": 324
         },
         "Jakob Hägglund": {
           "rank": 10,
-          "total": 309
+          "total": 321
         },
         "Calle Milebratt": {
           "rank": 11,
-          "total": 305
+          "total": 317
         },
         "Harald Johansson": {
           "rank": 12,
-          "total": 302
+          "total": 314
+        },
+        "Hjalmar Sörensen": {
+          "rank": 13,
+          "total": 313
         },
         "Wilmer": {
           "rank": 13,
-          "total": 301
+          "total": 313
         },
         "Eddie Williamson": {
-          "rank": 14,
-          "total": 298
-        },
-        "Hjalmar Sörensen": {
           "rank": 15,
-          "total": 296
+          "total": 310
         },
         "Oscar Holmbergh": {
           "rank": 16,
-          "total": 287
+          "total": 299
         },
         "Markus Ransved Nilsson": {
           "rank": 17,
-          "total": 284
+          "total": 296
         }
       }
     }
