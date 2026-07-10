@@ -1,28 +1,28 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-08 09:46",
+    "lastRefresh": "2026-07-10 10:31",
     "maxPoints": 729,
     "participants": 17,
-    "maxAvailable": 561
+    "maxAvailable": 573
   },
   "players": [
     "Fabian Boberg",
     "Gustaf de la Motte",
     "Kasper Oldmark",
     "Andreas Panagos",
-    "Jakob Hägglund",
     "Axel Dillner",
-    "Wilmer",
     "Erik Rystedt",
     "Jonathan Segelman",
     "Love Hardeberg",
     "Lucas Johnson",
-    "Hjalmar Sörensen",
+    "Jakob Hägglund",
     "Calle Milebratt",
+    "Wilmer",
     "Eddie Williamson",
     "Harald Johansson",
-    "Oscar Holmbergh",
-    "Markus Ransved Nilsson"
+    "Hjalmar Sörensen",
+    "Markus Ransved Nilsson",
+    "Oscar Holmbergh"
   ],
   "groups": [
     {
@@ -38,17 +38,17 @@
             "Fabian Boberg",
             "Gustaf de la Motte",
             "Kasper Oldmark",
-            "Jakob Hägglund",
             "Axel Dillner",
-            "Wilmer",
             "Erik Rystedt",
             "Jonathan Segelman",
             "Love Hardeberg",
             "Lucas Johnson",
-            "Hjalmar Sörensen",
+            "Jakob Hägglund",
             "Calle Milebratt",
+            "Wilmer",
             "Eddie Williamson",
             "Harald Johansson",
+            "Hjalmar Sörensen",
             "Oscar Holmbergh"
           ],
           "correct": true
@@ -142,16 +142,16 @@
                 "Fabian Boberg",
                 "Gustaf de la Motte",
                 "Kasper Oldmark",
-                "Jakob Hägglund",
                 "Jonathan Segelman",
                 "Love Hardeberg",
                 "Lucas Johnson",
-                "Hjalmar Sörensen",
+                "Jakob Hägglund",
                 "Calle Milebratt",
                 "Eddie Williamson",
                 "Harald Johansson",
-                "Oscar Holmbergh",
-                "Markus Ransved Nilsson"
+                "Hjalmar Sörensen",
+                "Markus Ransved Nilsson",
+                "Oscar Holmbergh"
               ]
             },
             {
@@ -194,12 +194,12 @@
               "pts": 0,
               "players": [
                 "Fabian Boberg",
-                "Jakob Hägglund",
                 "Axel Dillner",
-                "Wilmer",
                 "Jonathan Segelman",
                 "Love Hardeberg",
                 "Lucas Johnson",
+                "Jakob Hägglund",
+                "Wilmer",
                 "Eddie Williamson"
               ]
             },
@@ -210,9 +210,9 @@
               "pts": 3,
               "players": [
                 "Erik Rystedt",
-                "Hjalmar Sörensen",
                 "Calle Milebratt",
-                "Harald Johansson"
+                "Harald Johansson",
+                "Hjalmar Sörensen"
               ]
             },
             {
@@ -305,9 +305,9 @@
               "pts": 0,
               "players": [
                 "Fabian Boberg",
+                "Lucas Johnson",
                 "Jakob Hägglund",
-                "Wilmer",
-                "Lucas Johnson"
+                "Wilmer"
               ]
             },
             {
@@ -359,11 +359,11 @@
               "players": [
                 "Gustaf de la Motte",
                 "Kasper Oldmark",
-                "Jakob Hägglund",
-                "Wilmer",
                 "Erik Rystedt",
                 "Jonathan Segelman",
+                "Jakob Hägglund",
                 "Calle Milebratt",
+                "Wilmer",
                 "Harald Johansson"
               ]
             },
@@ -376,8 +376,8 @@
                 "Andreas Panagos",
                 "Axel Dillner",
                 "Love Hardeberg",
-                "Oscar Holmbergh",
-                "Markus Ransved Nilsson"
+                "Markus Ransved Nilsson",
+                "Oscar Holmbergh"
               ]
             },
             {
@@ -506,12 +506,12 @@
               "pts": 0,
               "players": [
                 "Kasper Oldmark",
-                "Jakob Hägglund",
                 "Lucas Johnson",
-                "Hjalmar Sörensen",
+                "Jakob Hägglund",
                 "Calle Milebratt",
                 "Eddie Williamson",
                 "Harald Johansson",
+                "Hjalmar Sörensen",
                 "Oscar Holmbergh"
               ]
             },
@@ -535,8 +535,8 @@
               "players": [
                 "Fabian Boberg",
                 "Axel Dillner",
-                "Wilmer",
-                "Erik Rystedt"
+                "Erik Rystedt",
+                "Wilmer"
               ]
             },
             {
@@ -566,17 +566,17 @@
             "Fabian Boberg",
             "Gustaf de la Motte",
             "Andreas Panagos",
-            "Jakob Hägglund",
-            "Wilmer",
             "Jonathan Segelman",
             "Love Hardeberg",
             "Lucas Johnson",
-            "Hjalmar Sörensen",
+            "Jakob Hägglund",
             "Calle Milebratt",
+            "Wilmer",
             "Eddie Williamson",
             "Harald Johansson",
-            "Oscar Holmbergh",
-            "Markus Ransved Nilsson"
+            "Hjalmar Sörensen",
+            "Markus Ransved Nilsson",
+            "Oscar Holmbergh"
           ],
           "correct": true
         },
@@ -659,9 +659,9 @@
               "pct": 24,
               "pts": 3,
               "players": [
-                "Jakob Hägglund",
                 "Erik Rystedt",
                 "Love Hardeberg",
+                "Jakob Hägglund",
                 "Hjalmar Sörensen"
               ]
             },
@@ -761,8 +761,8 @@
               "pct": 29,
               "pts": 0,
               "players": [
-                "Jakob Hägglund",
                 "Lucas Johnson",
+                "Jakob Hägglund",
                 "Eddie Williamson",
                 "Harald Johansson",
                 "Markus Ransved Nilsson"
@@ -817,10 +817,10 @@
               "players": [
                 "Fabian Boberg",
                 "Jonathan Segelman",
-                "Hjalmar Sörensen",
                 "Calle Milebratt",
                 "Eddie Williamson",
                 "Harald Johansson",
+                "Hjalmar Sörensen",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -831,10 +831,10 @@
               "pts": 1,
               "players": [
                 "Kasper Oldmark",
-                "Wilmer",
                 "Erik Rystedt",
                 "Love Hardeberg",
-                "Lucas Johnson"
+                "Lucas Johnson",
+                "Wilmer"
               ]
             },
             {
@@ -844,8 +844,8 @@
               "pts": 1,
               "players": [
                 "Gustaf de la Motte",
-                "Jakob Hägglund",
-                "Axel Dillner"
+                "Axel Dillner",
+                "Jakob Hägglund"
               ]
             },
             {
@@ -887,8 +887,8 @@
               "players": [
                 "Fabian Boberg",
                 "Gustaf de la Motte",
-                "Jakob Hägglund",
                 "Lucas Johnson",
+                "Jakob Hägglund",
                 "Calle Milebratt",
                 "Harald Johansson"
               ]
@@ -901,8 +901,8 @@
               "players": [
                 "Love Hardeberg",
                 "Hjalmar Sörensen",
-                "Oscar Holmbergh",
-                "Markus Ransved Nilsson"
+                "Markus Ransved Nilsson",
+                "Oscar Holmbergh"
               ]
             },
             {
@@ -965,9 +965,9 @@
               "players": [
                 "Kasper Oldmark",
                 "Axel Dillner",
-                "Wilmer",
                 "Jonathan Segelman",
                 "Love Hardeberg",
+                "Wilmer",
                 "Oscar Holmbergh"
               ]
             },
@@ -1060,8 +1060,8 @@
               "pts": 1,
               "players": [
                 "Gustaf de la Motte",
-                "Wilmer",
-                "Love Hardeberg"
+                "Love Hardeberg",
+                "Wilmer"
               ]
             },
             {
@@ -1111,19 +1111,19 @@
             "Gustaf de la Motte",
             "Kasper Oldmark",
             "Andreas Panagos",
-            "Jakob Hägglund",
             "Axel Dillner",
-            "Wilmer",
             "Erik Rystedt",
             "Jonathan Segelman",
             "Love Hardeberg",
             "Lucas Johnson",
-            "Hjalmar Sörensen",
+            "Jakob Hägglund",
             "Calle Milebratt",
+            "Wilmer",
             "Eddie Williamson",
             "Harald Johansson",
-            "Oscar Holmbergh",
-            "Markus Ransved Nilsson"
+            "Hjalmar Sörensen",
+            "Markus Ransved Nilsson",
+            "Oscar Holmbergh"
           ],
           "correct": true
         }
@@ -1196,11 +1196,11 @@
               "pts": 0,
               "players": [
                 "Kasper Oldmark",
-                "Jakob Hägglund",
                 "Lucas Johnson",
+                "Jakob Hägglund",
                 "Harald Johansson",
-                "Oscar Holmbergh",
-                "Markus Ransved Nilsson"
+                "Markus Ransved Nilsson",
+                "Oscar Holmbergh"
               ]
             },
             {
@@ -1284,10 +1284,10 @@
                 "Fabian Boberg",
                 "Gustaf de la Motte",
                 "Kasper Oldmark",
-                "Jakob Hägglund",
                 "Erik Rystedt",
                 "Love Hardeberg",
                 "Lucas Johnson",
+                "Jakob Hägglund",
                 "Eddie Williamson",
                 "Harald Johansson"
               ]
@@ -1437,12 +1437,12 @@
               "pct": 35,
               "pts": 1,
               "players": [
-                "Jakob Hägglund",
                 "Axel Dillner",
                 "Erik Rystedt",
-                "Hjalmar Sörensen",
+                "Jakob Hägglund",
                 "Calle Milebratt",
-                "Harald Johansson"
+                "Harald Johansson",
+                "Hjalmar Sörensen"
               ]
             },
             {
@@ -1466,8 +1466,8 @@
               "players": [
                 "Gustaf de la Motte",
                 "Andreas Panagos",
-                "Oscar Holmbergh",
-                "Markus Ransved Nilsson"
+                "Markus Ransved Nilsson",
+                "Oscar Holmbergh"
               ]
             },
             {
@@ -1508,12 +1508,12 @@
               "pts": 1,
               "players": [
                 "Kasper Oldmark",
-                "Jakob Hägglund",
-                "Wilmer",
                 "Jonathan Segelman",
                 "Love Hardeberg",
                 "Lucas Johnson",
+                "Jakob Hägglund",
                 "Calle Milebratt",
+                "Wilmer",
                 "Oscar Holmbergh"
               ]
             },
@@ -1526,8 +1526,8 @@
                 "Fabian Boberg",
                 "Gustaf de la Motte",
                 "Erik Rystedt",
-                "Hjalmar Sörensen",
                 "Eddie Williamson",
+                "Hjalmar Sörensen",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -1571,10 +1571,10 @@
               "players": [
                 "Fabian Boberg",
                 "Gustaf de la Motte",
-                "Jakob Hägglund",
                 "Erik Rystedt",
                 "Jonathan Segelman",
                 "Love Hardeberg",
+                "Jakob Hägglund",
                 "Calle Milebratt",
                 "Eddie Williamson",
                 "Harald Johansson"
@@ -1589,8 +1589,8 @@
                 "Kasper Oldmark",
                 "Andreas Panagos",
                 "Axel Dillner",
-                "Wilmer",
                 "Lucas Johnson",
+                "Wilmer",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -1631,13 +1631,13 @@
             "Gustaf de la Motte",
             "Kasper Oldmark",
             "Axel Dillner",
-            "Wilmer",
             "Erik Rystedt",
             "Jonathan Segelman",
             "Lucas Johnson",
-            "Hjalmar Sörensen",
             "Calle Milebratt",
-            "Harald Johansson"
+            "Wilmer",
+            "Harald Johansson",
+            "Hjalmar Sörensen"
           ],
           "correct": true
         },
@@ -1647,8 +1647,8 @@
           "pct": 29,
           "players": [
             "Andreas Panagos",
-            "Jakob Hägglund",
             "Love Hardeberg",
+            "Jakob Hägglund",
             "Eddie Williamson",
             "Markus Ransved Nilsson"
           ],
@@ -1747,8 +1747,8 @@
               "pts": 1,
               "players": [
                 "Axel Dillner",
-                "Wilmer",
                 "Erik Rystedt",
+                "Wilmer",
                 "Hjalmar Sörensen"
               ]
             },
@@ -1758,8 +1758,8 @@
               "pct": 18,
               "pts": 1,
               "players": [
-                "Jakob Hägglund",
                 "Lucas Johnson",
+                "Jakob Hägglund",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -1805,9 +1805,9 @@
                 "Axel Dillner",
                 "Erik Rystedt",
                 "Lucas Johnson",
-                "Hjalmar Sörensen",
                 "Eddie Williamson",
                 "Harald Johansson",
+                "Hjalmar Sörensen",
                 "Oscar Holmbergh"
               ]
             },
@@ -1819,8 +1819,8 @@
               "players": [
                 "Fabian Boberg",
                 "Gustaf de la Motte",
-                "Jakob Hägglund",
-                "Love Hardeberg"
+                "Love Hardeberg",
+                "Jakob Hägglund"
               ]
             },
             {
@@ -1973,11 +1973,11 @@
               "pct": 29,
               "pts": 0,
               "players": [
-                "Jakob Hägglund",
                 "Jonathan Segelman",
                 "Love Hardeberg",
-                "Hjalmar Sörensen",
-                "Harald Johansson"
+                "Jakob Hägglund",
+                "Harald Johansson",
+                "Hjalmar Sörensen"
               ]
             },
             {
@@ -2063,8 +2063,8 @@
                 "Gustaf de la Motte",
                 "Kasper Oldmark",
                 "Erik Rystedt",
-                "Hjalmar Sörensen",
-                "Calle Milebratt"
+                "Calle Milebratt",
+                "Hjalmar Sörensen"
               ]
             },
             {
@@ -2073,10 +2073,10 @@
               "pct": 29,
               "pts": 0,
               "players": [
-                "Jakob Hägglund",
                 "Axel Dillner",
                 "Love Hardeberg",
                 "Lucas Johnson",
+                "Jakob Hägglund",
                 "Harald Johansson"
               ]
             },
@@ -2086,8 +2086,8 @@
               "pct": 12,
               "pts": 0,
               "players": [
-                "Wilmer",
-                "Jonathan Segelman"
+                "Jonathan Segelman",
+                "Wilmer"
               ]
             },
             {
@@ -2139,8 +2139,8 @@
               "players": [
                 "Gustaf de la Motte",
                 "Kasper Oldmark",
-                "Jakob Hägglund",
                 "Lucas Johnson",
+                "Jakob Hägglund",
                 "Harald Johansson"
               ]
             },
@@ -2239,19 +2239,19 @@
             "Gustaf de la Motte",
             "Kasper Oldmark",
             "Andreas Panagos",
-            "Jakob Hägglund",
             "Axel Dillner",
-            "Wilmer",
             "Erik Rystedt",
             "Jonathan Segelman",
             "Love Hardeberg",
             "Lucas Johnson",
-            "Hjalmar Sörensen",
+            "Jakob Hägglund",
             "Calle Milebratt",
+            "Wilmer",
             "Eddie Williamson",
             "Harald Johansson",
-            "Oscar Holmbergh",
-            "Markus Ransved Nilsson"
+            "Hjalmar Sörensen",
+            "Markus Ransved Nilsson",
+            "Oscar Holmbergh"
           ],
           "correct": true
         }
@@ -2326,9 +2326,9 @@
                 "Fabian Boberg",
                 "Andreas Panagos",
                 "Axel Dillner",
-                "Wilmer",
                 "Erik Rystedt",
                 "Jonathan Segelman",
+                "Wilmer",
                 "Harald Johansson"
               ]
             },
@@ -2339,8 +2339,8 @@
               "pts": 1,
               "players": [
                 "Kasper Oldmark",
-                "Jakob Hägglund",
                 "Love Hardeberg",
+                "Jakob Hägglund",
                 "Eddie Williamson"
               ]
             },
@@ -2361,8 +2361,8 @@
               "pct": 12,
               "pts": 1,
               "players": [
-                "Oscar Holmbergh",
-                "Markus Ransved Nilsson"
+                "Markus Ransved Nilsson",
+                "Oscar Holmbergh"
               ]
             },
             {
@@ -2394,10 +2394,10 @@
               "pts": 0,
               "players": [
                 "Kasper Oldmark",
-                "Jakob Hägglund",
                 "Axel Dillner",
                 "Erik Rystedt",
                 "Jonathan Segelman",
+                "Jakob Hägglund",
                 "Eddie Williamson",
                 "Oscar Holmbergh"
               ]
@@ -2420,8 +2420,8 @@
               "pct": 12,
               "pts": 0,
               "players": [
-                "Hjalmar Sörensen",
-                "Harald Johansson"
+                "Harald Johansson",
+                "Hjalmar Sörensen"
               ]
             },
             {
@@ -2494,8 +2494,8 @@
               "players": [
                 "Fabian Boberg",
                 "Kasper Oldmark",
-                "Jakob Hägglund",
                 "Lucas Johnson",
+                "Jakob Hägglund",
                 "Oscar Holmbergh"
               ]
             },
@@ -2553,12 +2553,12 @@
                 "Gustaf de la Motte",
                 "Kasper Oldmark",
                 "Axel Dillner",
-                "Wilmer",
                 "Erik Rystedt",
                 "Love Hardeberg",
-                "Hjalmar Sörensen",
                 "Calle Milebratt",
+                "Wilmer",
                 "Eddie Williamson",
+                "Hjalmar Sörensen",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -2569,9 +2569,9 @@
               "pts": 0,
               "players": [
                 "Andreas Panagos",
-                "Jakob Hägglund",
                 "Jonathan Segelman",
                 "Lucas Johnson",
+                "Jakob Hägglund",
                 "Harald Johansson",
                 "Oscar Holmbergh"
               ]
@@ -2597,10 +2597,10 @@
               "players": [
                 "Fabian Boberg",
                 "Kasper Oldmark",
-                "Jakob Hägglund",
                 "Axel Dillner",
                 "Erik Rystedt",
                 "Jonathan Segelman",
+                "Jakob Hägglund",
                 "Calle Milebratt",
                 "Harald Johansson"
               ]
@@ -2666,13 +2666,13 @@
               "pts": 0,
               "players": [
                 "Gustaf de la Motte",
-                "Jakob Hägglund",
                 "Erik Rystedt",
                 "Love Hardeberg",
                 "Lucas Johnson",
-                "Hjalmar Sörensen",
+                "Jakob Hägglund",
                 "Calle Milebratt",
-                "Harald Johansson"
+                "Harald Johansson",
+                "Hjalmar Sörensen"
               ]
             },
             {
@@ -2750,19 +2750,19 @@
             "Fabian Boberg",
             "Gustaf de la Motte",
             "Kasper Oldmark",
-            "Jakob Hägglund",
             "Axel Dillner",
-            "Wilmer",
             "Erik Rystedt",
             "Jonathan Segelman",
             "Love Hardeberg",
             "Lucas Johnson",
-            "Hjalmar Sörensen",
+            "Jakob Hägglund",
             "Calle Milebratt",
+            "Wilmer",
             "Eddie Williamson",
             "Harald Johansson",
-            "Oscar Holmbergh",
-            "Markus Ransved Nilsson"
+            "Hjalmar Sörensen",
+            "Markus Ransved Nilsson",
+            "Oscar Holmbergh"
           ],
           "correct": true
         },
@@ -2845,10 +2845,10 @@
               "players": [
                 "Gustaf de la Motte",
                 "Erik Rystedt",
-                "Hjalmar Sörensen",
                 "Calle Milebratt",
                 "Eddie Williamson",
-                "Harald Johansson"
+                "Harald Johansson",
+                "Hjalmar Sörensen"
               ]
             },
             {
@@ -2870,8 +2870,8 @@
               "pts": 1,
               "players": [
                 "Axel Dillner",
-                "Wilmer",
-                "Love Hardeberg"
+                "Love Hardeberg",
+                "Wilmer"
               ]
             },
             {
@@ -2944,8 +2944,8 @@
               "players": [
                 "Fabian Boberg",
                 "Gustaf de la Motte",
-                "Jakob Hägglund",
                 "Love Hardeberg",
+                "Jakob Hägglund",
                 "Eddie Williamson"
               ]
             },
@@ -3024,8 +3024,8 @@
               "pts": 1,
               "players": [
                 "Axel Dillner",
-                "Wilmer",
-                "Calle Milebratt"
+                "Calle Milebratt",
+                "Wilmer"
               ]
             },
             {
@@ -3087,9 +3087,9 @@
               "players": [
                 "Gustaf de la Motte",
                 "Kasper Oldmark",
-                "Jakob Hägglund",
                 "Axel Dillner",
-                "Love Hardeberg"
+                "Love Hardeberg",
+                "Jakob Hägglund"
               ]
             },
             {
@@ -3171,11 +3171,11 @@
               "pct": 35,
               "pts": 0,
               "players": [
-                "Wilmer",
                 "Jonathan Segelman",
                 "Love Hardeberg",
-                "Hjalmar Sörensen",
+                "Wilmer",
                 "Harald Johansson",
+                "Hjalmar Sörensen",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -3186,9 +3186,9 @@
               "pts": 3,
               "players": [
                 "Kasper Oldmark",
-                "Jakob Hägglund",
                 "Axel Dillner",
                 "Erik Rystedt",
+                "Jakob Hägglund",
                 "Oscar Holmbergh"
               ]
             },
@@ -3235,13 +3235,13 @@
               "players": [
                 "Gustaf de la Motte",
                 "Andreas Panagos",
-                "Jakob Hägglund",
                 "Axel Dillner",
-                "Wilmer",
                 "Erik Rystedt",
                 "Love Hardeberg",
-                "Oscar Holmbergh",
-                "Markus Ransved Nilsson"
+                "Jakob Hägglund",
+                "Wilmer",
+                "Markus Ransved Nilsson",
+                "Oscar Holmbergh"
               ]
             },
             {
@@ -3253,9 +3253,9 @@
                 "Kasper Oldmark",
                 "Jonathan Segelman",
                 "Lucas Johnson",
-                "Hjalmar Sörensen",
                 "Calle Milebratt",
-                "Harald Johansson"
+                "Harald Johansson",
+                "Hjalmar Sörensen"
               ]
             },
             {
@@ -3295,19 +3295,19 @@
             "Gustaf de la Motte",
             "Kasper Oldmark",
             "Andreas Panagos",
-            "Jakob Hägglund",
             "Axel Dillner",
-            "Wilmer",
             "Erik Rystedt",
             "Jonathan Segelman",
             "Love Hardeberg",
             "Lucas Johnson",
-            "Hjalmar Sörensen",
+            "Jakob Hägglund",
             "Calle Milebratt",
+            "Wilmer",
             "Eddie Williamson",
             "Harald Johansson",
-            "Oscar Holmbergh",
-            "Markus Ransved Nilsson"
+            "Hjalmar Sörensen",
+            "Markus Ransved Nilsson",
+            "Oscar Holmbergh"
           ],
           "correct": true
         }
@@ -3382,9 +3382,9 @@
                 "Gustaf de la Motte",
                 "Kasper Oldmark",
                 "Andreas Panagos",
-                "Jakob Hägglund",
                 "Erik Rystedt",
                 "Jonathan Segelman",
+                "Jakob Hägglund",
                 "Hjalmar Sörensen"
               ]
             },
@@ -3407,8 +3407,8 @@
               "pct": 29,
               "pts": 0,
               "players": [
-                "Wilmer",
                 "Love Hardeberg",
+                "Wilmer",
                 "Eddie Williamson",
                 "Harald Johansson",
                 "Oscar Holmbergh"
@@ -3436,11 +3436,11 @@
                 "Fabian Boberg",
                 "Gustaf de la Motte",
                 "Kasper Oldmark",
-                "Jakob Hägglund",
                 "Axel Dillner",
                 "Erik Rystedt",
                 "Jonathan Segelman",
-                "Love Hardeberg"
+                "Love Hardeberg",
+                "Jakob Hägglund"
               ]
             },
             {
@@ -3449,8 +3449,8 @@
               "pct": 18,
               "pts": 0,
               "players": [
-                "Wilmer",
                 "Calle Milebratt",
+                "Wilmer",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -3513,10 +3513,10 @@
               "players": [
                 "Gustaf de la Motte",
                 "Kasper Oldmark",
-                "Wilmer",
                 "Erik Rystedt",
                 "Lucas Johnson",
-                "Calle Milebratt"
+                "Calle Milebratt",
+                "Wilmer"
               ]
             },
             {
@@ -3528,8 +3528,8 @@
                 "Andreas Panagos",
                 "Axel Dillner",
                 "Love Hardeberg",
-                "Hjalmar Sörensen",
-                "Harald Johansson"
+                "Harald Johansson",
+                "Hjalmar Sörensen"
               ]
             },
             {
@@ -3583,8 +3583,8 @@
               "players": [
                 "Kasper Oldmark",
                 "Andreas Panagos",
-                "Jakob Hägglund",
                 "Axel Dillner",
+                "Jakob Hägglund",
                 "Harald Johansson",
                 "Markus Ransved Nilsson"
               ]
@@ -3661,9 +3661,9 @@
               "players": [
                 "Kasper Oldmark",
                 "Axel Dillner",
-                "Wilmer",
                 "Erik Rystedt",
                 "Jonathan Segelman",
+                "Wilmer",
                 "Eddie Williamson",
                 "Harald Johansson"
               ]
@@ -3697,8 +3697,8 @@
               "pct": 12,
               "pts": 0,
               "players": [
-                "Hjalmar Sörensen",
-                "Calle Milebratt"
+                "Calle Milebratt",
+                "Hjalmar Sörensen"
               ]
             },
             {
@@ -3731,10 +3731,10 @@
               "players": [
                 "Fabian Boberg",
                 "Gustaf de la Motte",
-                "Jakob Hägglund",
                 "Jonathan Segelman",
                 "Love Hardeberg",
                 "Lucas Johnson",
+                "Jakob Hägglund",
                 "Harald Johansson",
                 "Markus Ransved Nilsson"
               ]
@@ -3815,19 +3815,19 @@
             "Gustaf de la Motte",
             "Kasper Oldmark",
             "Andreas Panagos",
-            "Jakob Hägglund",
             "Axel Dillner",
-            "Wilmer",
             "Erik Rystedt",
             "Jonathan Segelman",
             "Love Hardeberg",
             "Lucas Johnson",
-            "Hjalmar Sörensen",
+            "Jakob Hägglund",
             "Calle Milebratt",
+            "Wilmer",
             "Eddie Williamson",
             "Harald Johansson",
-            "Oscar Holmbergh",
-            "Markus Ransved Nilsson"
+            "Hjalmar Sörensen",
+            "Markus Ransved Nilsson",
+            "Oscar Holmbergh"
           ],
           "correct": true
         }
@@ -3899,13 +3899,13 @@
               "pct": 41,
               "pts": 0,
               "players": [
-                "Jakob Hägglund",
-                "Wilmer",
                 "Erik Rystedt",
                 "Jonathan Segelman",
                 "Lucas Johnson",
-                "Hjalmar Sörensen",
-                "Calle Milebratt"
+                "Jakob Hägglund",
+                "Calle Milebratt",
+                "Wilmer",
+                "Hjalmar Sörensen"
               ]
             },
             {
@@ -3975,9 +3975,9 @@
                 "Axel Dillner",
                 "Erik Rystedt",
                 "Lucas Johnson",
-                "Hjalmar Sörensen",
                 "Calle Milebratt",
                 "Harald Johansson",
+                "Hjalmar Sörensen",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -4048,14 +4048,14 @@
               "pts": 1,
               "players": [
                 "Kasper Oldmark",
-                "Jakob Hägglund",
-                "Wilmer",
                 "Erik Rystedt",
                 "Jonathan Segelman",
-                "Hjalmar Sörensen",
+                "Jakob Hägglund",
                 "Calle Milebratt",
+                "Wilmer",
                 "Eddie Williamson",
-                "Harald Johansson"
+                "Harald Johansson",
+                "Hjalmar Sörensen"
               ]
             },
             {
@@ -4112,9 +4112,9 @@
                 "Fabian Boberg",
                 "Kasper Oldmark",
                 "Andreas Panagos",
-                "Jakob Hägglund",
                 "Erik Rystedt",
                 "Lucas Johnson",
+                "Jakob Hägglund",
                 "Calle Milebratt",
                 "Markus Ransved Nilsson"
               ]
@@ -4180,8 +4180,8 @@
               "pts": 0,
               "players": [
                 "Kasper Oldmark",
-                "Jakob Hägglund",
                 "Lucas Johnson",
+                "Jakob Hägglund",
                 "Calle Milebratt",
                 "Eddie Williamson",
                 "Harald Johansson",
@@ -4267,13 +4267,13 @@
               "players": [
                 "Fabian Boberg",
                 "Kasper Oldmark",
-                "Jakob Hägglund",
                 "Axel Dillner",
-                "Wilmer",
                 "Love Hardeberg",
                 "Lucas Johnson",
-                "Hjalmar Sörensen",
-                "Calle Milebratt"
+                "Jakob Hägglund",
+                "Calle Milebratt",
+                "Wilmer",
+                "Hjalmar Sörensen"
               ]
             },
             {
@@ -4349,18 +4349,18 @@
           "players": [
             "Fabian Boberg",
             "Gustaf de la Motte",
-            "Jakob Hägglund",
             "Axel Dillner",
             "Erik Rystedt",
             "Jonathan Segelman",
             "Love Hardeberg",
             "Lucas Johnson",
-            "Hjalmar Sörensen",
+            "Jakob Hägglund",
             "Calle Milebratt",
             "Eddie Williamson",
             "Harald Johansson",
-            "Oscar Holmbergh",
-            "Markus Ransved Nilsson"
+            "Hjalmar Sörensen",
+            "Markus Ransved Nilsson",
+            "Oscar Holmbergh"
           ],
           "correct": true
         },
@@ -4444,11 +4444,11 @@
               "pts": 1,
               "players": [
                 "Kasper Oldmark",
-                "Jakob Hägglund",
                 "Axel Dillner",
-                "Hjalmar Sörensen",
+                "Jakob Hägglund",
                 "Calle Milebratt",
                 "Eddie Williamson",
+                "Hjalmar Sörensen",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -4526,8 +4526,8 @@
                 "Axel Dillner",
                 "Love Hardeberg",
                 "Lucas Johnson",
-                "Hjalmar Sörensen",
-                "Harald Johansson"
+                "Harald Johansson",
+                "Hjalmar Sörensen"
               ]
             },
             {
@@ -4537,8 +4537,8 @@
               "pts": 1,
               "players": [
                 "Fabian Boberg",
-                "Jakob Hägglund",
                 "Erik Rystedt",
+                "Jakob Hägglund",
                 "Calle Milebratt",
                 "Eddie Williamson"
               ]
@@ -4592,13 +4592,13 @@
               "pts": 3,
               "players": [
                 "Fabian Boberg",
-                "Jakob Hägglund",
                 "Erik Rystedt",
                 "Jonathan Segelman",
                 "Love Hardeberg",
                 "Lucas Johnson",
-                "Hjalmar Sörensen",
+                "Jakob Hägglund",
                 "Calle Milebratt",
+                "Hjalmar Sörensen",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -4670,9 +4670,9 @@
               "pts": 0,
               "players": [
                 "Kasper Oldmark",
+                "Erik Rystedt",
                 "Jakob Hägglund",
-                "Wilmer",
-                "Erik Rystedt"
+                "Wilmer"
               ]
             },
             {
@@ -4682,8 +4682,8 @@
               "pts": 1,
               "players": [
                 "Fabian Boberg",
-                "Hjalmar Sörensen",
                 "Eddie Williamson",
+                "Hjalmar Sörensen",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -4788,8 +4788,8 @@
               "pct": 12,
               "pts": 1,
               "players": [
-                "Jakob Hägglund",
-                "Lucas Johnson"
+                "Lucas Johnson",
+                "Jakob Hägglund"
               ]
             },
             {
@@ -4851,13 +4851,13 @@
               "players": [
                 "Fabian Boberg",
                 "Gustaf de la Motte",
-                "Jakob Hägglund",
                 "Axel Dillner",
                 "Erik Rystedt",
                 "Love Hardeberg",
                 "Lucas Johnson",
-                "Hjalmar Sörensen",
-                "Calle Milebratt"
+                "Jakob Hägglund",
+                "Calle Milebratt",
+                "Hjalmar Sörensen"
               ]
             },
             {
@@ -4919,19 +4919,19 @@
             "Gustaf de la Motte",
             "Kasper Oldmark",
             "Andreas Panagos",
-            "Jakob Hägglund",
             "Axel Dillner",
-            "Wilmer",
             "Erik Rystedt",
             "Jonathan Segelman",
             "Love Hardeberg",
             "Lucas Johnson",
-            "Hjalmar Sörensen",
+            "Jakob Hägglund",
             "Calle Milebratt",
+            "Wilmer",
             "Eddie Williamson",
             "Harald Johansson",
-            "Oscar Holmbergh",
-            "Markus Ransved Nilsson"
+            "Hjalmar Sörensen",
+            "Markus Ransved Nilsson",
+            "Oscar Holmbergh"
           ],
           "correct": true
         }
@@ -5004,15 +5004,15 @@
               "pts": 1,
               "players": [
                 "Gustaf de la Motte",
-                "Jakob Hägglund",
                 "Axel Dillner",
-                "Wilmer",
                 "Jonathan Segelman",
                 "Love Hardeberg",
                 "Lucas Johnson",
-                "Hjalmar Sörensen",
+                "Jakob Hägglund",
                 "Calle Milebratt",
-                "Harald Johansson"
+                "Wilmer",
+                "Harald Johansson",
+                "Hjalmar Sörensen"
               ]
             },
             {
@@ -5076,9 +5076,9 @@
                 "Fabian Boberg",
                 "Kasper Oldmark",
                 "Andreas Panagos",
-                "Jakob Hägglund",
                 "Erik Rystedt",
                 "Lucas Johnson",
+                "Jakob Hägglund",
                 "Calle Milebratt",
                 "Harald Johansson",
                 "Markus Ransved Nilsson"
@@ -5092,8 +5092,8 @@
               "players": [
                 "Gustaf de la Motte",
                 "Wilmer",
-                "Hjalmar Sörensen",
-                "Eddie Williamson"
+                "Eddie Williamson",
+                "Hjalmar Sörensen"
               ]
             },
             {
@@ -5145,15 +5145,15 @@
               "players": [
                 "Fabian Boberg",
                 "Andreas Panagos",
-                "Jakob Hägglund",
                 "Axel Dillner",
                 "Erik Rystedt",
                 "Love Hardeberg",
                 "Lucas Johnson",
-                "Hjalmar Sörensen",
+                "Jakob Hägglund",
                 "Calle Milebratt",
                 "Eddie Williamson",
                 "Harald Johansson",
+                "Hjalmar Sörensen",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -5209,8 +5209,8 @@
                 "Jakob Hägglund",
                 "Calle Milebratt",
                 "Harald Johansson",
-                "Oscar Holmbergh",
-                "Markus Ransved Nilsson"
+                "Markus Ransved Nilsson",
+                "Oscar Holmbergh"
               ]
             },
             {
@@ -5219,9 +5219,9 @@
               "pct": 18,
               "pts": 0,
               "players": [
-                "Wilmer",
                 "Erik Rystedt",
-                "Jonathan Segelman"
+                "Jonathan Segelman",
+                "Wilmer"
               ]
             },
             {
@@ -5251,8 +5251,8 @@
               "pct": 12,
               "pts": 0,
               "players": [
-                "Hjalmar Sörensen",
-                "Eddie Williamson"
+                "Eddie Williamson",
+                "Hjalmar Sörensen"
               ]
             },
             {
@@ -5285,9 +5285,9 @@
               "players": [
                 "Fabian Boberg",
                 "Gustaf de la Motte",
-                "Jakob Hägglund",
                 "Erik Rystedt",
                 "Love Hardeberg",
+                "Jakob Hägglund",
                 "Calle Milebratt",
                 "Oscar Holmbergh"
               ]
@@ -5298,8 +5298,8 @@
               "pct": 18,
               "pts": 0,
               "players": [
-                "Wilmer",
                 "Lucas Johnson",
+                "Wilmer",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -5406,8 +5406,8 @@
               "pts": 1,
               "players": [
                 "Andreas Panagos",
-                "Jakob Hägglund",
-                "Axel Dillner"
+                "Axel Dillner",
+                "Jakob Hägglund"
               ]
             },
             {
@@ -5447,18 +5447,18 @@
             "Gustaf de la Motte",
             "Kasper Oldmark",
             "Andreas Panagos",
-            "Jakob Hägglund",
             "Axel Dillner",
             "Erik Rystedt",
             "Jonathan Segelman",
             "Love Hardeberg",
             "Lucas Johnson",
-            "Hjalmar Sörensen",
+            "Jakob Hägglund",
             "Calle Milebratt",
             "Eddie Williamson",
             "Harald Johansson",
-            "Oscar Holmbergh",
-            "Markus Ransved Nilsson"
+            "Hjalmar Sörensen",
+            "Markus Ransved Nilsson",
+            "Oscar Holmbergh"
           ],
           "correct": false
         },
@@ -5541,11 +5541,11 @@
               "players": [
                 "Gustaf de la Motte",
                 "Axel Dillner",
-                "Wilmer",
                 "Erik Rystedt",
                 "Jonathan Segelman",
                 "Love Hardeberg",
                 "Calle Milebratt",
+                "Wilmer",
                 "Harald Johansson",
                 "Markus Ransved Nilsson"
               ]
@@ -5558,8 +5558,8 @@
               "players": [
                 "Fabian Boberg",
                 "Kasper Oldmark",
-                "Jakob Hägglund",
                 "Lucas Johnson",
+                "Jakob Hägglund",
                 "Eddie Williamson",
                 "Oscar Holmbergh"
               ]
@@ -5603,12 +5603,12 @@
               "players": [
                 "Fabian Boberg",
                 "Kasper Oldmark",
-                "Jakob Hägglund",
                 "Jonathan Segelman",
                 "Love Hardeberg",
                 "Lucas Johnson",
-                "Hjalmar Sörensen",
-                "Calle Milebratt"
+                "Jakob Hägglund",
+                "Calle Milebratt",
+                "Hjalmar Sörensen"
               ]
             },
             {
@@ -5696,10 +5696,10 @@
               "pts": 1,
               "players": [
                 "Fabian Boberg",
-                "Jakob Hägglund",
                 "Lucas Johnson",
-                "Hjalmar Sörensen",
-                "Harald Johansson"
+                "Jakob Hägglund",
+                "Harald Johansson",
+                "Hjalmar Sörensen"
               ]
             },
             {
@@ -5745,8 +5745,8 @@
                 "Andreas Panagos",
                 "Jonathan Segelman",
                 "Lucas Johnson",
-                "Oscar Holmbergh",
-                "Markus Ransved Nilsson"
+                "Markus Ransved Nilsson",
+                "Oscar Holmbergh"
               ]
             },
             {
@@ -5833,8 +5833,8 @@
               "pts": 0,
               "players": [
                 "Gustaf de la Motte",
-                "Jakob Hägglund",
                 "Love Hardeberg",
+                "Jakob Hägglund",
                 "Calle Milebratt",
                 "Markus Ransved Nilsson"
               ]
@@ -5915,9 +5915,9 @@
               "players": [
                 "Gustaf de la Motte",
                 "Kasper Oldmark",
-                "Wilmer",
                 "Erik Rystedt",
-                "Love Hardeberg"
+                "Love Hardeberg",
+                "Wilmer"
               ]
             },
             {
@@ -5926,8 +5926,8 @@
               "pct": 18,
               "pts": 1,
               "players": [
-                "Jakob Hägglund",
                 "Lucas Johnson",
+                "Jakob Hägglund",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -5938,8 +5938,8 @@
               "pts": 1,
               "players": [
                 "Andreas Panagos",
-                "Hjalmar Sörensen",
-                "Eddie Williamson"
+                "Eddie Williamson",
+                "Hjalmar Sörensen"
               ]
             },
             {
@@ -5999,18 +5999,18 @@
             "Gustaf de la Motte",
             "Kasper Oldmark",
             "Andreas Panagos",
-            "Jakob Hägglund",
             "Axel Dillner",
-            "Wilmer",
             "Erik Rystedt",
             "Jonathan Segelman",
             "Love Hardeberg",
             "Lucas Johnson",
-            "Hjalmar Sörensen",
+            "Jakob Hägglund",
             "Calle Milebratt",
+            "Wilmer",
             "Eddie Williamson",
-            "Oscar Holmbergh",
-            "Markus Ransved Nilsson"
+            "Hjalmar Sörensen",
+            "Markus Ransved Nilsson",
+            "Oscar Holmbergh"
           ],
           "correct": true
         },
@@ -6096,11 +6096,11 @@
                 "Erik Rystedt",
                 "Love Hardeberg",
                 "Lucas Johnson",
-                "Hjalmar Sörensen",
                 "Calle Milebratt",
                 "Eddie Williamson",
-                "Oscar Holmbergh",
-                "Markus Ransved Nilsson"
+                "Hjalmar Sörensen",
+                "Markus Ransved Nilsson",
+                "Oscar Holmbergh"
               ]
             },
             {
@@ -6110,9 +6110,9 @@
               "pts": 1,
               "players": [
                 "Andreas Panagos",
+                "Jonathan Segelman",
                 "Jakob Hägglund",
-                "Wilmer",
-                "Jonathan Segelman"
+                "Wilmer"
               ]
             },
             {
@@ -6163,9 +6163,9 @@
               "players": [
                 "Fabian Boberg",
                 "Andreas Panagos",
-                "Jakob Hägglund",
                 "Axel Dillner",
                 "Erik Rystedt",
+                "Jakob Hägglund",
                 "Markus Ransved Nilsson"
               ]
             },
@@ -6187,9 +6187,9 @@
               "pct": 18,
               "pts": 3,
               "players": [
-                "Hjalmar Sörensen",
                 "Eddie Williamson",
-                "Harald Johansson"
+                "Harald Johansson",
+                "Hjalmar Sörensen"
               ]
             },
             {
@@ -6267,8 +6267,8 @@
               "pts": 0,
               "players": [
                 "Axel Dillner",
-                "Hjalmar Sörensen",
-                "Calle Milebratt"
+                "Calle Milebratt",
+                "Hjalmar Sörensen"
               ]
             },
             {
@@ -6319,11 +6319,11 @@
               "players": [
                 "Fabian Boberg",
                 "Kasper Oldmark",
-                "Jakob Hägglund",
                 "Axel Dillner",
                 "Erik Rystedt",
                 "Jonathan Segelman",
                 "Lucas Johnson",
+                "Jakob Hägglund",
                 "Harald Johansson",
                 "Markus Ransved Nilsson"
               ]
@@ -6381,10 +6381,10 @@
               "players": [
                 "Fabian Boberg",
                 "Kasper Oldmark",
-                "Jakob Hägglund",
                 "Erik Rystedt",
                 "Love Hardeberg",
                 "Lucas Johnson",
+                "Jakob Hägglund",
                 "Harald Johansson",
                 "Markus Ransved Nilsson"
               ]
@@ -6471,8 +6471,8 @@
               "pts": 3,
               "players": [
                 "Fabian Boberg",
-                "Wilmer",
                 "Love Hardeberg",
+                "Wilmer",
                 "Harald Johansson",
                 "Markus Ransved Nilsson"
               ]
@@ -6483,8 +6483,8 @@
               "pct": 18,
               "pts": 1,
               "players": [
-                "Jakob Hägglund",
                 "Lucas Johnson",
+                "Jakob Hägglund",
                 "Eddie Williamson"
               ]
             },
@@ -7267,10 +7267,10 @@
       "home": "France",
       "away": "Morocco",
       "kickoff": "2026-07-09 22:00",
-      "played": false,
-      "hg": null,
-      "ag": null,
-      "winner": null,
+      "played": true,
+      "hg": 2,
+      "ag": 0,
+      "winner": "France",
       "pens": false,
       "homePick": {
         "pct": 82,
@@ -7288,7 +7288,7 @@
         "pct": 12,
         "count": 2
       },
-      "status": "scheduled"
+      "status": "FT"
     },
     {
       "id": "M98",
@@ -7388,7 +7388,7 @@
       "no": 101,
       "round": "SF",
       "label": "Semi-final",
-      "home": null,
+      "home": "France",
       "away": null,
       "kickoff": "",
       "played": false,
@@ -7396,9 +7396,15 @@
       "ag": null,
       "winner": null,
       "pens": false,
-      "homePick": null,
+      "homePick": {
+        "pct": 24,
+        "count": 4
+      },
       "awayPick": null,
-      "homeReach": null,
+      "homeReach": {
+        "pct": 82,
+        "count": 14
+      },
       "awayReach": null,
       "status": "pending"
     },
@@ -7426,7 +7432,7 @@
       "no": 103,
       "round": "Bronze",
       "label": "Third-place",
-      "home": null,
+      "home": "France",
       "away": null,
       "kickoff": "",
       "played": false,
@@ -7434,9 +7440,15 @@
       "ag": null,
       "winner": null,
       "pens": false,
-      "homePick": null,
+      "homePick": {
+        "pct": 53,
+        "count": 9
+      },
       "awayPick": null,
-      "homeReach": null,
+      "homeReach": {
+        "pct": 82,
+        "count": 14
+      },
       "awayReach": null,
       "status": "pending"
     },
