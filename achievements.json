@@ -3,7 +3,7 @@
     "lastRefresh": "2026-07-10 23:22",
     "maxPoints": 729,
     "participants": 17,
-    "maxAvailable": 585
+    "maxAvailable": 600
   },
   "catalog": [
     {
@@ -157,7 +157,7 @@
     "the-comeback": 3,
     "day-winner": 6,
     "contrarian-king": 4,
-    "on-the-rise": 16,
+    "on-the-rise": 17,
     "bullseye": 11,
     "off-the-mark": 17,
     "first-blood": 17,
@@ -386,6 +386,11 @@
         "id": "the-comeback",
         "date": "2026-07-06",
         "how": "#14 → #6 in a day"
+      },
+      {
+        "id": "on-the-rise",
+        "date": "2026-07-11",
+        "how": "#7 → #5 → #4"
       },
       {
         "id": "off-the-mark",

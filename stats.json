@@ -3,7 +3,7 @@
     "lastRefresh": "2026-07-10 23:22",
     "maxPoints": 729,
     "participants": 17,
-    "maxAvailable": 585
+    "maxAvailable": 600
   },
   "players": [
     "Fabian Boberg",
@@ -1614,8 +1614,8 @@
       "id": "B06",
       "q": "Most yellow cards, team",
       "pts": 5,
-      "current": null,
-      "status": "tbd",
+      "current": "Egypt",
+      "status": "provisional",
       "answers": [
         {
           "answer": "Argentina",
@@ -1631,7 +1631,7 @@
             "Eddie Williamson",
             "Harald Johansson"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "Brazil",
@@ -1641,7 +1641,7 @@
             "Jakob Hägglund",
             "Oscar Holmbergh"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "Uruguay",
@@ -1651,7 +1651,7 @@
             "Axel Dillner",
             "Erik Rystedt"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "0",
@@ -1660,7 +1660,7 @@
           "players": [
             "Jonathan Segelman"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "Colombia",
@@ -1669,7 +1669,7 @@
           "players": [
             "Wilmer"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "France",
@@ -1678,7 +1678,7 @@
           "players": [
             "Lucas Johnson"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "Senegal",
@@ -1687,7 +1687,7 @@
           "players": [
             "Fabian Boberg"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "Turkey",
@@ -1696,7 +1696,7 @@
           "players": [
             "Markus Ransved Nilsson"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     },
@@ -1704,8 +1704,8 @@
       "id": "B07",
       "q": "Fastest goal, minute",
       "pts": 5,
-      "current": null,
-      "status": "tbd",
+      "current": "2",
+      "status": "provisional",
       "answers": [
         {
           "answer": "2",
@@ -1723,7 +1723,7 @@
             "Harald Johansson",
             "Oscar Holmbergh"
           ],
-          "hit": null
+          "hit": true
         },
         {
           "answer": "1",
@@ -1733,7 +1733,7 @@
             "Love Hardeberg",
             "Wilmer"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "3",
@@ -1743,7 +1743,7 @@
             "Axel Dillner",
             "Calle Milebratt"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "4",
@@ -1752,7 +1752,7 @@
           "players": [
             "Fabian Boberg"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "6",
@@ -1761,7 +1761,7 @@
           "players": [
             "Jakob Hägglund"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "8",
@@ -1770,7 +1770,7 @@
           "players": [
             "Markus Ransved Nilsson"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     },
@@ -2076,8 +2076,8 @@
       "id": "B13",
       "q": "Most yellow cards, single match",
       "pts": 5,
-      "current": null,
-      "status": "tbd",
+      "current": "8",
+      "status": "provisional",
       "answers": [
         {
           "answer": "8",
@@ -2091,7 +2091,7 @@
             "Hjalmar Sörensen",
             "Oscar Holmbergh"
           ],
-          "hit": null
+          "hit": true
         },
         {
           "answer": "9",
@@ -2103,7 +2103,7 @@
             "Wilmer",
             "Eddie Williamson"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "4",
@@ -2113,7 +2113,7 @@
             "Fabian Boberg",
             "Jonathan Segelman"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "7",
@@ -2123,7 +2123,7 @@
             "Jakob Hägglund",
             "Markus Ransved Nilsson"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "10",
@@ -2132,7 +2132,7 @@
           "players": [
             "Love Hardeberg"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "11",
@@ -2141,7 +2141,7 @@
           "players": [
             "Lucas Johnson"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "6",
@@ -2150,7 +2150,7 @@
           "players": [
             "Harald Johansson"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     },
