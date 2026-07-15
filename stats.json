@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-12 16:54",
+    "lastRefresh": "2026-07-15 21:29",
     "maxPoints": 729,
     "participants": 17,
-    "maxAvailable": 624
+    "maxAvailable": 639
   },
   "players": [
     "Fabian Boberg",
@@ -14,12 +14,12 @@
     "Axel Dillner",
     "Hjalmar Sörensen",
     "Erik Rystedt",
-    "Jonathan Segelman",
     "Love Hardeberg",
     "Eddie Williamson",
     "Calle Milebratt",
     "Harald Johansson",
     "Jakob Hägglund",
+    "Jonathan Segelman",
     "Wilmer",
     "Markus Ransved Nilsson",
     "Oscar Holmbergh"
@@ -789,7 +789,7 @@
     {
       "team": "Spain",
       "group": "H",
-      "actual": "SF",
+      "actual": "Final",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -1368,11 +1368,11 @@
           "players": [
             "Fabian Boberg",
             "Lucas Johnson",
-            "Jonathan Segelman",
             "Love Hardeberg",
             "Eddie Williamson",
             "Harald Johansson",
-            "Jakob Hägglund"
+            "Jakob Hägglund",
+            "Jonathan Segelman"
           ],
           "hit": false
         },
@@ -1400,7 +1400,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "292",
+      "current": "294",
       "status": "provisional",
       "answers": [
         {
@@ -1410,8 +1410,8 @@
           "players": [
             "Kasper Oldmark",
             "Lucas Johnson",
-            "Jonathan Segelman",
-            "Eddie Williamson"
+            "Eddie Williamson",
+            "Jonathan Segelman"
           ],
           "hit": false
         },
@@ -1508,8 +1508,8 @@
           "pct": 24,
           "players": [
             "Andreas Panagos",
-            "Jonathan Segelman",
             "Jakob Hägglund",
+            "Jonathan Segelman",
             "Markus Ransved Nilsson"
           ],
           "hit": null
@@ -1560,11 +1560,11 @@
             "Kasper Oldmark",
             "Lucas Johnson",
             "Erik Rystedt",
-            "Jonathan Segelman",
             "Love Hardeberg",
             "Calle Milebratt",
             "Harald Johansson",
-            "Jakob Hägglund"
+            "Jakob Hägglund",
+            "Jonathan Segelman"
           ],
           "hit": null
         },
@@ -1718,9 +1718,9 @@
             "Andreas Panagos",
             "Hjalmar Sörensen",
             "Erik Rystedt",
-            "Jonathan Segelman",
             "Eddie Williamson",
             "Harald Johansson",
+            "Jonathan Segelman",
             "Oscar Holmbergh"
           ],
           "hit": true
@@ -1803,8 +1803,8 @@
             "Fabian Boberg",
             "Lucas Johnson",
             "Erik Rystedt",
-            "Jonathan Segelman",
-            "Calle Milebratt"
+            "Calle Milebratt",
+            "Jonathan Segelman"
           ],
           "hit": false
         },
@@ -1962,9 +1962,9 @@
             "Lucas Johnson",
             "Andreas Panagos",
             "Axel Dillner",
-            "Jonathan Segelman",
             "Calle Milebratt",
             "Jakob Hägglund",
+            "Jonathan Segelman",
             "Markus Ransved Nilsson",
             "Oscar Holmbergh"
           ],
@@ -2008,12 +2008,12 @@
             "Axel Dillner",
             "Hjalmar Sörensen",
             "Erik Rystedt",
-            "Jonathan Segelman",
             "Love Hardeberg",
             "Eddie Williamson",
             "Calle Milebratt",
             "Harald Johansson",
             "Jakob Hägglund",
+            "Jonathan Segelman",
             "Wilmer",
             "Oscar Holmbergh"
           ],
@@ -2173,12 +2173,12 @@
             "Andreas Panagos",
             "Axel Dillner",
             "Erik Rystedt",
-            "Jonathan Segelman",
             "Love Hardeberg",
             "Eddie Williamson",
             "Calle Milebratt",
             "Harald Johansson",
             "Jakob Hägglund",
+            "Jonathan Segelman",
             "Wilmer",
             "Oscar Holmbergh"
           ],
@@ -2222,12 +2222,12 @@
             "Lucas Johnson",
             "Axel Dillner",
             "Hjalmar Sörensen",
-            "Jonathan Segelman",
             "Love Hardeberg",
             "Eddie Williamson",
             "Calle Milebratt",
             "Harald Johansson",
             "Jakob Hägglund",
+            "Jonathan Segelman",
             "Markus Ransved Nilsson",
             "Oscar Holmbergh"
           ],
