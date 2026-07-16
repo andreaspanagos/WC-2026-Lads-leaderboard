@@ -2177,6 +2177,79 @@
           "total": 304
         }
       }
+    },
+    {
+      "date": "2026-07-16",
+      "standings": {
+        "Gustaf de la Motte": {
+          "rank": 1,
+          "total": 388
+        },
+        "Fabian Boberg": {
+          "rank": 2,
+          "total": 380
+        },
+        "Erik Rystedt": {
+          "rank": 3,
+          "total": 376
+        },
+        "Eddie Williamson": {
+          "rank": 4,
+          "total": 374
+        },
+        "Hjalmar Sörensen": {
+          "rank": 5,
+          "total": 372
+        },
+        "Kasper Oldmark": {
+          "rank": 6,
+          "total": 368
+        },
+        "Lucas Johnson": {
+          "rank": 6,
+          "total": 368
+        },
+        "Love Hardeberg": {
+          "rank": 8,
+          "total": 366
+        },
+        "Calle Milebratt": {
+          "rank": 9,
+          "total": 364
+        },
+        "Axel Dillner": {
+          "rank": 10,
+          "total": 363
+        },
+        "Andreas Panagos": {
+          "rank": 11,
+          "total": 361
+        },
+        "Harald Johansson": {
+          "rank": 12,
+          "total": 356
+        },
+        "Jonathan Segelman": {
+          "rank": 12,
+          "total": 356
+        },
+        "Jakob Hägglund": {
+          "rank": 14,
+          "total": 336
+        },
+        "Wilmer": {
+          "rank": 15,
+          "total": 335
+        },
+        "Markus Ransved Nilsson": {
+          "rank": 16,
+          "total": 325
+        },
+        "Oscar Holmbergh": {
+          "rank": 17,
+          "total": 304
+        }
+      }
     }
   ]
 }
