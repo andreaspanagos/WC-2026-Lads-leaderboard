@@ -1,9 +1,9 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-16 16:30",
+    "lastRefresh": "2026-07-21 17:30",
     "maxPoints": 729,
     "participants": 17,
-    "maxAvailable": 654
+    "maxAvailable": 684
   },
   "players": [
     "Fabian Boberg",
@@ -15,12 +15,12 @@
     "Lucas Johnson",
     "Hjalmar Sörensen",
     "Calle Milebratt",
-    "Andreas Panagos",
     "Axel Dillner",
     "Harald Johansson",
-    "Jonathan Segelman",
     "Jakob Hägglund",
     "Wilmer",
+    "Andreas Panagos",
+    "Jonathan Segelman",
     "Markus Ransved Nilsson",
     "Oscar Holmbergh"
   ],
@@ -789,7 +789,7 @@
     {
       "team": "Spain",
       "group": "H",
-      "actual": "Final",
+      "actual": "Champion",
       "dist": {
         "Group stage": 0,
         "R32": 0,
@@ -1285,8 +1285,8 @@
           "players": [
             "Erik Rystedt",
             "Calle Milebratt",
-            "Andreas Panagos",
-            "Wilmer"
+            "Wilmer",
+            "Andreas Panagos"
           ],
           "hit": false
         },
@@ -1355,8 +1355,8 @@
             "Kasper Oldmark",
             "Hjalmar Sörensen",
             "Calle Milebratt",
-            "Andreas Panagos",
             "Wilmer",
+            "Andreas Panagos",
             "Markus Ransved Nilsson"
           ],
           "hit": false
@@ -1371,8 +1371,8 @@
             "Eddie Williamson",
             "Lucas Johnson",
             "Harald Johansson",
-            "Jonathan Segelman",
-            "Jakob Hägglund"
+            "Jakob Hägglund",
+            "Jonathan Segelman"
           ],
           "hit": false
         },
@@ -1400,7 +1400,7 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "297",
+      "current": "298",
       "status": "provisional",
       "answers": [
         {
@@ -1507,9 +1507,9 @@
           "count": 4,
           "pct": 24,
           "players": [
+            "Jakob Hägglund",
             "Andreas Panagos",
             "Jonathan Segelman",
-            "Jakob Hägglund",
             "Markus Ransved Nilsson"
           ],
           "hit": null
@@ -1563,8 +1563,8 @@
             "Lucas Johnson",
             "Calle Milebratt",
             "Harald Johansson",
-            "Jonathan Segelman",
-            "Jakob Hägglund"
+            "Jakob Hägglund",
+            "Jonathan Segelman"
           ],
           "hit": null
         },
@@ -1614,7 +1614,7 @@
       "id": "B06",
       "q": "Most yellow cards, team",
       "pts": 5,
-      "current": "Egypt",
+      "current": "Argentina",
       "status": "provisional",
       "answers": [
         {
@@ -1628,10 +1628,10 @@
             "Kasper Oldmark",
             "Hjalmar Sörensen",
             "Calle Milebratt",
-            "Andreas Panagos",
-            "Harald Johansson"
+            "Harald Johansson",
+            "Andreas Panagos"
           ],
-          "hit": false
+          "hit": true
         },
         {
           "answer": "Brazil",
@@ -1718,8 +1718,8 @@
             "Kasper Oldmark",
             "Lucas Johnson",
             "Hjalmar Sörensen",
-            "Andreas Panagos",
             "Harald Johansson",
+            "Andreas Panagos",
             "Jonathan Segelman",
             "Oscar Holmbergh"
           ],
@@ -1814,8 +1814,8 @@
           "pct": 24,
           "players": [
             "Hjalmar Sörensen",
-            "Andreas Panagos",
             "Wilmer",
+            "Andreas Panagos",
             "Markus Ransved Nilsson"
           ],
           "hit": false
@@ -1836,7 +1836,7 @@
       "id": "B09",
       "q": "Number of extra-time or penalty shoot-outs in knockout stage",
       "pts": 5,
-      "current": "8",
+      "current": "9",
       "status": "provisional",
       "answers": [
         {
@@ -1849,7 +1849,7 @@
             "Axel Dillner",
             "Markus Ransved Nilsson"
           ],
-          "hit": true
+          "hit": false
         },
         {
           "answer": "0",
@@ -1942,7 +1942,7 @@
           "players": [
             "Wilmer"
           ],
-          "hit": false
+          "hit": true
         }
       ]
     },
@@ -1961,10 +1961,10 @@
             "Kasper Oldmark",
             "Lucas Johnson",
             "Calle Milebratt",
-            "Andreas Panagos",
             "Axel Dillner",
-            "Jonathan Segelman",
             "Jakob Hägglund",
+            "Andreas Panagos",
+            "Jonathan Segelman",
             "Markus Ransved Nilsson",
             "Oscar Holmbergh"
           ],
@@ -2009,12 +2009,12 @@
             "Lucas Johnson",
             "Hjalmar Sörensen",
             "Calle Milebratt",
-            "Andreas Panagos",
             "Axel Dillner",
             "Harald Johansson",
-            "Jonathan Segelman",
             "Jakob Hägglund",
             "Wilmer",
+            "Andreas Panagos",
+            "Jonathan Segelman",
             "Oscar Holmbergh"
           ],
           "hit": true
@@ -2051,10 +2051,10 @@
             "Lucas Johnson",
             "Hjalmar Sörensen",
             "Calle Milebratt",
-            "Andreas Panagos",
             "Harald Johansson",
             "Jakob Hägglund",
             "Wilmer",
+            "Andreas Panagos",
             "Markus Ransved Nilsson",
             "Oscar Holmbergh"
           ],
@@ -2087,8 +2087,8 @@
             "Gustaf de la Motte",
             "Hjalmar Sörensen",
             "Calle Milebratt",
-            "Andreas Panagos",
             "Axel Dillner",
+            "Andreas Panagos",
             "Oscar Holmbergh"
           ],
           "hit": true
@@ -2174,12 +2174,12 @@
             "Kasper Oldmark",
             "Lucas Johnson",
             "Calle Milebratt",
-            "Andreas Panagos",
             "Axel Dillner",
             "Harald Johansson",
-            "Jonathan Segelman",
             "Jakob Hägglund",
             "Wilmer",
+            "Andreas Panagos",
+            "Jonathan Segelman",
             "Oscar Holmbergh"
           ],
           "hit": true
@@ -2226,8 +2226,8 @@
             "Calle Milebratt",
             "Axel Dillner",
             "Harald Johansson",
-            "Jonathan Segelman",
             "Jakob Hägglund",
+            "Jonathan Segelman",
             "Markus Ransved Nilsson",
             "Oscar Holmbergh"
           ],
@@ -2239,8 +2239,8 @@
           "pct": 18,
           "players": [
             "Erik Rystedt",
-            "Andreas Panagos",
-            "Wilmer"
+            "Wilmer",
+            "Andreas Panagos"
           ],
           "hit": null
         }
