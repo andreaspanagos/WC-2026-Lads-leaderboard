@@ -1,22 +1,25 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-21 17:30",
+    "lastRefresh": "2026-07-21 18:24",
     "maxPoints": 729,
     "participants": 17,
-    "maxAvailable": 684
+    "maxAvailable": 729,
+    "tournamentComplete": true,
+    "champion": "Spain",
+    "third": "England"
   },
   "players": [
-    "Fabian Boberg",
     "Gustaf de la Motte",
+    "Eddie Williamson",
     "Erik Rystedt",
     "Love Hardeberg",
-    "Eddie Williamson",
+    "Fabian Boberg",
     "Kasper Oldmark",
-    "Lucas Johnson",
     "Hjalmar Sörensen",
     "Calle Milebratt",
-    "Axel Dillner",
+    "Lucas Johnson",
     "Harald Johansson",
+    "Axel Dillner",
     "Jakob Hägglund",
     "Wilmer",
     "Andreas Panagos",
@@ -810,17 +813,17 @@
       },
       "championPct": 76,
       "championBy": [
-        "Fabian Boberg",
         "Gustaf de la Motte",
+        "Eddie Williamson",
         "Erik Rystedt",
         "Love Hardeberg",
-        "Eddie Williamson",
+        "Fabian Boberg",
         "Kasper Oldmark",
-        "Lucas Johnson",
         "Hjalmar Sörensen",
         "Calle Milebratt",
-        "Axel Dillner",
+        "Lucas Johnson",
         "Harald Johansson",
+        "Axel Dillner",
         "Jakob Hägglund",
         "Wilmer"
       ]
@@ -1268,9 +1271,9 @@
           "count": 7,
           "pct": 41,
           "players": [
-            "Fabian Boberg",
-            "Love Hardeberg",
             "Eddie Williamson",
+            "Love Hardeberg",
+            "Fabian Boberg",
             "Hjalmar Sörensen",
             "Jakob Hägglund",
             "Markus Ransved Nilsson",
@@ -1366,9 +1369,9 @@
           "count": 7,
           "pct": 41,
           "players": [
-            "Fabian Boberg",
-            "Love Hardeberg",
             "Eddie Williamson",
+            "Love Hardeberg",
+            "Fabian Boberg",
             "Lucas Johnson",
             "Harald Johansson",
             "Jakob Hägglund",
@@ -1400,8 +1403,8 @@
       "id": "B03",
       "q": "Total number of goals (all tournament)",
       "pts": 5,
-      "current": "298",
-      "status": "provisional",
+      "current": "308",
+      "status": "decided",
       "answers": [
         {
           "answer": "240–249",
@@ -1482,25 +1485,25 @@
       "id": "B04",
       "q": "Golden Ball (Player of the tournament)",
       "pts": 10,
-      "current": null,
-      "status": "tbd",
+      "current": "Rodri",
+      "status": "decided",
       "answers": [
         {
           "answer": "Lamine Yamal",
           "count": 9,
           "pct": 53,
           "players": [
-            "Fabian Boberg",
             "Erik Rystedt",
+            "Fabian Boberg",
             "Kasper Oldmark",
-            "Lucas Johnson",
             "Hjalmar Sörensen",
             "Calle Milebratt",
-            "Axel Dillner",
+            "Lucas Johnson",
             "Harald Johansson",
+            "Axel Dillner",
             "Wilmer"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "Kylian Mbappé",
@@ -1512,7 +1515,7 @@
             "Jonathan Segelman",
             "Markus Ransved Nilsson"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "Harry Kane",
@@ -1522,7 +1525,7 @@
             "Gustaf de la Motte",
             "Eddie Williamson"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "Michael Olise",
@@ -1531,7 +1534,7 @@
           "players": [
             "Oscar Holmbergh"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "Pedri",
@@ -1540,7 +1543,7 @@
           "players": [
             "Love Hardeberg"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     },
@@ -1548,8 +1551,8 @@
       "id": "B05",
       "q": "Golden Boot (Most goals, player)",
       "pts": 10,
-      "current": null,
-      "status": "tbd",
+      "current": "Kylian Mbappé",
+      "status": "decided",
       "answers": [
         {
           "answer": "Kylian Mbappé",
@@ -1560,25 +1563,25 @@
             "Erik Rystedt",
             "Love Hardeberg",
             "Kasper Oldmark",
-            "Lucas Johnson",
             "Calle Milebratt",
+            "Lucas Johnson",
             "Harald Johansson",
             "Jakob Hägglund",
             "Jonathan Segelman"
           ],
-          "hit": null
+          "hit": true
         },
         {
           "answer": "Harry Kane",
           "count": 4,
           "pct": 24,
           "players": [
-            "Fabian Boberg",
             "Eddie Williamson",
+            "Fabian Boberg",
             "Axel Dillner",
             "Oscar Holmbergh"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "Erling Haaland",
@@ -1588,7 +1591,7 @@
             "Andreas Panagos",
             "Markus Ransved Nilsson"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "Alexander Sörloth",
@@ -1597,7 +1600,7 @@
           "players": [
             "Wilmer"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "Mikel Oyarzabal",
@@ -1606,7 +1609,7 @@
           "players": [
             "Hjalmar Sörensen"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     },
@@ -1615,7 +1618,7 @@
       "q": "Most yellow cards, team",
       "pts": 5,
       "current": "Argentina",
-      "status": "provisional",
+      "status": "decided",
       "answers": [
         {
           "answer": "Argentina",
@@ -1623,8 +1626,8 @@
           "pct": 47,
           "players": [
             "Gustaf de la Motte",
-            "Love Hardeberg",
             "Eddie Williamson",
+            "Love Hardeberg",
             "Kasper Oldmark",
             "Hjalmar Sörensen",
             "Calle Milebratt",
@@ -1705,7 +1708,7 @@
       "q": "Fastest goal, minute",
       "pts": 5,
       "current": "2",
-      "status": "provisional",
+      "status": "decided",
       "answers": [
         {
           "answer": "2",
@@ -1713,11 +1716,11 @@
           "pct": 59,
           "players": [
             "Gustaf de la Motte",
-            "Erik Rystedt",
             "Eddie Williamson",
+            "Erik Rystedt",
             "Kasper Oldmark",
-            "Lucas Johnson",
             "Hjalmar Sörensen",
+            "Lucas Johnson",
             "Harald Johansson",
             "Andreas Panagos",
             "Jonathan Segelman",
@@ -1778,8 +1781,8 @@
       "id": "B08",
       "q": "Highest scoring single match (goals)",
       "pts": 5,
-      "current": "8",
-      "status": "provisional",
+      "current": "10",
+      "status": "decided",
       "answers": [
         {
           "answer": "5",
@@ -1787,8 +1790,8 @@
           "pct": 35,
           "players": [
             "Gustaf de la Motte",
-            "Love Hardeberg",
             "Eddie Williamson",
+            "Love Hardeberg",
             "Kasper Oldmark",
             "Harald Johansson",
             "Jakob Hägglund"
@@ -1800,10 +1803,10 @@
           "count": 5,
           "pct": 29,
           "players": [
-            "Fabian Boberg",
             "Erik Rystedt",
-            "Lucas Johnson",
+            "Fabian Boberg",
             "Calle Milebratt",
+            "Lucas Johnson",
             "Jonathan Segelman"
           ],
           "hit": false
@@ -1837,15 +1840,15 @@
       "q": "Number of extra-time or penalty shoot-outs in knockout stage",
       "pts": 5,
       "current": "9",
-      "status": "provisional",
+      "status": "decided",
       "answers": [
         {
           "answer": "8",
           "count": 4,
           "pct": 24,
           "players": [
-            "Erik Rystedt",
             "Eddie Williamson",
+            "Erik Rystedt",
             "Axel Dillner",
             "Markus Ransved Nilsson"
           ],
@@ -1856,8 +1859,8 @@
           "count": 2,
           "pct": 12,
           "players": [
-            "Lucas Johnson",
-            "Hjalmar Sörensen"
+            "Hjalmar Sörensen",
+            "Lucas Johnson"
           ],
           "hit": false
         },
@@ -1950,8 +1953,8 @@
       "id": "B10",
       "q": "Final goes to extra time? (Yes/No)",
       "pts": 5,
-      "current": null,
-      "status": "tbd",
+      "current": "Yes",
+      "status": "decided",
       "answers": [
         {
           "answer": "No",
@@ -1959,8 +1962,8 @@
           "pct": 53,
           "players": [
             "Kasper Oldmark",
-            "Lucas Johnson",
             "Calle Milebratt",
+            "Lucas Johnson",
             "Axel Dillner",
             "Jakob Hägglund",
             "Andreas Panagos",
@@ -1968,23 +1971,23 @@
             "Markus Ransved Nilsson",
             "Oscar Holmbergh"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "Yes",
           "count": 8,
           "pct": 47,
           "players": [
-            "Fabian Boberg",
             "Gustaf de la Motte",
+            "Eddie Williamson",
             "Erik Rystedt",
             "Love Hardeberg",
-            "Eddie Williamson",
+            "Fabian Boberg",
             "Hjalmar Sörensen",
             "Harald Johansson",
             "Wilmer"
           ],
-          "hit": null
+          "hit": true
         }
       ]
     },
@@ -2000,17 +2003,17 @@
           "count": 16,
           "pct": 94,
           "players": [
-            "Fabian Boberg",
             "Gustaf de la Motte",
+            "Eddie Williamson",
             "Erik Rystedt",
             "Love Hardeberg",
-            "Eddie Williamson",
+            "Fabian Boberg",
             "Kasper Oldmark",
-            "Lucas Johnson",
             "Hjalmar Sörensen",
             "Calle Milebratt",
-            "Axel Dillner",
+            "Lucas Johnson",
             "Harald Johansson",
+            "Axel Dillner",
             "Jakob Hägglund",
             "Wilmer",
             "Andreas Panagos",
@@ -2042,15 +2045,15 @@
           "count": 15,
           "pct": 88,
           "players": [
-            "Fabian Boberg",
             "Gustaf de la Motte",
+            "Eddie Williamson",
             "Erik Rystedt",
             "Love Hardeberg",
-            "Eddie Williamson",
+            "Fabian Boberg",
             "Kasper Oldmark",
-            "Lucas Johnson",
             "Hjalmar Sörensen",
             "Calle Milebratt",
+            "Lucas Johnson",
             "Harald Johansson",
             "Jakob Hägglund",
             "Wilmer",
@@ -2077,7 +2080,7 @@
       "q": "Most yellow cards, single match",
       "pts": 5,
       "current": "8",
-      "status": "provisional",
+      "status": "decided",
       "answers": [
         {
           "answer": "8",
@@ -2098,8 +2101,8 @@
           "count": 4,
           "pct": 24,
           "players": [
-            "Erik Rystedt",
             "Eddie Williamson",
+            "Erik Rystedt",
             "Kasper Oldmark",
             "Wilmer"
           ],
@@ -2166,16 +2169,16 @@
           "count": 15,
           "pct": 88,
           "players": [
-            "Fabian Boberg",
             "Gustaf de la Motte",
+            "Eddie Williamson",
             "Erik Rystedt",
             "Love Hardeberg",
-            "Eddie Williamson",
+            "Fabian Boberg",
             "Kasper Oldmark",
-            "Lucas Johnson",
             "Calle Milebratt",
-            "Axel Dillner",
+            "Lucas Johnson",
             "Harald Johansson",
+            "Axel Dillner",
             "Jakob Hägglund",
             "Wilmer",
             "Andreas Panagos",
@@ -2208,30 +2211,30 @@
       "id": "B16",
       "q": "Sweden's top scorer (manual)",
       "pts": 5,
-      "current": null,
-      "status": "tbd",
+      "current": "Anthony Elanga, Yasin Ayari",
+      "status": "decided",
       "answers": [
         {
           "answer": "Viktor Gyökeres",
           "count": 14,
           "pct": 82,
           "players": [
-            "Fabian Boberg",
             "Gustaf de la Motte",
-            "Love Hardeberg",
             "Eddie Williamson",
+            "Love Hardeberg",
+            "Fabian Boberg",
             "Kasper Oldmark",
-            "Lucas Johnson",
             "Hjalmar Sörensen",
             "Calle Milebratt",
-            "Axel Dillner",
+            "Lucas Johnson",
             "Harald Johansson",
+            "Axel Dillner",
             "Jakob Hägglund",
             "Jonathan Segelman",
             "Markus Ransved Nilsson",
             "Oscar Holmbergh"
           ],
-          "hit": null
+          "hit": false
         },
         {
           "answer": "Alexander Isak",
@@ -2242,7 +2245,7 @@
             "Wilmer",
             "Andreas Panagos"
           ],
-          "hit": null
+          "hit": false
         }
       ]
     }

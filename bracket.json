@@ -1,9 +1,12 @@
 {
   "meta": {
-    "lastRefresh": "2026-07-21 17:30",
+    "lastRefresh": "2026-07-21 18:24",
     "maxPoints": 729,
     "participants": 17,
-    "maxAvailable": 684,
+    "maxAvailable": 729,
+    "tournamentComplete": true,
+    "champion": "Spain",
+    "third": "England",
     "drawn": true
   },
   "matches": [
@@ -990,11 +993,11 @@
         "M102"
       ],
       "home": "France",
-      "away": "Argentina",
-      "kickoff": "",
-      "hg": null,
-      "ag": null,
-      "winner": null,
+      "away": "England",
+      "kickoff": "2026-07-18 23:00",
+      "hg": 4,
+      "ag": 6,
+      "winner": "England",
       "pens": false,
       "homePick": {
         "pct": 53,
@@ -1009,8 +1012,8 @@
         "count": 14
       },
       "awayReach": {
-        "pct": 88,
-        "count": 15
+        "pct": 35,
+        "count": 6
       }
     },
     {
